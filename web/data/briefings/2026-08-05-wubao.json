@@ -2,7 +2,7 @@
  "id": "2026-08-05-wubao",
  "title": "线口监测午报 · 2026年08月05日(周三)",
  "shift": "午报",
- "date": "2026-08-05 17:37",
+ "date": "2026-08-05 17:55",
  "docx": "../briefings/线口监测午报-2026-08-05.docx",
  "sections": {
   "AI/大模型": [
@@ -12,10 +12,10 @@
     "url": "https://www.ithome.com/0/986/042.htm",
     "source": "IT之家",
     "time": "08-05 16:19",
-    "summary": "由国内顶尖AI研究机构与安全团队达酷诺威（DARKNAVY）联合研发的DoGNAVY模型，在国际权威AI安全基准CyberGym中以90.8%通过率位列全球第三、开源项目第一，凸显我国在AI鲁棒性与防御性技术上的突破。",
+    "summary": "由国内顶尖AI研究机构与安全团队达酷诺威（DARKNAVY）联合研发的DoGNAVY模型，在国际权威AI安全基准CyberGym中以90.8%通过率位列全球第三、开源项目第一，凸显中国在AI可信治理领域的突破。",
     "grade": "A",
     "local": false,
-    "angle": "专访参与团队核心成员（含广州实验室），挖掘其在粤港澳大湾区AI安全联合实验室中的技术转化路径"
+    "angle": "可联系广州人工智能公共算力中心、琶洲实验室及中山大学AI安全团队，挖掘广东本地参与方或技术贡献，强化大湾区AI安全策源地形象"
    },
    {
     "beat": "AI/大模型",
@@ -23,10 +23,10 @@
     "url": "https://www.ithome.com/0/985/952.htm",
     "source": "IT之家",
     "time": "08-05 15:20",
-    "summary": "国内大模型头部企业月之暗面Kimi正式启动Pre-IPO轮融资，估值达500亿美元，创国产AI公司新高；其广州研发中心已落地琶洲人工智能岛，承担多模态推理与粤语语音优化专项任务。",
-    "grade": "A",
-    "local": true,
-    "angle": "追踪琶洲AI岛政策红利，采访广州高新区对Kimi本地化部署的算力补贴与数据跨境试点支持"
+    "summary": "国内头部大模型公司月之暗面Kimi正式启动Pre-IPO轮融资，估值达500亿美元，创国产大模型融资新高；其多模态推理能力与长文本处理优势正加速商业化落地。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
    },
    {
     "beat": "AI/大模型",
@@ -34,20 +34,9 @@
     "url": "https://www.ithome.com/0/986/008.htm",
     "source": "IT之家",
     "time": "08-05 15:51",
-    "summary": "阿里云发布One Key MCP统一接口服务，打通Qoder、Codex等主流MCP平台，降低企业AI开发门槛；该服务已在广州白云机场智慧航显系统、深圳前海政务大模型中完成集成验证。",
+    "summary": "阿里云推出One Key MCP统一接入服务，开发者可通过百炼API Key一键调用Qoder、Codex、Claude Code等主流MCP（Model-as-a-Code Platform）工具，降低AI工程化门槛。",
     "grade": "B",
-    "local": true,
-    "angle": "以白云机场为样本，解析MCP服务如何赋能大湾区智慧交通场景的实时决策响应"
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "世界银行：新兴经济体应尽快拥抱 AI，但没必要与富裕国家比拼数据中心、大模型",
-    "url": "https://www.ithome.com/0/985/972.htm",
-    "source": "IT之家",
-    "time": "08-05 15:33",
-    "summary": "世界银行报告指出，发展中经济体应聚焦AI政务治理与中小企业应用，避免盲目建设超大规模数据中心；广州南沙已建成华南首个轻量化AI政务模型集群，服务200+基层审批场景。",
-    "grade": "C",
-    "local": true,
+    "local": false,
     "angle": ""
    },
    {
@@ -56,20 +45,9 @@
     "url": "https://www.ithome.com/0/986/049.htm",
     "source": "IT之家",
     "time": "08-05 16:26",
-    "summary": "华为宣布HarmonyOS 7花粉Beta版将于8月中旬开放，重点强化AI Agent本地化调度能力；广州人工智能公共算力中心已接入鸿蒙生态测试环境，支持粤语语音指令端侧推理。",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "报告称 2026 普利策奖 5 个获奖和 3 个入围项目披露使用 AI 创新高",
-    "url": "https://www.ithome.com/0/985/953.htm",
-    "source": "IT之家",
-    "time": "08-05 15:22",
-    "summary": "2026年普利策奖创纪录有5个获奖项目使用AI辅助新闻生产，凸显生成式AI在事实核查与数据可视化中的工具价值；南方日报已组建AI辅助编辑部，试运行广府方言舆情分析模块。",
-    "grade": "C",
-    "local": true,
+    "summary": "华为宣布HarmonyOS 7花粉Beta版将于8月中旬启动招募，覆盖MateBook全系主力机型，重点升级AI助手‘小艺’的跨设备协同与文档智能处理能力。",
+    "grade": "B",
+    "local": false,
     "angle": ""
    },
    {
@@ -78,86 +56,42 @@
     "url": "https://www.ithome.com/0/986/096.htm",
     "source": "IT之家",
     "time": "08-05 17:00",
-    "summary": "余承东警示DRAM/NAND价格持续上涨将传导至终端，影响手机、PC、汽车电子等全线产品；广州TCL华星光电正加速导入LPDDR5X国产替代方案，缓解供应链压力。",
-    "grade": "C",
-    "local": true,
+    "summary": "余承东在新品发布会坦言DRAM/NAND价格持续上涨，已传导至终端，预计除手机外，PC、平板、IoT设备等均将面临成本压力与终端涨价趋势。",
+    "grade": "B",
+    "local": false,
     "angle": ""
    },
    {
     "beat": "AI/大模型",
-    "title": "微软宣布在华盛顿州雷德蒙德总部裁员 605 人，9 月 4 日生效",
-    "url": "https://www.ithome.com/0/985/975.htm",
+    "title": "华为全联接大会 2026 官宣 9 月 17 至 19 日举行，主题“智启新未来”",
+    "url": "https://www.ithome.com/0/986/118.htm",
     "source": "IT之家",
-    "time": "08-05 15:34",
-    "summary": "微软总部裁员605人，聚焦AI业务重组；其广州AI创新中心未受影响，反而扩大招聘规模，重点吸纳大模型推理优化与中文多模态人才。",
-    "grade": "C",
-    "local": true,
+    "time": "08-05 17:20",
+    "summary": "华为全联接大会2026定档9月17-19日上海，主题‘智启新未来’，将系统阐述全面智能化战略，聚焦AI for Industry、昇腾生态及盘古大模型行业落地进展。",
+    "grade": "B",
+    "local": false,
     "angle": ""
    },
    {
     "beat": "AI/大模型",
-    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-    "url": "https://mistral.ai/news/shieldstral/",
-    "source": "Hacker News",
-    "time": "08-05 00:36",
-    "summary": "Mistral发布开源多模态内容审核模型Shieldstral，专注图像/视频有害内容识别；中山大学人机交互实验室正将其适配至粤语短视频平台审核系统。",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-    "url": "https://arxiv.org/abs/2602.16763",
-    "source": "Hacker News",
-    "time": "08-05 00:10",
-    "summary": "论文系统研究AI评测基准饱和现象，指出当前大模型排名存在‘刷榜过拟合’风险；华南理工大学AI评测中心正牵头制定面向粤语理解能力的垂直领域评估标准。",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Eight Myths on Software Engineering and GenAI",
-    "url": "https://queue.acm.org/detail.cfm?id=3807963",
-    "source": "Hacker News",
-    "time": "08-05 07:50",
-    "summary": "ACM期刊文章破除生成式AI工程化八大迷思，强调人机协同开发范式；广州网易伏羲实验室已将相关理念应用于游戏AI NPC行为树优化实践。",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "source": "Hacker News",
-    "time": "08-05 06:01",
-    "summary": "国际刑警组织报告显示AI驱动网络犯罪在非洲占比超50%，凸显AI安全治理紧迫性；广州数字政府运营中心正联合腾讯安全共建跨境AI诈骗预警模型。",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-    "url": "https://deepgrove.ai/maple-preview",
-    "source": "Hacker News",
-    "time": "08-05 03:44",
-    "summary": "Maple-Preview实现20B稀疏模型在iPhone端120token/s推理，推动端侧AI普及；OPPO广州AI研究所正基于该架构开发粤语语音助手轻量化版本。",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "科学家揭示大脑信息机制：睡眠后切换为“收听模式”，听不到噪音却仍能被闹钟叫醒",
-    "url": "https://www.ithome.com/0/986/006.htm",
+    "title": "报告称 2026 普利策奖 5 个获奖和 3 个入围项目披露使用 AI 创新高",
+    "url": "https://www.ithome.com/0/985/953.htm",
     "source": "IT之家",
-    "time": "08-05 15:50",
-    "summary": "研究发现大脑睡眠时具备选择性唤醒机制，为AI语音唤醒算法提供生物启发；广州中科院深圳先进院脑所与华为2012实验室正联合攻关低功耗语音唤醒芯片。",
+    "time": "08-05 15:22",
+    "summary": "2026年普利策奖共5个获奖项目及3个入围项目公开披露使用AI辅助创作，涵盖调查报道、数据可视化与多媒体叙事，标志AI已深度融入专业新闻生产流程。",
     "grade": "C",
-    "local": true,
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "世界银行：新兴经济体应尽快拥抱 AI，但没必要与富裕国家比拼数据中心、大模型",
+    "url": "https://www.ithome.com/0/985/972.htm",
+    "source": "IT之家",
+    "time": "08-05 15:33",
+    "summary": "世界银行最新报告呼吁新兴经济体务实应用AI，优先改造政务、农业与中小企业场景；强调‘小而美’模型与本地化适配比盲目建设超大规模数据中心更具可持续性。",
+    "grade": "C",
+    "local": false,
     "angle": ""
    }
   ],
@@ -168,45 +102,67 @@
     "url": "https://www.ithome.com/0/985/985.htm",
     "source": "IT之家",
     "time": "08-05 15:40",
-    "summary": "小米开源具身智能基座模型Xiaomi-Robotics-1，基于超10万小时UMI数据训练，支持跨本体迁移；其技术底座已应用于广州黄埔区AI+制造业示范工厂的柔性装配机器人集群。",
+    "summary": "小米正式开源具身智能基座模型Xiaomi-Robotics-1，基于超10万小时UMI数据预训练，支持跨本体迁移学习，为家庭服务机器人提供低成本、高泛化能力的底层引擎。",
     "grade": "B",
-    "local": true,
-    "angle": "探访黄埔AI产业园，呈现国产具身智能从实验室到产线的‘最后一公里’落地挑战"
+    "local": false,
+    "angle": ""
    },
    {
     "beat": "机器人/AI硬件",
     "title": "AI眼镜主动“瘦身”求突围",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a73048343fa49759f458188d507fd7e&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-05%2fdoc-inimezkx4914694.shtml",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a73088609c44b498d43fec644beced8&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-05%2fdoc-inimezkx4914694.shtml&c=785549132892572571&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-05 06:38",
-    "summary": "2026年以来国内AI眼镜密集推出14.9克级轻量化产品，行业转向场景深耕而非参数堆砌；广州视源股份、OPPO东莞研发中心正联合攻关AR镜片光学模组国产替代，推动成本下探30%。",
+    "summary": "2026年以来，国内AI眼镜密集推出14.9克至40克轻量化产品，行业从参数堆砌转向场景深耕与佩戴体验优化，折射出消费级AI硬件进入理性迭代期。",
     "grade": "B",
-    "local": true,
-    "angle": "对比深圳、东莞、广州三地AI眼镜产业链分工，揭示大湾区‘光学—算法—内容’协同创新生态"
+    "local": false,
+    "angle": ""
    },
    {
     "beat": "机器人/AI硬件",
-    "title": "华为首款新国标 3C 移动电源发布：12000mAh 容量、支持离线查找，399 元",
-    "url": "https://www.ithome.com/0/986/119.htm",
+    "title": "华为发布新款鸿蒙折叠电脑，支持手写笔，售价 24999 元起",
+    "url": "https://www.ithome.com/0/986/043.htm",
     "source": "IT之家",
-    "time": "08-05 17:20",
-    "summary": "华为发布首款符合新国标GB/T 35580-2026的3C移动电源，支持鸿蒙设备离线查找功能；其电芯由惠州德赛电池供应，体现大湾区新能源产业链协同优势。",
+    "time": "08-05 16:20",
+    "summary": "华为MateBook Fold非凡大师发布，全球首款18英寸手写折叠屏电脑，首发引入手写交互生态，定位专业创作与移动办公场景，售价24999元起。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "AI智能眼镜驶入增长快车道，谁将领跑下一代个人交互终端？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a73088609c44b498d43fec644beced8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1058506504_664354&c=13732745705253523108&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-04 11:17",
+    "summary": "NIQ GfK数据显示，2025年国内AI智能眼镜零售量达28.9万台，同比激增786%；产业链供给端爆发，华为、雷鸟、Rokid等厂商加速布局，终端形态向轻便化、专业化演进。",
     "grade": "C",
-    "local": true,
+    "local": false,
     "angle": ""
    }
   ],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
+    "title": "比亚迪何志奇谈我国 L3/L4 自动驾驶系统安全强制性国标发布，称对认真做技术的企业也是保护",
+    "url": "https://www.ithome.com/0/986/160.htm",
+    "source": "IT之家",
+    "time": "08-05 17:50",
+    "summary": "我国首部L3/L4级智能网联汽车自动驾驶系统安全强制性国标（GB 44721—2026）拟于2027年7月1日起实施。比亚迪高管指出该标准将加速技术落地，同时为合规企业构筑公平竞争环境，避免“劣币驱逐良币”。",
+    "grade": "A",
+    "local": false,
+    "angle": "可联动广州南沙智能网联汽车测试区、广汽L3量产进展及深圳/东莞车企响应，突出广东作为全国智能驾驶政策与产业双高地的引领作用"
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
     "title": "鸿蒙智行尊界 V800 官宣搭载面向 L3 自动驾驶的原生整车架构",
     "url": "https://www.ithome.com/0/986/027.htm",
     "source": "IT之家",
     "time": "08-05 16:02",
-    "summary": "华为尊界V800成为国内首批量产落地L3级自动驾驶架构的MPV，采用全栈自研智驾系统，支持城市NOA与高速NOA无缝切换，并通过工信部准入测试。该车已获深圳、广州等多地L3高阶智驾功能上路许可。",
+    "summary": "华为鸿蒙智行尊界V800成为行业首款基于L3级自动驾驶原生整车架构打造的MPV，全栈自研智驾系统深度耦合底盘、动力与感知硬件，支持城市NOA和高速领航功能。",
     "grade": "A",
-    "local": true,
-    "angle": "聚焦广州作为全国首批L3商用试点城市，采访广汽研究院及小鹏智驾中心专家，对比分析V800与本地车企智驾方案差异"
+    "local": false,
+    "angle": "聚焦‘架构定义智驾’新范式，对比小鹏XNGP、理想AD Max等方案，延伸采访广汽研究院专家解读‘原生架构’对车路云一体化的支撑价值"
    },
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -214,20 +170,9 @@
     "url": "https://www.ithome.com/0/986/024.htm",
     "source": "IT之家",
     "time": "08-05 15:59",
-    "summary": "享界G9为首款基于L3级架构设计的豪华硬派SUV，搭载华为全地形途灵平台，支持越野场景下的智能脱困与自动泊车；其预售启动恰逢广东加速建设低空经济试验区，与大湾区智能网联汽车产业集群形成协同。",
+    "summary": "享界G9作为首款L3级架构设计的豪华硬派SUV，首发搭载华为全地形途灵平台，集成越野智驾、三电冗余及离线高精地图能力，预售43.98万元起，直指高端越野市场空白。",
     "grade": "B",
-    "local": true,
-    "angle": "联动广州南沙智能网联汽车测试区，实测G9在湿热多雨岭南路况下的全地形响应能力"
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "比亚迪绍兴赛车场 & 自然越野体验中心开业，设 9.5 公里高级越野道、1.6 公里专业赛道",
-    "url": "https://www.ithome.com/0/986/117.htm",
-    "source": "IT之家",
-    "time": "08-05 17:18",
-    "summary": "比亚迪首个赛车场+越野双综合体在绍兴启用，其技术验证体系将反哺广州南沙智能网联汽车测试基地的复杂路况算法迭代，尤其强化湿滑路面与隧道弱信号场景应对能力。",
-    "grade": "C",
-    "local": true,
+    "local": false,
     "angle": ""
    },
    {
@@ -236,58 +181,47 @@
     "url": "https://www.ithome.com/0/986/102.htm",
     "source": "IT之家",
     "time": "08-05 17:04",
-    "summary": "商务部强化无人机两用物项对美出口管制，凸显低空经济战略安全属性；广州亿航智能、极飞科技等企业已启动关键部件国产化替代清单编制工作。",
-    "grade": "C",
-    "local": true,
+    "summary": "商务部依据《出口管制法》加强无人机相关两用物项对美出口管制，并对部分进口办公设备发起国家安全调查，凸显低空经济战略物资管控升级与供应链安全考量。",
+    "grade": "B",
+    "local": false,
     "angle": ""
    }
   ],
   "电商/直播/即时零售": [
    {
     "beat": "电商/直播/即时零售",
-    "title": "7月微信小游戏畅销榜Top 100：《我的花园世界》登顶、三七6款入榜领跑",
-    "url": "http://www.gamelook.com.cn/2026/08/599222/",
-    "source": "GameLook",
-    "time": "08-05 11:00",
-    "summary": "微信小游戏7月榜单洗牌剧烈，《我的花园世界》登顶，三七互娱6款产品入榜领跑；广州本土发行商创梦天地旗下《羊了个羊2》进入Top20，依托广府文化IP实现区域用户渗透率提升47%。",
-    "grade": "B",
-    "local": true,
-    "angle": "分析广府方言语音交互、骑楼建筑美术风格等本土化设计对小游戏下沉市场的撬动作用"
+    "title": "7058 → 4599 元：容声大冰象 603L 法式平嵌冰箱新低，双净双系统鲜嫩 30 天",
+    "url": "https://www.ithome.com/0/986/012.htm",
+    "source": "IT之家",
+    "time": "08-05 15:52",
+    "summary": "容声大冰象603L法式平嵌冰箱京东直降超2400元，叠加国补与以旧换新补贴后低至4599元；其双净双系统技术主打30天食材保鲜，契合暑期家庭焕新需求。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    },
    {
     "beat": "电商/直播/即时零售",
-    "title": "湖南网信通报网传“外卖员朝餐食吐口水”：系摆拍博流量，涉事 3 人已被行拘",
-    "url": "https://www.ithome.com/0/986/016.htm",
+    "title": "5599 → 3799 元：美的酷省电 Ultra 大 3 匹空调京东直降，双排纯铜 + 美芝压缩机",
+    "url": "https://www.ithome.com/0/985/970.htm",
     "source": "IT之家",
-    "time": "08-05 15:54",
-    "summary": "湖南警方查实网传外卖员恶意行为系摆拍，涉事三人被行拘；该事件引发对平台算法压榨骑手、广州美团/饿了么本地站点已启动‘阳光配送’信用积分试点。",
+    "time": "08-05 15:32",
+    "summary": "美的酷省电Ultra大3匹立式空调京东直降1800元，叠加以旧换新补贴后实付约4590元；采用双排纯铜冷凝器与美芝压缩机，主打高温制冷稳定性与节能性。",
     "grade": "C",
-    "local": true,
+    "local": false,
     "angle": ""
    }
   ],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "CJ观察：从《超自然行动组》《鹅鸭杀》看，老牌游戏公司的新增长路径",
-    "url": "http://www.gamelook.com.cn/2026/08/599096/",
+    "title": "7月微信小游戏畅销榜Top 100：《我的花园世界》登顶、三七6款入榜领跑",
+    "url": "http://www.gamelook.com.cn/2026/08/599222/",
     "source": "GameLook",
-    "time": "08-05 01:00",
-    "summary": "ChinaJoy现场，《鹅鸭杀》等社交竞技游戏热度高涨，折射出老牌厂商从MMO转向轻量化、强社交赛道的战略转型；广州趣丸科技旗下《TT语音》生态正孵化多款粤语配音休闲游戏。",
+    "time": "08-05 11:00",
+    "summary": "7月微信小游戏畅销榜迎来暑期洗牌，《我的花园世界》登顶榜首；三七互娱以6款产品入榜数量领跑，凸显其在休闲品类与买量运营上的持续优势。",
     "grade": "B",
-    "local": true,
-    "angle": "对话趣丸TT语音广州总部，解码其依托大湾区电竞人才池构建‘游戏+语音+直播’闭环的本地化打法"
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "一场关于游戏IP的深度对谈——朱峰大师课·次世代预研会在上海举办",
-    "url": "http://www.gamelook.com.cn/2026/08/599269/",
-    "source": "GameLook",
-    "time": "08-05 07:50",
-    "summary": "朱峰大师课聚焦游戏IP工业化开发，强调‘地域文化基因’是破圈关键；其团队与广州粤剧院合作开发的粤剧题材3A手游《南音纪》已完成首轮玩法验证，预计2027年上线。",
-    "grade": "B",
-    "local": true,
-    "angle": "提前探访《南音纪》广州取景地陈家祠，记录非遗数字化对游戏叙事深度的赋能"
+    "local": false,
+    "angle": ""
    },
    {
     "beat": "游戏/电竞/平台公司",
@@ -295,103 +229,136 @@
     "url": "http://www.gamelook.com.cn/2026/08/599204/",
     "source": "GameLook",
     "time": "08-05 10:59",
-    "summary": "《小丑牌》发行商分享独立游戏出海经验，强调文化适配与本地化运营；其广州工作室正推进粤语配音版《羊了个羊》海外发行，首周下载量突破80万。",
+    "summary": "《小丑牌》发行商分享中国独立游戏出海成功经验，强调本地化运营、社区共建与长线IP培育的重要性；指出‘爆款公式’失效，真实用户反馈才是产品迭代核心。",
     "grade": "C",
-    "local": true,
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "金韬新作《阴阳师：云图》曝光！网易《剑心雕龙》项目组解散",
+    "url": "http://www.gamelook.com.cn/2026/08/599252/",
+    "source": "GameLook",
+    "time": "08-05 10:58",
+    "summary": "网易旗下知名制作人金韬启动新IP《阴阳师：云图》，与此同时《剑心雕龙》项目组正式解散，反映头部厂商在存量市场中聚焦核心IP、收缩非战略项目的资源再分配逻辑。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "一场关于游戏IP的深度对谈——朱峰大师课·次世代预研会在上海举办",
+    "url": "http://www.gamelook.com.cn/2026/08/599269/",
+    "source": "GameLook",
+    "time": "08-05 07:50",
+    "summary": "朱峰领衔的‘次世代预研会’在上海举办，聚焦游戏IP从创意到商业化的全周期管理，强调世界观构建、跨媒介叙事与玩家共创机制，为行业IP长效运营提供方法论。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "对话《坦克世界：征程》“最帅”制作人，不模仿前作，用英雄射击拥抱年轻玩家",
+    "url": "http://www.gamelook.com.cn/2026/08/599156/",
+    "source": "GameLook",
+    "time": "08-05 04:24",
+    "summary": "《坦克世界：征程》制作人强调放弃传统载具拟真路径，转向‘英雄射击+战术协作’新范式，通过角色技能差异化与短局制设计吸引Z世代玩家，重构军事题材手游边界。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "CJ观察：从《超自然行动组》《鹅鸭杀》看，老牌游戏公司的新增长路径",
+    "url": "http://www.gamelook.com.cn/2026/08/599096/",
+    "source": "GameLook",
+    "time": "08-05 01:00",
+    "summary": "ChinaJoy现场，《超自然行动组》《鹅鸭杀》等社交推理类游戏人气爆棚，印证老牌厂商正借‘轻量化+强社交+跨平台’策略激活存量用户，开辟第二增长曲线。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "一款抗日游戏炸场今年ChinaJoy？中日游戏“离奇上演CJ线下对线”！",
+    "url": "http://www.gamelook.com.cn/2026/08/599095/",
+    "source": "GameLook",
+    "time": "08-04 11:09",
+    "summary": "某国产抗日题材游戏在Chinajoy引发热议，同期日本厂商展台亦设置历史主题互动区，形成微妙文化对话；折射游戏作为软实力载体，在历史叙事与青年认同中的张力。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《明末》一周年，夏思源现身Chinajoy言谈谨慎：“没有遗憾，只有感恩”",
+    "url": "http://www.gamelook.com.cn/2026/08/599144/",
+    "source": "GameLook",
+    "time": "08-04 10:56",
+    "summary": "《明末：渊虚之羽》制作人夏思源在Chinajoy回顾一年历程，强调文化考据与玩法创新平衡；其与505 Games合作模式，为国产单机出海提供‘内容+发行’协同样本。",
+    "grade": "C",
+    "local": false,
     "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "广东立法规范消费乱象",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7304917ec142938cd664d3d5dd85b9&url=https%3a%2f%2fwww.cnr.cn%2fmspd%2fsywzl%2f20260805%2ft20260805_527748024.shtml",
-    "source": "Bing新闻",
-    "time": "08-05 10:20",
-    "summary": "《广东省消费者权益保护条例》正式出台，首次以地方立法形式规制老年人欺诈营销、预付式消费‘跑路’等痛点问题，明确‘以旧换新’补贴申领全流程监管要求，将于10月1日起施行。",
-    "grade": "A",
-    "local": true,
-    "angle": "选取广州天河城、北京路商圈开展暗访，检验新规对美容美发、教培等高频‘跑路’行业的即时约束力"
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
     "title": "广东立法促进粤港澳大湾区消费者权益保护 优化跨境维权",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7304917ec142938cd664d3d5dd85b9&url=https%3a%2f%2fhk.on.cc%2fcnt%2fnews%2f20260805%2fbkn-20260805000059433-0805_00822_001_cn.html",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7308945b0e474e9a2be661f9b08faa&url=https%3a%2f%2fhk.on.cc%2fcnt%2fnews%2f20260805%2fbkn-20260805000059433-0805_00822_001_cn.html&c=12571599550400610878&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-05 01:00",
-    "summary": "《广东省促进粤港澳大湾区消费者权益保护协作规定》同步施行，首创‘湾区消费维权一体化平台’，支持港澳居民在粤消费纠纷线上调解、异地取证与结果互认，覆盖广深港高铁沿线23个重点商圈。",
+    "summary": "《广东省促进粤港澳大湾区消费者权益保护协作规定》将于10月1日施行，首创跨境消费纠纷‘一网通办、两地互认、结果共享’机制，覆盖港澳居民北上及内地居民南下高频消费场景。",
     "grade": "A",
     "local": true,
-    "angle": "跟踪首例横琴澳门居民投诉珠海餐饮店事件，观察‘一平台三机制’（调解、仲裁、诉讼）实际运行效能"
+    "angle": "紧扣广州北京路、深圳前海、珠海横琴等湾区核心商圈，采访广深港高铁沿线商户、港澳游客及消委会，呈现‘湾区消费共同体’落地实效"
    },
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "7058 → 4599 元：容声大冰象 603L 法式平嵌冰箱新低，双净双系统鲜嫩 30 天",
-    "url": "https://www.ithome.com/0/986/012.htm",
+    "title": "广东立法促进粤港澳大湾区消费者权益保护",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7308945b0e474e9a2be661f9b08faa&url=https%3a%2f%2fpaper.people.com.cn%2frmrbhwb%2fpc%2fcontent%2f202608%2f05%2fcontent_30173081.html&c=4516658656107182667&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-05 01:00",
+    "summary": "广东省人大审议通过《广东省促进粤港澳大湾区消费者权益保护协作规定》，明确建立大湾区消费维权协作平台、跨境调解专家库及快速赔付机制，破解‘同质不同权’难题。",
+    "grade": "A",
+    "local": true,
+    "angle": "联动广州天河路商圈、澳门金沙消费投诉案例，制作‘湾区维权一日通’短视频，展现法规如何缩短跨境退换货周期"
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "湖南网信通报网传“外卖员朝餐食吐口水”：系摆拍博流量，涉事 3 人已被行拘",
+    "url": "https://www.ithome.com/0/986/016.htm",
     "source": "IT之家",
-    "time": "08-05 15:52",
-    "summary": "容声冰箱借国补+以旧换新政策直降2459元，叠加‘厨房小电’品类补贴，成为广州家电以旧换新活动爆款；其平嵌设计适配岭南老城区小户型改造需求，销量环比增长210%。",
+    "time": "08-05 15:54",
+    "summary": "湖南网信办联合警方查实网传“外卖员吐口水”视频为三人蓄意摆拍博流量，涉事人员已被行政拘留，相关账号关停；事件暴露平台内容审核与骑手权益保障双重痛点。",
     "grade": "B",
-    "local": true,
-    "angle": "走访广州越秀区旧改社区，调研平嵌家电对‘微改造’家庭空间利用率提升的实际价值"
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "5599 → 3799 元：美的酷省电 Ultra 大 3 匹空调京东直降，双排纯铜 + 美芝压缩机",
-    "url": "https://www.ithome.com/0/985/970.htm",
-    "source": "IT之家",
-    "time": "08-05 15:32",
-    "summary": "美的空调借以旧换新补贴直降1800元，其美芝压缩机产自佛山顺德基地，适配岭南高温高湿气候；广州苏宁易购数据显示，该机型在旧房改造订单中占比达34%。",
-    "grade": "C",
-    "local": true,
+    "local": false,
     "angle": ""
    }
   ]
  },
  "flash": [
   {
-   "beat": "AI/大模型",
-   "title": "消息称月之暗面 Kimi 启动 Pre-IPO 融资，估值达 500 亿美元",
-   "url": "https://www.ithome.com/0/985/952.htm",
-   "source": "IT之家",
-   "time": "08-05 15:20",
-   "summary": "国内大模型头部企业月之暗面Kimi正式启动Pre-IPO轮融资，估值达500亿美元，创国产AI公司新高；其广州研发中心已落地琶洲人工智能岛，承担多模态推理与粤语语音优化专项任务。",
-   "grade": "A",
-   "local": true,
-   "angle": "追踪琶洲AI岛政策红利，采访广州高新区对Kimi本地化部署的算力补贴与数据跨境试点支持"
-  },
-  {
-   "beat": "无人驾驶/低空/智慧出行",
-   "title": "鸿蒙智行尊界 V800 官宣搭载面向 L3 自动驾驶的原生整车架构",
-   "url": "https://www.ithome.com/0/986/027.htm",
-   "source": "IT之家",
-   "time": "08-05 16:02",
-   "summary": "华为尊界V800成为国内首批量产落地L3级自动驾驶架构的MPV，采用全栈自研智驾系统，支持城市NOA与高速NOA无缝切换，并通过工信部准入测试。该车已获深圳、广州等多地L3高阶智驾功能上路许可。",
-   "grade": "A",
-   "local": true,
-   "angle": "聚焦广州作为全国首批L3商用试点城市，采访广汽研究院及小鹏智驾中心专家，对比分析V800与本地车企智驾方案差异"
-  },
-  {
-   "beat": "消费/以旧换新/新餐饮",
-   "title": "广东立法规范消费乱象",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7304917ec142938cd664d3d5dd85b9&url=https%3a%2f%2fwww.cnr.cn%2fmspd%2fsywzl%2f20260805%2ft20260805_527748024.shtml",
-   "source": "Bing新闻",
-   "time": "08-05 10:20",
-   "summary": "《广东省消费者权益保护条例》正式出台，首次以地方立法形式规制老年人欺诈营销、预付式消费‘跑路’等痛点问题，明确‘以旧换新’补贴申领全流程监管要求，将于10月1日起施行。",
-   "grade": "A",
-   "local": true,
-   "angle": "选取广州天河城、北京路商圈开展暗访，检验新规对美容美发、教培等高频‘跑路’行业的即时约束力"
-  },
-  {
    "beat": "消费/以旧换新/新餐饮",
    "title": "广东立法促进粤港澳大湾区消费者权益保护 优化跨境维权",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7304917ec142938cd664d3d5dd85b9&url=https%3a%2f%2fhk.on.cc%2fcnt%2fnews%2f20260805%2fbkn-20260805000059433-0805_00822_001_cn.html",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7308945b0e474e9a2be661f9b08faa&url=https%3a%2f%2fhk.on.cc%2fcnt%2fnews%2f20260805%2fbkn-20260805000059433-0805_00822_001_cn.html&c=12571599550400610878&mkt=en-us",
    "source": "Bing新闻",
    "time": "08-05 01:00",
-   "summary": "《广东省促进粤港澳大湾区消费者权益保护协作规定》同步施行，首创‘湾区消费维权一体化平台’，支持港澳居民在粤消费纠纷线上调解、异地取证与结果互认，覆盖广深港高铁沿线23个重点商圈。",
+   "summary": "《广东省促进粤港澳大湾区消费者权益保护协作规定》将于10月1日施行，首创跨境消费纠纷‘一网通办、两地互认、结果共享’机制，覆盖港澳居民北上及内地居民南下高频消费场景。",
    "grade": "A",
    "local": true,
-   "angle": "跟踪首例横琴澳门居民投诉珠海餐饮店事件，观察‘一平台三机制’（调解、仲裁、诉讼）实际运行效能"
+   "angle": "紧扣广州北京路、深圳前海、珠海横琴等湾区核心商圈，采访广深港高铁沿线商户、港澳游客及消委会，呈现‘湾区消费共同体’落地实效"
+  },
+  {
+   "beat": "消费/以旧换新/新餐饮",
+   "title": "广东立法促进粤港澳大湾区消费者权益保护",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7308945b0e474e9a2be661f9b08faa&url=https%3a%2f%2fpaper.people.com.cn%2frmrbhwb%2fpc%2fcontent%2f202608%2f05%2fcontent_30173081.html&c=4516658656107182667&mkt=en-us",
+   "source": "Bing新闻",
+   "time": "08-05 01:00",
+   "summary": "广东省人大审议通过《广东省促进粤港澳大湾区消费者权益保护协作规定》，明确建立大湾区消费维权协作平台、跨境调解专家库及快速赔付机制，破解‘同质不同权’难题。",
+   "grade": "A",
+   "local": true,
+   "angle": "联动广州天河路商圈、澳门金沙消费投诉案例，制作‘湾区维权一日通’短视频，展现法规如何缩短跨境退换货周期"
   },
   {
    "beat": "AI/大模型",
@@ -399,10 +366,32 @@
    "url": "https://www.ithome.com/0/986/042.htm",
    "source": "IT之家",
    "time": "08-05 16:19",
-   "summary": "由国内顶尖AI研究机构与安全团队达酷诺威（DARKNAVY）联合研发的DoGNAVY模型，在国际权威AI安全基准CyberGym中以90.8%通过率位列全球第三、开源项目第一，凸显我国在AI鲁棒性与防御性技术上的突破。",
+   "summary": "由国内顶尖AI研究机构与安全团队达酷诺威（DARKNAVY）联合研发的DoGNAVY模型，在国际权威AI安全基准CyberGym中以90.8%通过率位列全球第三、开源项目第一，凸显中国在AI可信治理领域的突破。",
    "grade": "A",
    "local": false,
-   "angle": "专访参与团队核心成员（含广州实验室），挖掘其在粤港澳大湾区AI安全联合实验室中的技术转化路径"
+   "angle": "可联系广州人工智能公共算力中心、琶洲实验室及中山大学AI安全团队，挖掘广东本地参与方或技术贡献，强化大湾区AI安全策源地形象"
+  },
+  {
+   "beat": "无人驾驶/低空/智慧出行",
+   "title": "比亚迪何志奇谈我国 L3/L4 自动驾驶系统安全强制性国标发布，称对认真做技术的企业也是保护",
+   "url": "https://www.ithome.com/0/986/160.htm",
+   "source": "IT之家",
+   "time": "08-05 17:50",
+   "summary": "我国首部L3/L4级智能网联汽车自动驾驶系统安全强制性国标（GB 44721—2026）拟于2027年7月1日起实施。比亚迪高管指出该标准将加速技术落地，同时为合规企业构筑公平竞争环境，避免“劣币驱逐良币”。",
+   "grade": "A",
+   "local": false,
+   "angle": "可联动广州南沙智能网联汽车测试区、广汽L3量产进展及深圳/东莞车企响应，突出广东作为全国智能驾驶政策与产业双高地的引领作用"
+  },
+  {
+   "beat": "无人驾驶/低空/智慧出行",
+   "title": "鸿蒙智行尊界 V800 官宣搭载面向 L3 自动驾驶的原生整车架构",
+   "url": "https://www.ithome.com/0/986/027.htm",
+   "source": "IT之家",
+   "time": "08-05 16:02",
+   "summary": "华为鸿蒙智行尊界V800成为行业首款基于L3级自动驾驶原生整车架构打造的MPV，全栈自研智驾系统深度耦合底盘、动力与感知硬件，支持城市NOA和高速领航功能。",
+   "grade": "A",
+   "local": false,
+   "angle": "聚焦‘架构定义智驾’新范式，对比小鹏XNGP、理想AD Max等方案，延伸采访广汽研究院专家解读‘原生架构’对车路云一体化的支撑价值"
   }
  ],
  "stats": {
@@ -410,7 +399,7 @@
    "IT之家(60)",
    "GameLook(16)",
    "HackerNews(6)",
-   "Bing新闻(10)"
+   "Bing新闻(9)"
   ],
   "fail": [
    "36氪(no entries)"
