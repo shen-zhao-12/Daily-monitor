@@ -271,7 +271,7 @@ def build_docx(sections, flash, path, title):
     cn(doc.styles["Normal"])
     h = doc.add_heading(level=1); cn(h.add_run(title), "黑体", 16).font.color.rgb = BRAND
     sub = doc.add_paragraph()
-    cn(sub.add_run("监测窗口:近%d小时 | 生成时间:%s | 羊城晚报记者 沈钊" % (WINDOW_H, NOW.strftime("%Y-%m-%d %H:%M"))), size=9).font.color.rgb = GRAY
+    cn(sub.add_run("监测窗口:近%d小时 | 生成时间:%s" % (WINDOW_H, NOW.strftime("%Y-%m-%d %H:%M"))), size=9).font.color.rgb = GRAY
 
     h = doc.add_heading(level=2); cn(h.add_run("今日要闻速览"), "黑体", 14).font.color.rgb = BRAND
     for i, f in enumerate(flash[:8], 1):
