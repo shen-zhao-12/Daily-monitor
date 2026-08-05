@@ -1,0 +1,52 @@
+name: 线口监测
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 北京时间 09:00 早报(UTC 01:00)
+    - cron: "0 7 * * *"   # 北京时间 15:00 午报(UTC 07:00)
+  workflow_dispatch:      # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行线口监测
+        run: python monitor.py
+        env:
+          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+
+      - name: 提交简报产物
+        run: |
+          git config user.name "beat-monitor-bot"
+          git config user.email "beat-monitor-bot@users.noreply.github.com"
+          git add briefings web/data
+          if ! git diff --staged --quiet; then
+            git commit -m "briefing: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
+
+      - name: 上传网页产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+      - name: 发布到 GitHub Pages
+        uses: actions/deploy-pages@v4
