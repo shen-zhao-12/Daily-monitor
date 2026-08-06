@@ -2,8 +2,8 @@ name: 线口监测
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # 北京时间 09:00 早报(UTC 01:00)
-    - cron: "0 7 * * *"   # 北京时间 15:00 午报(UTC 07:00)
+    - cron: "15 0 * * *"  # 北京时间 08:15 早报(UTC 00:15)
+    - cron: "5 7 * * *"   # 北京时间 15:05 午报(UTC 07:05,错开整点)
   workflow_dispatch:      # 支持手动触发
 
 permissions:
