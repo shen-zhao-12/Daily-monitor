@@ -1,0 +1,397 @@
+{
+ "id": "2026-08-08-wubao",
+ "title": "线口监测午报 · 2026年08月08日(周六)",
+ "shift": "午报",
+ "date": "2026-08-08 12:32",
+ "docx": "../briefings/线口监测午报-2026-08-08.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "蚂蚁集团百灵开源 Ling-3.0-flash 模型：124B 总参数、5.1B 激活参数",
+    "url": "https://www.ithome.com/0/987/231.htm",
+    "source": "IT之家",
+    "time": "08-08 07:49",
+    "summary": "蚂蚁集团旗下百灵大模型发布新一代原生混合推理模型Ling-3.0-flash，采用MoE架构，总参数124B、激活仅5.1B，兼顾高性能与低推理成本，已开源并提供商用许可，面向中小企业及开发者优化部署门槛。",
+    "grade": "A",
+    "local": false,
+    "angle": "对比通义千问、DeepSeek等国产模型在推理效率与本地化适配能力，突出其‘小激活大能力’技术路径对广东AI初创企业的普惠价值"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+    "url": "https://www.ithome.com/0/987/221.htm",
+    "source": "IT之家",
+    "time": "08-08 07:08",
+    "summary": "OpenAI依据《准备框架》评估确认Astra模型在智能体编程与网络安全领域存在潜在风险，决定暂缓发布；此举凸显全球头部AI公司对前沿模型安全边界的审慎态度，或将影响国内大模型安全评测标准演进。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 Win10/Win11 新版 Outlook 收件箱塞入 Copilot，AI 摘要过去 8 小时邮件",
+    "url": "https://www.ithome.com/0/987/271.htm",
+    "source": "IT之家",
+    "time": "08-08 11:29",
+    "summary": "微软在新版Outlook中深度集成Copilot，推出‘每日小结’功能，可自动摘要过去8小时关键邮件内容并生成待办建议；该功能面向企业用户强化办公AI生产力，反映AI原生应用正从工具层向工作流底层渗透。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 为自研 AI 芯片开出高薪，模型训练岗位薪资高于实际造芯工程师",
+    "url": "https://www.ithome.com/0/987/218.htm",
+    "source": "IT之家",
+    "time": "08-07 23:25",
+    "summary": "Anthropic扩大芯片设计团队，但模型训练岗薪资反超芯片物理设计岗，折射AI时代‘算法定义硬件’趋势；其自研ASIC聚焦高效训练，或倒逼国内AI芯片企业调整人才结构与研发重心。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软预告 Win10/Win11 经典版 Outlook 更新：基于上下文 AI 解释用户选中文本",
+    "url": "https://www.ithome.com/0/987/274.htm",
+    "source": "IT之家",
+    "time": "08-08 11:39",
+    "summary": "微软将在经典版Outlook中上线‘Explain This’功能，利用AI实时解析用户高亮文本的语义与背景，降低信息理解门槛；该轻量化AI嵌入策略区别于Copilot重度集成，体现办公软件AI化的分层演进路径。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Claude Code v2.1.224 现支持 AI 跨会话消息传递",
+    "url": "https://www.ithome.com/0/987/256.htm",
+    "source": "IT之家",
+    "time": "08-08 10:04",
+    "summary": "Anthropic更新Claude Code至v2.1.224版本，首次实现跨会话AI消息传递，开发者可在不同编码任务间复用上下文与指令；该功能提升复杂项目协作效率，推动AI编程助手从单点工具迈向工程级伙伴。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
+    "url": "https://www.ithome.com/0/987/249.htm",
+    "source": "IT之家",
+    "time": "08-08 09:17",
+    "summary": "Anthropic将于8月14日起对Claude Code Pro/Max/Team用户启用自动模式（Auto Mode）默认权限，AI将自主判断代码修改边界并请求确认；此举平衡开发效率与安全性，为AI编程工具商业化设定新范式。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 需求挤爆云计算，消息称 AWS 要求工程师关闭闲置服务器减少资源浪费",
+    "url": "https://www.ithome.com/0/987/217.htm",
+    "source": "IT之家",
+    "time": "08-07 23:25",
+    "summary": "AWS因AI训练负载激增，要求工程师手动关停闲置EC2实例以缓解算力压力；该现象揭示大模型军备竞赛下云基础设施的供需失衡，亦倒逼企业优化AI训练成本管控机制。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "source": "Hacker News",
+    "time": "08-08 01:36",
+    "summary": "Oracle正式禁止AI生成代码进入OpenJDK开源项目，强调人工审核与可追溯性；此举确立关键基础设施领域AI代码准入红线，对国内Java生态及信创基础软件安全治理具参考价值。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "理想汽车高级副总裁范皓宇回应离职：持续探索AI眼镜与具身智能",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76b16ecd594339a88c71077575b238&url=https%3a%2f%2fwww.sohu.com%2fa%2f1060111577_114760&c=16928786998734662261&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-07 20:52",
+    "summary": "理想汽车核心高管范皓宇确认将专注AI眼镜与具身智能方向创业，强调‘从车规级AI走向人机共生新终端’；其动向印证AI硬件赛道正从车载向可穿戴、泛机器人加速延伸，具身智能或成下一竞争高地。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "AI眼镜狂飙的2026：大厂下场，谁在“卖铲子”？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76b16ecd594339a88c71077575b238&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-08-07%2fdoc-inimnkum3304466.shtml&c=9387543761759552994&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-07 15:46",
+    "summary": "Omdia数据显示2026年上半年中国AI眼镜零售量达101.2万台、同比增106%，全品类产品超70款，其中AI+AR/纯AR达31款；报告指出光学模组、MicroLED、空间计算算法等上游‘卖铲子’环节成资本与政策聚焦重点。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "向违约前员工追责近千万后，消息称小鹏升级商业秘密管理制度",
+    "url": "https://www.ithome.com/0/987/228.htm",
+    "source": "IT之家",
+    "time": "08-08 07:35",
+    "summary": "小鹏集团内部发布《商业秘密合规管理制度》，在向离职员工追偿近千万元后强化全流程保密管理；制度覆盖AI算法、智驾数据等核心资产，反映智能电动车企对技术资产保护意识升维。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "Nothing CMF Clip Pro 耳夹耳机开售：充电盒搭载智能旋钮，549 元起",
+    "url": "https://www.ithome.com/0/987/295.htm",
+    "source": "IT之家",
+    "time": "08-08 12:32",
+    "summary": "Nothing旗下CMF Clip Pro耳夹耳机正式发售，售价549元起，创新采用充电盒智能旋钮交互，兼顾佩戴舒适性与触控精度；作为无耳洞友好型音频新品，切入年轻群体健康听音新需求。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "蔚来第五代换电站在北上广深投运，firefly 萤火虫正式接入",
+    "url": "https://www.ithome.com/0/987/273.htm",
+    "source": "IT之家",
+    "time": "08-08 11:38",
+    "summary": "蔚来首批第五代换电站在北京、上海、广州、苏州、合肥、成都、泉州七城投运，其中广州为首批落地城市之一；首座第五代换电站落户泉州，同时萤火虫车型正式接入换电体系，标志着换电网络向全系车型兼容迈出关键一步。",
+    "grade": "A",
+    "local": true,
+    "angle": "聚焦广州站点布局与用户实测体验，对比老站效率提升（如换电时间压缩至2分40秒内），挖掘大湾区新能源基建协同效应"
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "2026 全球智能制造与电子产品博览会 12 月广州举办，特斯拉、蔚来、荣耀、OPPO、vivo 等参展",
+    "url": "https://www.ithome.com/0/987/238.htm",
+    "source": "IT之家",
+    "time": "08-08 08:25",
+    "summary": "2026全球智能制造与电子产品博览会（AIE电子展）定于12月3-5日在广州举办，特斯拉、蔚来等车企及华为系品牌集体参展；展会锚定‘中国智造首站’，将成为观察大湾区智能网联汽车与AI硬件产业生态的重要窗口。",
+    "grade": "A",
+    "local": true,
+    "angle": "提前对接主办方梳理参展粤企名单，策划‘广州智造’专题报道，突出广汽、小鹏、亿航等本土力量"
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "小米 SU7 OTA 1.17 版本开启推送：新增多项泊车辅助等功能",
+    "url": "https://www.ithome.com/0/987/294.htm",
+    "source": "IT之家",
+    "time": "08-08 12:16",
+    "summary": "小米汽车向SU7全系推送OTA 1.17版本，重点升级画框泊车、斜列泊车识别、APA自动泊车响应速度，并优化智能座舱语音交互逻辑；该版本同步覆盖YU7及SU7 Ultra，体现全栈自研智驾系统快速迭代能力。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "比亚迪腾势 Z9S 首批展车到店：预售 31.98 万元起，CLTC 纯电续航 1100km 全球第一",
+    "url": "https://www.ithome.com/0/987/275.htm",
+    "source": "IT之家",
+    "time": "08-08 11:51",
+    "summary": "腾势Z9S于8月3日开启预售，CLTC纯电续航达1100km创全球纪录，标配天神之眼5.0高阶智驾系统及第二代刀片电池；首批展车已进驻合肥、北京等地门店，广州等一线城市展厅同步启动预约试驾。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "广汽传祺越 7 方盒子 SUV 内饰官图公布：一键纯平大床，1.1 米全景贯穿屏",
+    "url": "https://www.ithome.com/0/987/255.htm",
+    "source": "IT之家",
+    "time": "08-08 09:55",
+    "summary": "广汽传祺越7方盒子SUV官宣9月初预售，内饰搭载同级首创一键电动纯平大床（成床容积186L）及1.1米全景贯穿屏；作为广汽面向泛越野年轻群体的新物种，其设计融合露营经济与智能座舱，呼应大湾区自驾游热潮。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "广汽传祺 E8 HEV+ 新车申报：7 座布局 MPV，轴距 3 米",
+    "url": "https://www.ithome.com/0/987/263.htm",
+    "source": "IT之家",
+    "time": "08-08 10:44",
+    "summary": "广汽传祺E8 HEV+完成工信部申报，定位7座混动MPV，轴距达3米，采用承载式底盘与HEV非插电架构；该车强化家庭出行场景，有望填补广汽在中大型混动MPV市场的空白，助力广佛都市圈多孩家庭绿色出行。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "千问闪购首次上车，极狐阿尔法 T7 支持“一句话点奶茶”",
+    "url": "https://www.ithome.com/0/987/247.htm",
+    "source": "IT之家",
+    "time": "08-08 09:08",
+    "summary": "极狐阿尔法T7成为首个搭载阿里千问闪购能力的量产车，用户可通过语音指令‘一句话点奶茶’完成下单，背后整合高德地图、饿了么等本地生活服务接口；标志车端AI与即时零售生态深度融合。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "IT早报 0808：渠道佣金骤减 40% 运营商低价竞争时代终结；AI 艺人“方桃子”带货美瞳广告遭下架；百胜中国 12 亿美元买断必胜客；腾讯米哈游首次游戏联动...",
+    "url": "https://www.ithome.com/0/987/227.htm",
+    "source": "IT之家",
+    "time": "08-08 07:31",
+    "summary": "早报提及AI虚拟艺人‘方桃子’因合规问题被下架美瞳广告，折射直播电商对AI生成内容监管趋严；同期百胜中国大手笔收购必胜客中国业务，叠加腾讯与米哈游游戏IP联动，显示平台经济正从流量争夺转向生态整合。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "叠纸深圳上演暖暖大戏！“七年一梦花庭见、霓裳追光聚佳人”",
+    "url": "http://www.gamelook.com.cn/2026/08/599381/",
+    "source": "GameLook",
+    "time": "08-07 10:01",
+    "summary": "叠纸科技《闪耀暖暖》七周年艺术展于8月6日在深圳海上世界文化艺术中心开幕，融合数字艺术、实体装置与玩家共创内容；活动选址深圳凸显大湾区游戏文化地标建设进展，亦为粤产二次元IP线下商业化探路。",
+    "grade": "A",
+    "local": true,
+    "angle": "联动深圳文博会筹备节点，采访策展方与本地Z世代观众，呈现‘游戏IP+城市文旅’融合新模式"
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "不跳票了！《影之刃零》官宣终于做完，8月12日开启全平台预售",
+    "url": "http://www.gamelook.com.cn/2026/08/599423/",
+    "source": "GameLook",
+    "time": "08-07 10:39",
+    "summary": "国产硬核动作IP《影之刃零》历经多年开发后确认完成，将于8月12日开启全平台预售；作为杭州炎魂网络代表作，其上线对提振国产单机信心、推动粤港澳大湾区游戏出海具有标志性意义。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "对话《追逐卡蕾多》制作人：从一张图，到腾讯“机车美少女二游”！",
+    "url": "http://www.gamelook.com.cn/2026/08/599458/",
+    "source": "GameLook",
+    "time": "08-07 11:30",
+    "summary": "腾讯FizzgleeStudio首款二游《追逐卡蕾多》亮相ChinaJoy，融合机车文化与美少女题材；其研发历程体现大厂对细分垂类IP的精细化运营能力，亦为粤港动漫游戏产业协同提供新案例。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "宝可梦开发商翻车！3A新游《轮回之兽》发售“褒贬不一”，玩家大失望",
+    "url": "http://www.gamelook.com.cn/2026/08/599434/",
+    "source": "GameLook",
+    "time": "08-07 10:33",
+    "summary": "宝可梦开发商Game Freak新作《轮回之兽》发售后口碑分化，媒体评分尚可但玩家反馈存在优化不足、本地化粗糙等问题；事件警示IP光环难掩工业化短板，对国内3A研发团队具镜鉴意义。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "人人都在抢量的夏季黄金档，游戏厂商需要什么能力来实现增长？",
+    "url": "http://www.gamelook.com.cn/2026/08/599411/",
+    "source": "GameLook",
+    "time": "08-07 08:09",
+    "summary": "ChinaJoy刚落幕，行业聚焦夏季黄金档增长瓶颈；报告指出精细化运营、跨平台互通、IP长线孵化能力成破局关键，粤产游戏如《羊了个羊》《明日之后》等案例印证本地化内容与渠道协同价值。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "五菱代步车全球销量突破 300 万辆，MINIEV 卖出 195 万辆",
+    "url": "https://www.ithome.com/0/987/244.htm",
+    "source": "IT之家",
+    "time": "08-08 08:55",
+    "summary": "五菱宣布代步车全球累计销量突破300万辆，其中宏光MINIEV贡献195万辆；该成绩凸显下沉市场对高性价比电动出行的强劲需求，亦反映‘以旧换新’政策对三四线城市新能源渗透率的拉动效应。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "2027 款比亚迪海豹 06 官宣 8 月 11 日上市，定位“B 级满配家轿”",
+    "url": "https://www.ithome.com/0/987/268.htm",
+    "source": "IT之家",
+    "time": "08-08 11:09",
+    "summary": "比亚迪海豹06将于8月11日深圳上市，主打‘B级满配家轿’，配备逐浪星河大灯与天神之眼智驾系统；新车瞄准主流家庭用户，叠加以旧换新补贴，有望加速燃油轿车置换潮，巩固华南新能源基本盘。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "乘联分会崔东树：2026 年 7 月中国汽车出口 109 万辆，同比增长 57%",
+    "url": "https://www.ithome.com/0/987/272.htm",
+    "source": "IT之家",
+    "time": "08-08 11:30",
+    "summary": "乘联会数据显示2026年1-7月汽车出口640万台、同比增54%，7月单月出口109.2万台、同比增57%；高速增长主因新能源车海外交付提速，广东车企（如比亚迪、小鹏）在欧洲、东南亚市场占比显著提升。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [
+  {
+   "beat": "无人驾驶/低空/智慧出行",
+   "title": "蔚来第五代换电站在北上广深投运，firefly 萤火虫正式接入",
+   "url": "https://www.ithome.com/0/987/273.htm",
+   "source": "IT之家",
+   "time": "08-08 11:38",
+   "summary": "蔚来首批第五代换电站在北京、上海、广州、苏州、合肥、成都、泉州七城投运，其中广州为首批落地城市之一；首座第五代换电站落户泉州，同时萤火虫车型正式接入换电体系，标志着换电网络向全系车型兼容迈出关键一步。",
+   "grade": "A",
+   "local": true,
+   "angle": "聚焦广州站点布局与用户实测体验，对比老站效率提升（如换电时间压缩至2分40秒内），挖掘大湾区新能源基建协同效应"
+  },
+  {
+   "beat": "无人驾驶/低空/智慧出行",
+   "title": "2026 全球智能制造与电子产品博览会 12 月广州举办，特斯拉、蔚来、荣耀、OPPO、vivo 等参展",
+   "url": "https://www.ithome.com/0/987/238.htm",
+   "source": "IT之家",
+   "time": "08-08 08:25",
+   "summary": "2026全球智能制造与电子产品博览会（AIE电子展）定于12月3-5日在广州举办，特斯拉、蔚来等车企及华为系品牌集体参展；展会锚定‘中国智造首站’，将成为观察大湾区智能网联汽车与AI硬件产业生态的重要窗口。",
+   "grade": "A",
+   "local": true,
+   "angle": "提前对接主办方梳理参展粤企名单，策划‘广州智造’专题报道，突出广汽、小鹏、亿航等本土力量"
+  },
+  {
+   "beat": "游戏/电竞/平台公司",
+   "title": "叠纸深圳上演暖暖大戏！“七年一梦花庭见、霓裳追光聚佳人”",
+   "url": "http://www.gamelook.com.cn/2026/08/599381/",
+   "source": "GameLook",
+   "time": "08-07 10:01",
+   "summary": "叠纸科技《闪耀暖暖》七周年艺术展于8月6日在深圳海上世界文化艺术中心开幕，融合数字艺术、实体装置与玩家共创内容；活动选址深圳凸显大湾区游戏文化地标建设进展，亦为粤产二次元IP线下商业化探路。",
+   "grade": "A",
+   "local": true,
+   "angle": "联动深圳文博会筹备节点，采访策展方与本地Z世代观众，呈现‘游戏IP+城市文旅’融合新模式"
+  },
+  {
+   "beat": "AI/大模型",
+   "title": "蚂蚁集团百灵开源 Ling-3.0-flash 模型：124B 总参数、5.1B 激活参数",
+   "url": "https://www.ithome.com/0/987/231.htm",
+   "source": "IT之家",
+   "time": "08-08 07:49",
+   "summary": "蚂蚁集团旗下百灵大模型发布新一代原生混合推理模型Ling-3.0-flash，采用MoE架构，总参数124B、激活仅5.1B，兼顾高性能与低推理成本，已开源并提供商用许可，面向中小企业及开发者优化部署门槛。",
+   "grade": "A",
+   "local": false,
+   "angle": "对比通义千问、DeepSeek等国产模型在推理效率与本地化适配能力，突出其‘小激活大能力’技术路径对广东AI初创企业的普惠价值"
+  }
+ ],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(6)",
+   "HackerNews(5)",
+   "Bing新闻(2)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
