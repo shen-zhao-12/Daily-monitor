@@ -2,20 +2,31 @@
  "id": "2026-08-11-wubao",
  "title": "线口监测午报 · 2026年08月11日(周二)",
  "shift": "午报",
- "date": "2026-08-11 12:52",
+ "date": "2026-08-11 13:31",
  "docx": "../briefings/线口监测午报-2026-08-11.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "千问开放AI眼镜生态，支持开发者打造导游、教练、巡检Skill",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aaa934a5d45369967a93a79b57801&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260811A0404T00&c=6801177631483006058&mkt=en-us",
+    "title": "千问开放AI眼镜生态：支持开发者打造导游、教练Skill",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ab3ce49924453b22845d79126ae68&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fshenji%2f2026-08-11%2fdoc-inimxewt4373314.shtml&c=2826946640987658870&mkt=en-us",
     "source": "Bing新闻",
-    "time": "08-10 21:47",
-    "summary": "通义千问正式开放AI眼镜端生态，提供技能平台与行业定制模块，支持自然语言开发导游、教练、工业巡检等垂直场景Skill，加速AI具身化落地。",
+    "time": "08-10 21:45",
+    "summary": "通义千问开放平台正式支持AI眼镜端开发，提供技能平台与行业定制模块，开发者可通过自然语言调用拍照、语音等能力，快速构建文旅导览、运动陪练等本地化场景应用。",
     "grade": "A",
     "local": false,
-    "angle": "聚焦广州黄埔区AI眼镜产业园、南沙自动驾驶示范区等本地场景，实测千问眼镜技能在广交会导览、白云机场旅客服务中的可行性"
+    "angle": "聚焦广州长隆、珠江夜游等文旅场景，策划‘AI眼镜+岭南文化’体验式报道"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问开放AI眼镜能力！打开3D导览、运动陪练、全屋智能的更多玩法",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ab3ce49924453b22845d79126ae68&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260811A03YQ500&c=4457427083877795068&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-10 21:45",
+    "summary": "千问AI眼镜平台支持开发者创建3D导览、运动陪练、全屋智能控制等Skill，通过自然语言描述即可调用多模态能力，降低AI硬件应用开发门槛。",
+    "grade": "A",
+    "local": false,
+    "angle": "聚焦广州琶洲数字经济试验区，探访AI眼镜在广交会、南博会等展会的应用试点"
    },
    {
     "beat": "AI/大模型",
@@ -23,10 +34,10 @@
     "url": "https://www.ithome.com/0/988/260.htm",
     "source": "IT之家",
     "time": "08-11 12:52",
-    "summary": "Anthropic 宣布新版 Claude 模型将嵌入不可见水印，用于标识 AI 生成文本，以应对学术造假、虚假信息传播等风险。该技术属行业前沿实践，有望推动内容溯源标准建立。",
+    "summary": "Anthropic 宣布新版 Claude 模型将在生成文本中嵌入不可见水印，以识别AI内容、遏制学术造假与虚假信息传播。该技术无需用户干预，已在部分API中启用。",
     "grade": "B",
     "local": false,
-    "angle": "可对比国内大模型厂商（如通义、Kimi、DeepSeek）是否已有类似水印机制，采访广东高校AI伦理实验室专家谈监管适配性"
+    "angle": "可联动广东高校AI伦理治理实践，采访中山大学、华南理工人工智能伦理研究中心专家"
    },
    {
     "beat": "AI/大模型",
@@ -34,43 +45,10 @@
     "url": "https://www.ithome.com/0/988/216.htm",
     "source": "IT之家",
     "time": "08-11 10:44",
-    "summary": "Anthropic 与比特币挖矿企业 Riot Platforms 签署高达91亿元人民币的算力供应协议，凸显全球AI基建竞争白热化，也反映算力正成为新型战略资源。",
+    "summary": "Anthropic 与美国比特币挖矿企业 Riot Platforms 签署91亿美元长期算力供应协议，凸显AI基建对高能耗算力的刚性需求，或加速全球液冷数据中心布局。",
     "grade": "B",
     "local": false,
-    "angle": "联动广州超算中心、横琴智算中心及华为云、阿里云华南节点，分析大湾区AI算力供需缺口与国产替代路径"
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "DeepSeek 被曝偷偷给用户取外号，AI 回应称只是临时“打标签”、不会记忆",
-    "url": "https://www.ithome.com/0/988/136.htm",
-    "source": "IT之家",
-    "time": "08-11 09:50",
-    "summary": "DeepSeek被网友发现AI在推理过程中为用户生成昵称（如‘墨墨’），引发隐私担忧；官方回应系临时‘打标签’辅助理解，不存储、不关联身份，但算法透明度仍存争议。",
-    "grade": "B",
-    "local": false,
-    "angle": "邀请中山大学人工智能伦理研究中心专家解读‘人格化交互’边界，对比广州AI企业（如云从、极米）用户数据处理规范"
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-    "url": "https://www.ithome.com/0/988/239.htm",
-    "source": "IT之家",
-    "time": "08-11 11:57",
-    "summary": "Anthropic正加速IPO进程，拟成史上最大AI公司IPO之一，但在路演中弱化模型性能差距、商业化瓶颈等风险，凸显资本市场对AGI叙事的非理性追捧。",
-    "grade": "B",
-    "local": false,
-    "angle": "对照广州人工智能企业（如小马智行、文远知行）融资节奏与技术披露策略，分析湾区AI企业上市合规准备现状"
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "英伟达 CEO 黄仁勋谈 5000 亿美元融资计划：AI 芯片已是“投资级资产”",
-    "url": "https://www.ithome.com/0/988/255.htm",
-    "source": "IT之家",
-    "time": "08-11 12:20",
-    "summary": "黄仁勋提出将AI芯片打造为华尔街新资产类别，联合六大资管机构推动5000亿美元融资计划，凸显全球资本正将算力基础设施视为核心战略资产。",
-    "grade": "B",
-    "local": false,
-    "angle": "对接广州越秀区半导体产业基金、深圳湾科技生态园AI芯片企业，研判国产GPU（如寒武纪、壁仞）融资新动向"
+    "angle": "对比广州南沙AI算力中心建设进展，调研广东‘东数西算’枢纽节点落地情况"
    },
    {
     "beat": "AI/大模型",
@@ -78,10 +56,32 @@
     "url": "https://www.ithome.com/0/988/254.htm",
     "source": "IT之家",
     "time": "08-11 12:10",
-    "summary": "开发者在iOS 27 Beta 5代码中发现Apple Intelligence国行版适配痕迹，强调本地化AI处理能力，预示苹果将强化中国用户数据主权与合规响应。",
+    "summary": "开发者在iOS 27 Beta 5代码中发现Apple Intelligence国行版适配痕迹，明确标注‘本地处理’逻辑，意味着中文语境下的AI功能将优先在设备端运行，兼顾隐私与响应速度。",
     "grade": "B",
     "local": false,
-    "angle": "对比华为盘古、OPPO安第斯大模型在广东终端的本地化部署进度，分析‘端侧AI’对粤港澳大湾区隐私计算生态的影响"
+    "angle": "对比华为盘古、科大讯飞星火在粤语识别与广府文化语料训练上的差异化布局"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 被曝偷偷给用户取外号，AI 回应称只是临时“打标签”、不会记忆",
+    "url": "https://www.ithome.com/0/988/136.htm",
+    "source": "IT之家",
+    "time": "08-11 09:50",
+    "summary": "DeepSeek因在深度思考模式中为用户生成昵称引发争议，官方解释为‘临时推理标签’且不存储，折射出大模型人格化交互中的隐私边界模糊问题，已触发用户数据合规再审视。",
+    "grade": "B",
+    "local": false,
+    "angle": "邀请暨南大学网络法专家解读《生成式AI服务管理暂行办法》在粤落地执行难点"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达 CEO 黄仁勋谈 5000 亿美元融资计划：AI 芯片已是“投资级资产”",
+    "url": "https://www.ithome.com/0/988/255.htm",
+    "source": "IT之家",
+    "time": "08-11 12:20",
+    "summary": "黄仁勋推动AI芯片成为华尔街新资产类别，联合六大资管机构发起5000亿美元融资计划，旨在构建覆盖芯片设计、制造、算力租赁的全周期金融基础设施。",
+    "grade": "B",
+    "local": false,
+    "angle": "对接广州期货交易所、前海股权交易中心，探讨AI算力资产证券化可行性"
    },
    {
     "beat": "AI/大模型",
@@ -89,29 +89,29 @@
     "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
     "source": "Hacker News",
     "time": "08-10 22:06",
-    "summary": "扎克伯格公开批评闭源AI模式，宣布Meta全面回归开源路线，发布Llama 4系列模型，意在构建开放生态对抗闭源巨头，重塑AI治理话语权。",
-    "grade": "B",
-    "local": false,
-    "angle": "联系广州开放原子开源基金会大湾区工作站，探讨Llama生态与粤产AI芯片（如昇腾）的适配进展"
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-    "url": "https://cactuscompute.com/needle",
-    "source": "Hacker News",
-    "time": "08-11 01:22",
-    "summary": "开源轻量级代理型大模型Needle2仅14MB，专为手机、可穿戴设备及机器人优化，支持边缘端实时推理，在资源受限设备上实现AI Agent基础能力。",
+    "summary": "扎克伯格公开批评闭源AI模型路线，宣布Meta将加大Llama系列开源投入，推动开发者生态共建，此举或加剧中美欧在AI基础模型标准与治理话语权竞争。",
     "grade": "C",
     "local": false,
     "angle": ""
    },
    {
     "beat": "AI/大模型",
-    "title": "消息称 OpenAI 依 8520 亿美元估值完成 70 亿美元员工持股回购",
-    "url": "https://www.ithome.com/0/988/107.htm",
+    "title": "Anthropic Claude Sonnet 5 模型将维持首发优惠价，不再恢复原价",
+    "url": "https://www.ithome.com/0/988/132.htm",
     "source": "IT之家",
-    "time": "08-11 08:54",
-    "summary": "OpenAI以8520亿美元估值完成70亿美元员工股票回购，创AI领域最大规模内部交易，反映核心人才留存压力与估值泡沫隐忧并存。",
+    "time": "08-11 09:46",
+    "summary": "Anthropic宣布Claude Sonnet 5永久维持首发优惠价，放弃原定涨价计划，反映AI模型商业化初期价格策略向用户友好倾斜，或倒逼竞品调整订阅模式。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "前 OpenAI 机器人部门主管 Caitlin Kalinowski 加入 Anthropic，还曾在苹果开发 Mac Pro",
+    "url": "https://www.ithome.com/0/988/128.htm",
+    "source": "IT之家",
+    "time": "08-11 09:31",
+    "summary": "前OpenAI机器人负责人Caitlin Kalinowski加盟Anthropic，其兼具硬件工程（Mac Pro）与AI机器人研发背景，或将加速Anthropic在具身智能领域的战略布局。",
     "grade": "C",
     "local": false,
     "angle": ""
@@ -122,7 +122,7 @@
     "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
     "source": "Hacker News",
     "time": "08-10 22:20",
-    "summary": "技术分析揭示Claude与GPT系列模型知识截止时间差异，指出部分版本存在训练数据滞后问题，影响事实性回答可靠性，对专业垂类应用构成挑战。",
+    "summary": "技术博客深入分析主流大模型知识截止时间差异，指出Claude 4知识更新至2026年Q2，而GPT-4.5仍停留在2025年末，凸显模型迭代节奏与数据新鲜度对垂直场景应用的影响。",
     "grade": "C",
     "local": false,
     "angle": ""
@@ -133,7 +133,7 @@
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
     "source": "Hacker News",
     "time": "08-10 22:38",
-    "summary": "OpenAI致信德州州长，倡导建设负责任AI基础设施框架，涵盖能源消耗、社区影响、透明度等维度，为全球AI基建治理提供地方实践范本。",
+    "summary": "OpenAI联合多家机构致信得州州长，倡议建立负责任AI基础设施标准，涵盖电力供应、水资源消耗与社区影响评估，为全球AI绿色算力发展提供治理范本。",
     "grade": "C",
     "local": false,
     "angle": ""
@@ -144,31 +144,64 @@
     "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "source": "Hacker News",
     "time": "08-10 21:35",
-    "summary": "技术评论文章批判当前大模型‘拟人化’输出倾向，指出过度添加情感修饰、冗余表达反而损害信息效率与可信度，呼吁回归工具理性本质。",
+    "summary": "技术评论指出过度拟人化LLM输出存在误导风险，主张回归工具属性，强调透明度与可控性——该观点呼应国内《生成式AI服务安全基本要求》中‘避免不当拟人’条款。",
     "grade": "C",
     "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "What's the best programming language for coding agents?",
+    "url": "http://danluu.com/pl-tokens/",
+    "source": "Hacker News",
+    "time": "08-11 00:28",
+    "summary": "开发者社区热议Agent编程语言选型，Python仍占主导但Rust、TypeScript在性能与类型安全上获青睐；文中提及广州AI初创公司多采用Python+LangChain快速原型验证。",
+    "grade": "C",
+    "local": true,
     "angle": ""
    }
   ],
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "理想AI眼镜Livis二代明年下半年上市！AI眼镜+原生鸿蒙App双线狂奔",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aaa934a5d45369967a93a79b57801&url=https%3a%2f%2fwww.sohu.com%2fa%2f1061219295_122066679&c=14310284917438697493&mkt=en-us",
+    "title": "理想：AI眼镜Livis二代明年下半年上市！原生鸿蒙版App正在开发Livis",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ab3ce49924453b22845d79126ae68&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-10%2fdoc-inimvsvf1169701.shtml&c=6701392524353433294&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-10 19:21",
-    "summary": "理想汽车确认第二代Livis AI眼镜将于2026年下半年发布，同步推进原生鸿蒙版App开发，并联合蔡司研发内嵌光学模组，标志车企深度切入AI终端硬件赛道。",
+    "summary": "理想汽车确认第二代AI眼镜Livis将于2027年下半年发布，正联合蔡司研发光学模组，并同步开发原生鸿蒙App，强化车机-眼镜-手机三端协同，拓展泊车辅助、AR导航等智能出行新交互。",
     "grade": "A",
     "local": true,
-    "angle": "专访广州理想交付中心及广汽研究院智能座舱团队，探讨‘车-眼-云’协同在广州智慧交通与文旅场景的本地化应用"
+    "angle": "实地探访广州理想交付中心及华为鸿蒙生态合作方（如广州视源股份），验证车-镜-OS融合落地进度"
    },
    {
     "beat": "机器人/AI硬件",
-    "title": "前 OpenAI 机器人部门主管 Caitlin Kalinowski 加入 Anthropic，还曾在苹果开发 Mac Pro",
-    "url": "https://www.ithome.com/0/988/128.htm",
+    "title": "799 元起 AYANEO 攻氪 KONKR Pocket Advance 掌机新增“冰透黑限定版”，官方同步预热“全球首款 AI 掌机”Pocket Block",
+    "url": "https://www.ithome.com/0/988/263.htm",
     "source": "IT之家",
-    "time": "08-11 09:31",
-    "summary": "前OpenAI机器人项目负责人Caitlin Kalinowski加盟Anthropic，其兼具苹果Mac Pro硬件开发与AI机器人双重背景，预示Anthropic或将加速布局具身智能硬件赛道。",
+    "time": "08-11 13:22",
+    "summary": "AYANEO发布KONKR Pocket Advance冰透黑限定版，并首次官宣‘全球首款AI掌机’Pocket Block研发进展，强调端侧大模型推理与实时交互能力，定价策略瞄准Z世代泛娱乐市场。",
+    "grade": "B",
+    "local": false,
+    "angle": "联系广州本土游戏硬件渠道（如天河城数码广场）及高校ACG社团，观察AI掌机消费趋势"
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "url": "https://cactuscompute.com/needle",
+    "source": "Hacker News",
+    "time": "08-11 01:22",
+    "summary": "开源项目Needle2发布仅14MB的轻量级智能体大模型，专为手机、可穿戴设备及家用机器人优化，支持离线运行与低功耗推理，有望降低AI硬件终端门槛。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "联想拯救者官宣 Y700 无极平板电脑 8 月 25 日 19:00 发布",
+    "url": "https://www.ithome.com/0/988/165.htm",
+    "source": "IT之家",
+    "time": "08-11 10:11",
+    "summary": "联想拯救者Y700无极平板定档8月25日发布，定位AI游戏平板，预计将集成端侧大模型推理能力与云游戏串流优化，延续C700掌机生态协同策略。",
     "grade": "C",
     "local": false,
     "angle": ""
@@ -181,32 +214,21 @@
     "url": "https://www.ithome.com/0/988/229.htm",
     "source": "IT之家",
     "time": "08-11 11:32",
-    "summary": "国航C919将于8月12日执飞首条国际航线（北京—乌兰巴托），标志着中国自主研制大型客机正式迈入国际市场，对民航强国建设具有里程碑意义。",
+    "summary": "国航C919将于8月12日执飞首条国际航线（北京—乌兰巴托），标志着国产大飞机商业化迈出关键一步；目前国航已引进12架C919，后续将拓展东南亚及‘一带一路’沿线航点。",
     "grade": "A",
     "local": false,
-    "angle": "延伸报道：广州白云机场已列入C919后续国际航线备选枢纽；采访南航机务培训中心（广州）关于C919本地化维保能力建设进展"
+    "angle": "联动广州白云机场国际航线规划，采访南航C919引进计划及大湾区航空制造配套产业链"
    },
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "宁德时代全球 10 大宁家服务直营体验中心开业，推出首款电池维修服务车",
-    "url": "https://www.ithome.com/0/988/122.htm",
+    "title": "启境汽车旗下首款 SUV 车型 GX7 首发搭载鸿蒙座舱 6，将于下半年上市",
+    "url": "https://www.ithome.com/0/988/261.htm",
     "source": "IT之家",
-    "time": "08-11 09:16",
-    "summary": "宁德时代旗下宁家服务在广州等全球10城同步开业直营体验中心，并首发移动式电池维修服务车，实现动力电池‘检测-诊断-修复-回收’闭环，补强新能源汽车后市场短板。",
-    "grade": "A",
-    "local": true,
-    "angle": "实地探访广州天河体验中心，跟踪维修车在广汽埃安、小鹏汽车售后网点的试点运行效果，关注广东新能源车以旧换新政策与电池服务衔接"
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "消息称蓝箭航天朱雀三号遥二运载火箭今日发射任务推迟",
-    "url": "https://www.ithome.com/0/988/161.htm",
-    "source": "IT之家",
-    "time": "08-11 10:10",
-    "summary": "蓝箭航天朱雀三号遥二火箭原定8月11日发射因故推迟，该型火箭为国内首型液氧甲烷中型运载火箭，承担商业卫星组网关键任务，发射窗口调整牵动产业链协同。",
-    "grade": "C",
+    "time": "08-11 13:09",
+    "summary": "启境汽车首款SUV GX7首发搭载鸿蒙座舱6系统，基于MoLA 2.0架构实现多模态交互与车家互联，预计售价30-35万元，瞄准新能源中高端市场，下半年开启交付。",
+    "grade": "B",
     "local": false,
-    "angle": ""
+    "angle": "关注广汽、小鹏等大湾区车企鸿蒙生态适配节奏，对比分析‘粤产车+粤产OS’协同潜力"
    },
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -214,7 +236,7 @@
     "url": "https://www.ithome.com/0/988/220.htm",
     "source": "IT之家",
     "time": "08-11 10:50",
-    "summary": "075型两栖攻击舰湖北舰完成全训考核，具备立体登陆作战能力，标志着我国两栖作战力量体系进一步完善，为南海方向遂行多样化任务提供支撑。",
+    "summary": "075型两栖攻击舰湖北舰完成南部战区海军全训考核，具备立体登陆、空中突击与指挥控制等综合作战能力，标志着我国远海投送与联合作战体系进一步完善。",
     "grade": "C",
     "local": false,
     "angle": ""
@@ -227,34 +249,34 @@
     "url": "https://www.ithome.com/0/988/257.htm",
     "source": "IT之家",
     "time": "08-11 12:31",
-    "summary": "央视曝光上海等地私域直播养老诈骗新套路：以免费鸡蛋诱骗老年人入群，虚构病患案例夸大保健品功效，涉嫌违法销售与虚假宣传，已引发多地市场监管部门联动整治。",
+    "summary": "央视曝光上海等地私域直播养老诈骗新套路：以免费鸡蛋诱骗老年人入群，通过虚构病患、夸大功效推销低价保健品，单场直播销售额超百万元，已成监管重点整治领域。",
     "grade": "A",
     "local": false,
-    "angle": "联动广州市场监管局‘银发消费护航行动’，暗访本地社区团购群、微信视频号直播间，梳理大湾区老年群体数字消费维权难点"
+    "angle": "深挖广州社区团购、老年大学直播课等本地化场景，联合广州市监局开展‘银发直播’合规调研"
    }
   ],
   "游戏/电竞/平台公司": [
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《王者荣耀》重夺冠军宝座，跃升2026年7月全球手游收入榜榜首",
-    "url": "http://www.gamelook.com.cn/2026/08/599741/",
-    "source": "GameLook",
-    "time": "08-11 01:12",
-    "summary": "Sensor Tower数据显示，《王者荣耀》以单月超12亿元人民币流水重回全球手游收入榜首，稳居中国出海头部IP，其电竞赛事体系与区域运营策略持续释放商业势能。",
-    "grade": "B",
-    "local": true,
-    "angle": "聚焦广州KPL主场（天河体育中心）、腾讯天美工作室群（广州），分析本地化赛事IP如何反哺城市文旅与青年就业"
-   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "《王者万象棋》制作人：国民IP如何撬动策略对战赛道？",
     "url": "http://www.gamelook.com.cn/2026/08/599656/",
     "source": "GameLook",
     "time": "08-11 10:02",
-    "summary": "腾讯旗下《王者万象棋》全网预约破5000万，以MOBA+策略融合玩法刷新品类纪录，依托《王者荣耀》IP势能拓展中重度用户，展现广州游戏产业内容创新实力。",
+    "summary": "腾讯《王者万象棋》全网预约破5000万，以‘王者IP+轻量化策略’破圈，定档9月上线；其创新采用动态棋盘与英雄技能迁移机制，被业内视为提振国内策略手游市场的标杆产品。",
     "grade": "B",
-    "local": true,
-    "angle": "专访广州游戏出海服务平台（如网易游戏广州分部、三七互娱大湾区中心），探讨粤产游戏全球化发行中的文化适配与本地合规经验"
+    "local": false,
+    "angle": "专访广州腾讯天美工作室群，探讨大湾区游戏出海与IP衍生新路径"
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Sensor Tower：《王者荣耀》重夺冠军宝座，跃升2026年7月全球手游收入榜榜首",
+    "url": "http://www.gamelook.com.cn/2026/08/599741/",
+    "source": "GameLook",
+    "time": "08-11 01:12",
+    "summary": "《王者荣耀》以单月超1.2亿美元收入重返全球手游收入榜第一，领先《Pokémon GO》等海外头部产品，持续验证其在东南亚、中东等新兴市场的本地化运营优势。",
+    "grade": "B",
+    "local": false,
+    "angle": "结合广州黄埔区游戏产业政策，分析《王者》出海对广东数字文化贸易的带动效应"
    },
    {
     "beat": "游戏/电竞/平台公司",
@@ -262,34 +284,45 @@
     "url": "http://www.gamelook.com.cn/2026/08/599691/",
     "source": "GameLook",
     "time": "08-11 10:08",
-    "summary": "全球游戏行业持续裁员背景下，独立开发者发起自救倡议，呼吁开源协作与工具共享，但资金与发行渠道匮乏仍是现实瓶颈，折射创意经济生存困境。",
-    "grade": "B",
-    "local": true,
-    "angle": "走访广州琶洲游戏产业带、羊城创意园独立工作室，报道本地 indie game jam 活动与政府文创基金扶持实效"
+    "summary": "全球独立游戏开发者面临严峻就业压力，海外3A大厂持续裁员背景下，国内中小团队转向自研发行、众筹与跨平台移植寻求生存，但资金与渠道瓶颈突出。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "对话游密科技CEO白宁：服务6000款游戏、36亿玩家后，我们在AI时代做什么？",
-    "url": "http://www.gamelook.com.cn/2026/08/599663/",
-    "source": "GameLook",
-    "time": "08-11 09:22",
-    "summary": "广州游密科技CEO白宁透露，公司正将语音社交技术与AI结合，构建游戏内实时NPC对话、智能陪练等新服务，从‘连接工具商’升级为‘AI游戏基础设施提供商’。",
-    "grade": "B",
-    "local": true,
-    "angle": "深挖游密与网易、三七互娱在粤产游戏中的AI语音合作案例，呈现大湾区游戏技术服务商转型样本"
+    "title": "《无人深空》迎来发售 10 周年，玩家累计游戏时间达数亿小时",
+    "url": "https://www.ithome.com/0/988/131.htm",
+    "source": "IT之家",
+    "time": "08-11 09:44",
+    "summary": "《无人深空》发售十年实现口碑逆转，累计玩家在线时长超数亿小时，成为‘持续更新型游戏’典范；其 procedural generation 技术对国内开放世界研发具有参考价值。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "能偷拍的“折射手机壳”热卖，总台中国之声警告生产销售和使用均涉嫌违法",
-    "url": "https://www.ithome.com/0/988/108.htm",
+    "title": "宁德时代全球 10 大宁家服务直营体验中心开业，推出首款电池维修服务车",
+    "url": "https://www.ithome.com/0/988/122.htm",
     "source": "IT之家",
-    "time": "08-11 08:57",
-    "summary": "央视曝光网络热销‘折射手机壳’具备隐蔽偷拍功能，售价300–600元，商家宣传‘侧面拍摄’，已被明确界定为非法窃听窃照器材，多地市场监管与公安已介入查处。",
+    "time": "08-11 09:16",
+    "summary": "宁德时代宁家服务在广州、海口、杭州等十地同步开业直营体验中心，并首发移动式电池维修服务车，提供现场检测、快修更换及梯次利用回收，推动新能源汽车后市场标准化升级。",
+    "grade": "A",
+    "local": true,
+    "angle": "走访广州天河区宁家服务体验中心，跟踪‘以旧换新’政策下动力电池回收与再制造闭环"
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "央视揭私域直播骗局：免费送鸡蛋拉老人进群，维生素吹成诺奖神药",
+    "url": "https://www.ithome.com/0/988/257.htm",
+    "source": "IT之家",
+    "time": "08-11 12:31",
+    "summary": "央视曝光上海等地私域直播养老诈骗新套路：以免费鸡蛋诱骗老年人入群，通过虚构病患、夸大功效推销低价保健品，单场直播销售额超百万元，已成监管重点整治领域。",
     "grade": "A",
     "local": false,
-    "angle": "联动广州公安网警支队、天河区市场监管局开展校园周边数码店突击检查，追踪广东本地电商平台（如唯品会、京东华南仓）下架执行情况"
+    "angle": "深挖广州社区团购、老年大学直播课等本地化场景，联合广州市监局开展‘银发直播’合规调研"
    },
    {
     "beat": "消费/以旧换新/新餐饮",
@@ -297,40 +330,7 @@
     "url": "https://www.ithome.com/0/988/259.htm",
     "source": "IT之家",
     "time": "08-11 12:44",
-    "summary": "由西藏自治区人民医院牵头研发的国内首个高原病专用预防药获批上市，打破长期依赖进口局面，将惠及赴藏旅游、援藏干部及边防官兵等群体，提升公共卫生应急保障能力。",
-    "grade": "B",
-    "local": false,
-    "angle": "关联广东‘粤贸全国’高原健康消费计划——调研广药集团、香雪制药在高原药品渠道下沉及大湾区旅行社高原游健康包配置情况"
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "我国科学家研制出 455Wh/kg 高能量密度水系锌碘软包电池，800 圈稳定循环",
-    "url": "https://www.ithome.com/0/988/146.htm",
-    "source": "IT之家",
-    "time": "08-11 10:04",
-    "summary": "中科院大连化物所团队突破水系电池能量密度瓶颈，实现455Wh/kg高比能与长循环寿命，为低成本、高安全储能提供新路径，有望加速替代铅酸电池。",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "荣耀畅玩 80 手机上架：搭载天玑 6300 处理器，1029 元起",
-    "url": "https://www.ithome.com/0/988/134.htm",
-    "source": "IT之家",
-    "time": "08-11 09:49",
-    "summary": "荣耀畅玩80标准版登陆京东，搭载联发科天玑6300芯片，首发价1029元起，主打千元档5G普及机型，契合广东县域市场及银发群体换机需求。",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "美国法院裁定，Meta 等公司必须就社交媒体成瘾问题面对数千起诉讼",
-    "url": "https://www.ithome.com/0/988/115.htm",
-    "source": "IT之家",
-    "time": "08-11 09:02",
-    "summary": "美国联邦上诉法院裁定Meta、谷歌、TikTok等科技巨头须直面数千起青少年社交媒体成瘾诉讼，案件或引发全球平台责任立法连锁反应。",
+    "summary": "由西藏自治区人民医院研发的乙酰唑胺缓释胶囊获批上市，是我国首个获批用于预防急性高原病的专用药品，将惠及青藏铁路、川藏公路等重大工程一线人员及赴藏游客。",
     "grade": "C",
     "local": false,
     "angle": ""
@@ -340,36 +340,47 @@
  "flash": [
   {
    "beat": "机器人/AI硬件",
-   "title": "理想AI眼镜Livis二代明年下半年上市！AI眼镜+原生鸿蒙App双线狂奔",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aaa934a5d45369967a93a79b57801&url=https%3a%2f%2fwww.sohu.com%2fa%2f1061219295_122066679&c=14310284917438697493&mkt=en-us",
+   "title": "理想：AI眼镜Livis二代明年下半年上市！原生鸿蒙版App正在开发Livis",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ab3ce49924453b22845d79126ae68&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-10%2fdoc-inimvsvf1169701.shtml&c=6701392524353433294&mkt=en-us",
    "source": "Bing新闻",
    "time": "08-10 19:21",
-   "summary": "理想汽车确认第二代Livis AI眼镜将于2026年下半年发布，同步推进原生鸿蒙版App开发，并联合蔡司研发内嵌光学模组，标志车企深度切入AI终端硬件赛道。",
+   "summary": "理想汽车确认第二代AI眼镜Livis将于2027年下半年发布，正联合蔡司研发光学模组，并同步开发原生鸿蒙App，强化车机-眼镜-手机三端协同，拓展泊车辅助、AR导航等智能出行新交互。",
    "grade": "A",
    "local": true,
-   "angle": "专访广州理想交付中心及广汽研究院智能座舱团队，探讨‘车-眼-云’协同在广州智慧交通与文旅场景的本地化应用"
+   "angle": "实地探访广州理想交付中心及华为鸿蒙生态合作方（如广州视源股份），验证车-镜-OS融合落地进度"
   },
   {
-   "beat": "无人驾驶/低空/智慧出行",
+   "beat": "消费/以旧换新/新餐饮",
    "title": "宁德时代全球 10 大宁家服务直营体验中心开业，推出首款电池维修服务车",
    "url": "https://www.ithome.com/0/988/122.htm",
    "source": "IT之家",
    "time": "08-11 09:16",
-   "summary": "宁德时代旗下宁家服务在广州等全球10城同步开业直营体验中心，并首发移动式电池维修服务车，实现动力电池‘检测-诊断-修复-回收’闭环，补强新能源汽车后市场短板。",
+   "summary": "宁德时代宁家服务在广州、海口、杭州等十地同步开业直营体验中心，并首发移动式电池维修服务车，提供现场检测、快修更换及梯次利用回收，推动新能源汽车后市场标准化升级。",
    "grade": "A",
    "local": true,
-   "angle": "实地探访广州天河体验中心，跟踪维修车在广汽埃安、小鹏汽车售后网点的试点运行效果，关注广东新能源车以旧换新政策与电池服务衔接"
+   "angle": "走访广州天河区宁家服务体验中心，跟踪‘以旧换新’政策下动力电池回收与再制造闭环"
   },
   {
    "beat": "AI/大模型",
-   "title": "千问开放AI眼镜生态，支持开发者打造导游、教练、巡检Skill",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aaa934a5d45369967a93a79b57801&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260811A0404T00&c=6801177631483006058&mkt=en-us",
+   "title": "千问开放AI眼镜生态：支持开发者打造导游、教练Skill",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ab3ce49924453b22845d79126ae68&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fshenji%2f2026-08-11%2fdoc-inimxewt4373314.shtml&c=2826946640987658870&mkt=en-us",
    "source": "Bing新闻",
-   "time": "08-10 21:47",
-   "summary": "通义千问正式开放AI眼镜端生态，提供技能平台与行业定制模块，支持自然语言开发导游、教练、工业巡检等垂直场景Skill，加速AI具身化落地。",
+   "time": "08-10 21:45",
+   "summary": "通义千问开放平台正式支持AI眼镜端开发，提供技能平台与行业定制模块，开发者可通过自然语言调用拍照、语音等能力，快速构建文旅导览、运动陪练等本地化场景应用。",
    "grade": "A",
    "local": false,
-   "angle": "聚焦广州黄埔区AI眼镜产业园、南沙自动驾驶示范区等本地场景，实测千问眼镜技能在广交会导览、白云机场旅客服务中的可行性"
+   "angle": "聚焦广州长隆、珠江夜游等文旅场景，策划‘AI眼镜+岭南文化’体验式报道"
+  },
+  {
+   "beat": "AI/大模型",
+   "title": "千问开放AI眼镜能力！打开3D导览、运动陪练、全屋智能的更多玩法",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ab3ce49924453b22845d79126ae68&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260811A03YQ500&c=4457427083877795068&mkt=en-us",
+   "source": "Bing新闻",
+   "time": "08-10 21:45",
+   "summary": "千问AI眼镜平台支持开发者创建3D导览、运动陪练、全屋智能控制等Skill，通过自然语言描述即可调用多模态能力，降低AI硬件应用开发门槛。",
+   "grade": "A",
+   "local": false,
+   "angle": "聚焦广州琶洲数字经济试验区，探访AI眼镜在广交会、南博会等展会的应用试点"
   },
   {
    "beat": "无人驾驶/低空/智慧出行",
@@ -377,10 +388,10 @@
    "url": "https://www.ithome.com/0/988/229.htm",
    "source": "IT之家",
    "time": "08-11 11:32",
-   "summary": "国航C919将于8月12日执飞首条国际航线（北京—乌兰巴托），标志着中国自主研制大型客机正式迈入国际市场，对民航强国建设具有里程碑意义。",
+   "summary": "国航C919将于8月12日执飞首条国际航线（北京—乌兰巴托），标志着国产大飞机商业化迈出关键一步；目前国航已引进12架C919，后续将拓展东南亚及‘一带一路’沿线航点。",
    "grade": "A",
    "local": false,
-   "angle": "延伸报道：广州白云机场已列入C919后续国际航线备选枢纽；采访南航机务培训中心（广州）关于C919本地化维保能力建设进展"
+   "angle": "联动广州白云机场国际航线规划，采访南航C919引进计划及大湾区航空制造配套产业链"
   },
   {
    "beat": "电商/直播/即时零售",
@@ -388,28 +399,28 @@
    "url": "https://www.ithome.com/0/988/257.htm",
    "source": "IT之家",
    "time": "08-11 12:31",
-   "summary": "央视曝光上海等地私域直播养老诈骗新套路：以免费鸡蛋诱骗老年人入群，虚构病患案例夸大保健品功效，涉嫌违法销售与虚假宣传，已引发多地市场监管部门联动整治。",
+   "summary": "央视曝光上海等地私域直播养老诈骗新套路：以免费鸡蛋诱骗老年人入群，通过虚构病患、夸大功效推销低价保健品，单场直播销售额超百万元，已成监管重点整治领域。",
    "grade": "A",
    "local": false,
-   "angle": "联动广州市场监管局‘银发消费护航行动’，暗访本地社区团购群、微信视频号直播间，梳理大湾区老年群体数字消费维权难点"
+   "angle": "深挖广州社区团购、老年大学直播课等本地化场景，联合广州市监局开展‘银发直播’合规调研"
   },
   {
    "beat": "消费/以旧换新/新餐饮",
-   "title": "能偷拍的“折射手机壳”热卖，总台中国之声警告生产销售和使用均涉嫌违法",
-   "url": "https://www.ithome.com/0/988/108.htm",
+   "title": "央视揭私域直播骗局：免费送鸡蛋拉老人进群，维生素吹成诺奖神药",
+   "url": "https://www.ithome.com/0/988/257.htm",
    "source": "IT之家",
-   "time": "08-11 08:57",
-   "summary": "央视曝光网络热销‘折射手机壳’具备隐蔽偷拍功能，售价300–600元，商家宣传‘侧面拍摄’，已被明确界定为非法窃听窃照器材，多地市场监管与公安已介入查处。",
+   "time": "08-11 12:31",
+   "summary": "央视曝光上海等地私域直播养老诈骗新套路：以免费鸡蛋诱骗老年人入群，通过虚构病患、夸大功效推销低价保健品，单场直播销售额超百万元，已成监管重点整治领域。",
    "grade": "A",
    "local": false,
-   "angle": "联动广州公安网警支队、天河区市场监管局开展校园周边数码店突击检查，追踪广东本地电商平台（如唯品会、京东华南仓）下架执行情况"
+   "angle": "深挖广州社区团购、老年大学直播课等本地化场景，联合广州市监局开展‘银发直播’合规调研"
   }
  ],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(17)",
-   "HackerNews(8)",
+   "HackerNews(9)",
    "Bing新闻(7)"
   ],
   "fail": [
