@@ -1,0 +1,360 @@
+{
+ "id": "2026-08-12-wubao",
+ "title": "线口监测午报 · 2026年08月12日(周三)",
+ "shift": "午报",
+ "date": "2026-08-12 13:50",
+ "docx": "../briefings/线口监测午报-2026-08-12.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品",
+    "url": "https://www.ithome.com/0/988/729.htm",
+    "source": "IT之家",
+    "time": "08-12 13:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中国长安汽车与华为签署战略合作框架协议，在 AI 产品及场景、通用及汽车垂直大模型等方面合作",
+    "url": "https://www.ithome.com/0/988/726.htm",
+    "source": "IT之家",
+    "time": "08-12 13:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美团王莆中：不开线下药店，坚持做医药商家 AI 转型小帮手",
+    "url": "https://www.ithome.com/0/988/722.htm",
+    "source": "IT之家",
+    "time": "08-12 13:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic CEO 阿莫迪整天神神叨叨讲 AI 毁灭世界，投资人受不了了",
+    "url": "https://www.ithome.com/0/988/720.htm",
+    "source": "IT之家",
+    "time": "08-12 12:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软推出 MAI-Code-1.1-Flash 编程模型：更好、更快，价格降至 1/4",
+    "url": "https://www.ithome.com/0/988/715.htm",
+    "source": "IT之家",
+    "time": "08-12 12:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国内首个成功运行超 2 万亿参数大模型的超节点，阿里云灵骏真武 M890 超节点实例上线",
+    "url": "https://www.ithome.com/0/988/688.htm",
+    "source": "IT之家",
+    "time": "08-12 11:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IBM 收获 2.4 亿美元合同，为 Together AI 提供 HGX B300 算力",
+    "url": "https://www.ithome.com/0/988/647.htm",
+    "source": "IT之家",
+    "time": "08-12 10:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "source": "Hacker News",
+    "time": "08-12 10:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达、思科等 120 家组织提议建立 AI 智能体事故追踪机制",
+    "url": "https://www.ithome.com/0/988/612.htm",
+    "source": "IT之家",
+    "time": "08-12 09:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达推出 30B 开源 AI 模型 Nemotron 3.5 Lightning，智能体任务整体完成速度加快 30%",
+    "url": "https://www.ithome.com/0/988/609.htm",
+    "source": "IT之家",
+    "time": "08-12 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 扮演所有员工角色：NEC 成立企业人工智能与劳动力部门",
+    "url": "https://www.ithome.com/0/988/591.htm",
+    "source": "IT之家",
+    "time": "08-12 09:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 Win11 26H1 推送 28000.2704 更新：32GB+ 内存 PC 可运行更大规模本地 AI",
+    "url": "https://www.ithome.com/0/988/583.htm",
+    "source": "IT之家",
+    "time": "08-12 09:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 公司面壁智能启动 IPO",
+    "url": "https://www.ithome.com/0/988/581.htm",
+    "source": "IT之家",
+    "time": "08-12 08:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "眼镜店里“绘”天庭 成都店主AI仙宫短片走红海外",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c09a1565149eab4424856085fa0b8&url=https%3a%2f%2fwww.chinanews.com.cn%2fsh%2f2026%2f08-12%2f10676214.shtml&c=17073198229837614845&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-12 06:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Go is an ideal language for AI-assisted software engineering",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "source": "Hacker News",
+    "time": "08-12 00:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一家 AI 眼镜独角兽背后的「冰与火之歌」",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c09a1565149eab4424856085fa0b8&url=https%3a%2f%2fwww.leiphone.com%2fcategory%2fweiwu%2fN8AbqKGve3lxNPho.html&c=1565714620232128280&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-11 22:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI’s head of ethics leaves less than a year after joining",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "source": "Hacker News",
+    "time": "08-11 20:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "汽车早报｜理想第二代AI眼镜预计明年下半年上市 特斯拉在美召回超2万辆Model 3和Model Y",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c09a1565149eab4424856085fa0b8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1061717495_313745&c=4944989770553682676&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-11 19:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "加南K2 AI智能眼镜：轻量化设计，打造日常佩戴的智能新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c09a1565149eab4424856085fa0b8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%258A%25A0%25E5%258D%2597k2-ai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C-%25E8%25BD%25BB%25E9%2587%258F%25E5%258C%2596%25E8%25AE%25BE%25E8%25AE%25A1-%25E6%2589%2593%25E9%2580%25A0%25E6%2597%25A5%25E5%25B8%25B8%25E4%25BD%25A9%25E6%2588%25B4%25E7%259A%2584%25E6%2599%25BA%25E8%2583%25BD%25E6%2596%25B0%25E4%25BD%2593%25E9%25AA%258C%2far-AA29RPx0&c=8726832030125664419&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-11 16:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“AI游戏”深水区：10万AI居民“喜获涌现”，博士团队吐槽:“最近被AI毒打了”",
+    "url": "http://www.gamelook.com.cn/2026/08/599699/",
+    "source": "GameLook",
+    "time": "08-11 12:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "奕境曾清林谈与华为合作：华为智驾水平依然是行业顶级存在，硬技术绝不是随便一个供应商能平替的",
+    "url": "https://www.ithome.com/0/988/654.htm",
+    "source": "IT之家",
+    "time": "08-12 10:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "IMDb 页面显示《漫威蜘蛛侠 3》游戏正在开发中，洛文塔尔配音",
+    "url": "https://www.ithome.com/0/988/713.htm",
+    "source": "IT之家",
+    "time": "08-12 12:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "老板不让露脸、隐姓埋名做游戏，中国游戏圈的神神秘秘“何时松绑”？",
+    "url": "http://www.gamelook.com.cn/2026/08/599767/",
+    "source": "GameLook",
+    "time": "08-12 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "周亚辉又来资本大戏：昆仑万维计划香港H股上市，35亿买的游戏公司7.5亿出售",
+    "url": "http://www.gamelook.com.cn/2026/08/599750/",
+    "source": "GameLook",
+    "time": "08-12 10:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "268 元起、甄子丹加盟，国产 3A 游戏《影之刃零》开启多平台预购",
+    "url": "https://www.ithome.com/0/988/620.htm",
+    "source": "IT之家",
+    "time": "08-12 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Piston V 游戏迷你主机曝光：圆形触控屏，Win11 和 Bazzite 双启动",
+    "url": "https://www.ithome.com/0/988/611.htm",
+    "source": "IT之家",
+    "time": "08-12 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "修手机游戏机能减压？《维修物语》Steam火了！玩家当上“赛博华佗”",
+    "url": "http://www.gamelook.com.cn/2026/08/599808/",
+    "source": "GameLook",
+    "time": "08-12 09:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "7个月10家破产！日本游戏圈呜呼：中小手游公司真的扛不住了",
+    "url": "http://www.gamelook.com.cn/2026/08/599745/",
+    "source": "GameLook",
+    "time": "08-12 09:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏《黑神话：悟空》开启史低 7 折优惠：标准版 187.6 元，豪华版 229.6 元",
+    "url": "https://www.ithome.com/0/988/605.htm",
+    "source": "IT之家",
+    "time": "08-12 09:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "组队整活游戏《BigWalk》Steam走红！暴走Walk之后，玩到被游戏感动？",
+    "url": "http://www.gamelook.com.cn/2026/08/599734/",
+    "source": "GameLook",
+    "time": "08-11 12:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(5)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
