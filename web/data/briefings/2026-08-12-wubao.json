@@ -2,20 +2,42 @@
  "id": "2026-08-12-wubao",
  "title": "线口监测午报 · 2026年08月12日(周三)",
  "shift": "午报",
- "date": "2026-08-12 18:42",
+ "date": "2026-08-12 19:12",
  "docx": "../briefings/线口监测午报-2026-08-12.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "芝加哥商品交易所计划推出 NVIDIA AI GPU 租赁价格指数期货",
-    "url": "https://www.ithome.com/0/988/887.htm",
+    "title": "华为启动 AIPL 基线合作伙伴计划，联合打造可复制、可规模化推广的 AI 实践教学方案",
+    "url": "https://www.ithome.com/0/988/804.htm",
     "source": "IT之家",
-    "time": "08-12 17:52",
-    "summary": "",
-    "grade": "C",
+    "time": "08-12 15:58",
+    "summary": "华为在深圳启动AI实践实验室（AIPL）基线合作伙伴计划，联合教育信息化服务商共建AI教学方案，推动高校AI人才培养标准化、规模化落地。",
+    "grade": "A",
+    "local": true,
+    "angle": "聚焦广州高校（如中山大学、华南理工）参与情况，挖掘广东‘人工智能+教育’产教融合标杆案例"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为之外第一：深开鸿贡献 OpenHarmony 主干代码突破 1000 万行",
+    "url": "https://www.ithome.com/0/988/806.htm",
+    "source": "IT之家",
+    "time": "08-12 16:07",
+    "summary": "深圳开鸿数字产业公司宣布贡献OpenHarmony主干代码超1000万行，成为华为外最大开源贡献者，彰显大湾区在国产操作系统根技术领域的核心支撑力。",
+    "grade": "A",
+    "local": true,
+    "angle": "突出深圳+广州双核驱动，专访深开鸿及广州鸿蒙生态企业（如广电运通），解析OpenHarmony在政务、金融等本地关键场景落地实效"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Manus 开启限时免费活动：8 月 26 日前 Manus 1.6/Lite 全球免费用",
+    "url": "https://www.ithome.com/0/988/895.htm",
+    "source": "IT之家",
+    "time": "08-12 18:09",
+    "summary": "国产AI智能体平台Manus宣布全球限时免费开放1.6/Lite版本，活动至8月25日结束，降低开发者与普通用户使用门槛，反映国内AI Agent工具正加速普及化、平民化。",
+    "grade": "B",
     "local": false,
-    "angle": ""
+    "angle": "可联动广州人工智能企业（如云从、小鹏AI）探讨本土AI智能体生态落地进展及中小企业接入实践"
    },
    {
     "beat": "AI/大模型",
@@ -23,153 +45,21 @@
     "url": "https://www.ithome.com/0/988/884.htm",
     "source": "IT之家",
     "time": "08-12 17:36",
-    "summary": "",
-    "grade": "C",
+    "summary": "斯坦福与约翰斯·霍普金斯专家联合警示AI在医学教育中滥用风险，指出过度依赖将损害临床推理能力培养，引发对AI伦理边界与专业教育底线的深层讨论。",
+    "grade": "B",
     "local": false,
-    "angle": ""
+    "angle": "可采访广州医科大学、南方医等本地医学院校，梳理粤港澳大湾区AI医疗教育规范探索现状"
    },
    {
     "beat": "AI/大模型",
-    "title": "腾讯回应 Q2 负自由现金流 138 亿元：若剔除算力采购的预付款项，自由现金流为 376 亿元",
-    "url": "https://www.ithome.com/0/988/835.htm",
+    "title": "字节跳动为豆包推出在校大学生专属优惠活动：2.5 倍免费额度，专业版 38 元 / 月起",
+    "url": "https://www.ithome.com/0/988/891.htm",
     "source": "IT之家",
-    "time": "08-12 16:48",
-    "summary": "",
-    "grade": "C",
+    "time": "08-12 18:03",
+    "summary": "豆包面向全国大学生推出认证优惠，免费额度提升至2.5倍，专业版月费降至38元，凸显大模型应用向校园场景深度渗透，强化学生群体AI素养培育入口。",
+    "grade": "B",
     "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "华为启动 AIPL 基线合作伙伴计划，联合打造可复制、可规模化推广的 AI 实践教学方案",
-    "url": "https://www.ithome.com/0/988/804.htm",
-    "source": "IT之家",
-    "time": "08-12 15:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "眼镜店里“绘”天庭 成都店主AI仙宫短片走红海外",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c4e28f77b455cb272fc0e10379a4d&url=https%3a%2f%2fwww.chinanews.com.cn%2fsh%2f2026%2f08-12%2f10676214.shtml&c=17073198229837614845&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-12 11:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "汽车早报｜理想第二代AI眼镜预计明年下半年上市 特斯拉在美召回超2万辆Model 3和Model Y",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c4e28f77b455cb272fc0e10379a4d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1061717495_313745&c=4944989770553682676&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-12 09:37",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜从“极客玩具”走向“全民新宠”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c4e28f77b455cb272fc0e10379a4d&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E4%25BB%258E-%25E6%259E%2581%25E5%25AE%25A2%25E7%258E%25A9%25E5%2585%25B7-%25E8%25B5%25B0%25E5%2590%2591-%25E5%2585%25A8%25E6%25B0%2591%25E6%2596%25B0%25E5%25AE%25A0%2far-AA29Urfe&c=8341388069004130765&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-12 07:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苹果AI眼镜再延期：宁舍先机，不丢“隐私牌”？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c4e28f77b455cb272fc0e10379a4d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260812A0AEH800&c=10193677225426278870&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-12 04:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "吴良材牵手千问AI眼镜，全国旗舰店落地上海南京东路",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c4e28f77b455cb272fc0e10379a4d&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-12%2fdoc-inimzumm6921824.shtml&c=736824207105843448&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-12 02:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "一家 AI 眼镜独角兽背后的「冰与火之歌」",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c4e28f77b455cb272fc0e10379a4d&url=https%3a%2f%2fwww.leiphone.com%2fcategory%2fweiwu%2fN8AbqKGve3lxNPho.html&c=1565714620232128280&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-11 22:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI’s head of ethics leaves less than a year after joining",
-    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-    "source": "Hacker News",
-    "time": "08-11 20:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“AI游戏”深水区：10万AI居民“喜获涌现”，博士团队吐槽:“最近被AI毒打了”",
-    "url": "http://www.gamelook.com.cn/2026/08/599699/",
-    "source": "GameLook",
-    "time": "08-11 12:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "千问开放AI眼镜生态：支持开发者打造导游、教练Skill",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c4e28f77b455cb272fc0e10379a4d&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fshenji%2f2026-08-11%2fdoc-inimxewt4373314.shtml&c=2826946640987658870&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-11 11:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "千问开放AI眼镜生态，支持开发者打造导游、教练、巡检Skill",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c4e28f77b455cb272fc0e10379a4d&url=https%3a%2f%2fwww.163.com%2ftech%2farticle%2fL421PVH400098IEO.html&c=10163979519841897752&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-11 09:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "对话游密科技CEO白宁：服务6000款游戏、36亿玩家后，我们在AI时代做什么？",
-    "url": "http://www.gamelook.com.cn/2026/08/599663/",
-    "source": "GameLook",
-    "time": "08-11 09:22",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
+    "angle": "结合广东高校密集优势，调研广工、暨大等校AI工具使用率及课程融合案例"
    }
   ],
   "机器人/AI硬件": [
@@ -179,59 +69,93 @@
     "url": "https://www.ithome.com/0/988/851.htm",
     "source": "IT之家",
     "time": "08-12 17:08",
-    "summary": "",
-    "grade": "C",
+    "summary": "杭州宇树科技披露其双足人形机器人累计量产下线约18000台，创国内单厂商人形机器人量产新高，标志商业化进程从实验室迈向规模化交付阶段。",
+    "grade": "A",
     "local": false,
-    "angle": ""
+    "angle": "联动广州机器人企业（如云鲸、优必选华南团队）、黄埔区智能装备产业园，对比分析大湾区人形机器人产业链协同进展"
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
-  "电商/直播/即时零售": [
+  "无人驾驶/低空/智慧出行": [
    {
-    "beat": "电商/直播/即时零售",
+    "beat": "无人驾驶/低空/智慧出行",
     "title": "港澳两地跨境直通客运线路首次应用新能源客车，中通 H12 增程客车投运“港澳快线”",
     "url": "https://www.ithome.com/0/988/903.htm",
     "source": "IT之家",
     "time": "08-12 18:30",
-    "summary": "",
-    "grade": "C",
+    "summary": "中通H12增程客车正式投入港珠澳大桥‘港澳快线’，系港澳跨境直通客运线路首次批量应用新能源客车，体现大湾区绿色交通一体化实质性突破。",
+    "grade": "A",
+    "local": true,
+    "angle": "实地探访广州南站/珠海口岸接驳点，追踪粤港新能源客运标准互认、充换电基建协同等深水区议题"
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "抵达乌兰巴托，国产大飞机 C919 成功首飞国际商业航线",
+    "url": "https://www.ithome.com/0/988/897.htm",
+    "source": "IT之家",
+    "time": "08-12 18:12",
+    "summary": "国航C919执飞CA723航班成功降落蒙古乌兰巴托，实现C919首次国际商业航线飞行，标志着中国民机出海迈出关键一步，具备全球运营能力。",
+    "grade": "A",
     "local": false,
-    "angle": ""
+    "angle": "关联广州白云机场作为C919重要运营基地，采访南航、九元航空等驻穗航司对C919引进及国际航线规划"
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "全新一代智己 L6 × Prof. Jimmy Choo 周仰杰高定限量版汽车官图公布",
+    "url": "https://www.ithome.com/0/988/933.htm",
+    "source": "IT之家",
+    "time": "08-12 18:58",
+    "summary": "智己汽车联合国际时尚大师周仰杰推出L6高定限量版，以跨界设计强化智能电动车品牌溢价能力，反映新势力车企从技术竞争转向文化价值输出。",
+    "grade": "B",
+    "local": false,
+    "angle": "可延伸至广汽埃安、小鹏MONA等广州车企高端化路径对比，探讨湾区智造与时尚IP融合新模式"
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "我国汽车出口连续两个月突破 100 万辆，延续强劲增长态势",
+    "url": "https://www.ithome.com/0/988/921.htm",
+    "source": "IT之家",
+    "time": "08-12 18:49",
+    "summary": "7月中国汽车出口达104.3万辆，同比增长81.3%，新能源车占比超50%，印证‘新三样’出海进入规模化爆发期，广东车企（比亚迪、广汽）为重要贡献方。",
+    "grade": "A",
+    "local": true,
+    "angle": "深挖广州南沙港汽车滚装出口数据、广汽埃安印尼工厂投产进展，呈现湾区汽车出海‘制造+服务+品牌’全链条"
+   },
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "沃尔玛入华 30 年：中国线上销售占比过半，CEO 称将持续加大在华投入",
+    "url": "https://www.ithome.com/0/988/824.htm",
+    "source": "IT之家",
+    "time": "08-12 16:29",
+    "summary": "沃尔玛中国在深圳庆祝入华30周年，宣布线上销售占比已超50%，并明确加码投资，凸显传统零售巨头全面拥抱数字化、深耕下沉市场的战略定力。",
+    "grade": "B",
+    "local": true,
+    "angle": "聚焦沃尔玛广州区域仓配体系升级、社区店数字化改造及与美团闪购等本地即时零售平台合作细节"
    }
   ],
   "游戏/电竞/平台公司": [
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "索尼 PSN 商店开启“准备就位”游戏促销活动，《黑神话：悟空》7 折新史低 208.6 港币起",
-    "url": "https://www.ithome.com/0/988/899.htm",
-    "source": "IT之家",
-    "time": "08-12 18:22",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "腾讯《王者营地》鸿蒙版 App 正式上架华为应用市场，支持《王者荣耀》战绩查询、隐身登录等功能",
     "url": "https://www.ithome.com/0/988/889.htm",
     "source": "IT之家",
     "time": "08-12 17:54",
-    "summary": "",
-    "grade": "C",
+    "summary": "腾讯《王者营地》鸿蒙版上线华为应用市场，实现主流游戏App与国产OS深度适配，标志游戏生态跨平台协同进入实用化阶段。",
+    "grade": "B",
     "local": false,
-    "angle": ""
+    "angle": "可联动广州腾讯微信事业群、网易游戏，探讨鸿蒙生态对本地游戏研发与分发格局的影响"
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "迈从 V7 三模电竞鼠标发售：搭 PAW3395 传感器，到手价 149.6 元",
-    "url": "https://www.ithome.com/0/988/833.htm",
+    "title": "腾讯回应 Q2 负自由现金流 138 亿元：若剔除算力采购的预付款项，自由现金流为 376 亿元",
+    "url": "https://www.ithome.com/0/988/835.htm",
     "source": "IT之家",
-    "time": "08-12 16:42",
-    "summary": "",
-    "grade": "C",
+    "time": "08-12 16:48",
+    "summary": "腾讯Q2财报显示负自由现金流主因大规模AI算力预付款，调整后达376亿元，印证其坚定押注AI基础设施投入，为游戏、广告、社交等业务提供底层支撑。",
+    "grade": "B",
     "local": false,
-    "angle": ""
+    "angle": "结合广州人工智能计算中心建设，分析腾讯云在粤布局对本地游戏AI训练、云游戏发展的赋能作用"
    },
    {
     "beat": "游戏/电竞/平台公司",
@@ -239,108 +163,264 @@
     "url": "https://www.ithome.com/0/988/829.htm",
     "source": "IT之家",
     "time": "08-12 16:36",
-    "summary": "",
-    "grade": "C",
+    "summary": "腾讯上半年净利润同比增10%，微信MAU达14.39亿，稳居国民级平台；视频号、小程序、小游戏持续贡献增长动能，体现超级App生态韧性。",
+    "grade": "B",
     "local": false,
-    "angle": ""
+    "angle": "聚焦广州微信生态（如唯品会、虎牙、YY等本地头部小程序/小游戏厂商）获益情况及政策扶持实效"
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "莉莉丝发行丧尸末日生存模拟游戏《生存日志》登陆 Steam，国区首发 39.1 元",
-    "url": "https://www.ithome.com/0/988/813.htm",
+    "title": "《艾尔登法环 褪色者版》最新预告公开，8月28日登陆任天堂 Switch 2",
+    "url": "https://www.ithome.com/0/988/905.htm",
     "source": "IT之家",
-    "time": "08-12 16:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "丧尸合作射击游戏《地狱已满 2》发售，Steam 国区售价 108 元",
-    "url": "https://www.ithome.com/0/988/496.htm",
-    "source": "IT之家",
-    "time": "08-12 16:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "老板不让露脸、隐姓埋名做游戏，中国游戏圈的神神秘秘“何时松绑”？",
-    "url": "http://www.gamelook.com.cn/2026/08/599767/",
-    "source": "GameLook",
-    "time": "08-12 10:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "周亚辉又来资本大戏：昆仑万维计划香港H股上市，35亿买的游戏公司7.5亿出售",
-    "url": "http://www.gamelook.com.cn/2026/08/599750/",
-    "source": "GameLook",
-    "time": "08-12 10:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "修手机游戏机能减压？《维修物语》Steam火了！玩家当上“赛博华佗”",
-    "url": "http://www.gamelook.com.cn/2026/08/599808/",
-    "source": "GameLook",
-    "time": "08-12 09:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "7个月10家破产！日本游戏圈呜呼：中小手游公司真的扛不住了",
-    "url": "http://www.gamelook.com.cn/2026/08/599745/",
-    "source": "GameLook",
-    "time": "08-12 09:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "组队整活游戏《BigWalk》Steam走红！暴走Walk之后，玩到被游戏感动？",
-    "url": "http://www.gamelook.com.cn/2026/08/599734/",
-    "source": "GameLook",
-    "time": "08-11 12:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "7月抖音小游戏畅销榜Top 100：《灵画师》登顶、《兵器王者》第二",
-    "url": "http://www.gamelook.com.cn/2026/08/599666/",
-    "source": "GameLook",
-    "time": "08-11 09:30",
-    "summary": "",
+    "time": "08-12 18:39",
+    "summary": "万代南梦宫官宣《艾尔登法环 褪色者版》将于8月28日登陆Switch 2，含本体+《黄金树幽影》，系主机平台重大IP首发，提振下半年游戏市场信心。",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "AI眼镜从“极客玩具”走向“全民新宠”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c55352c9543f8b4fb28585448428d&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E4%25BB%258E-%25E6%259E%2581%25E5%25AE%25A2%25E7%258E%25A9%25E5%2585%25B7-%25E8%25B5%25B0%25E5%2590%2591-%25E5%2585%25A8%25E6%25B0%2591%25E6%2596%25B0%25E5%25AE%25A0%2far-AA29Urfe",
+    "source": "Bing新闻",
+    "time": "08-12 07:11",
+    "summary": "AI眼镜正突破小众圈层，百元级产品涌现、渠道下沉加速，上海南京东路千问旗舰店落地标志其进入专业验配与大众消费双轨通道，隐私安全问题同步引发关注。",
+    "grade": "A",
+    "local": false,
+    "angle": "追踪广州天河城、北京路商圈AI眼镜体验店布局，采访本地视光连锁（如宝岛眼镜广东总部）对AI眼镜验配标准制定进展"
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "资本疯狂下注AI眼镜：千亿赛道狂欢，是否透支未来？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c55352c9543f8b4fb28585448428d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260812A0ARVX00",
+    "source": "Bing新闻",
+    "time": "08-12 04:32",
+    "summary": "资本市场将AI眼镜视为消费电子新增量核心方向，融资热度激增，但行业面临技术成熟度、用户教育、隐私监管等多重挑战，需警惕概念炒作与产能过剩风险。",
+    "grade": "B",
+    "local": false,
+    "angle": "对接广州人工智能产业基金、黄埔硬科技孵化器，梳理本地AI光学模组、微显示等上游企业卡位情况"
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "吴良材牵手千问AI眼镜，全国旗舰店落地上海南京东路",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c55352c9543f8b4fb28585448428d&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-12%2fdoc-inimzumm6921824.shtml",
+    "source": "Bing新闻",
+    "time": "08-12 02:12",
+    "summary": "百年老字号吴良材与千问AI眼镜共建全国首家旗舰店，将AI硬件融入专业视光服务场景，开创‘科技+传统’零售融合新模式，加速AI眼镜消费信任构建。",
+    "grade": "B",
+    "local": false,
+    "angle": "延伸至广州老字号（如东山百货、致美斋）与AI消费电子合作可能性，探讨湾区国货焕新路径"
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "千问开放AI眼镜生态：支持开发者打造导游、教练Skill",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c55352c9543f8b4fb28585448428d&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fshenji%2f2026-08-11%2fdoc-inimxewt4373314.shtml",
+    "source": "Bing新闻",
+    "time": "08-11 11:45",
+    "summary": "千问AI眼镜开放平台上线，支持开发者通过自然语言快速创建导游、教练等垂直场景Skill，降低AI眼镜应用开发门槛，推动从硬件销售向服务生态演进。",
+    "grade": "B",
+    "local": false,
+    "angle": "可联系广州文旅局、长隆集团，探讨AI眼镜在广府文化导览、岭南非遗沉浸体验等本地特色场景落地潜力"
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "苹果 Apple Music 悄悄上线日语歌词英语翻译功能",
+    "url": "https://www.ithome.com/0/988/828.htm",
+    "source": "IT之家",
+    "time": "08-12 16:34",
+    "summary": "Apple Music悄然为日语歌曲添加英文字幕翻译，虽暂未支持中文，但反映流媒体平台加速多语言内容本地化，满足Z世代跨文化消费需求。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家大容量商务双肩包 2 发售：多仓分区结构、23L 容量，499 元",
+    "url": "https://www.ithome.com/0/988/907.htm",
+    "source": "IT之家",
+    "time": "08-12 18:44",
+    "summary": "小米米家推出新款商务双肩包，主打多仓分区与23L大容量，定价499元，延续性价比策略切入职场人群通勤装备细分市场。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "清闲智能推出 OC1 焕新版人体工程学椅：五档调节 + 加长颈枕，3299 元",
+    "url": "https://www.ithome.com/0/988/904.htm",
+    "source": "IT之家",
+    "time": "08-12 18:37",
+    "summary": "清闲智能发布OC1焕新版人体工学椅，强调五档调节与加长颈枕设计，定价3299元，瞄准居家办公与健康消费升级需求，反映办公家具智能化趋势。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "漫步者 MT6 Pro 头戴式降噪耳机上市：-45dB 降噪深度、55 小时续航，299 元",
+    "url": "https://www.ithome.com/0/988/898.htm",
+    "source": "IT之家",
+    "time": "08-12 18:15",
+    "summary": "漫步者推出MT6 Pro降噪耳机，以299元亲民价格提供-45dB降噪与55小时续航，凸显国产品牌在中端音频市场极致性价比策略。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "奥造科技推出冷奥 L100 手机液冷散热器：支持为 iPhone 15W 无线充电，568 元",
+    "url": "https://www.ithome.com/0/988/842.htm",
+    "source": "IT之家",
+    "time": "08-12 16:58",
+    "summary": "奥造科技发布手机液冷散热器，兼容iPhone系列并支持15W无线充电，定价568元，切入手游玩家与内容创作者散热刚需细分赛道。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "几何未来 Eskimo Ultra 42 液冷发售：420 旗舰规格，799 元",
+    "url": "https://www.ithome.com/0/988/826.htm",
+    "source": "IT之家",
+    "time": "08-12 16:32",
+    "summary": "几何未来推出Eskimo Ultra 42一体式液冷，配备三颗140mm风扇与420规格，定价799元，以高配低价冲击DIY高端散热市场。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "颂拓推出 SUUNTO CORE 2 智能运动手表：内置高度气压计 / 水下记录功能、纽扣电池供电，1599 元",
+    "url": "https://www.ithome.com/0/988/805.htm",
+    "source": "IT之家",
+    "time": "08-12 16:04",
+    "summary": "芬兰颂拓发布CORE 2户外智能手表，主打高度气压计与水下记录功能，采用纽扣电池供电，续航长达数年，强化专业运动装备可靠性标签。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "be quiet! 发布 Light Mount TKL 静音机械键盘与 Mousepad XL 鼠标垫",
+    "url": "https://www.ithome.com/0/988/869.htm",
+    "source": "IT之家",
+    "time": "08-12 17:22",
+    "summary": "德商be quiet!发布静音机械键盘Light Mount TKL，搭载Silent V2轴体，兼顾打字静音与游戏响应，拓展静音外设细分品类。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "迈从 V7 三模电竞鼠标发售：搭 PAW3395 传感器，到手价 149.6 元",
+    "url": "https://www.ithome.com/0/988/833.htm",
+    "source": "IT之家",
+    "time": "08-12 16:42",
+    "summary": "迈从V7轻量化电竞鼠标搭载PAW3395传感器，重59g，首发价149.6元，以高性价比切入入门级电竞外设市场。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米澎湃 HyperOS 4 系统蓄势待发，REDMI 产品经理胡馨心透露“在路上了”",
+    "url": "https://www.ithome.com/0/988/839.htm",
+    "source": "IT之家",
+    "time": "08-12 16:54",
+    "summary": "小米HyperOS 4系统进入发布倒计时，REDMI产品经理确认Beta版即将推送，新系统将强化AI能力与跨端协同，为年度旗舰机型铺路。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
- "flash": [],
+ "flash": [
+  {
+   "beat": "AI/大模型",
+   "title": "华为启动 AIPL 基线合作伙伴计划，联合打造可复制、可规模化推广的 AI 实践教学方案",
+   "url": "https://www.ithome.com/0/988/804.htm",
+   "source": "IT之家",
+   "time": "08-12 15:58",
+   "summary": "华为在深圳启动AI实践实验室（AIPL）基线合作伙伴计划，联合教育信息化服务商共建AI教学方案，推动高校AI人才培养标准化、规模化落地。",
+   "grade": "A",
+   "local": true,
+   "angle": "聚焦广州高校（如中山大学、华南理工）参与情况，挖掘广东‘人工智能+教育’产教融合标杆案例"
+  },
+  {
+   "beat": "AI/大模型",
+   "title": "华为之外第一：深开鸿贡献 OpenHarmony 主干代码突破 1000 万行",
+   "url": "https://www.ithome.com/0/988/806.htm",
+   "source": "IT之家",
+   "time": "08-12 16:07",
+   "summary": "深圳开鸿数字产业公司宣布贡献OpenHarmony主干代码超1000万行，成为华为外最大开源贡献者，彰显大湾区在国产操作系统根技术领域的核心支撑力。",
+   "grade": "A",
+   "local": true,
+   "angle": "突出深圳+广州双核驱动，专访深开鸿及广州鸿蒙生态企业（如广电运通），解析OpenHarmony在政务、金融等本地关键场景落地实效"
+  },
+  {
+   "beat": "无人驾驶/低空/智慧出行",
+   "title": "港澳两地跨境直通客运线路首次应用新能源客车，中通 H12 增程客车投运“港澳快线”",
+   "url": "https://www.ithome.com/0/988/903.htm",
+   "source": "IT之家",
+   "time": "08-12 18:30",
+   "summary": "中通H12增程客车正式投入港珠澳大桥‘港澳快线’，系港澳跨境直通客运线路首次批量应用新能源客车，体现大湾区绿色交通一体化实质性突破。",
+   "grade": "A",
+   "local": true,
+   "angle": "实地探访广州南站/珠海口岸接驳点，追踪粤港新能源客运标准互认、充换电基建协同等深水区议题"
+  },
+  {
+   "beat": "电商/直播/即时零售",
+   "title": "我国汽车出口连续两个月突破 100 万辆，延续强劲增长态势",
+   "url": "https://www.ithome.com/0/988/921.htm",
+   "source": "IT之家",
+   "time": "08-12 18:49",
+   "summary": "7月中国汽车出口达104.3万辆，同比增长81.3%，新能源车占比超50%，印证‘新三样’出海进入规模化爆发期，广东车企（比亚迪、广汽）为重要贡献方。",
+   "grade": "A",
+   "local": true,
+   "angle": "深挖广州南沙港汽车滚装出口数据、广汽埃安印尼工厂投产进展，呈现湾区汽车出海‘制造+服务+品牌’全链条"
+  },
+  {
+   "beat": "机器人/AI硬件",
+   "title": "宇树科技宣布人形机器人累计下线约 18000 台",
+   "url": "https://www.ithome.com/0/988/851.htm",
+   "source": "IT之家",
+   "time": "08-12 17:08",
+   "summary": "杭州宇树科技披露其双足人形机器人累计量产下线约18000台，创国内单厂商人形机器人量产新高，标志商业化进程从实验室迈向规模化交付阶段。",
+   "grade": "A",
+   "local": false,
+   "angle": "联动广州机器人企业（如云鲸、优必选华南团队）、黄埔区智能装备产业园，对比分析大湾区人形机器人产业链协同进展"
+  },
+  {
+   "beat": "无人驾驶/低空/智慧出行",
+   "title": "抵达乌兰巴托，国产大飞机 C919 成功首飞国际商业航线",
+   "url": "https://www.ithome.com/0/988/897.htm",
+   "source": "IT之家",
+   "time": "08-12 18:12",
+   "summary": "国航C919执飞CA723航班成功降落蒙古乌兰巴托，实现C919首次国际商业航线飞行，标志着中国民机出海迈出关键一步，具备全球运营能力。",
+   "grade": "A",
+   "local": false,
+   "angle": "关联广州白云机场作为C919重要运营基地，采访南航、九元航空等驻穗航司对C919引进及国际航线规划"
+  },
+  {
+   "beat": "消费/以旧换新/新餐饮",
+   "title": "AI眼镜从“极客玩具”走向“全民新宠”",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c55352c9543f8b4fb28585448428d&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E4%25BB%258E-%25E6%259E%2581%25E5%25AE%25A2%25E7%258E%25A9%25E5%2585%25B7-%25E8%25B5%25B0%25E5%2590%2591-%25E5%2585%25A8%25E6%25B0%2591%25E6%2596%25B0%25E5%25AE%25A0%2far-AA29Urfe",
+   "source": "Bing新闻",
+   "time": "08-12 07:11",
+   "summary": "AI眼镜正突破小众圈层，百元级产品涌现、渠道下沉加速，上海南京东路千问旗舰店落地标志其进入专业验配与大众消费双轨通道，隐私安全问题同步引发关注。",
+   "grade": "A",
+   "local": false,
+   "angle": "追踪广州天河城、北京路商圈AI眼镜体验店布局，采访本地视光连锁（如宝岛眼镜广东总部）对AI眼镜验配标准制定进展"
+  }
+ ],
  "stats": {
   "ok": [
    "IT之家(59)",
    "GameLook(14)",
-   "HackerNews(3)",
+   "HackerNews(5)",
    "Bing新闻(8)"
   ],
   "fail": [
