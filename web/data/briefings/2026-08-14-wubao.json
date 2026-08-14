@@ -2,7 +2,7 @@
  "id": "2026-08-14-wubao",
  "title": "线口监测午报 · 2026年08月14日(周五)",
  "shift": "午报",
- "date": "2026-08-14 18:38",
+ "date": "2026-08-14 19:11",
  "docx": "../briefings/线口监测午报-2026-08-14.docx",
  "sections": {
   "AI/大模型": [
@@ -85,19 +85,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "京东发布Q2财报：AI眼镜、AIPC 等AI趋势品类成交额同比增长125%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ef012cc254a97b4c28e80e3303493&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-08-14%2fdoc-ininfvzx9506874.shtml&c=13985468594775850986&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-14 10:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "闪极将发布女性款AI眼镜 loomos L1下周见!",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ef012cc254a97b4c28e80e3303493&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%2597%25AA%25E6%259E%2581%25E5%25B0%2586%25E5%258F%2591%25E5%25B8%2583%25E5%25A5%25B3%25E6%2580%25A7%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C-loomos-l1%25E4%25B8%258B%25E5%2591%25A8%25E8%25A7%2581%2far-AA2a5vda&c=14586842073613209814&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ef7f8d04c4c9cbf6ccdb9b7815c31&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%2597%25AA%25E6%259E%2581%25E5%25B0%2586%25E5%258F%2591%25E5%25B8%2583%25E5%25A5%25B3%25E6%2580%25A7%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C-loomos-l1%25E4%25B8%258B%25E5%2591%25A8%25E8%25A7%2581%2far-AA2a5vda&c=14586842073613209814&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-14 07:40",
     "summary": "",
@@ -141,9 +130,20 @@
    {
     "beat": "AI/大模型",
     "title": "闪极 loomos\"好看的不像AI眼镜发布会\"定档8月18日武汉",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ef012cc254a97b4c28e80e3303493&url=https%3a%2f%2fnews.cheaa.com%2f2026%2f0813%2f657351.shtml&c=8516842118296286571&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ef7f8d04c4c9cbf6ccdb9b7815c31&url=https%3a%2f%2fnews.cheaa.com%2f2026%2f0813%2f657351.shtml&c=8516842118296286571&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-13 20:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "京东发布Q2财报：AI眼镜、AIPC 等AI趋势品类成交额同比增长125%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ef7f8d04c4c9cbf6ccdb9b7815c31&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E4%25BA%25AC%25E4%25B8%259C%25E5%258F%2591%25E5%25B8%2583q2%25E8%25B4%25A2%25E6%258A%25A5-ai%25E7%259C%25BC%25E9%2595%259C-aipc-%25E7%25AD%2589ai%25E8%25B6%258B%25E5%258A%25BF%25E5%2593%2581%25E7%25B1%25BB%25E6%2588%2590%25E4%25BA%25A4%25E9%25A2%259D%25E5%2590%258C%25E6%25AF%2594%25E5%25A2%259E%25E9%2595%25BF125%2far-AA2a1vJC&c=12819387891427770120&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-13 14:30",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -174,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "抢占C位，AI眼镜为何愿意在南京路开全国首店？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ef012cc254a97b4c28e80e3303493&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260812A0DH8H00&c=113302057296331887&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ef7f8d04c4c9cbf6ccdb9b7815c31&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260812A0DH8H00&c=113302057296331887&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-12 21:57",
     "summary": "",
@@ -190,17 +190,6 @@
     "url": "https://www.ithome.com/0/989/810.htm",
     "source": "IT之家",
     "time": "08-14 17:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "极氪 Eva 车载机器人上架京东：主动追踪、智能转向，预售价 799 元",
-    "url": "https://www.ithome.com/0/989/709.htm",
-    "source": "IT之家",
-    "time": "08-14 14:52",
     "summary": "",
     "grade": "C",
     "local": false,
