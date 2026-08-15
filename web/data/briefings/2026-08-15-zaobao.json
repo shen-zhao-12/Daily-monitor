@@ -1,0 +1,386 @@
+{
+ "id": "2026-08-15-zaobao",
+ "title": "线口监测早报 · 2026年08月15日(周六)",
+ "shift": "早报",
+ "date": "2026-08-15 11:09",
+ "docx": "../briefings/线口监测早报-2026-08-15.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
+    "url": "https://www.ithome.com/0/990/003.htm",
+    "source": "IT之家",
+    "time": "08-15 09:59",
+    "summary": "阿里千问开放平台上线AI眼镜端能力，提供技能平台与行业定制两大模块，开发者可基于场景快速构建导游、工业巡检、健身教练等垂直Skill，标志着国产大模型从云端向具身智能终端深度延伸。",
+    "grade": "A",
+    "local": false,
+    "angle": "聚焦广州AI硬件企业（如影石、小鹏汇天）能否接入该生态，联动黄埔AI产业园、南沙自动驾驶示范区做本地化落地案例挖掘"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里开源 Qwen3.8-27B 模型，编程、办公场景表现超越 Qwen3.7-Plus",
+    "url": "https://www.ithome.com/0/989/953.htm",
+    "source": "IT之家",
+    "time": "08-14 23:13",
+    "summary": "阿里正式开源Qwen3.8-27B大模型，强调其在代码生成、多轮办公协作等场景的显著提升，支持免费商用，为中小企业及高校提供高性能低成本AI底座。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+    "url": "https://www.ithome.com/0/989/989.htm",
+    "source": "IT之家",
+    "time": "08-15 08:54",
+    "summary": "荣耀YOYO Claw智能体全面接入智谱GLM-5.3大模型，通过更长周期训练和多样化任务优化，显著提升语音交互理解力与多模态响应能力，强化手机端AI Agent实用性。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发",
+    "url": "https://www.ithome.com/0/990/002.htm",
+    "source": "IT之家",
+    "time": "08-15 09:53",
+    "summary": "DeepSeek V4 Pro及智能体框架Harness正式接入国家超算互联网，支持十万卡级算力调度，实现大模型训练、微调、推理、智能体编排全流程一站式服务，降低AI研发门槛。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
+    "url": "https://www.ithome.com/0/989/979.htm",
+    "source": "IT之家",
+    "time": "08-15 07:40",
+    "summary": "苹果被曝正与阿里合作开发中国专属大模型，旨在适配本地法规与使用习惯；同时智谱发布GLM-5.3开源编程模型，强化代码生成能力，国产大模型竞争进入场景深耕阶段。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
+    "url": "https://www.ithome.com/0/990/013.htm",
+    "source": "IT之家",
+    "time": "08-15 10:48",
+    "summary": "微软升级Copilot Notebooks，新增Markdown、纯文本及富文本三格式支持，大幅提升技术文档、科研笔记等结构化内容的AI分析与协同效率，推动AI原生办公工具普及。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
+    "url": "https://www.ithome.com/0/989/997.htm",
+    "source": "IT之家",
+    "time": "08-15 09:29",
+    "summary": "谷歌即将为Gemini推出Media Watermark设置，允许用户自主关闭AI生成内容的可见水印，平衡版权标识与创作自由，引发AIGC伦理与商业化边界新讨论。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 Win11/Win10 版 Word 加入文本定位链接，协作跳转不必手动滚动",
+    "url": "https://www.ithome.com/0/990/007.htm",
+    "source": "IT之家",
+    "time": "08-15 10:11",
+    "summary": "微软为Word新增‘复制位置链接’功能，支持精准定位段落或句子，大幅提升远程协作效率，是AI时代文档生产力工具的重要进化。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+    "url": "https://www.ithome.com/0/989/999.htm",
+    "source": "IT之家",
+    "time": "08-15 09:43",
+    "summary": "微软确认经典版Outlook存在隐藏Copilot按钮的Bug，意外获得部分反感AI强制植入用户的欢迎，折射出AI功能‘默认开启’与用户自主权之间的张力。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
+    "url": "https://www.ithome.com/0/989/990.htm",
+    "source": "IT之家",
+    "time": "08-15 08:55",
+    "summary": "谷歌计划将Pixel手机诈骗检测功能扩展至拨出电话场景，通过实时号码风险识别与语音提示，构建主被动双向反诈防线，提升移动终端安全防护层级。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软推送 Win11 26x00.9267 RP 预览版：自由指定任务栏停靠位置",
+    "url": "https://www.ithome.com/0/989/973.htm",
+    "source": "IT之家",
+    "time": "08-15 07:16",
+    "summary": "微软Win11预览版新增任务栏自由停靠位置功能，支持用户自定义置于屏幕顶部、左侧或右侧，提升多屏办公与触控交互灵活性，体现操作系统对AI时代人机关系的适应性迭代。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小米汽车详解澎程门把手三重安全冗余设计，覆盖车外 / 车内开启、门锁供电三个环节",
+    "url": "https://www.ithome.com/0/989/972.htm",
+    "source": "IT之家",
+    "time": "08-15 06:57",
+    "summary": "小米汽车公布澎程N90 Max门把手创新安全架构，集成机械+电子双触发、独立供电备份及车内外多重冗余逻辑，体现国产智能电动车在人机交互可靠性上的工程突破。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "闪极 loomos\"好看的不像AI眼镜发布会\"定档8月18日武汉",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7fd87ae51b446ca32886e132db174e&url=https%3a%2f%2fnews.cheaa.com%2f2026%2f0813%2f657351.shtml&c=8516842118296286571&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-13 20:31",
+    "summary": "深圳闪极科技将于8月18日在武汉发布loomos AI眼镜，主打高颜值工业设计与轻量化交互体验，以‘维纳斯+千层镜’为视觉语言，瞄准消费级AR穿戴新赛道。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
+    "url": "https://www.ithome.com/0/990/000.htm",
+    "source": "IT之家",
+    "time": "08-15 09:47",
+    "summary": "iQOO十周年概念机X亮相，搭载骁龙8 Elite Gen10 Pro芯片与15000mAh固态电池，由用户共创，展现手机厂商在性能极限与能源革命上的前沿探索。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "美团：无锡、上海、杭州等城市评估“红灯停表”功能，预计今年内覆盖超百万骑手",
+    "url": "https://www.ithome.com/0/989/977.htm",
+    "source": "IT之家",
+    "time": "08-15 07:32",
+    "summary": "美团在北京试点‘红灯停表’功能后，正于无锡、上海、杭州等城市开展评估，通过交通信号数据对接自动顺延配送时间，兼顾安全合规与骑手权益，探索算法治理新范式。",
+    "grade": "A",
+    "local": false,
+    "angle": "重点追踪广州是否纳入试点——广州已建成全国首个城市级低空智联网，可对比分析‘红灯停表’与广州‘骑手友好路口’改造的协同路径"
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "全新长安深蓝 G318 官图公布：华为乾崑 ADS 5 Pro + 鸿蒙座舱 HarmonySpace 5",
+    "url": "https://www.ithome.com/0/989/998.htm",
+    "source": "IT之家",
+    "time": "08-15 09:36",
+    "summary": "长安深蓝G318官宣搭载华为乾崑ADS 5 Pro高阶智驾系统与鸿蒙座舱HarmonySpace 5，延续方盒子硬派设计，强化城市NOA与越野场景融合能力，加速智驾技术普惠化。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "亿咖通：Flyme Auto 系统 7 月装机 135,201 辆，目前累计装机量超 328 万",
+    "url": "https://www.ithome.com/0/990/014.htm",
+    "source": "IT之家",
+    "time": "08-15 10:56",
+    "summary": "亿咖通Flyme Auto车机系统7月单月装机超13.5万辆，累计装机量突破328万，覆盖吉利、领克、smart等多品牌车型，成为国内装机量领先的第三方智能座舱OS。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "一汽红旗新款 HS5 将于 8 月 21 日成都车展上市：换装灵犀座舱，搭载司南智驾系统",
+    "url": "https://www.ithome.com/0/989/954.htm",
+    "source": "IT之家",
+    "time": "08-14 23:19",
+    "summary": "红旗新款HS5将于成都车展上市，首发灵犀座舱与司南智驾系统，支持高速NOA及全场景记忆泊车，凸显自主车企在智能座舱OS与智驾算法双栈自研能力。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "京东发布Q2财报：AI眼镜、AIPC 等AI趋势品类成交额同比增长125%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7fd87ae51b446ca32886e132db174e&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-08-14%2fdoc-ininfvzx9506874.shtml&c=13985468594775850986&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-14 10:50",
+    "summary": "京东Q2财报显示AI眼镜、AI PC等新兴品类成交额同比激增125%，印证AI硬件正从概念走向规模化消费，成为拉动3C零售增长的核心引擎。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "AI眼镜进南京路、糖纸火到海外：上海国企老字号一年集体焕新",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7fd87ae51b446ca32886e132db174e&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202608143841985826.html&c=10956502032583076030&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-14 01:00",
+    "summary": "上海吴良材等老字号在南京东路落地AI眼镜体验店，结合AR试戴、智能验光与国潮IP营销，实现客流与客单价双提升，并带动‘糖纸’等文创产品出海，展现传统商业数字化转型样本。",
+    "grade": "B",
+    "local": false,
+    "angle": "广州北京路、上下九可对标调研——广药王老吉、珠江钢琴等本土老字号是否启动AI+实体门店改造？"
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
+    "url": "https://www.ithome.com/0/989/995.htm",
+    "source": "IT之家",
+    "time": "08-15 09:14",
+    "summary": "巴黎举办的EWC电竞世俱杯突发选手集体食物中毒事件，涉及《和平精英》多支战队，赛事方紧急延期并启动卫生调查，暴露国际电竞赛事后勤保障体系漏洞。",
+    "grade": "A",
+    "local": false,
+    "angle": "联动广州超竞集团、虎牙直播等本地电竞力量，探讨大湾区承办国际赛事的食品安全应急预案升级需求"
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《幻兽帕鲁》发行总监上海演讲：210万在线后遭遇低谷，如何逆风翻盘？",
+    "url": "http://www.gamelook.com.cn/2026/08/599908/",
+    "source": "GameLook",
+    "time": "08-14 09:50",
+    "summary": "《幻兽帕鲁》发行总监在上海分享爆款后运营策略，直面用户留存下滑挑战，提出UGC生态建设、跨平台联运及本地化社区运营三大破局路径，为国产买量型产品提供长效运营范本。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "超十年战略兑现！腾讯Q2 财报披露：休闲游戏成新隐形王牌",
+    "url": "http://www.gamelook.com.cn/2026/08/599940/",
+    "source": "GameLook",
+    "time": "08-14 08:14",
+    "summary": "腾讯Q2财报显示休闲游戏收入同比增长显著，依托微信小游戏生态与广告变现创新，形成稳定现金流与用户入口，成为继MMO、FPS之后第三大支柱品类。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "墨犬解散，巡回犬离职！3年研发换了3个方向，核心团队自救求职",
+    "url": "http://www.gamelook.com.cn/2026/08/599952/",
+    "source": "GameLook",
+    "time": "08-14 11:43",
+    "summary": "曾获腾讯投资的墨犬工作室宣布解散，核心成员集体离职求新岗，折射二游赛道收缩压力下中小研发团队生存困境，行业进入精品化与资本理性回归期。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "五菱星光 M 官图公布：大七座插混动力 MPV，轴距达 3 米",
+    "url": "https://www.ithome.com/0/989/994.htm",
+    "source": "IT之家",
+    "time": "08-15 09:13",
+    "summary": "五菱星光M官图发布，定位大七座插电混动MPV，轴距达3米，瞄准家庭出行刚需，叠加新能源补贴与以旧换新政策，有望成为下沉市场新能源MPV价格标杆。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国产动画电影《八仙！》在北美首映，此前已进入中国影史国产动画片票房榜前七",
+    "url": "https://www.ithome.com/0/989/985.htm",
+    "source": "IT之家",
+    "time": "08-15 08:29",
+    "summary": "国产喜剧动画《八仙！》登陆北美院线，融合东方美学与现代叙事，国内票房已跻身国产动画历史TOP7，标志国漫IP出海从文化输出迈向商业可持续。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "智界 V9 上月交付 10101 台，赵长江透露该车获 MPV 市场全品类销量冠军",
+    "url": "https://www.ithome.com/0/990/017.htm",
+    "source": "IT之家",
+    "time": "08-15 11:02",
+    "summary": "智界V9 7月交付破万台，登顶MPV全品类销量榜首，验证华为智选车模式在高端新能源MPV市场的成功，叠加以旧换新政策，有望进一步挤压燃油MPV份额。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "1 至 7 月全国铁路发送旅客 28 亿人次同比增长 4.1%，创历史同期新高",
+    "url": "https://www.ithome.com/0/990/012.htm",
+    "source": "IT之家",
+    "time": "08-15 10:41",
+    "summary": "1-7月全国铁路旅客发送量达28亿人次，同比增长4.1%，日均开行列车超1.1万列，反映暑期出行与商务流动双重回暖，为文旅消费复苏提供基础支撑。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国家邮政局：1-7 月快递业务量累计完成 1174.7 亿件，同比增长 4.8%",
+    "url": "https://www.ithome.com/0/989/971.htm",
+    "source": "IT之家",
+    "time": "08-15 06:54",
+    "summary": "1-7月全国快递业务量达1174.7亿件，同比增长4.8%，行业持续稳健增长，叠加家电以旧换新政策落地，快递网络正成为绿色消费循环的关键基础设施。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [
+  {
+   "beat": "AI/大模型",
+   "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
+   "url": "https://www.ithome.com/0/990/003.htm",
+   "source": "IT之家",
+   "time": "08-15 09:59",
+   "summary": "阿里千问开放平台上线AI眼镜端能力，提供技能平台与行业定制两大模块，开发者可基于场景快速构建导游、工业巡检、健身教练等垂直Skill，标志着国产大模型从云端向具身智能终端深度延伸。",
+   "grade": "A",
+   "local": false,
+   "angle": "聚焦广州AI硬件企业（如影石、小鹏汇天）能否接入该生态，联动黄埔AI产业园、南沙自动驾驶示范区做本地化落地案例挖掘"
+  },
+  {
+   "beat": "无人驾驶/低空/智慧出行",
+   "title": "美团：无锡、上海、杭州等城市评估“红灯停表”功能，预计今年内覆盖超百万骑手",
+   "url": "https://www.ithome.com/0/989/977.htm",
+   "source": "IT之家",
+   "time": "08-15 07:32",
+   "summary": "美团在北京试点‘红灯停表’功能后，正于无锡、上海、杭州等城市开展评估，通过交通信号数据对接自动顺延配送时间，兼顾安全合规与骑手权益，探索算法治理新范式。",
+   "grade": "A",
+   "local": false,
+   "angle": "重点追踪广州是否纳入试点——广州已建成全国首个城市级低空智联网，可对比分析‘红灯停表’与广州‘骑手友好路口’改造的协同路径"
+  },
+  {
+   "beat": "游戏/电竞/平台公司",
+   "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
+   "url": "https://www.ithome.com/0/989/995.htm",
+   "source": "IT之家",
+   "time": "08-15 09:14",
+   "summary": "巴黎举办的EWC电竞世俱杯突发选手集体食物中毒事件，涉及《和平精英》多支战队，赛事方紧急延期并启动卫生调查，暴露国际电竞赛事后勤保障体系漏洞。",
+   "grade": "A",
+   "local": false,
+   "angle": "联动广州超竞集团、虎牙直播等本地电竞力量，探讨大湾区承办国际赛事的食品安全应急预案升级需求"
+  }
+ ],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(6)",
+   "HackerNews(3)",
+   "Bing新闻(4)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
