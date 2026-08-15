@@ -1,0 +1,408 @@
+{
+ "id": "2026-08-15-wubao",
+ "title": "线口监测午报 · 2026年08月15日(周六)",
+ "shift": "午报",
+ "date": "2026-08-15 15:56",
+ "docx": "../briefings/线口监测午报-2026-08-15.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
+    "url": "https://www.ithome.com/0/990/074.htm",
+    "source": "IT之家",
+    "time": "08-15 15:44",
+    "summary": "Anthropic向潜在投资者透露，2026年第二季度营收超115亿美元（约777亿元人民币），同比激增14倍以上，系公司首次实现运营盈利。该数据远超市场预期，印证大模型商业化加速落地趋势。",
+    "grade": "A",
+    "local": false,
+    "angle": "可对比国内头部大模型公司（如智谱、月之暗面、百川）盈利进展，追问中国大模型何时迎来首个季度盈利拐点"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务",
+    "url": "https://www.ithome.com/0/990/066.htm",
+    "source": "IT之家",
+    "time": "08-15 15:27",
+    "summary": "OpenAI首席财务官萨拉·弗莱尔证实，企业级AI服务收入已超越ChatGPT等C端业务，7月企业收入环比增长32%。标志大模型价值正从流量入口转向生产力基础设施。",
+    "grade": "A",
+    "local": false,
+    "angle": "可调研广州人工智能企业（如云从、极飞、小鹏AI）在政企客户中的落地案例与付费模式，突出大湾区产业智能化真实渗透率"
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 宣布为 Claude 生成文本加入水印后，部分用户担心“留痕”选择退订",
+    "url": "https://www.ithome.com/0/990/062.htm",
+    "source": "IT之家",
+    "time": "08-15 15:16",
+    "summary": "Anthropic为Claude输出文本强制添加不可见水印，引发专业用户对版权归属、学术诚信及工作成果“永久留痕”的担忧，已有用户退订。折射AI内容可信性与创作者权益的深层张力。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 Excel 的 COPILOT () 函数即将被砍",
+    "url": "https://www.ithome.com/0/990/076.htm",
+    "source": "IT之家",
+    "time": "08-15 15:46",
+    "summary": "微软将于9月14日下线Excel中基于自然语言调用Copilot的COPILOT()函数，转向更集成的Copilot for Excel界面。此举反映AI功能正从“插件式实验”走向“原生深度嵌入”。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发",
+    "url": "https://www.ithome.com/0/990/002.htm",
+    "source": "IT之家",
+    "time": "08-15 09:53",
+    "summary": "国家超算互联网正式上线DeepSeek V4 Pro及智能体框架Harness，支持十万卡级集群一站式部署开发。这是国产大模型首次深度接入国家级算力底座，强化自主可控AI基础设施能力。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
+    "url": "https://www.ithome.com/0/990/003.htm",
+    "source": "IT之家",
+    "time": "08-15 09:59",
+    "summary": "阿里千问开放平台正式支持AI眼镜端，提供技能平台与行业定制模块，开发者可快速构建导游、教练、工业巡检等垂直场景应用。标志着大模型终端化正从手机延伸至空间计算设备。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "华强北AI眼镜销量暴涨100%华强北成全球科技扫货目的地",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a801bc34c094959b944c6b727719a6e&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fwbstock%2f2026-08-15%2fdoc-ininkfht2307081.shtml&c=1144085286319788651&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-15 01:00",
+    "summary": "深圳华强北AI眼镜销量同比激增100%，借APEC中国年契机吸引大量海外采购商。作为全球电子供应链核心枢纽，华强北正成为AI硬件出海与本地化适配的关键策源地。",
+    "grade": "A",
+    "local": true,
+    "angle": "聚焦广州/深圳AI硬件产业链协同（如广州视源股份光学模组、深圳AI芯片设计），采访华强北商户与外贸代理，呈现‘硬件+算法+渠道’大湾区闭环"
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "AI眼镜进南京路、糖纸火到海外：上海国企老字号一年集体焕新",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a801bc34c094959b944c6b727719a6e&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202608143841985826.html&c=10956502032583076030&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-14 01:00",
+    "summary": "上海吴良材等老字号在南京东路开设AI眼镜体验店，将传统验光服务与AR导航、实时翻译结合；同时‘糖纸’等国潮IP产品通过跨境电商热销海外。体现AI硬件正加速融入民生消费与文化出海。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "闪极 loomos\"好看的不像AI眼镜发布会\"定档8月18日武汉",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a801bc34c094959b944c6b727719a6e&url=https%3a%2f%2fnews.cheaa.com%2f2026%2f0813%2f657351.shtml&c=8516842118296286571&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-13 20:31",
+    "summary": "国产AI眼镜品牌闪极将于8月18日在武汉举办loomos新品发布会，主打工业设计美学与轻量化交互。其产品已进入医疗、文旅等B端场景测试，凸显AI眼镜从概念走向实用化突破。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "凯迪拉克全新 XT5 PHEV 将于 8 月 21 日成都车展预售，搭载 Momenta R7 世界模型",
+    "url": "https://www.ithome.com/0/990/044.htm",
+    "source": "IT之家",
+    "time": "08-15 13:48",
+    "summary": "凯迪拉克全新XT5 PHEV将成为首款量产搭载Momenta R7世界模型的豪华混动SUV，该模型由Momenta（苏州）研发，具备多模态感知与长程预测能力，显著提升复杂城市场景决策水平。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "奕境 X9 旗舰大六座 SUV 预售发布会定档 8 月 18 日，全系搭载华为乾崑智驾 ADS 5",
+    "url": "https://www.ithome.com/0/990/040.htm",
+    "source": "IT之家",
+    "time": "08-15 13:38",
+    "summary": "奕境汽车首款车型X9将于8月18日发布，全系标配华为乾崑ADS 5智驾系统，定位‘第二代家庭旗舰’。该系统支持无图城区NCA与全场景泊车，是华为智驾方案向新势力车企规模化落地的重要节点。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "全新深蓝 G318 官宣搭载华为乾崑 ADS 5 Pro，拥有 27 个传感器融合感知系统",
+    "url": "https://www.ithome.com/0/990/032.htm",
+    "source": "IT之家",
+    "time": "08-15 13:07",
+    "summary": "深蓝G318官宣搭载华为乾崑ADS 5 Pro，配备27个传感器（含舱内激光雷达），支持高速NOA、城市NCA及自动泊车。作为长安旗下主力车型，其智驾能力将直接影响大湾区新能源汽车智能化竞争格局。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "智界 V9 上月交付 10101 台，赵长江透露该车获 MPV 市场全品类销量冠军",
+    "url": "https://www.ithome.com/0/990/017.htm",
+    "source": "IT之家",
+    "time": "08-15 11:02",
+    "summary": "智界V9 7月交付10101台，登顶MPV全品类销量榜首。该车搭载华为ADS高阶智驾与鸿蒙座舱，是华为与奇瑞联合打造的旗舰车型，验证了‘智驾+豪华’MPV细分市场的爆发潜力。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "京东发布Q2财报：AI眼镜、AIPC 等AI趋势品类成交额同比增长125%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a801bc34c094959b944c6b727719a6e&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-08-14%2fdoc-ininfvzx9506874.shtml&c=13985468594775850986&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-14 10:50",
+    "summary": "京东2026年二季度财报显示，AI眼镜、AI PC等新兴AI硬件品类成交额同比增长125%，成为拉动消费电子增长的核心引擎。平台数据显示，广东用户购买AI眼镜占比全国第一，凸显区域消费前沿性。",
+    "grade": "A",
+    "local": true,
+    "angle": "联动广州天河商圈（如天环、太古汇）AI体验店实地调研，分析粤产AI硬件（如OPPO、vivo生态链）在京东渠道的上量策略与用户画像"
+   },
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步",
+    "url": "https://www.ithome.com/0/990/041.htm",
+    "source": "IT之家",
+    "time": "08-15 13:44",
+    "summary": "腾讯QQ Bot正式接入DeepSeek Harness智能体框架，支持群聊与单聊场景下的AI自动化服务，接入流程简化至3步。此举大幅降低中小企业私域运营门槛，推动AI客服在电商、本地生活领域普及。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《幻兽帕鲁》发行总监上海演讲：210万在线后遭遇低谷，如何逆风翻盘？",
+    "url": "http://www.gamelook.com.cn/2026/08/599908/",
+    "source": "GameLook",
+    "time": "08-14 09:50",
+    "summary": "《幻兽帕鲁》发行总监在上海分享该作上线后峰值达210万在线、但随后遭遇用户留存下滑的应对策略，包括UGC工具开放、跨平台联运及本地化社区运营。反映国产独立游戏全球化运营新范式。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "超十年战略兑现！腾讯Q2 财报披露：休闲游戏成新隐形王牌",
+    "url": "http://www.gamelook.com.cn/2026/08/599940/",
+    "source": "GameLook",
+    "time": "08-14 08:14",
+    "summary": "腾讯Q2财报显示，休闲游戏业务收入同比增长显著，成为游戏板块新增长极。依托微信生态与小程序分发优势，其《羊了个羊》《欢乐斗地主》等产品持续贡献稳定现金流，支撑长线研发投入。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "亚马逊MMO全线雪崩！放弃《失落方舟》《王权与自由》发行权、还给研发",
+    "url": "http://www.gamelook.com.cn/2026/08/599904/",
+    "source": "GameLook",
+    "time": "08-14 09:16",
+    "summary": "亚马逊游戏宣布终止《失落方舟》《王权与自由》等MMO发行合作，将发行权交还开发商。此举标志国际巨头收缩重资产长周期项目，反衬中国厂商（如腾讯、网易）在MMO赛道的韧性与本地化运营优势。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "2026 暑期档票房破 95 亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》跻身前三",
+    "url": "https://www.ithome.com/0/990/019.htm",
+    "source": "IT之家",
+    "time": "08-15 11:13",
+    "summary": "2026年暑期档总票房（含预售）突破95亿元，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》位列前三。其中《功夫女足》作为本土原创IP，以粤语方言与岭南武术元素引发观影热潮，广东影院排片占比居全国首位。",
+    "grade": "B",
+    "local": true,
+    "angle": "专访广州永旺影城、金逸影城经理，分析粤产电影在大湾区票房表现及‘粤语+非遗’内容策略对年轻观众吸引力"
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "1 至 7 月全国铁路发送旅客 28 亿人次同比增长 4.1%，创历史同期新高",
+    "url": "https://www.ithome.com/0/990/012.htm",
+    "source": "IT之家",
+    "time": "08-15 10:41",
+    "summary": "1-7月全国铁路发送旅客28亿人次，同比增长4.1%，创历史同期新高。广铁集团数据显示，粤港澳大湾区高铁网日均开行列车超1200列，广深港高铁客流恢复至2019年同期135%，凸显湾区通勤与文旅消费活力。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "TCL C10M 真壁纸 SQD-Mini LED 电视发布：3.99cm 机身，100% BT.2020 全局高色域",
+    "url": "https://www.ithome.com/0/990/065.htm",
+    "source": "IT之家",
+    "time": "08-15 15:27",
+    "summary": "TCL发布C10M真壁纸Mini LED电视，主打超薄贴墙设计与全场景高色域显示。作为广州本土龙头家电企业，该产品瞄准高端家居一体化需求，呼应广东‘以旧换新’补贴政策下消费升级趋势。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "微信员工透露最新微信鸿蒙版 App 已全量功能，含聊天发送实况图片、收藏聊天记录支持复制等",
+    "url": "https://www.ithome.com/0/990/046.htm",
+    "source": "IT之家",
+    "time": "08-15 14:02",
+    "summary": "微信鸿蒙版完成全量功能上线，支持实况图片、收藏记录复制等高频操作。作为国民级应用，其深度适配鸿蒙OS，将加速推动广东超2000万台存量华为设备用户参与‘换机+换系统’双升级浪潮。",
+    "grade": "B",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "亿咖通：Flyme Auto 系统 7 月装机 135,201 辆，目前累计装机量超 328 万",
+    "url": "https://www.ithome.com/0/990/014.htm",
+    "source": "IT之家",
+    "time": "08-15 10:56",
+    "summary": "亿咖通科技公布Flyme Auto车机系统7月装机量达13.5万辆，累计装机超328万。该系统深度整合魅族生态，已在吉利、领克等多品牌车型搭载，为广东汽车消费‘智能化换新’提供关键软件支撑。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "鸿蒙智行享界 G9“寰宇红”实车曝光：新车 8 月 20 日发布，预售价 43.98 万元起",
+    "url": "https://www.ithome.com/0/990/025.htm",
+    "source": "IT之家",
+    "time": "08-15 11:43",
+    "summary": "鸿蒙智行首款硬派SUV享界G9将于8月20日发布，预售价43.98万元起。作为华为与北汽联合打造的高端车型，其‘寰宇红’配色与越野性能瞄准新中产户外消费升级需求，契合大湾区自驾游热潮。",
+    "grade": "B",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "上汽大众公布 2026 成都车展阵容，ID.ERA 家族四车同台亮相",
+    "url": "https://www.ithome.com/0/990/008.htm",
+    "source": "IT之家",
+    "time": "08-15 10:32",
+    "summary": "上汽大众携ID.ERA家族四款车型亮相成都车展，覆盖轿车、SUV及跨界车型。作为德系合资代表，其电动化转型提速，与广汽丰田、比亚迪等湾区车企形成差异化竞合，反映新能源汽车市场多元格局。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+    "url": "https://www.ithome.com/0/990/048.htm",
+    "source": "IT之家",
+    "time": "08-15 14:25",
+    "summary": "美国AI研究公司Andon Labs启用Anthropic模型作为管理者，依据考勤数据自动解雇员工，成为全球首例AI主导人事决策案例。引发对算法管理边界、劳动权益保障及职场伦理的广泛讨论。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "为避开《哈利波特》多比“墓地”，价值 4.3 亿英镑海底电缆项目被迫改道",
+    "url": "https://www.ithome.com/0/990/051.htm",
+    "source": "IT之家",
+    "time": "08-15 14:46",
+    "summary": "英国一项价值4.3亿英镑的海底电缆工程因哈利·波特粉丝抗议‘惊扰多比墓地’而被迫改道。事件凸显文化符号对重大基建项目的软性影响力，亦折射公众参与公共事务的新形态。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "谷歌承诺 Pixel 11 系列手机在官方销售市场提供 7 年备件支持",
+    "url": "https://www.ithome.com/0/990/035.htm",
+    "source": "IT之家",
+    "time": "08-15 13:21",
+    "summary": "谷歌宣布Pixel 11系列手机将在所有官方销售市场提供长达7年的备件支持，远超行业平均3-5年标准。此举强化产品生命周期理念，或倒逼国内手机厂商提升可持续发展承诺。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米 REDMI 产品经理详解澎湃 HyperOS 4 Beta 版用途，K100 Pro 系列手机确认首批升级正式版系统",
+    "url": "https://www.ithome.com/0/990/034.htm",
+    "source": "IT之家",
+    "time": "08-15 13:17",
+    "summary": "小米REDMI确认K100 Pro系列将首批升级澎湃HyperOS 4正式版，强调系统级流畅性与AI功能整合。作为国产手机阵营重要迭代，其升级节奏与用户体验优化对广东换机市场具风向标意义。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "vivo OriginOS 7 系统交互可打断升级，支持全新「首帧交互可打断」技术",
+    "url": "https://www.ithome.com/0/990/010.htm",
+    "source": "IT之家",
+    "time": "08-15 10:36",
+    "summary": "vivo OriginOS 7引入「首帧交互可打断」技术，允许用户在系统动画过程中即时响应操作指令，大幅提升交互效率。该技术已应用于X300 Pro等旗舰机型，体现国产手机OS在人机协同体验上的持续突破。",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [
+  {
+   "beat": "机器人/AI硬件",
+   "title": "华强北AI眼镜销量暴涨100%华强北成全球科技扫货目的地",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a801bc34c094959b944c6b727719a6e&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fwbstock%2f2026-08-15%2fdoc-ininkfht2307081.shtml&c=1144085286319788651&mkt=en-us",
+   "source": "Bing新闻",
+   "time": "08-15 01:00",
+   "summary": "深圳华强北AI眼镜销量同比激增100%，借APEC中国年契机吸引大量海外采购商。作为全球电子供应链核心枢纽，华强北正成为AI硬件出海与本地化适配的关键策源地。",
+   "grade": "A",
+   "local": true,
+   "angle": "聚焦广州/深圳AI硬件产业链协同（如广州视源股份光学模组、深圳AI芯片设计），采访华强北商户与外贸代理，呈现‘硬件+算法+渠道’大湾区闭环"
+  },
+  {
+   "beat": "电商/直播/即时零售",
+   "title": "京东发布Q2财报：AI眼镜、AIPC 等AI趋势品类成交额同比增长125%",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a801bc34c094959b944c6b727719a6e&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-08-14%2fdoc-ininfvzx9506874.shtml&c=13985468594775850986&mkt=en-us",
+   "source": "Bing新闻",
+   "time": "08-14 10:50",
+   "summary": "京东2026年二季度财报显示，AI眼镜、AI PC等新兴AI硬件品类成交额同比增长125%，成为拉动消费电子增长的核心引擎。平台数据显示，广东用户购买AI眼镜占比全国第一，凸显区域消费前沿性。",
+   "grade": "A",
+   "local": true,
+   "angle": "联动广州天河商圈（如天环、太古汇）AI体验店实地调研，分析粤产AI硬件（如OPPO、vivo生态链）在京东渠道的上量策略与用户画像"
+  },
+  {
+   "beat": "AI/大模型",
+   "title": "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
+   "url": "https://www.ithome.com/0/990/074.htm",
+   "source": "IT之家",
+   "time": "08-15 15:44",
+   "summary": "Anthropic向潜在投资者透露，2026年第二季度营收超115亿美元（约777亿元人民币），同比激增14倍以上，系公司首次实现运营盈利。该数据远超市场预期，印证大模型商业化加速落地趋势。",
+   "grade": "A",
+   "local": false,
+   "angle": "可对比国内头部大模型公司（如智谱、月之暗面、百川）盈利进展，追问中国大模型何时迎来首个季度盈利拐点"
+  },
+  {
+   "beat": "AI/大模型",
+   "title": "7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务",
+   "url": "https://www.ithome.com/0/990/066.htm",
+   "source": "IT之家",
+   "time": "08-15 15:27",
+   "summary": "OpenAI首席财务官萨拉·弗莱尔证实，企业级AI服务收入已超越ChatGPT等C端业务，7月企业收入环比增长32%。标志大模型价值正从流量入口转向生产力基础设施。",
+   "grade": "A",
+   "local": false,
+   "angle": "可调研广州人工智能企业（如云从、极飞、小鹏AI）在政企客户中的落地案例与付费模式，突出大湾区产业智能化真实渗透率"
+  }
+ ],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(6)",
+   "HackerNews(2)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
