@@ -2,7 +2,7 @@
  "id": "2026-08-16-wubao",
  "title": "线口监测午报 · 2026年08月16日(周日)",
  "shift": "午报",
- "date": "2026-08-16 15:57",
+ "date": "2026-08-16 17:02",
  "docx": "../briefings/线口监测午报-2026-08-16.docx",
  "sections": {
   "AI/大模型": [
@@ -140,10 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "大跌眼镜！AI比网红、TikTok更值得信任，下单却慢一半",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a816d7872cf479981b18679863a01be&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-08-15%2fdoc-ininkwem2170104.shtml&c=15038412607732492192&mkt=en-us",
+    "title": "千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 Skill",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a817ccced7f4010b457db45c8b70891&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E8%25BD%25AF%25E4%25BB%25B6%2f%25E5%258D%2583%25E9%2597%25AE%25E5%25BC%2580%25E6%2594%25BE-ai-%25E7%259C%25BC%25E9%2595%259C%25E7%2594%259F%25E6%2580%2581-%25E6%2594%25AF%25E6%258C%2581%25E8%2587%25AA%25E5%25BB%25BA%25E5%25AF%25BC%25E6%25B8%25B8-%25E6%2595%2599%25E7%25BB%2583-%25E5%25B7%25A1%25E6%25A3%2580%25E7%25AD%2589%25E5%25A4%259A%25E7%25A7%258D-skill%2far-AA2a9ROS&c=1189198833296832392&mkt=en-us",
     "source": "Bing新闻",
-    "time": "08-15 19:00",
+    "time": "08-15 02:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,29 +151,17 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 Skill",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a816d7872cf479981b18679863a01be&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E8%25BD%25AF%25E4%25BB%25B6%2f%25E5%258D%2583%25E9%2597%25AE%25E5%25BC%2580%25E6%2594%25BE-ai-%25E7%259C%25BC%25E9%2595%259C%25E7%2594%259F%25E6%2580%2581-%25E6%2594%25AF%25E6%258C%2581%25E8%2587%25AA%25E5%25BB%25BA%25E5%25AF%25BC%25E6%25B8%25B8-%25E6%2595%2599%25E7%25BB%2583-%25E5%25B7%25A1%25E6%25A3%2580%25E7%25AD%2589%25E5%25A4%259A%25E7%25A7%258D-skill%2far-AA2a9ROS&c=1189198833296832392&mkt=en-us",
+    "title": "华强北AI眼镜销量暴涨100%华强北成全球科技扫货目的地",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a817ccced7f4010b457db45c8b70891&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fwbstock%2f2026-08-15%2fdoc-ininkfht2307081.shtml&c=1144085286319788651&mkt=en-us",
     "source": "Bing新闻",
-    "time": "08-15 02:59",
+    "time": "08-15 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [
-   {
-    "beat": "机器人/AI硬件",
-    "title": "第二届世界人形机器人运动会新增跳远、举重、拔河等项目，2056 台机器人同台竞技",
-    "url": "https://www.ithome.com/0/990/230.htm",
-    "source": "IT之家",
-    "time": "08-16 09:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -189,6 +177,17 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称《光环》未来将重度依赖外包开发：《战役进化》有 15 家工作室参与，微软曾让动视大锤组开发多人游戏原型",
+    "url": "https://www.ithome.com/0/990/322.htm",
+    "source": "IT之家",
+    "time": "08-16 16:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "游戏创始人尼基塔：新作《Fragmentary Order》才是“下一级别挑战”，就好像《逃离塔科夫》只是“练手”",
