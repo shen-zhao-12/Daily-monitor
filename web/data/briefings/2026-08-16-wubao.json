@@ -1,0 +1,284 @@
+{
+ "id": "2026-08-16-wubao",
+ "title": "线口监测午报 · 2026年08月16日(周日)",
+ "shift": "午报",
+ "date": "2026-08-16 15:57",
+ "docx": "../briefings/线口监测午报-2026-08-16.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "万亿 IPO 前夜的 OpenAI：高管争夺奥尔特曼注意力",
+    "url": "https://www.ithome.com/0/990/278.htm",
+    "source": "IT之家",
+    "time": "08-16 14:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "曾担任网络安全公司 Wiz 总裁兼首席运营官，OpenAI 挖角 Dali Rajic 担任首席营收官",
+    "url": "https://www.ithome.com/0/990/271.htm",
+    "source": "IT之家",
+    "time": "08-16 12:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+    "url": "https://www.ithome.com/0/990/270.htm",
+    "source": "IT之家",
+    "time": "08-16 12:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 模型，可直接选用",
+    "url": "https://www.ithome.com/0/990/264.htm",
+    "source": "IT之家",
+    "time": "08-16 12:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国加州货运抢劫案频发，AI 数据中心硬件成目标",
+    "url": "https://www.ithome.com/0/990/259.htm",
+    "source": "IT之家",
+    "time": "08-16 11:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为官宣昇腾 0 Day 适配小红书最新开源大模型 dots3-note preview",
+    "url": "https://www.ithome.com/0/990/256.htm",
+    "source": "IT之家",
+    "time": "08-16 11:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI",
+    "url": "https://www.ithome.com/0/990/250.htm",
+    "source": "IT之家",
+    "time": "08-16 10:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "撤离冒险射击游戏《ARC Raiders》全球销量已达到 1630 万份，累计收入超过 880 亿日元",
+    "url": "https://www.ithome.com/0/990/242.htm",
+    "source": "IT之家",
+    "time": "08-16 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奕境曾清林谈岚图追光 S 隧道 360° 大回环：东风 57 年造车底蕴，绝不是靠 AI 堆出来的",
+    "url": "https://www.ithome.com/0/990/238.htm",
+    "source": "IT之家",
+    "time": "08-16 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称英伟达拟向软银旗下 SB Energy 投资 30 亿美元，助 OpenAI 建设数据中心",
+    "url": "https://www.ithome.com/0/990/237.htm",
+    "source": "IT之家",
+    "time": "08-16 09:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI in drug discovery – what it is, where we stand and the path forward",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "source": "Hacker News",
+    "time": "08-16 03:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "source": "Hacker News",
+    "time": "08-16 02:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大跌眼镜！AI比网红、TikTok更值得信任，下单却慢一半",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a816d7872cf479981b18679863a01be&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-08-15%2fdoc-ininkwem2170104.shtml&c=15038412607732492192&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-15 19:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 Skill",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a816d7872cf479981b18679863a01be&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E8%25BD%25AF%25E4%25BB%25B6%2f%25E5%258D%2583%25E9%2597%25AE%25E5%25BC%2580%25E6%2594%25BE-ai-%25E7%259C%25BC%25E9%2595%259C%25E7%2594%259F%25E6%2580%2581-%25E6%2594%25AF%25E6%258C%2581%25E8%2587%25AA%25E5%25BB%25BA%25E5%25AF%25BC%25E6%25B8%25B8-%25E6%2595%2599%25E7%25BB%2583-%25E5%25B7%25A1%25E6%25A3%2580%25E7%25AD%2589%25E5%25A4%259A%25E7%25A7%258D-skill%2far-AA2a9ROS&c=1189198833296832392&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-15 02:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "第二届世界人形机器人运动会新增跳远、举重、拔河等项目，2056 台机器人同台竞技",
+    "url": "https://www.ithome.com/0/990/230.htm",
+    "source": "IT之家",
+    "time": "08-16 09:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "东风猛士 X700 将于 8 月 21 日成都车展亮相，预计支持华为乾崑智驾",
+    "url": "https://www.ithome.com/0/990/279.htm",
+    "source": "IT之家",
+    "time": "08-16 14:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏创始人尼基塔：新作《Fragmentary Order》才是“下一级别挑战”，就好像《逃离塔科夫》只是“练手”",
+    "url": "https://www.ithome.com/0/990/292.htm",
+    "source": "IT之家",
+    "time": "08-16 15:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "压成本赚快钱最大化利润：“偷工减料”模拟游戏《黑心装修队》发售",
+    "url": "https://www.ithome.com/0/990/274.htm",
+    "source": "IT之家",
+    "time": "08-16 12:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼预告：《影之刃零》专场 State of Play 带来首次公开的游戏演示、PS5 版的独特性能等",
+    "url": "https://www.ithome.com/0/990/257.htm",
+    "source": "IT之家",
+    "time": "08-16 11:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏《全面战争: 战锤 3》DLC“终焉之主”9 月 24 日发售：4 名全新传奇领主登场",
+    "url": "https://www.ithome.com/0/990/252.htm",
+    "source": "IT之家",
+    "time": "08-16 10:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "黑暗奇幻动作 RPG《黎明行者之血》开启预购：游戏国区 298 元起，9 月 3 日发售",
+    "url": "https://www.ithome.com/0/990/245.htm",
+    "source": "IT之家",
+    "time": "08-16 10:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "像素武侠游戏《大侠立志传：侠道相逢》延期至 12 月发售，原定 8 月 19 日发售",
+    "url": "https://www.ithome.com/0/990/240.htm",
+    "source": "IT之家",
+    "time": "08-16 09:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《塞尔达传说：旷野之息》BetterVR 模组将迎来 1.0 版：新增多人游戏支持、后续还将进行性能优化",
+    "url": "https://www.ithome.com/0/990/236.htm",
+    "source": "IT之家",
+    "time": "08-16 09:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(2)",
+   "Bing新闻(2)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
