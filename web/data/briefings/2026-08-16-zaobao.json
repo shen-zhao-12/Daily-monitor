@@ -2,7 +2,7 @@
  "id": "2026-08-16-zaobao",
  "title": "线口监测早报 · 2026年08月16日(周日)",
  "shift": "早报",
- "date": "2026-08-16 11:29",
+ "date": "2026-08-16 11:58",
  "docx": "../briefings/线口监测早报-2026-08-16.docx",
  "sections": {
   "AI/大模型": [
@@ -129,17 +129,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问",
-    "url": "https://www.ithome.com/0/990/198.htm",
-    "source": "IT之家",
-    "time": "08-16 06:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI in drug discovery – what it is, where we stand and the path forward",
     "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
     "source": "Hacker News",
@@ -162,17 +151,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "扩张AI生态版图 阿里千问“飞轮”转起来了？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a812ea4503a4674af5992ef08839e49&url=https%3a%2f%2fwww.sohu.com%2fa%2f1063480915_120044912&c=10471713385380404661&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-15 20:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Working with AI feels more like leadership than coding",
     "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
     "source": "Hacker News",
@@ -185,20 +163,9 @@
    {
     "beat": "AI/大模型",
     "title": "千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 Skill",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a812ea4503a4674af5992ef08839e49&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E8%25BD%25AF%25E4%25BB%25B6%2f%25E5%258D%2583%25E9%2597%25AE%25E5%25BC%2580%25E6%2594%25BE-ai-%25E7%259C%25BC%25E9%2595%259C%25E7%2594%259F%25E6%2580%2581-%25E6%2594%25AF%25E6%258C%2581%25E8%2587%25AA%25E5%25BB%25BA%25E5%25AF%25BC%25E6%25B8%25B8-%25E6%2595%2599%25E7%25BB%2583-%25E5%25B7%25A1%25E6%25A3%2580%25E7%25AD%2589%25E5%25A4%259A%25E7%25A7%258D-skill%2far-AA2a9ROS&c=15675141940928348473&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a813574ec98497aaaf8ec33eb49f1db&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E8%25BD%25AF%25E4%25BB%25B6%2f%25E5%258D%2583%25E9%2597%25AE%25E5%25BC%2580%25E6%2594%25BE-ai-%25E7%259C%25BC%25E9%2595%259C%25E7%2594%259F%25E6%2580%2581-%25E6%2594%25AF%25E6%258C%2581%25E8%2587%25AA%25E5%25BB%25BA%25E5%25AF%25BC%25E6%25B8%25B8-%25E6%2595%2599%25E7%25BB%2583-%25E5%25B7%25A1%25E6%25A3%2580%25E7%25AD%2589%25E5%25A4%259A%25E7%25A7%258D-skill%2far-AA2a9ROS&c=15675141940928348473&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-15 02:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "华强北AI眼镜销量暴涨100%华强北成全球科技扫货目的地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a812ea4503a4674af5992ef08839e49&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fwbstock%2f2026-08-15%2fdoc-ininkfht2307081.shtml&c=1144085286319788651&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-15 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -297,17 +264,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "前 Square Enix 高管 Jacob Navok：索尼取消实体光盘有望促使 PS Store 数字游戏降价",
-    "url": "https://www.ithome.com/0/990/196.htm",
-    "source": "IT之家",
-    "time": "08-16 06:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -316,9 +272,9 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(2)",
-   "HackerNews(4)",
-   "Bing新闻(3)"
+   "GameLook(0)",
+   "HackerNews(3)",
+   "Bing新闻(1)"
   ],
   "fail": [
    "36氪(no entries)"
