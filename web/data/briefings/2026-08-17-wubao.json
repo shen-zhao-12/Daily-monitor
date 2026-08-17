@@ -2,16 +2,115 @@
  "id": "2026-08-17-wubao",
  "title": "线口监测午报 · 2026年08月17日(周一)",
  "shift": "午报",
- "date": "2026-08-17 12:05",
+ "date": "2026-08-17 17:23",
  "docx": "../briefings/线口监测午报-2026-08-17.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "宏碁非凡 Go Air \"Wildcat Lake\" 轻薄本预约：酷睿 5 320，12GB + 512GB",
-    "url": "https://www.ithome.com/0/990/580.htm",
+    "title": "阿里 AI 音乐模型“快乐虾米”HappyShrimp 1.0 上线，号称人人都能写出好听的歌",
+    "url": "https://www.ithome.com/0/990/721.htm",
     "source": "IT之家",
-    "time": "08-17 11:49",
+    "time": "08-17 17:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "备战 2028：AIDA64 测试版提供对 AMD \"Zen 7\" 服务器处理器初步支持",
+    "url": "https://www.ithome.com/0/990/717.htm",
+    "source": "IT之家",
+    "time": "08-17 17:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "周鸿祎发布全员信：360 要用 AI“重新创业”",
+    "url": "https://www.ithome.com/0/990/715.htm",
+    "source": "IT之家",
+    "time": "08-17 16:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 大模型周榜：Anthropic 多款模型密集入榜，国产 kimi-k3-max 稳定头部",
+    "url": "https://www.ithome.com/0/990/681.htm",
+    "source": "IT之家",
+    "time": "08-17 16:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "识别、合成、实时交互全球第一，Qwen-Audio-3.0 系列语音模型上线阿里千问 AI 平台",
+    "url": "https://www.ithome.com/0/990/679.htm",
+    "source": "IT之家",
+    "time": "08-17 16:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蚂蚁集团 CEO 韩歆毅：智能体商业将在未来 6-12 个月爆发",
+    "url": "https://www.ithome.com/0/990/636.htm",
+    "source": "IT之家",
+    "time": "08-17 14:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "TrendForce：液冷散热成高端 AI 基础设施标配，预估 2026 年渗透率可达 53%",
+    "url": "https://www.ithome.com/0/990/633.htm",
+    "source": "IT之家",
+    "time": "08-17 14:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一夜暴富的 AI 亿万富豪：买房之后，狂扫私人飞机、超跑、游艇",
+    "url": "https://www.ithome.com/0/990/629.htm",
+    "source": "IT之家",
+    "time": "08-17 14:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韶音 OpenFit 2 AI 耳机开启预售：基于千问大模型、48 小时续航，首发价 1398 元",
+    "url": "https://www.ithome.com/0/990/595.htm",
+    "source": "IT之家",
+    "time": "08-17 13:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 视频生成平台 Higgsfield 从高盛、英特尔等处融资 4 亿美元，估值达 54 亿美元",
+    "url": "https://www.ithome.com/0/990/588.htm",
+    "source": "IT之家",
+    "time": "08-17 12:27",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -22,40 +121,7 @@
     "title": "吉比特业绩暴增，《甄嬛传》即将上线！卢竑岩：详解海外翻倍、如何看AI？",
     "url": "http://www.gamelook.com.cn/2026/08/600005/",
     "source": "GameLook",
-    "time": "08-17 09:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "王莆中聊美团 AI 变革：全员“养虾运动”曾日耗千万，干扰真实经营",
-    "url": "https://www.ithome.com/0/990/439.htm",
-    "source": "IT之家",
-    "time": "08-17 08:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-    "source": "Hacker News",
-    "time": "08-17 05:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "source": "Hacker News",
-    "time": "08-17 04:31",
+    "time": "08-17 11:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -64,9 +130,20 @@
    {
     "beat": "AI/大模型",
     "title": "AI助盲眼镜产业化提速 政策加持企业布局",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8288a6b3b74c1589a5a9b53c70a051&url=https%3a%2f%2fwww.news.cn%2ftech%2f20260817%2f27f15b844c414700869ca7138937649d%2fc.html&c=6026683295806747564&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82d3479b144067830184d978721457&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-17%2fdoc-ininqpeu0379762.shtml&c=10406555920031333581&mkt=en-us",
     "source": "Bing新闻",
-    "time": "08-17 01:00",
+    "time": "08-17 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "功耗碾压国际大厂？用RISC-V重新定义AI眼镜的连接功耗",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82d3479b144067830184d978721457&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-17 04:07",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -87,70 +164,69 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
-    "url": "https://www.ithome.com/0/990/442.htm",
+    "title": "国家统计局：前 7 个月我国工业机器人产量同比增长 28.5%",
+    "url": "https://www.ithome.com/0/990/641.htm",
     "source": "IT之家",
-    "time": "08-17 08:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
-  "无人驾驶/低空/智慧出行": [
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "鸿蒙智行尊界 V800/V680 获批合肥市 L3 级自动驾驶测试牌照",
-    "url": "https://www.ithome.com/0/990/501.htm",
-    "source": "IT之家",
-    "time": "08-17 10:26",
+    "time": "08-17 15:16",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    },
    {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "鸿蒙智行尚界 H5 暑期 OTA 升级开启，华为乾崑智驾 ADS 5 上线",
-    "url": "https://www.ithome.com/0/990/476.htm",
+    "beat": "机器人/AI硬件",
+    "title": "宇树科技发布“超人”机器人：原地跳高 2m、极限速度 12.66m/s 超越人类纪录",
+    "url": "https://www.ithome.com/0/990/607.htm",
     "source": "IT之家",
-    "time": "08-17 09:38",
+    "time": "08-17 14:18",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
+  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易《逆水寒：新世界》官宣联动盗墓笔记，吴邪、张起灵、霍秀秀登场",
+    "url": "https://www.ithome.com/0/990/720.htm",
+    "source": "IT之家",
+    "time": "08-17 17:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "小米 17Pro 系列背屏小游戏「银河弹射队」上线，主打消磨碎片时间",
+    "url": "https://www.ithome.com/0/990/718.htm",
+    "source": "IT之家",
+    "time": "08-17 17:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "结束与 SpaceX 土地纠纷后，卡牌游戏公司 CAH 计划修建辱骂马斯克的纪念碑",
+    "url": "https://www.ithome.com/0/990/639.htm",
+    "source": "IT之家",
+    "time": "08-17 15:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "宏碁暗影骑士 · 龙 8 Pro 游戏本上架：9955HX3D + 5070 Ti",
     "url": "https://www.ithome.com/0/990/584.htm",
     "source": "IT之家",
     "time": "08-17 12:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "阿里正式出售游戏业务：曝价格至少 15 亿美元，灵犀互娱 CEO 周炳枢发布内部信",
-    "url": "https://www.ithome.com/0/990/506.htm",
-    "source": "IT之家",
-    "time": "08-17 10:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "茅盾文学奖授权改编军事题材塔防游戏《东方》登陆 Steam，国区售价 15 元",
-    "url": "https://www.ithome.com/0/990/497.htm",
-    "source": "IT之家",
-    "time": "08-17 10:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -188,48 +264,15 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "网易《逆水寒：新世界》全新雨林版本官宣 8 月 28 日上线，迎来首个全新地图",
-    "url": "https://www.ithome.com/0/990/452.htm",
-    "source": "IT之家",
-    "time": "08-17 09:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Faker 和 Uzi 之后，拳头游戏宣布 Caps 成为英雄联盟名人堂第三位成员",
-    "url": "https://www.ithome.com/0/990/444.htm",
-    "source": "IT之家",
-    "time": "08-17 09:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "国产单机动作游戏《湮灭之潮》放出实机演示，女主面部重做引发玩家争议",
-    "url": "https://www.ithome.com/0/990/443.htm",
-    "source": "IT之家",
-    "time": "08-17 08:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "蓝戟 Arc Pro B65 TF 32G 专业显卡上架，官方零售价 8999 元",
-    "url": "https://www.ithome.com/0/990/500.htm",
+    "title": "荣耀 Play11T 手机开售：6.61 寸 720P LCD 屏 + 第四代骁龙 4 芯片，国补后到手价 968.15 元起",
+    "url": "https://www.ithome.com/0/990/664.htm",
     "source": "IT之家",
-    "time": "08-17 10:24",
+    "time": "08-17 15:47",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -241,9 +284,9 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(5)",
-   "HackerNews(4)",
-   "Bing新闻(1)"
+   "GameLook(7)",
+   "HackerNews(3)",
+   "Bing新闻(2)"
   ],
   "fail": [
    "36氪(no entries)"
