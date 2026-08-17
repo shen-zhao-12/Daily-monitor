@@ -1,0 +1,274 @@
+{
+ "id": "2026-08-17-zaobao",
+ "title": "线口监测早报 · 2026年08月17日(周一)",
+ "shift": "早报",
+ "date": "2026-08-17 11:30",
+ "docx": "../briefings/线口监测早报-2026-08-17.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "吉比特业绩暴增，《甄嬛传》即将上线！卢竑岩：详解海外翻倍、如何看AI？",
+    "url": "http://www.gamelook.com.cn/2026/08/600005/",
+    "source": "GameLook",
+    "time": "08-17 09:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "王莆中聊美团 AI 变革：全员“养虾运动”曾日耗千万，干扰真实经营",
+    "url": "https://www.ithome.com/0/990/439.htm",
+    "source": "IT之家",
+    "time": "08-17 08:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称驾校行业供给过剩态势严峻，行业龙头开始引入“VR+AI”等特色培训模式",
+    "url": "https://www.ithome.com/0/990/431.htm",
+    "source": "IT之家",
+    "time": "08-17 07:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IT早报 0817：知情人士回应追觅大家电解散传闻；DeepSeek-V4 系列今日起价格上调；鸿蒙智行问界儿童车官宣将上市；SK 海力士硬盘故障仅向用户原价退款...",
+    "url": "https://www.ithome.com/0/990/427.htm",
+    "source": "IT之家",
+    "time": "08-17 07:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "多家银行竞推“算力贷”金融产品：以企业“Token 词元产出消耗数据”作为业务能力授信依据",
+    "url": "https://www.ithome.com/0/990/426.htm",
+    "source": "IT之家",
+    "time": "08-17 07:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+    "source": "Hacker News",
+    "time": "08-17 05:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "source": "Hacker News",
+    "time": "08-17 04:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI助盲眼镜产业化提速 政策加持企业布局",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8280454d3642f69bd1898c5a52663f&url=https%3a%2f%2fwww.news.cn%2ftech%2f20260817%2f27f15b844c414700869ca7138937649d%2fc.html&c=6026683295806747564&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-17 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "The AI Credit Resale Economy",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "source": "Hacker News",
+    "time": "08-16 22:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
+    "url": "https://www.ithome.com/0/990/442.htm",
+    "source": "IT之家",
+    "time": "08-17 08:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "鸿蒙智行尊界 V800/V680 获批合肥市 L3 级自动驾驶测试牌照",
+    "url": "https://www.ithome.com/0/990/501.htm",
+    "source": "IT之家",
+    "time": "08-17 10:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "鸿蒙智行尚界 H5 暑期 OTA 升级开启，华为乾崑智驾 ADS 5 上线",
+    "url": "https://www.ithome.com/0/990/476.htm",
+    "source": "IT之家",
+    "time": "08-17 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "阿里正式出售游戏业务：曝价格至少 15 亿美元，灵犀互娱 CEO 周炳枢发布内部信",
+    "url": "https://www.ithome.com/0/990/506.htm",
+    "source": "IT之家",
+    "time": "08-17 10:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "茅盾文学奖授权改编军事题材塔防游戏《东方》登陆 Steam，国区售价 15 元",
+    "url": "https://www.ithome.com/0/990/497.htm",
+    "source": "IT之家",
+    "time": "08-17 10:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "独立游戏人吐槽：“游戏做完了，自己却觉得不好玩咋办”？同行：“别慌，太常见了”",
+    "url": "http://www.gamelook.com.cn/2026/08/600038/",
+    "source": "GameLook",
+    "time": "08-17 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中国公司不做的“水浒游戏”，日本厂商干到畅销榜第四？",
+    "url": "http://www.gamelook.com.cn/2026/08/600007/",
+    "source": "GameLook",
+    "time": "08-17 09:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Newzoo总监上海演讲：双引擎驱动增长，2026中国与西方游戏有怎样趋势？",
+    "url": "http://www.gamelook.com.cn/2026/08/599993/",
+    "source": "GameLook",
+    "time": "08-17 09:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易《逆水寒：新世界》全新雨林版本官宣 8 月 28 日上线，迎来首个全新地图",
+    "url": "https://www.ithome.com/0/990/452.htm",
+    "source": "IT之家",
+    "time": "08-17 09:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Faker 和 Uzi 之后，拳头游戏宣布 Caps 成为英雄联盟名人堂第三位成员",
+    "url": "https://www.ithome.com/0/990/444.htm",
+    "source": "IT之家",
+    "time": "08-17 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国产单机动作游戏《湮灭之潮》放出实机演示，女主面部重做引发玩家争议",
+    "url": "https://www.ithome.com/0/990/443.htm",
+    "source": "IT之家",
+    "time": "08-17 08:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "蓝戟 Arc Pro B65 TF 32G 专业显卡上架，官方零售价 8999 元",
+    "url": "https://www.ithome.com/0/990/500.htm",
+    "source": "IT之家",
+    "time": "08-17 10:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "零售商 Play Asia 透露：《影之刃零》将推出实体光盘版",
+    "url": "https://www.ithome.com/0/990/433.htm",
+    "source": "IT之家",
+    "time": "08-17 08:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(5)",
+   "HackerNews(4)",
+   "Bing新闻(1)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
