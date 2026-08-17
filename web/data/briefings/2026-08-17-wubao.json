@@ -2,10 +2,32 @@
  "id": "2026-08-17-wubao",
  "title": "线口监测午报 · 2026年08月17日(周一)",
  "shift": "午报",
- "date": "2026-08-17 17:23",
+ "date": "2026-08-17 18:05",
  "docx": "../briefings/线口监测午报-2026-08-17.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌 Pixel 手机新功能曝光：让 AI 分析电池使用情况",
+    "url": "https://www.ithome.com/0/990/762.htm",
+    "source": "IT之家",
+    "time": "08-17 17:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "请立即更新：爱快 iKuai 路由器系统近期遭受持续攻击",
+    "url": "https://www.ithome.com/0/990/727.htm",
+    "source": "IT之家",
+    "time": "08-17 17:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "阿里 AI 音乐模型“快乐虾米”HappyShrimp 1.0 上线，号称人人都能写出好听的歌",
@@ -107,17 +129,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 视频生成平台 Higgsfield 从高盛、英特尔等处融资 4 亿美元，估值达 54 亿美元",
-    "url": "https://www.ithome.com/0/990/588.htm",
-    "source": "IT之家",
-    "time": "08-17 12:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "吉比特业绩暴增，《甄嬛传》即将上线！卢竑岩：详解海外翻倍、如何看AI？",
     "url": "http://www.gamelook.com.cn/2026/08/600005/",
     "source": "GameLook",
@@ -130,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI助盲眼镜产业化提速 政策加持企业布局",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82d3479b144067830184d978721457&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-17%2fdoc-ininqpeu0379762.shtml&c=10406555920031333581&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82dd0cd6fe4aaab2d8fbea2208ad1f&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-17%2fdoc-ininqpeu0379762.shtml&c=10406555920031333581&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-17 09:28",
     "summary": "",
@@ -140,8 +151,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "Rhombus 1.1 is now available",
+    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "source": "Hacker News",
+    "time": "08-17 08:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "功耗碾压国际大厂？用RISC-V重新定义AI眼镜的连接功耗",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82d3479b144067830184d978721457&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82dd0cd6fe4aaab2d8fbea2208ad1f&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-17 04:07",
     "summary": "",
@@ -162,6 +184,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "第二届世界人形机器人运动会模拟消防救援比赛：需在半小时内完成救火任务",
+    "url": "https://www.ithome.com/0/990/768.htm",
+    "source": "IT之家",
+    "time": "08-17 18:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "国家统计局：前 7 个月我国工业机器人产量同比增长 28.5%",
@@ -190,6 +223,17 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "漫步者 HECATE 电竞 TWS 耳机 GX05 大师版上市，首发价 748.8 元",
+    "url": "https://www.ithome.com/0/990/765.htm",
+    "source": "IT之家",
+    "time": "08-17 17:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "网易《逆水寒：新世界》官宣联动盗墓笔记，吴邪、张起灵、霍秀秀登场",
     "url": "https://www.ithome.com/0/990/720.htm",
     "source": "IT之家",
@@ -216,17 +260,6 @@
     "url": "https://www.ithome.com/0/990/639.htm",
     "source": "IT之家",
     "time": "08-17 15:15",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "宏碁暗影骑士 · 龙 8 Pro 游戏本上架：9955HX3D + 5070 Ti",
-    "url": "https://www.ithome.com/0/990/584.htm",
-    "source": "IT之家",
-    "time": "08-17 12:04",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -285,7 +318,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(3)",
+   "HackerNews(4)",
    "Bing新闻(2)"
   ],
   "fail": [
