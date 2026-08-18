@@ -1,0 +1,361 @@
+{
+ "id": "2026-08-18-wubao",
+ "title": "线口监测午报 · 2026年08月18日(周二)",
+ "shift": "午报",
+ "date": "2026-08-18 17:03",
+ "docx": "../briefings/线口监测午报-2026-08-18.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 总裁布罗克曼：为抵御 AI 网络威胁，企业应尽快做好 10 件事",
+    "url": "https://www.ithome.com/0/991/089.htm",
+    "source": "IT之家",
+    "time": "08-18 15:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "半价！全球最大 AI 聚合平台下调 OpenAI 最强 AI 模型 GPT-5.6 Sol 费用",
+    "url": "https://www.ithome.com/0/991/081.htm",
+    "source": "IT之家",
+    "time": "08-18 14:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
+    "url": "https://www.ithome.com/0/991/074.htm",
+    "source": "IT之家",
+    "time": "08-18 14:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "哈佛大学和麻省理工造出 83 亿个“AI 人”，模拟全球人类行为",
+    "url": "https://www.ithome.com/0/991/065.htm",
+    "source": "IT之家",
+    "time": "08-18 13:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球第 3 家，代码显示 vivo 手机将支持谷歌安卓 AI 诈骗检测功能",
+    "url": "https://www.ithome.com/0/991/063.htm",
+    "source": "IT之家",
+    "time": "08-18 13:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Repair Cafe – Fix Your Broken Items",
+    "url": "https://www.repaircafe.org/",
+    "source": "Hacker News",
+    "time": "08-18 07:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "source": "Hacker News",
+    "time": "08-18 06:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "source": "Hacker News",
+    "time": "08-18 04:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 专利探索智能眼镜未来：识别人脸自动梳理、AI 提取精彩片段",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fmeta-%25E4%25B8%2593%25E5%2588%25A9%25E6%258E%25A2%25E7%25B4%25A2%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E6%259C%25AA%25E6%259D%25A5-%25E8%25AF%2586%25E5%2588%25AB%25E4%25BA%25BA%25E8%2584%25B8%25E8%2587%25AA%25E5%258A%25A8%25E6%25A2%25B3%25E7%2590%2586-ai-%25E6%258F%2590%25E5%258F%2596%25E7%25B2%25BE%25E5%25BD%25A9%25E7%2589%2587%25E6%25AE%25B5%2far-AA2aluZ7&c=16626488452915706338&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 04:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI;DR (AI; Didn't Read)",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "source": "Hacker News",
+    "time": "08-18 03:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "An update on leaving Gmail for Fastmail",
+    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "source": "Hacker News",
+    "time": "08-18 01:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蒋奇明、李诞掀起 AI 眼镜换镜风潮，雷鸟 iO 眼镜新品 8月 21 日发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8vgoJHa5vJ0&c=7500427133498961882&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 00:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "url": "https://speko.ai/",
+    "source": "Hacker News",
+    "time": "08-17 23:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "source": "Hacker News",
+    "time": "08-17 22:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "source": "Hacker News",
+    "time": "08-17 22:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟全新 iO 系列官宣 8 月 21 日发布：定位首款“人类增强 AI 眼镜”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-18%2fdoc-inintats8665093.shtml&c=869257904524083701&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-17 22:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "source": "Hacker News",
+    "time": "08-17 20:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "15倍增速背后：从康耐特XR业务爆发，透视AI眼镜产业的机遇与现实",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2fwww.163.com%2fmoney%2farticle%2fL4JRJ7FM00259I71.html&c=14987985838942255520&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-17 20:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "功耗碾压国际大厂？用RISC-V重新定义AI眼镜的连接功耗",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-17 18:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "吉比特业绩暴增，《甄嬛传》即将上线！卢竑岩：详解海外翻倍、如何看AI？",
+    "url": "http://www.gamelook.com.cn/2026/08/600005/",
+    "source": "GameLook",
+    "time": "08-17 11:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "刚签完合作协议 4 天，英伟达黄仁勋之女黄敏珊到访 LG 电子韩国机器人工厂",
+    "url": "https://www.ithome.com/0/991/174.htm",
+    "source": "IT之家",
+    "time": "08-18 16:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "无人配送企业 Serve 与外卖平台 Grubhub 达成合作，服务扩展至更多美国城市",
+    "url": "https://www.ithome.com/0/991/087.htm",
+    "source": "IT之家",
+    "time": "08-18 15:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息人士暗示：未公布的微软 Xbox 第一方游戏有可能亮相科隆游戏展",
+    "url": "https://www.ithome.com/0/991/172.htm",
+    "source": "IT之家",
+    "time": "08-18 16:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国产抗日 FPS《抵抗者》确认参展 2026 科隆游戏展，预计登陆 PC、PS5 和 Xbox 平台",
+    "url": "https://www.ithome.com/0/991/123.htm",
+    "source": "IT之家",
+    "time": "08-18 15:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "小米 G25i 2026 游戏显示器海外发布，24.5 英寸 1080P 240Hz Fast IPS 面板",
+    "url": "https://www.ithome.com/0/991/080.htm",
+    "source": "IT之家",
+    "time": "08-18 14:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "炉石职业选手不当主播、偏要做游戏？今天他的“奇幻自走棋”首曝了！",
+    "url": "http://www.gamelook.com.cn/2026/08/600106/",
+    "source": "GameLook",
+    "time": "08-18 10:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩国G-STAR游戏展变天？网易米哈游B站华通挑大梁，韩大厂近乎失踪",
+    "url": "http://www.gamelook.com.cn/2026/08/600143/",
+    "source": "GameLook",
+    "time": "08-18 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "对话腾讯许光：用叙事向3A大作重塑CF宇宙，做全球玩家喜爱的长青IP",
+    "url": "http://www.gamelook.com.cn/2026/08/600151/",
+    "source": "GameLook",
+    "time": "08-18 08:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "独立游戏人吐槽：“游戏做完了，自己却觉得不好玩咋办”？同行：“别慌，太常见了”",
+    "url": "http://www.gamelook.com.cn/2026/08/600038/",
+    "source": "GameLook",
+    "time": "08-17 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中国公司不做的“水浒游戏”，日本厂商干到畅销榜第四？",
+    "url": "http://www.gamelook.com.cn/2026/08/600007/",
+    "source": "GameLook",
+    "time": "08-17 09:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(12)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
