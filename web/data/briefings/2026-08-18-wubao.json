@@ -2,10 +2,21 @@
  "id": "2026-08-18-wubao",
  "title": "线口监测午报 · 2026年08月18日(周二)",
  "shift": "午报",
- "date": "2026-08-18 17:03",
+ "date": "2026-08-18 17:53",
  "docx": "../briefings/线口监测午报-2026-08-18.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯云将在马来西亚设立首个云区域，同步推进本地 AI 人才培养计划",
+    "url": "https://www.ithome.com/0/991/250.htm",
+    "source": "IT之家",
+    "time": "08-18 17:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "OpenAI 总裁布罗克曼：为抵御 AI 网络威胁，企业应尽快做好 10 件事",
@@ -19,43 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "半价！全球最大 AI 聚合平台下调 OpenAI 最强 AI 模型 GPT-5.6 Sol 费用",
-    "url": "https://www.ithome.com/0/991/081.htm",
-    "source": "IT之家",
-    "time": "08-18 14:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
-    "url": "https://www.ithome.com/0/991/074.htm",
-    "source": "IT之家",
-    "time": "08-18 14:15",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "哈佛大学和麻省理工造出 83 亿个“AI 人”，模拟全球人类行为",
-    "url": "https://www.ithome.com/0/991/065.htm",
-    "source": "IT之家",
-    "time": "08-18 13:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "全球第 3 家，代码显示 vivo 手机将支持谷歌安卓 AI 诈骗检测功能",
-    "url": "https://www.ithome.com/0/991/063.htm",
-    "source": "IT之家",
-    "time": "08-18 13:15",
+    "title": "15倍增速背后：从康耐特XR业务爆发，透视AI眼镜产业的机遇与现实",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a842b872fbe4cafb2736f0d046bbec1&url=https%3a%2f%2fwww.163.com%2fmoney%2farticle%2fL4JRJ7FM00259I71.html&c=14987985838942255520&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 10:07",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -96,10 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Meta 专利探索智能眼镜未来：识别人脸自动梳理、AI 提取精彩片段",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fmeta-%25E4%25B8%2593%25E5%2588%25A9%25E6%258E%25A2%25E7%25B4%25A2%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E6%259C%25AA%25E6%259D%25A5-%25E8%25AF%2586%25E5%2588%25AB%25E4%25BA%25BA%25E8%2584%25B8%25E8%2587%25AA%25E5%258A%25A8%25E6%25A2%25B3%25E7%2590%2586-ai-%25E6%258F%2590%25E5%258F%2596%25E7%25B2%25BE%25E5%25BD%25A9%25E7%2589%2587%25E6%25AE%25B5%2far-AA2aluZ7&c=16626488452915706338&mkt=en-us",
+    "title": "雷鸟全新iO系列官宣8月21日发布：首款“人类增强 AI 眼镜”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a842b872fbe4cafb2736f0d046bbec1&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E9%259B%25B7%25E9%25B8%259F%25E5%2585%25A8%25E6%2596%25B0io%25E7%25B3%25BB%25E5%2588%2597%25E5%25AE%2598%25E5%25AE%25A38%25E6%259C%258821%25E6%2597%25A5%25E5%258F%2591%25E5%25B8%2583-%25E9%25A6%2596%25E6%25AC%25BE-%25E4%25BA%25BA%25E7%25B1%25BB%25E5%25A2%259E%25E5%25BC%25BA-ai-%25E7%259C%25BC%25E9%2595%259C%2far-AA2aluEW&c=9815619227607772540&mkt=en-us",
     "source": "Bing新闻",
-    "time": "08-18 04:23",
+    "time": "08-18 04:06",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -130,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "蒋奇明、李诞掀起 AI 眼镜换镜风潮，雷鸟 iO 眼镜新品 8月 21 日发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8vgoJHa5vJ0&c=7500427133498961882&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a842b872fbe4cafb2736f0d046bbec1&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8vgoJHa5vJ0&c=7500427133498961882&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-18 00:47",
     "summary": "",
@@ -173,17 +151,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "雷鸟全新 iO 系列官宣 8 月 21 日发布：定位首款“人类增强 AI 眼镜”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-18%2fdoc-inintats8665093.shtml&c=869257904524083701&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-17 22:06",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "url": "https://blog.roboflow.com/openai-gpt-5-6/",
     "source": "Hacker News",
@@ -195,19 +162,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "15倍增速背后：从康耐特XR业务爆发，透视AI眼镜产业的机遇与现实",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2fwww.163.com%2fmoney%2farticle%2fL4JRJ7FM00259I71.html&c=14987985838942255520&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-17 20:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "功耗碾压国际大厂？用RISC-V重新定义AI眼镜的连接功耗",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a841fcea2df4a46891379691107c486&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a842b872fbe4cafb2736f0d046bbec1&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-17 18:07",
     "summary": "",
@@ -225,9 +181,31 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI助盲眼镜产业化提速 政策加持企业布局",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a842b872fbe4cafb2736f0d046bbec1&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-17%2fdoc-ininqpeu0379762.shtml&c=10406555920031333581&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-17 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "产业链已初步成型，中国信通院联合发布具身智能训练场研究报告",
+    "url": "https://www.ithome.com/0/991/239.htm",
+    "source": "IT之家",
+    "time": "08-18 17:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "刚签完合作协议 4 天，英伟达黄仁勋之女黄敏珊到访 LG 电子韩国机器人工厂",
@@ -241,20 +219,19 @@
    }
   ],
   "无人驾驶/低空/智慧出行": [],
-  "电商/直播/即时零售": [
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
    {
-    "beat": "电商/直播/即时零售",
-    "title": "无人配送企业 Serve 与外卖平台 Grubhub 达成合作，服务扩展至更多美国城市",
-    "url": "https://www.ithome.com/0/991/087.htm",
+    "beat": "游戏/电竞/平台公司",
+    "title": "首届 ENC 电竞世界杯比赛官宣推迟至 2027 年 11 月举行",
+    "url": "https://www.ithome.com/0/991/211.htm",
     "source": "IT之家",
-    "time": "08-18 15:01",
+    "time": "08-18 17:05",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "游戏/电竞/平台公司": [
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "消息人士暗示：未公布的微软 Xbox 第一方游戏有可能亮相科隆游戏展",
@@ -272,17 +249,6 @@
     "url": "https://www.ithome.com/0/991/123.htm",
     "source": "IT之家",
     "time": "08-18 15:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "小米 G25i 2026 游戏显示器海外发布，24.5 英寸 1080P 240Hz Fast IPS 面板",
-    "url": "https://www.ithome.com/0/991/080.htm",
-    "source": "IT之家",
-    "time": "08-18 14:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -338,6 +304,17 @@
     "url": "http://www.gamelook.com.cn/2026/08/600007/",
     "source": "GameLook",
     "time": "08-17 09:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Newzoo总监上海演讲：双引擎驱动增长，2026中国与西方游戏有怎样趋势？",
+    "url": "http://www.gamelook.com.cn/2026/08/599993/",
+    "source": "GameLook",
+    "time": "08-17 09:33",
     "summary": "",
     "grade": "C",
     "local": false,
