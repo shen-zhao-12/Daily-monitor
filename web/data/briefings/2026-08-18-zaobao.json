@@ -2,10 +2,21 @@
  "id": "2026-08-18-zaobao",
  "title": "线口监测早报 · 2026年08月18日(周二)",
  "shift": "早报",
- "date": "2026-08-18 11:13",
+ "date": "2026-08-18 11:32",
  "docx": "../briefings/线口监测早报-2026-08-18.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 专利探索智能眼镜未来：可识别人脸自动梳理、AI 提取精彩片段",
+    "url": "https://www.ithome.com/0/991/025.htm",
+    "source": "IT之家",
+    "time": "08-18 11:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "雷鸟全新 iO 系列官宣 8 月 21 日发布：定位首款“人类增强 AI 眼镜”",
@@ -218,20 +229,9 @@
    {
     "beat": "AI/大模型",
     "title": "功耗碾压国际大厂？用RISC-V重新定义AI眼镜的连接功耗",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a83cdd3c8fe4a14b539e0a4e8265e3a&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a83d26972634bc0b1bbd3e266569e0b&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-17 18:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "吉比特业绩暴增，《甄嬛传》即将上线！卢竑岩：详解海外翻倍、如何看AI？",
-    "url": "http://www.gamelook.com.cn/2026/08/600005/",
-    "source": "GameLook",
-    "time": "08-17 11:42",
     "summary": "",
     "grade": "C",
     "local": false,
