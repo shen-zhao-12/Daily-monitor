@@ -2,10 +2,21 @@
  "id": "2026-08-19-zaobao",
  "title": "线口监测早报 · 2026年08月19日(周三)",
  "shift": "早报",
- "date": "2026-08-19 11:26",
+ "date": "2026-08-19 11:57",
  "docx": "../briefings/线口监测早报-2026-08-19.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "官方回应《使命召唤：现代战争 4》游戏宣传图问题，网友推测 AI 生成",
+    "url": "https://www.ithome.com/0/991/562.htm",
+    "source": "IT之家",
+    "time": "08-19 11:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "“AI 换脸”色情 App 营销引发争议：Meta 下架广告、苹果移除应用",
@@ -74,41 +85,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "外媒用 Codex AI 开发 macOS 27 工具，提高菜单栏电量可读性",
-    "url": "https://www.ithome.com/0/991/407.htm",
-    "source": "IT之家",
-    "time": "08-19 08:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "零零科技 HOVERAir VERSA 无人机发布：模块化设计、可作为三轴云台相机使用，套装价 4570 港币起",
-    "url": "https://www.ithome.com/0/991/405.htm",
-    "source": "IT之家",
-    "time": "08-19 08:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI 辅助撰写提案涌入美国国会：充斥细节错误，拖慢审核进度",
-    "url": "https://www.ithome.com/0/991/404.htm",
-    "source": "IT之家",
-    "time": "08-19 08:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "首发 2699 元闪极 AI 眼镜 loomos L1 发布：钛合金机身 43 克，接入飞书与腾讯 WorkBuddy",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-18%2fdoc-ininuefn3164829.shtml&c=14738697636654819217&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8529bd32ef4445846619b2cd6fa383&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-18%2fdoc-ininuefn3164829.shtml&c=14738697636654819217&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-19 00:08",
     "summary": "",
@@ -119,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "不走堆料路线，闪极loomos L1把AI眼镜的未来押注在“长时间佩戴+主动记忆”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064558239_121448738&c=13824485857007443701&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8529bd32ef4445846619b2cd6fa383&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064558239_121448738&c=13824485857007443701&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-18 23:42",
     "summary": "",
@@ -130,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "告别玩具式AI眼镜！闪极Loomos L1上线：16小时长戴+主动记忆重塑行业",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064548292_691122&c=16215400852174085255&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8529bd32ef4445846619b2cd6fa383&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064548292_691122&c=16215400852174085255&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-18 22:59",
     "summary": "",
@@ -152,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "雷鸟iO系列首款AI眼镜8月21日发布，以科技赋能打造人类能力延伸新体验",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E9%259B%25B7%25E9%25B8%259Fio%25E7%25B3%25BB%25E5%2588%2597%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C8%25E6%259C%258821%25E6%2597%25A5%25E5%258F%2591%25E5%25B8%2583-%25E4%25BB%25A5%25E7%25A7%2591%25E6%258A%2580%25E8%25B5%258B%25E8%2583%25BD%25E6%2589%2593%25E9%2580%25A0%25E4%25BA%25BA%25E7%25B1%25BB%25E8%2583%25BD%25E5%258A%259B%25E5%25BB%25B6%25E4%25BC%25B8%25E6%2596%25B0%25E4%25BD%2593%25E9%25AA%258C%2far-AA2aoLRc&c=4096482481505094820&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8529bd32ef4445846619b2cd6fa383&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E9%259B%25B7%25E9%25B8%259Fio%25E7%25B3%25BB%25E5%2588%2597%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C8%25E6%259C%258821%25E6%2597%25A5%25E5%258F%2591%25E5%25B8%2583-%25E4%25BB%25A5%25E7%25A7%2591%25E6%258A%2580%25E8%25B5%258B%25E8%2583%25BD%25E6%2589%2593%25E9%2580%25A0%25E4%25BA%25BA%25E7%25B1%25BB%25E8%2583%25BD%25E5%258A%259B%25E5%25BB%25B6%25E4%25BC%25B8%25E6%2596%25B0%25E4%25BD%2593%25E9%25AA%258C%2far-AA2aoLRc&c=4096482481505094820&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-18 17:08",
     "summary": "",
@@ -163,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "蒋奇明、李诞掀起 AI 眼镜换镜风潮，雷鸟 iO 眼镜 8月21 日发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-18%2fdoc-ininthzq8627679.shtml&c=5920798071640441421&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8529bd32ef4445846619b2cd6fa383&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-18%2fdoc-ininthzq8627679.shtml&c=5920798071640441421&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-18 14:09",
     "summary": "",
@@ -174,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "15倍增速背后：从康耐特XR业务爆发，透视AI眼镜产业的机遇与现实",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.163.com%2fmoney%2farticle%2fL4JRJ7FM00259I71.html&c=14987985838942255520&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8529bd32ef4445846619b2cd6fa383&url=https%3a%2f%2fwww.163.com%2fmoney%2farticle%2fL4JRJ7FM00259I71.html&c=14987985838942255520&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-18 10:07",
     "summary": "",
@@ -185,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "功耗碾压国际大厂？用RISC-V重新定义AI眼镜的连接功耗",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8529bd32ef4445846619b2cd6fa383&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-17 18:07",
     "summary": "",
@@ -350,7 +328,7 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(15)",
+   "GameLook(14)",
    "HackerNews(1)",
    "Bing新闻(7)"
   ],
