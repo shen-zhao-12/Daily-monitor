@@ -1,0 +1,361 @@
+{
+ "id": "2026-08-19-zaobao",
+ "title": "线口监测早报 · 2026年08月19日(周三)",
+ "shift": "早报",
+ "date": "2026-08-19 11:26",
+ "docx": "../briefings/线口监测早报-2026-08-19.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "“AI 换脸”色情 App 营销引发争议：Meta 下架广告、苹果移除应用",
+    "url": "https://www.ithome.com/0/991/482.htm",
+    "source": "IT之家",
+    "time": "08-19 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题",
+    "url": "https://www.ithome.com/0/991/469.htm",
+    "source": "IT之家",
+    "time": "08-19 10:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "每页给 6 美元，AI 公司 Handshake AI 高价收购工作文档",
+    "url": "https://www.ithome.com/0/991/464.htm",
+    "source": "IT之家",
+    "time": "08-19 10:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 Copilot AI 漏洞被披露：恶意链接绕过用户确认窃取隐私数据",
+    "url": "https://www.ithome.com/0/991/423.htm",
+    "source": "IT之家",
+    "time": "08-19 09:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智谱 GLM-5.3 模型 API 上线，权重下周五开源",
+    "url": "https://www.ithome.com/0/991/417.htm",
+    "source": "IT之家",
+    "time": "08-19 09:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 二季度营收 67 亿美元环比增 18%，被 Anthropic 营收反超且亏损持续扩大",
+    "url": "https://www.ithome.com/0/991/414.htm",
+    "source": "IT之家",
+    "time": "08-19 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "外媒用 Codex AI 开发 macOS 27 工具，提高菜单栏电量可读性",
+    "url": "https://www.ithome.com/0/991/407.htm",
+    "source": "IT之家",
+    "time": "08-19 08:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "零零科技 HOVERAir VERSA 无人机发布：模块化设计、可作为三轴云台相机使用，套装价 4570 港币起",
+    "url": "https://www.ithome.com/0/991/405.htm",
+    "source": "IT之家",
+    "time": "08-19 08:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 辅助撰写提案涌入美国国会：充斥细节错误，拖慢审核进度",
+    "url": "https://www.ithome.com/0/991/404.htm",
+    "source": "IT之家",
+    "time": "08-19 08:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "首发 2699 元闪极 AI 眼镜 loomos L1 发布：钛合金机身 43 克，接入飞书与腾讯 WorkBuddy",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-18%2fdoc-ininuefn3164829.shtml&c=14738697636654819217&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-19 00:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不走堆料路线，闪极loomos L1把AI眼镜的未来押注在“长时间佩戴+主动记忆”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064558239_121448738&c=13824485857007443701&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 23:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "告别玩具式AI眼镜！闪极Loomos L1上线：16小时长戴+主动记忆重塑行业",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064548292_691122&c=16215400852174085255&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 22:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Using the railway network as a flatbed scanner",
+    "url": "https://philo.gay/linecam/",
+    "source": "Hacker News",
+    "time": "08-18 20:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟iO系列首款AI眼镜8月21日发布，以科技赋能打造人类能力延伸新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E9%259B%25B7%25E9%25B8%259Fio%25E7%25B3%25BB%25E5%2588%2597%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C8%25E6%259C%258821%25E6%2597%25A5%25E5%258F%2591%25E5%25B8%2583-%25E4%25BB%25A5%25E7%25A7%2591%25E6%258A%2580%25E8%25B5%258B%25E8%2583%25BD%25E6%2589%2593%25E9%2580%25A0%25E4%25BA%25BA%25E7%25B1%25BB%25E8%2583%25BD%25E5%258A%259B%25E5%25BB%25B6%25E4%25BC%25B8%25E6%2596%25B0%25E4%25BD%2593%25E9%25AA%258C%2far-AA2aoLRc&c=4096482481505094820&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 17:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蒋奇明、李诞掀起 AI 眼镜换镜风潮，雷鸟 iO 眼镜 8月21 日发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-18%2fdoc-ininthzq8627679.shtml&c=5920798071640441421&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 14:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "15倍增速背后：从康耐特XR业务爆发，透视AI眼镜产业的机遇与现实",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.163.com%2fmoney%2farticle%2fL4JRJ7FM00259I71.html&c=14987985838942255520&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "功耗碾压国际大厂？用RISC-V重新定义AI眼镜的连接功耗",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a85225545504d2abcbcc657870f1c83&url=https%3a%2f%2fwww.ednchina.com%2fnews%2fa15036.html&c=17831119053044339330&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-17 18:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "宇树科技王兴兴身家超千亿元，成 90 后新首富",
+    "url": "https://www.ithome.com/0/991/443.htm",
+    "source": "IT之家",
+    "time": "08-19 10:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "A 股人形机器人第一股宇树科技今日上市：开盘大涨 629.44%，单签收益达 47 万元",
+    "url": "https://www.ithome.com/0/991/426.htm",
+    "source": "IT之家",
+    "time": "08-19 09:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "玩家笑翻！10亿美元巨制《星际公民》直播中“游戏Bug不断，团队埋怨互怼”",
+    "url": "http://www.gamelook.com.cn/2026/08/600212/",
+    "source": "GameLook",
+    "time": "08-19 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "前顽皮狗开发者透露初代《神秘海域》游戏设置“动态难度系统”原因：防止玩家过快通关",
+    "url": "https://www.ithome.com/0/991/518.htm",
+    "source": "IT之家",
+    "time": "08-19 11:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "新套路来了！“低配二游”创造月收入3000万奇迹，打通“漫剧+玩游戏”致富路？",
+    "url": "http://www.gamelook.com.cn/2026/08/600168/",
+    "source": "GameLook",
+    "time": "08-19 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "雷神猎刃 60 游戏手柄 8 月 25 日预售，支持有线＋2.4G 双模 8KHz 轮询率",
+    "url": "https://www.ithome.com/0/991/459.htm",
+    "source": "IT之家",
+    "time": "08-19 10:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "黑客组织 Cyberleek 曝光《GTA6》完整地图平面图，抗议游戏行业商业化套路",
+    "url": "https://www.ithome.com/0/991/456.htm",
+    "source": "IT之家",
+    "time": "08-19 10:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Mesa 26.3 合并英特尔图形优化，《古墓丽影：暗影》游戏性能提升 5.26%",
+    "url": "https://www.ithome.com/0/991/453.htm",
+    "source": "IT之家",
+    "time": "08-19 10:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "友谊时光上半年利润大增74%：恋爱小游戏《心跳陷落》发力，在研5款游戏",
+    "url": "http://www.gamelook.com.cn/2026/08/600169/",
+    "source": "GameLook",
+    "time": "08-19 09:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 客户端 Beta / 预览版更新发布：修复游戏卸载后下载队列仍然残留的问题",
+    "url": "https://www.ithome.com/0/991/422.htm",
+    "source": "IT之家",
+    "time": "08-19 09:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "炉石职业选手不当主播、偏要做游戏？今天他的“奇幻自走棋”首曝了！",
+    "url": "http://www.gamelook.com.cn/2026/08/600106/",
+    "source": "GameLook",
+    "time": "08-18 10:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩国G-STAR游戏展变天？网易米哈游B站华通挑大梁，韩大厂近乎失踪",
+    "url": "http://www.gamelook.com.cn/2026/08/600143/",
+    "source": "GameLook",
+    "time": "08-18 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "对话腾讯许光：用叙事向3A大作重塑CF宇宙，做全球玩家喜爱的长青IP",
+    "url": "http://www.gamelook.com.cn/2026/08/600151/",
+    "source": "GameLook",
+    "time": "08-18 08:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(1)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
