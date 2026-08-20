@@ -1,0 +1,361 @@
+{
+ "id": "2026-08-20-zaobao",
+ "title": "线口监测早报 · 2026年08月20日(周四)",
+ "shift": "早报",
+ "date": "2026-08-20 11:25",
+ "docx": "../briefings/线口监测早报-2026-08-20.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌在搜索和 Gemini 中推出多款全新 AI 学习工具，含交互式可视化内容、3D 模拟等",
+    "url": "https://www.ithome.com/0/991/993.htm",
+    "source": "IT之家",
+    "time": "08-20 10:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta Muse Video 生成视频样片曝光，单次 AI 最长生成 10 秒视频",
+    "url": "https://www.ithome.com/0/991/991.htm",
+    "source": "IT之家",
+    "time": "08-20 10:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果反驳 OpenAI 驳回诉讼动议，重申对方存在大规模商业秘密窃取行为",
+    "url": "https://www.ithome.com/0/991/990.htm",
+    "source": "IT之家",
+    "time": "08-20 10:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "支付巨头 Stripe 确认将收购 AI 路由平台 OpenRouter，消息称交易价格达 75 亿美元",
+    "url": "https://www.ithome.com/0/991/918.htm",
+    "source": "IT之家",
+    "time": "08-20 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "补齐最后拼图：开发 4 年后 AI 编程语言 Mojo 完全开源",
+    "url": "https://www.ithome.com/0/991/914.htm",
+    "source": "IT之家",
+    "time": "08-20 09:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软升级 Win11 任务管理器，可视化 AI 工作负载",
+    "url": "https://www.ithome.com/0/991/901.htm",
+    "source": "IT之家",
+    "time": "08-20 09:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称英伟达在北欧充当 AI 算力“牵线人”，当地数据中心交易热度攀升",
+    "url": "https://www.ithome.com/0/991/900.htm",
+    "source": "IT之家",
+    "time": "08-20 09:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "ChatGPT 突发全球大规模服务中断，OpenAI 称正在修复",
+    "url": "https://www.ithome.com/0/991/891.htm",
+    "source": "IT之家",
+    "time": "08-20 08:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+    "url": "https://www.ithome.com/0/991/886.htm",
+    "source": "IT之家",
+    "time": "08-20 08:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+    "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "source": "Hacker News",
+    "time": "08-20 01:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "闪极loomos探索AI眼镜技术新路线：主动AI记忆+换电架构",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8673ce088847bc81ad2ddf488027ca&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E9%2597%25AA%25E6%259E%2581loomos%25E6%258E%25A2%25E7%25B4%25A2ai%25E7%259C%25BC%25E9%2595%259C%25E6%258A%2580%25E6%259C%25AF%25E6%2596%25B0%25E8%25B7%25AF%25E7%25BA%25BF-%25E4%25B8%25BB%25E5%258A%25A8ai%25E8%25AE%25B0%25E5%25BF%2586-%25E6%258D%25A2%25E7%2594%25B5%25E6%259E%25B6%25E6%259E%2584%2far-AA2atDWY&c=11382849346123622372&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-19 23:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Mathematics in the age of AI",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "source": "Hacker News",
+    "time": "08-19 23:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "对话闪极CEO张波：一副AI眼镜背后的定价、渠道与主动式AI隐私边界",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8673ce088847bc81ad2ddf488027ca&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25AF%25B9%25E8%25AF%259D%25E9%2597%25AA%25E6%259E%2581ceo%25E5%25BC%25A0%25E6%25B3%25A2-%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%25E8%2583%258C%25E5%2590%258E%25E7%259A%2584%25E5%25AE%259A%25E4%25BB%25B7-%25E6%25B8%25A0%25E9%2581%2593%25E4%25B8%258E%25E4%25B8%25BB%25E5%258A%25A8%25E5%25BC%258Fai%25E9%259A%2590%25E7%25A7%2581%25E8%25BE%25B9%25E7%2595%258C%2far-AA2avItX&c=13641554768738140700&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-19 19:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "source": "Hacker News",
+    "time": "08-19 19:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+    "url": "https://theremin.bizibah.com/",
+    "source": "Hacker News",
+    "time": "08-19 18:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟iO干掉了摄像头与扬声器，聊聊AI眼镜「做减法」的得与失",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8673ce088847bc81ad2ddf488027ca&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064832758_116157&c=6882917569047591349&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-19 15:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "首发2699元闪极AI眼镜 loomos L1发布：钛合金机身43克、5秒换电",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8673ce088847bc81ad2ddf488027ca&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E9%25A6%2596%25E5%258F%25912699%25E5%2585%2583%25E9%2597%25AA%25E6%259E%2581ai%25E7%259C%25BC%25E9%2595%259C-loomos-l1%25E5%258F%2591%25E5%25B8%2583-%25E9%2592%259B%25E5%2590%2588%25E9%2587%2591%25E6%259C%25BA%25E8%25BA%25AB43%25E5%2585%258B-5%25E7%25A7%2592%25E6%258D%25A2%25E7%2594%25B5%2far-AA2aoz39&c=9176923388853150517&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 16:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2699元起! 闪极新款AI眼镜发布：重40g，能写日记、接Agent，40小时续航",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8673ce088847bc81ad2ddf488027ca&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f2699%25E5%2585%2583%25E8%25B5%25B7-%25E9%2597%25AA%25E6%259E%2581%25E6%2596%25B0%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C%25E5%258F%2591%25E5%25B8%2583-%25E9%2587%258D40g-%25E8%2583%25BD%25E5%2586%2599%25E6%2597%25A5%25E8%25AE%25B0-%25E6%258E%25A5agent-40%25E5%25B0%258F%25E6%2597%25B6%25E7%25BB%25AD%25E8%2588%25AA%2far-AA2aotQZ&c=1567398024052687293&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-18 15:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "Counterpoint：2026 上半年全球人形机器人出货量同比增长近 300%，智元、宇树霸榜",
+    "url": "https://www.ithome.com/0/991/939.htm",
+    "source": "IT之家",
+    "time": "08-20 10:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "宇树科技王兴兴：目前人形机器人的效能相对较低，技术精进后会大规模推广",
+    "url": "https://www.ithome.com/0/991/924.htm",
+    "source": "IT之家",
+    "time": "08-20 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "国产液电混驱超人形机器人首秀：身高达 4 米，突破从公斤级到千吨级力量限制",
+    "url": "https://www.ithome.com/0/991/899.htm",
+    "source": "IT之家",
+    "time": "08-20 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "自动化采血机器人 Aletta 获 FDA 批准上市，采血成功率不输人工",
+    "url": "https://www.ithome.com/0/991/890.htm",
+    "source": "IT之家",
+    "time": "08-20 08:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "总台起底外卖“隐形收费”乱象，选辣度还要收打包费",
+    "url": "https://www.ithome.com/0/991/952.htm",
+    "source": "IT之家",
+    "time": "08-20 10:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "玩家笑翻！10亿美元巨制《星际公民》直播中“游戏Bug不断，团队埋怨互怼”",
+    "url": "http://www.gamelook.com.cn/2026/08/600212/",
+    "source": "GameLook",
+    "time": "08-19 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《黑神话：钟馗》实机演示视频公布，冯骥公开游戏科学十条工作原则",
+    "url": "https://www.ithome.com/0/991/970.htm",
+    "source": "IT之家",
+    "time": "08-20 10:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026是欧美游戏业最惨的一年！裁员已超1万人，平均每天44人失业",
+    "url": "http://www.gamelook.com.cn/2026/08/600314/",
+    "source": "GameLook",
+    "time": "08-20 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《黑神话：钟馗》全新 15 分钟游戏实机演示公布，首次展示主角战斗与部分剧情片段",
+    "url": "https://www.ithome.com/0/991/941.htm",
+    "source": "IT之家",
+    "time": "08-20 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《深空之眼》停更，勇仕网络上半年亏损478万：4款新游戏研发中",
+    "url": "http://www.gamelook.com.cn/2026/08/600270/",
+    "source": "GameLook",
+    "time": "08-20 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "新套路来了！“低配二游”创造月收入3000万奇迹，打通“漫剧+玩游戏”致富路？",
+    "url": "http://www.gamelook.com.cn/2026/08/600168/",
+    "source": "GameLook",
+    "time": "08-19 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "友谊时光上半年利润大增74%：恋爱小游戏《心跳陷落》发力，在研5款游戏",
+    "url": "http://www.gamelook.com.cn/2026/08/600169/",
+    "source": "GameLook",
+    "time": "08-19 09:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(12)",
+   "HackerNews(9)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
