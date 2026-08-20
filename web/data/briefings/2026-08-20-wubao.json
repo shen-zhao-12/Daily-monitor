@@ -2,10 +2,21 @@
  "id": "2026-08-20-wubao",
  "title": "线口监测午报 · 2026年08月20日(周四)",
  "shift": "午报",
- "date": "2026-08-20 17:07",
+ "date": "2026-08-20 17:54",
  "docx": "../briefings/线口监测午报-2026-08-20.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Don't Paste the AI, please",
+    "url": "https://dontpastetheai.com/",
+    "source": "Hacker News",
+    "time": "08-20 16:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "绿联海外推出新款带屏 Qi2 无线充电基座：内置散热风扇、可同时充 iPhone / AirPods，79.99 美元",
@@ -63,30 +74,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "微软承认 Win11 安装 KB5121003 之后导致《ARC Raiders》等部分游戏闪退或无法运行，正在调查问题根源",
-    "url": "https://www.ithome.com/0/992/103.htm",
-    "source": "IT之家",
-    "time": "08-20 14:56",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI智能眼镜出货量暴涨776% VR头显市场遭遇暴跌",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86c3d76ea443e19c1500890c0c90cf&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E6%25B6%25A8776-vr%25E5%25A4%25B4%25E6%2598%25BE%25E5%25B8%2582%25E5%259C%25BA%25E9%2581%25AD%25E9%2581%2587%25E6%259A%25B4%25E8%25B7%258C%2far-AA2avVVk&c=1990234962570278546&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-20 04:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "闪极loomos探索AI眼镜技术新路线：主动AI记忆+换电架构",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86c3d76ea443e19c1500890c0c90cf&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2597%25AA%25E6%259E%2581loomos%25E6%258E%25A2%25E7%25B4%25A2ai%25E7%259C%25BC%25E9%2595%259C%25E6%258A%2580%25E6%259C%25AF%25E6%2596%25B0%25E8%25B7%25AF%25E7%25BA%25BF-%25E4%25B8%25BB%25E5%258A%25A8ai%25E8%25AE%25B0%25E5%25BF%2586-%25E6%258D%25A2%25E7%2594%25B5%25E6%259E%25B6%25E6%259E%2584%2far-AA2atDWY&c=4511424260626870566&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86cedb4533458fa9c00c37b9855fef&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2597%25AA%25E6%259E%2581loomos%25E6%258E%25A2%25E7%25B4%25A2ai%25E7%259C%25BC%25E9%2595%259C%25E6%258A%2580%25E6%259C%25AF%25E6%2596%25B0%25E8%25B7%25AF%25E7%25BA%25BF-%25E4%25B8%25BB%25E5%258A%25A8ai%25E8%25AE%25B0%25E5%25BF%2586-%25E6%258D%25A2%25E7%2594%25B5%25E6%259E%25B6%25E6%259E%2584%2far-AA2atDWY&c=4511424260626870566&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-19 23:54",
     "summary": "",
@@ -108,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "对话闪极CEO张波：一副AI眼镜背后的定价、渠道与主动式AI隐私边界",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86c3d76ea443e19c1500890c0c90cf&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25AF%25B9%25E8%25AF%259D%25E9%2597%25AA%25E6%259E%2581ceo%25E5%25BC%25A0%25E6%25B3%25A2-%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%25E8%2583%258C%25E5%2590%258E%25E7%259A%2584%25E5%25AE%259A%25E4%25BB%25B7-%25E6%25B8%25A0%25E9%2581%2593%25E4%25B8%258E%25E4%25B8%25BB%25E5%258A%25A8%25E5%25BC%258Fai%25E9%259A%2590%25E7%25A7%2581%25E8%25BE%25B9%25E7%2595%258C%2far-AA2avItX&c=13641554768738140700&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86cedb4533458fa9c00c37b9855fef&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25AF%25B9%25E8%25AF%259D%25E9%2597%25AA%25E6%259E%2581ceo%25E5%25BC%25A0%25E6%25B3%25A2-%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%25E8%2583%258C%25E5%2590%258E%25E7%259A%2584%25E5%25AE%259A%25E4%25BB%25B7-%25E6%25B8%25A0%25E9%2581%2593%25E4%25B8%258E%25E4%25B8%25BB%25E5%258A%25A8%25E5%25BC%258Fai%25E9%259A%2590%25E7%25A7%2581%25E8%25BE%25B9%25E7%2595%258C%2far-AA2avItX&c=13641554768738140700&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-19 19:31",
     "summary": "",
@@ -133,6 +122,17 @@
     "url": "https://theremin.bizibah.com/",
     "source": "Hacker News",
     "time": "08-19 18:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟iO干掉了摄像头与扬声器，聊聊AI眼镜「做减法」的得与失",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86cedb4533458fa9c00c37b9855fef&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064832758_116157&c=6882917569047591349&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-19 15:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -202,6 +202,28 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "拜雅发布 MMX 100 wireless、MMX 130 wireless 头戴游戏耳机",
+    "url": "https://www.ithome.com/0/992/223.htm",
+    "source": "IT之家",
+    "time": "08-20 17:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易《燕云十六声》Mac 原生版开放先行体验，苹果 M3 Max 稳定 120 帧",
+    "url": "https://www.ithome.com/0/992/221.htm",
+    "source": "IT之家",
+    "time": "08-20 17:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "消息称《GTA6》首批媒体预览评测将于 8 月 27 日解禁，游戏前瞻预告片同一天推出",
     "url": "https://www.ithome.com/0/992/214.htm",
     "source": "IT之家",
@@ -224,7 +246,7 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "网易云 2026 财年上半年归母净利润 8.09 亿元，同比下降 57%",
+    "title": "网易云音乐 2026 财年上半年归母净利润 8.09 亿元，同比下降 57%",
     "url": "https://www.ithome.com/0/992/210.htm",
     "source": "IT之家",
     "time": "08-20 16:51",
@@ -250,39 +272,6 @@
     "url": "https://www.ithome.com/0/992/151.htm",
     "source": "IT之家",
     "time": "08-20 15:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Cyberleek 曝光《GTA6》更多游戏实机画面，外媒指出黑客相应举动实为推广加密货币敛财",
-    "url": "https://www.ithome.com/0/992/106.htm",
-    "source": "IT之家",
-    "time": "08-20 15:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Steam 喜加一：7.99 欧元赛车拼装游戏《Screw Drivers》免费领",
-    "url": "https://www.ithome.com/0/992/100.htm",
-    "source": "IT之家",
-    "time": "08-20 14:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Epic 喜加一：原价 15 元休闲游戏《Grow & Go：Cozy Deliveries》免费领",
-    "url": "https://www.ithome.com/0/992/097.htm",
-    "source": "IT之家",
-    "time": "08-20 14:47",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -331,6 +320,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "新套路来了！“低配二游”创造月收入3000万奇迹，打通“漫剧+玩游戏”致富路？",
+    "url": "http://www.gamelook.com.cn/2026/08/600168/",
+    "source": "GameLook",
+    "time": "08-19 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -352,8 +352,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(13)",
-   "HackerNews(8)",
-   "Bing新闻(5)"
+   "HackerNews(9)",
+   "Bing新闻(3)"
   ],
   "fail": [
    "36氪(no entries)"
