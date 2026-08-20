@@ -1,0 +1,362 @@
+{
+ "id": "2026-08-20-wubao",
+ "title": "线口监测午报 · 2026年08月20日(周四)",
+ "shift": "午报",
+ "date": "2026-08-20 17:07",
+ "docx": "../briefings/线口监测午报-2026-08-20.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "绿联海外推出新款带屏 Qi2 无线充电基座：内置散热风扇、可同时充 iPhone / AirPods，79.99 美元",
+    "url": "https://www.ithome.com/0/992/190.htm",
+    "source": "IT之家",
+    "time": "08-20 16:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "交通运输部：AI 可有效识别驾驶员疲劳驾驶、分心驾驶，准确率达 95% 以上",
+    "url": "https://www.ithome.com/0/992/127.htm",
+    "source": "IT之家",
+    "time": "08-20 15:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“AI 教母”李飞飞：管理一家初创公司，让我展现出“虎妈”的一面",
+    "url": "https://www.ithome.com/0/992/121.htm",
+    "source": "IT之家",
+    "time": "08-20 15:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek Harness 更新多模态支持，剧透 V4 视觉版",
+    "url": "https://www.ithome.com/0/992/120.htm",
+    "source": "IT之家",
+    "time": "08-20 15:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Waymo 将 Gemini AI 助手整合进 Ojai 自动驾驶出租车，可语音调温度、查周边",
+    "url": "https://www.ithome.com/0/992/108.htm",
+    "source": "IT之家",
+    "time": "08-20 15:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软承认 Win11 安装 KB5121003 之后导致《ARC Raiders》等部分游戏闪退或无法运行，正在调查问题根源",
+    "url": "https://www.ithome.com/0/992/103.htm",
+    "source": "IT之家",
+    "time": "08-20 14:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI智能眼镜出货量暴涨776% VR头显市场遭遇暴跌",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86c3d76ea443e19c1500890c0c90cf&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E6%25B6%25A8776-vr%25E5%25A4%25B4%25E6%2598%25BE%25E5%25B8%2582%25E5%259C%25BA%25E9%2581%25AD%25E9%2581%2587%25E6%259A%25B4%25E8%25B7%258C%2far-AA2avVVk&c=1990234962570278546&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-20 04:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "闪极loomos探索AI眼镜技术新路线：主动AI记忆+换电架构",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86c3d76ea443e19c1500890c0c90cf&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2597%25AA%25E6%259E%2581loomos%25E6%258E%25A2%25E7%25B4%25A2ai%25E7%259C%25BC%25E9%2595%259C%25E6%258A%2580%25E6%259C%25AF%25E6%2596%25B0%25E8%25B7%25AF%25E7%25BA%25BF-%25E4%25B8%25BB%25E5%258A%25A8ai%25E8%25AE%25B0%25E5%25BF%2586-%25E6%258D%25A2%25E7%2594%25B5%25E6%259E%25B6%25E6%259E%2584%2far-AA2atDWY&c=4511424260626870566&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-19 23:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Mathematics in the age of AI",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "source": "Hacker News",
+    "time": "08-19 23:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "对话闪极CEO张波：一副AI眼镜背后的定价、渠道与主动式AI隐私边界",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86c3d76ea443e19c1500890c0c90cf&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25AF%25B9%25E8%25AF%259D%25E9%2597%25AA%25E6%259E%2581ceo%25E5%25BC%25A0%25E6%25B3%25A2-%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%25E8%2583%258C%25E5%2590%258E%25E7%259A%2584%25E5%25AE%259A%25E4%25BB%25B7-%25E6%25B8%25A0%25E9%2581%2593%25E4%25B8%258E%25E4%25B8%25BB%25E5%258A%25A8%25E5%25BC%258Fai%25E9%259A%2590%25E7%25A7%2581%25E8%25BE%25B9%25E7%2595%258C%2far-AA2avItX&c=13641554768738140700&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-19 19:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "source": "Hacker News",
+    "time": "08-19 19:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+    "url": "https://theremin.bizibah.com/",
+    "source": "Hacker News",
+    "time": "08-19 18:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "宇树科技上市第二天收跌 18.7%，市值较顶峰跌去 1670 亿元",
+    "url": "https://www.ithome.com/0/992/201.htm",
+    "source": "IT之家",
+    "time": "08-20 16:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "北京人形机器人创新中心发布天工 Omni，CEO 熊友军称入局不算晚",
+    "url": "https://www.ithome.com/0/992/157.htm",
+    "source": "IT之家",
+    "time": "08-20 15:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "英伟达黄仁勋之女黄敏珊来华，现身 2026 世界机器人大会",
+    "url": "https://www.ithome.com/0/992/126.htm",
+    "source": "IT之家",
+    "time": "08-20 15:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为余承东：鸿蒙智行智界 RX 搭载面向未来的 L3 级自动驾驶架构设计",
+    "url": "https://www.ithome.com/0/992/212.htm",
+    "source": "IT之家",
+    "time": "08-20 16:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为余承东：鸿蒙智行享界 G9 是首款 L3 级自动驾驶架构的豪华硬派 SUV",
+    "url": "https://www.ithome.com/0/992/167.htm",
+    "source": "IT之家",
+    "time": "08-20 15:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称《GTA6》首批媒体预览评测将于 8 月 27 日解禁，游戏前瞻预告片同一天推出",
+    "url": "https://www.ithome.com/0/992/214.htm",
+    "source": "IT之家",
+    "time": "08-20 16:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易 2026 财年半年报营业总收入 607 亿元，同比增长 7%",
+    "url": "https://www.ithome.com/0/992/213.htm",
+    "source": "IT之家",
+    "time": "08-20 16:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易云 2026 财年上半年归母净利润 8.09 亿元，同比下降 57%",
+    "url": "https://www.ithome.com/0/992/210.htm",
+    "source": "IT之家",
+    "time": "08-20 16:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "科乐美《寂静岭 : Townfall》开启预购：Steam 国区 310 元起、官方同步放出游戏实机演示",
+    "url": "https://www.ithome.com/0/992/197.htm",
+    "source": "IT之家",
+    "time": "08-20 16:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》实机画面曝光游戏海量细节：玩家业力系统、车辆储物 / 加油、NPC 对话、六星通缉...",
+    "url": "https://www.ithome.com/0/992/151.htm",
+    "source": "IT之家",
+    "time": "08-20 15:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Cyberleek 曝光《GTA6》更多游戏实机画面，外媒指出黑客相应举动实为推广加密货币敛财",
+    "url": "https://www.ithome.com/0/992/106.htm",
+    "source": "IT之家",
+    "time": "08-20 15:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 喜加一：7.99 欧元赛车拼装游戏《Screw Drivers》免费领",
+    "url": "https://www.ithome.com/0/992/100.htm",
+    "source": "IT之家",
+    "time": "08-20 14:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 喜加一：原价 15 元休闲游戏《Grow & Go：Cozy Deliveries》免费领",
+    "url": "https://www.ithome.com/0/992/097.htm",
+    "source": "IT之家",
+    "time": "08-20 14:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "最疯音乐人做游戏，1人用时10年“手搓MMO”成功了！Steam在线人数破5000",
+    "url": "http://www.gamelook.com.cn/2026/08/600325/",
+    "source": "GameLook",
+    "time": "08-20 12:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《空之轨迹 the 2nd》体验版上架 Steam，游戏 9 月 17 日发售",
+    "url": "https://www.ithome.com/0/992/001.htm",
+    "source": "IT之家",
+    "time": "08-20 11:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026是欧美游戏业最惨的一年！裁员已超1万人，平均每天44人失业",
+    "url": "http://www.gamelook.com.cn/2026/08/600314/",
+    "source": "GameLook",
+    "time": "08-20 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《深空之眼》停更，勇仕网络上半年亏损478万：4款新游戏研发中",
+    "url": "http://www.gamelook.com.cn/2026/08/600270/",
+    "source": "GameLook",
+    "time": "08-20 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "七彩虹首款水冷笔电隐星 P16 Pro 星风水冷版 2026 上市：251HX + 5060，国补后 9999 元",
+    "url": "https://www.ithome.com/0/992/188.htm",
+    "source": "IT之家",
+    "time": "08-20 15:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(13)",
+   "HackerNews(8)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
