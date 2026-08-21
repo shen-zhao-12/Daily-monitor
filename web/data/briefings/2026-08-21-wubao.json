@@ -2,10 +2,21 @@
  "id": "2026-08-21-wubao",
  "title": "线口监测午报 · 2026年08月21日(周五)",
  "shift": "午报",
- "date": "2026-08-21 17:10",
+ "date": "2026-08-21 17:56",
  "docx": "../briefings/线口监测午报-2026-08-21.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8",
+    "url": "https://www.ithome.com/0/992/755.htm",
+    "source": "IT之家",
+    "time": "08-21 17:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "OpenAI 旗下 GPT-Image-2 模型现支持生成透明背景图像",
@@ -129,10 +140,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "source": "Hacker News",
-    "time": "08-21 10:37",
+    "title": "雷鸟iO AI眼镜开箱图赏：精致设计搭配轻盈体验 科技与时尚完美融合",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8820cbfa544078a8ef5f685a94a3e0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%259B%25B7%25E9%25B8%259Fio-ai%25E7%259C%25BC%25E9%2595%259C%25E5%25BC%2580%25E7%25AE%25B1%25E5%259B%25BE%25E8%25B5%258F-%25E7%25B2%25BE%25E8%2587%25B4%25E8%25AE%25BE%25E8%25AE%25A1%25E6%2590%25AD%25E9%2585%258D%25E8%25BD%25BB%25E7%259B%2588%25E4%25BD%2593%25E9%25AA%258C-%25E7%25A7%2591%25E6%258A%2580%25E4%25B8%258E%25E6%2597%25B6%25E5%25B0%259A%25E5%25AE%258C%25E7%25BE%258E%25E8%259E%258D%25E5%2590%2588%2far-AA2aDzAM&c=4731173449277393678&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "首款人类增强AI眼镜 雷鸟iO正式发布：首发价1996元起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8820cbfa544078a8ef5f685a94a3e0&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E9%25A6%2596%25E6%25AC%25BE%25E4%25BA%25BA%25E7%25B1%25BB%25E5%25A2%259E%25E5%25BC%25BAai%25E7%259C%25BC%25E9%2595%259C-%25E9%259B%25B7%25E9%25B8%259Fio%25E6%25AD%25A3%25E5%25BC%258F%25E5%258F%2591%25E5%25B8%2583-%25E9%25A6%2596%25E5%258F%2591%25E4%25BB%25B71996%25E5%2585%2583%25E8%25B5%25B7%2far-AA2aDab2&c=14746729304815337016&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 09:11",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -141,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "行业首款主动式AI眼镜! 雷鸟iO评测：能记录你的整个人生",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a88161513b646408feed5b18952d145&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%25A1%258C%25E4%25B8%259A%25E9%25A6%2596%25E6%25AC%25BE%25E4%25B8%25BB%25E5%258A%25A8%25E5%25BC%258Fai%25E7%259C%25BC%25E9%2595%259C-%25E9%259B%25B7%25E9%25B8%259Fio%25E8%25AF%2584%25E6%25B5%258B-%25E8%2583%25BD%25E8%25AE%25B0%25E5%25BD%2595%25E4%25BD%25A0%25E7%259A%2584%25E6%2595%25B4%25E4%25B8%25AA%25E4%25BA%25BA%25E7%2594%259F%2far-AA2aD9Fc&c=3916812172913257605&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8820cbfa544078a8ef5f685a94a3e0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%25A1%258C%25E4%25B8%259A%25E9%25A6%2596%25E6%25AC%25BE%25E4%25B8%25BB%25E5%258A%25A8%25E5%25BC%258Fai%25E7%259C%25BC%25E9%2595%259C-%25E9%259B%25B7%25E9%25B8%259Fio%25E8%25AF%2584%25E6%25B5%258B-%25E8%2583%25BD%25E8%25AE%25B0%25E5%25BD%2595%25E4%25BD%25A0%25E7%259A%2584%25E6%2595%25B4%25E4%25B8%25AA%25E4%25BA%25BA%25E7%2594%259F%2far-AA2aD9Fc&c=3916812172913257605&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-21 08:26",
     "summary": "",
@@ -151,43 +173,21 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8820cbfa544078a8ef5f685a94a3e0&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f30535.shtml&c=860426049760503720&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 04:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "首款“人类增强 AI 眼镜”发布，雷鸟 iO 首发价 1996 元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a88161513b646408feed5b18952d145&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-21%2fdoc-inipakut1615414.shtml&c=15999387363962191672&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8820cbfa544078a8ef5f685a94a3e0&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-21%2fdoc-inipakut1615414.shtml&c=15999387363962191672&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-21 03:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "首款人类增强AI眼镜 雷鸟iO正式发布：首发价1996元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a88161513b646408feed5b18952d145&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdiscovery%2f2026-08-21%2fdoc-inipakuq1370286.shtml&c=3889549151700380918&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-21 03:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Show HN: Huzzah – a novel approach to coding with AI",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "source": "Hacker News",
-    "time": "08-21 03:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI 硬件的下一步？从 iKKO MindOne 看 Personal AI 的新路径",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a88161513b646408feed5b18952d145&url=https%3a%2f%2fwww.36kr.com%2fp%2f3949037514472836&c=11988584869356528790&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-21 02:48",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -195,6 +195,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "市场监管总局：将具身智能机器人、固态动力电池等纳入质量强链二期攻关方向",
+    "url": "https://www.ithome.com/0/992/759.htm",
+    "source": "IT之家",
+    "time": "08-21 17:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "软银向 Gravis 投资 2 亿美元，创建筑机器人领域 A 轮纪录",
@@ -242,19 +253,7 @@
     "angle": ""
    }
   ],
-  "电商/直播/即时零售": [
-   {
-    "beat": "电商/直播/即时零售",
-    "title": "“蜂鸟跑腿”品牌正式升级为“淘宝闪购跑腿”，将拓展更多服务品类",
-    "url": "https://www.ithome.com/0/992/603.htm",
-    "source": "IT之家",
-    "time": "08-21 13:28",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
@@ -352,8 +351,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(4)",
-   "Bing新闻(6)"
+   "HackerNews(3)",
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
