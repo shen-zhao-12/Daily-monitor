@@ -1,0 +1,284 @@
+{
+ "id": "2026-08-21-wubao",
+ "title": "线口监测午报 · 2026年08月21日(周五)",
+ "shift": "午报",
+ "date": "2026-08-21 12:02",
+ "docx": "../briefings/线口监测午报-2026-08-21.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "搬运洗稿、AI 转写批量炮制小米负面文章，山西晋中网安破获新型网络水军案",
+    "url": "https://www.ithome.com/0/992/562.htm",
+    "source": "IT之家",
+    "time": "08-21 11:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里云：GLM-5.3、Deepseek-V4-Pro 等多款模型上线千问 AI 平台",
+    "url": "https://www.ithome.com/0/992/511.htm",
+    "source": "IT之家",
+    "time": "08-21 11:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "前摩托罗拉设备总裁 Sergio Buniac 将领导高通移动、计算、个人 AI 业务",
+    "url": "https://www.ithome.com/0/992/495.htm",
+    "source": "IT之家",
+    "time": "08-21 10:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "source": "Hacker News",
+    "time": "08-21 10:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Adobe Firefly 扩充 AI 音频服务，可生成音乐、配音和音效",
+    "url": "https://www.ithome.com/0/992/439.htm",
+    "source": "IT之家",
+    "time": "08-21 08:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果为 AirPods Pro 3 等耳机推送 9A5347a 测试固件",
+    "url": "https://www.ithome.com/0/992/438.htm",
+    "source": "IT之家",
+    "time": "08-21 08:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "source": "Hacker News",
+    "time": "08-21 03:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Rokid下一个爆款?全彩AI眼镜传出新消息",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87cdf87d42464b8301fda61483aa5d&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2frokid%25E4%25B8%258B%25E4%25B8%2580%25E4%25B8%25AA%25E7%2588%2586%25E6%25AC%25BE-%25E5%2585%25A8%25E5%25BD%25A9ai%25E7%259C%25BC%25E9%2595%259C%25E4%25BC%25A0%25E5%2587%25BA%25E6%2596%25B0%25E6%25B6%2588%25E6%2581%25AF%2far-AA2aBF0v&c=9943079696500950231&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-21 02:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anti-AI fonts are useless and harmful",
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "source": "Hacker News",
+    "time": "08-20 23:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果裁撤VR研发团队：至少60人受影响，重心全面转向智能眼镜与Siri AI",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87cdf87d42464b8301fda61483aa5d&url=https%3a%2f%2fwww.eet-china.com%2fnews%2f202608214183.html&c=12408566801989601905&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-20 20:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“百镜大战”一年后，AI眼镜的赛点变了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87cdf87d42464b8301fda61483aa5d&url=https%3a%2f%2fwww.sfccn.com%2f2026%2f8-20%2f3MMDE0MDdfMjIxNTE3Mw.html&c=3342820577747774121&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-20 20:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "闪极loomos探索AI眼镜技术新路线：主动AI记忆+换电架构",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87cdf87d42464b8301fda61483aa5d&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E9%2597%25AA%25E6%259E%2581loomos%25E6%258E%25A2%25E7%25B4%25A2ai%25E7%259C%25BC%25E9%2595%259C%25E6%258A%2580%25E6%259C%25AF%25E6%2596%25B0%25E8%25B7%25AF%25E7%25BA%25BF-%25E4%25B8%25BB%25E5%258A%25A8ai%25E8%25AE%25B0%25E5%25BF%2586-%25E6%258D%25A2%25E7%2594%25B5%25E6%259E%25B6%25E6%259E%2584%2far-AA2atDWY&c=11382849346123622372&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-19 23:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "对话闪极CEO张波：一副AI眼镜背后的定价、渠道与主动式AI隐私边界",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87cdf87d42464b8301fda61483aa5d&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25AF%25B9%25E8%25AF%259D%25E9%2597%25AA%25E6%259E%2581ceo%25E5%25BC%25A0%25E6%25B3%25A2-%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%25E8%2583%258C%25E5%2590%258E%25E7%259A%2584%25E5%25AE%259A%25E4%25BB%25B7-%25E6%25B8%25A0%25E9%2581%2593%25E4%25B8%258E%25E4%25B8%25BB%25E5%258A%25A8%25E5%25BC%258Fai%25E9%259A%2590%25E7%25A7%2581%25E8%25BE%25B9%25E7%2595%258C%2far-AA2avItX&c=13641554768738140700&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-19 19:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "会记AI日记的眼镜 闪极loomos AI眼镜在武汉东西湖首发",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87cdf87d42464b8301fda61483aa5d&url=https%3a%2f%2fapp.xinhuanet.com%2fnews%2farticle.html%3farticleId%3d2026081918320565780f4bb39d0c3a0361578f5d&c=1515115848614850779&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-19 17:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟iO干掉了摄像头与扬声器，聊聊AI眼镜「做减法」的得与失",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87cdf87d42464b8301fda61483aa5d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1064832758_116157&c=6882917569047591349&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-19 15:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "新一汽红旗 HS5 上市：灵犀智舱 5.0、红旗司南智驾上车，13.48 万元起",
+    "url": "https://www.ithome.com/0/992/490.htm",
+    "source": "IT之家",
+    "time": "08-21 10:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易Q2游戏同比增9.7%，投资亏损29.5亿令人意外，丁磊：《遗忘之海》口碑改善中",
+    "url": "http://www.gamelook.com.cn/2026/08/600412/",
+    "source": "GameLook",
+    "time": "08-21 10:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "金山半年净利大增101%，游戏下滑15%：《鹅鸭杀》正成为金山“新王牌”",
+    "url": "http://www.gamelook.com.cn/2026/08/600361/",
+    "source": "GameLook",
+    "time": "08-21 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "ROG Zephyrus G14 游戏本用户反馈使用集显模式 15 天，Win11 自动卸载独显驱动",
+    "url": "https://www.ithome.com/0/992/449.htm",
+    "source": "IT之家",
+    "time": "08-21 09:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "最疯音乐人做游戏，1人用时10年“手搓MMO”成功了！Steam在线人数破5000",
+    "url": "http://www.gamelook.com.cn/2026/08/600325/",
+    "source": "GameLook",
+    "time": "08-20 12:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026是欧美游戏业最惨的一年！裁员已超1万人，平均每天44人失业",
+    "url": "http://www.gamelook.com.cn/2026/08/600314/",
+    "source": "GameLook",
+    "time": "08-20 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《深空之眼》停更，勇仕网络上半年亏损478万：4款新游戏研发中",
+    "url": "http://www.gamelook.com.cn/2026/08/600270/",
+    "source": "GameLook",
+    "time": "08-20 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "财政部：今年以来消费品以旧换新政策惠及 1.78 亿人次，下达资金 1875 亿元",
+    "url": "https://www.ithome.com/0/992/548.htm",
+    "source": "IT之家",
+    "time": "08-21 11:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(5)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
