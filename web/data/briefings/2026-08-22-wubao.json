@@ -1,0 +1,330 @@
+{
+ "id": "2026-08-22-wubao",
+ "title": "线口监测午报 · 2026年08月22日(周六)",
+ "shift": "午报",
+ "date": "2026-08-22 15:59",
+ "docx": "../briefings/线口监测午报-2026-08-22.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "广东市场监管召开平台企业行政指导会，点名“充电宝产品质量风险”“AI 生成虚假宣传”等",
+    "url": "https://www.ithome.com/0/993/004.htm",
+    "source": "IT之家",
+    "time": "08-22 15:00",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
+    "url": "https://www.ithome.com/0/993/003.htm",
+    "source": "IT之家",
+    "time": "08-22 14:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国警方借助苹果 AirTag 定位，成功抓获劫车嫌疑人",
+    "url": "https://www.ithome.com/0/993/001.htm",
+    "source": "IT之家",
+    "time": "08-22 14:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 下调 GPT-5.6 Sol 模型价格，API 与 Credit 费用降幅超 20%",
+    "url": "https://www.ithome.com/0/992/969.htm",
+    "source": "IT之家",
+    "time": "08-22 12:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+    "url": "https://www.ithome.com/0/992/941.htm",
+    "source": "IT之家",
+    "time": "08-22 11:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "I'm becoming AI-blind",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "source": "Hacker News",
+    "time": "08-21 19:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8956cd68e0460f98eee945ae0bb711&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f30535.shtml&c=860426049760503720&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 18:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2499元！雷鸟iO AI眼镜发布：没摄像头和扬声器，但更可能卖爆",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8956cd68e0460f98eee945ae0bb711&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260821A0ALUC00%3fadChannelId%3dtech&c=53295506510214126&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 18:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "1996元！2026年AI眼镜王炸来了：34g双目显示、全天48小时续航",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8956cd68e0460f98eee945ae0bb711&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260821A0AFFW00&c=3402702603932352113&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 18:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "首款“人类增强 AI 眼镜”发布，雷鸟 iO 首发价 1996 元起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8956cd68e0460f98eee945ae0bb711&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-21%2fdoc-inipakut1615414.shtml&c=15999387363962191672&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 17:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "首款人类增强AI眼镜 雷鸟iO正式发布：首发价1996元起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8956cd68e0460f98eee945ae0bb711&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdiscovery%2f2026-08-21%2fdoc-inipakuq1370286.shtml&c=3889549151700380918&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 17:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "行业首款主动式AI眼镜! 雷鸟iO评测：能记录你的整个人生",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8956cd68e0460f98eee945ae0bb711&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E8%25A1%258C%25E4%25B8%259A%25E9%25A6%2596%25E6%25AC%25BE%25E4%25B8%25BB%25E5%258A%25A8%25E5%25BC%258Fai%25E7%259C%25BC%25E9%2595%259C-%25E9%259B%25B7%25E9%25B8%259Fio%25E8%25AF%2584%25E6%25B5%258B-%25E8%2583%25BD%25E8%25AE%25B0%25E5%25BD%2595%25E4%25BD%25A0%25E7%259A%2584%25E6%2595%25B4%25E4%25B8%25AA%25E4%25BA%25BA%25E7%2594%259F%2far-AA2aD9Fc&c=12734105209291275149&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 08:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "source": "Hacker News",
+    "time": "08-21 05:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“百镜大战”一年后，AI眼镜的赛点变了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8956cd68e0460f98eee945ae0bb711&url=https%3a%2f%2fwww.eeo.com.cn%2f2026%2f0820%2f1005523.shtml&c=14901350270009898074&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-20 21:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "宇树机器人“入职”理想汽车，担任讲解员等职位",
+    "url": "https://www.ithome.com/0/993/022.htm",
+    "source": "IT之家",
+    "time": "08-22 15:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "上纬新材启元 Q1 研发负责人彭文正：行业已不在“能不能造机器人”时代，而在“敢不敢进消费级”时代",
+    "url": "https://www.ithome.com/0/993/016.htm",
+    "source": "IT之家",
+    "time": "08-22 15:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "新石器 CEO 余恩源：目标构建由 1000 万辆无人车和 1 亿个机器人组成的无人物流网络",
+    "url": "https://www.ithome.com/0/992/985.htm",
+    "source": "IT之家",
+    "time": "08-22 13:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "荣耀机器人闪电百米跑出 9 秒 32，打破人类记录",
+    "url": "https://www.ithome.com/0/992/981.htm",
+    "source": "IT之家",
+    "time": "08-22 13:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
+    "url": "https://www.ithome.com/0/992/928.htm",
+    "source": "IT之家",
+    "time": "08-22 10:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "北京越野泰钽 700 将于 8 月 25 日上市：搭载华为乾崑智驾 ADS 5，预售价 29.98 万元起",
+    "url": "https://www.ithome.com/0/992/980.htm",
+    "source": "IT之家",
+    "time": "08-22 13:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "宁德时代面向中小集成商上线官方商城小程序，未来计划开展直播销售",
+    "url": "https://www.ithome.com/0/993/014.htm",
+    "source": "IT之家",
+    "time": "08-22 15:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "黑客组织 Cyberleek 继续放出《GTA6》游戏实机画面：杰森在罪恶城开超跑狂飙",
+    "url": "https://www.ithome.com/0/993/020.htm",
+    "source": "IT之家",
+    "time": "08-22 15:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "爆料称索尼 PS6 游戏掌机售价恐超 600 美元",
+    "url": "https://www.ithome.com/0/992/971.htm",
+    "source": "IT之家",
+    "time": "08-22 12:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《漫威金刚狼》游戏已制作完成进厂压盘，9 月 15 日发行",
+    "url": "https://www.ithome.com/0/992/931.htm",
+    "source": "IT之家",
+    "time": "08-22 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易Q2游戏同比增9.7%，投资亏损29.5亿令人意外，丁磊：《遗忘之海》口碑改善中",
+    "url": "http://www.gamelook.com.cn/2026/08/600412/",
+    "source": "GameLook",
+    "time": "08-21 10:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "金山半年净利大增101%，游戏下滑15%：《鹅鸭杀》正成为金山“新王牌”",
+    "url": "http://www.gamelook.com.cn/2026/08/600361/",
+    "source": "GameLook",
+    "time": "08-21 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "乘联分会预估 8 月国内狭义乘用车零售 158.0 万辆环比增 8.1%，新能源渗透率 65.1%",
+    "url": "https://www.ithome.com/0/992/982.htm",
+    "source": "IT之家",
+    "time": "08-22 13:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(7)",
+   "HackerNews(4)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
