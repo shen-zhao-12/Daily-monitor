@@ -2,10 +2,65 @@
  "id": "2026-08-23-wubao",
  "title": "线口监测午报 · 2026年08月23日(周日)",
  "shift": "午报",
- "date": "2026-08-23 12:02",
+ "date": "2026-08-23 15:59",
  "docx": "../briefings/线口监测午报-2026-08-23.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
+    "url": "https://www.ithome.com/0/993/193.htm",
+    "source": "IT之家",
+    "time": "08-23 15:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+    "url": "https://www.ithome.com/0/993/188.htm",
+    "source": "IT之家",
+    "time": "08-23 14:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "海尔发布全自主家用 AI 烹饪机器人“AI 厨天才”CR3：模仿大厨颠勺手法，蒸汽自清洁",
+    "url": "https://www.ithome.com/0/993/187.htm",
+    "source": "IT之家",
+    "time": "08-23 14:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
+    "url": "https://www.ithome.com/0/993/185.htm",
+    "source": "IT之家",
+    "time": "08-23 14:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里拟配售 800 亿港元新股，全部投入 AI 建设",
+    "url": "https://www.ithome.com/0/993/184.htm",
+    "source": "IT之家",
+    "time": "08-23 14:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "壹号掌机 X2 Mini Pro 国行开售：AMD 锐龙 AI Max+ 388，日常价 17,599 元起",
@@ -63,63 +118,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
-    "url": "https://www.ithome.com/0/993/129.htm",
-    "source": "IT之家",
-    "time": "08-23 07:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
-    "url": "https://www.ithome.com/0/993/126.htm",
-    "source": "IT之家",
-    "time": "08-23 07:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "利用 AI 合成虚假影像骚扰他人，四川一男子被行拘",
-    "url": "https://www.ithome.com/0/993/110.htm",
-    "source": "IT之家",
-    "time": "08-22 22:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "雷鸟 iO AI 眼镜体验：全天智记是亮点，堪比随身助理",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a70c469c2496680f738da7d63c360&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260822A09E4600&c=16222190655970994947&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-22 19:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "url": "https://ozbrain.com",
-    "source": "Hacker News",
-    "time": "08-22 07:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "34克可配1000度近视镜! 雷鸟iO AI眼镜图赏 真正全天候佩戴",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a70c469c2496680f738da7d63c360&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f34%25E5%2585%258B%25E5%258F%25AF%25E9%2585%258D1000%25E5%25BA%25A6%25E8%25BF%2591%25E8%25A7%2586%25E9%2595%259C-%25E9%259B%25B7%25E9%25B8%259Fio-ai%25E7%259C%25BC%25E9%2595%259C%25E5%259B%25BE%25E8%25B5%258F-%25E7%259C%259F%25E6%25AD%25A3%25E5%2585%25A8%25E5%25A4%25A9%25E5%2580%2599%25E4%25BD%25A9%25E6%2588%25B4%2far-AA2aHhck&c=15916337648373458764&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8aa891f98e47c59b60ded985b7eb0f&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f34%25E5%2585%258B%25E5%258F%25AF%25E9%2585%258D1000%25E5%25BA%25A6%25E8%25BF%2591%25E8%25A7%2586%25E9%2595%259C-%25E9%259B%25B7%25E9%25B8%259Fio-ai%25E7%259C%25BC%25E9%2595%259C%25E5%259B%25BE%25E8%25B5%258F-%25E7%259C%259F%25E6%25AD%25A3%25E5%2585%25A8%25E5%25A4%25A9%25E5%2580%2599%25E4%25BD%25A9%25E6%2588%25B4%2far-AA2aHhck&c=11593808513986651398&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-22 07:06",
     "summary": "",
@@ -141,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a70c469c2496680f738da7d63c360&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f30535.shtml&c=860426049760503720&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8aa891f98e47c59b60ded985b7eb0f&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f30535.shtml&c=860426049760503720&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-21 18:33",
     "summary": "",
@@ -152,7 +152,18 @@
    {
     "beat": "AI/大模型",
     "title": "1996元！2026年AI眼镜王炸来了：34g双目显示、全天48小时续航",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a70c469c2496680f738da7d63c360&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260821A0AFFW00&c=3402702603932352113&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8aa891f98e47c59b60ded985b7eb0f&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260821A0AFFW00&c=3402702603932352113&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-21 18:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2499元！雷鸟iO AI眼镜发布：没摄像头和扬声器，但更可能卖爆",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8aa891f98e47c59b60ded985b7eb0f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1065858606_116157&c=16890637551260258560&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-21 18:01",
     "summary": "",
@@ -163,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "首款“人类增强 AI 眼镜”发布，雷鸟 iO 首发价 1996 元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a70c469c2496680f738da7d63c360&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-21%2fdoc-inipakut1615414.shtml&c=15999387363962191672&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8aa891f98e47c59b60ded985b7eb0f&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-21%2fdoc-inipakut1615414.shtml&c=15999387363962191672&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-21 17:31",
     "summary": "",
@@ -174,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "首款人类增强AI眼镜 雷鸟iO正式发布：首发价1996元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a70c469c2496680f738da7d63c360&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdiscovery%2f2026-08-21%2fdoc-inipakuq1370286.shtml&c=3889549151700380918&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8aa891f98e47c59b60ded985b7eb0f&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdiscovery%2f2026-08-21%2fdoc-inipakuq1370286.shtml&c=3889549151700380918&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-21 17:11",
     "summary": "",
@@ -184,6 +195,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "上纬新材董事长彭志辉：机器人的终点不是站在舞台上跳舞，而是真正进入每一个人的生活",
+    "url": "https://www.ithome.com/0/993/221.htm",
+    "source": "IT之家",
+    "time": "08-23 15:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "上纬新材消费级机器人启元 Q1/T1 开启预订，预计首批发货最早 9 月",
@@ -216,64 +238,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "特斯拉正有意放缓 Model Y 加入 Robotaxi 车队，押注 Cybercab",
-    "url": "https://www.ithome.com/0/993/128.htm",
-    "source": "IT之家",
-    "time": "08-23 07:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi",
-    "url": "https://www.ithome.com/0/993/125.htm",
-    "source": "IT之家",
-    "time": "08-23 07:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业",
-    "url": "https://www.ithome.com/0/993/124.htm",
-    "source": "IT之家",
-    "time": "08-23 07:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "全球首款全自主打网球机器人亮相，与运动员开展人机混双对打",
-    "url": "https://www.ithome.com/0/993/107.htm",
-    "source": "IT之家",
-    "time": "08-22 22:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚“冰丝带”，666 支队伍竞技 51 赛项",
-    "url": "https://www.ithome.com/0/993/105.htm",
-    "source": "IT之家",
-    "time": "08-22 22:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "LG 新能源：固态电池在装进汽车之前，可能会先进入手机、无人机",
+    "url": "https://www.ithome.com/0/993/222.htm",
+    "source": "IT之家",
+    "time": "08-23 15:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "无人驾驶/低空/智慧出行",
     "title": "第 48 届世界技能大赛 9 月 22 日上海开幕，新增无人机系统等 7 个项目",
@@ -299,6 +277,39 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "联想推出 LOQ 15IPH11 游戏本：酷睿 Ultra 7 356H 处理器、RTX5050/5060 显卡",
+    "url": "https://www.ithome.com/0/993/223.htm",
+    "source": "IT之家",
+    "time": "08-23 15:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人",
+    "url": "https://www.ithome.com/0/993/186.htm",
+    "source": "IT之家",
+    "time": "08-23 14:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼发邮件重申：PlayStation 数字游戏仅为授权许可，并非出售给玩家",
+    "url": "https://www.ithome.com/0/993/176.htm",
+    "source": "IT之家",
+    "time": "08-23 13:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "网易《逆水寒：新世界》首次季中大更新： 4.1.3 版本预告片公布，首张新地图、全新种植玩法等",
@@ -331,17 +342,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "10 美元买全套 id 游戏？1996 年《雷神之锤》光盘加密 39 天即被破解，id Software 积压 15 万张库存卖不掉",
-    "url": "https://www.ithome.com/0/993/112.htm",
-    "source": "IT之家",
-    "time": "08-22 23:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -352,7 +352,7 @@
    "IT之家(60)",
    "GameLook(0)",
    "HackerNews(5)",
-   "Bing新闻(6)"
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
