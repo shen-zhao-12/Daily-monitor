@@ -2,7 +2,7 @@
  "id": "2026-08-24-wubao",
  "title": "线口监测午报 · 2026年08月24日(周一)",
  "shift": "午报",
- "date": "2026-08-24 17:31",
+ "date": "2026-08-24 18:21",
  "docx": "../briefings/线口监测午报-2026-08-24.docx",
  "sections": {
   "AI/大模型": [
@@ -129,10 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "行业首颗 6nm 3D 晶圆级堆叠的 AI 加速芯片：小米玄戒 O100 官宣",
-    "url": "https://www.ithome.com/0/993/512.htm",
-    "source": "IT之家",
-    "time": "08-24 14:29",
+    "title": "New EU-wide product repair rules come into force",
+    "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+    "source": "Hacker News",
+    "time": "08-24 13:47",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -140,10 +140,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "New EU-wide product repair rules come into force",
-    "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-    "source": "Hacker News",
-    "time": "08-24 13:47",
+    "title": "展会上“被留住脚步”的外媒记者：讯飞AI眼镜如何破解商务洽谈的“三秒尴尬”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8c1b440cc147aeadcaf94cd8539d54&url=https%3a%2f%2fsoftware.it168.com%2fa2026%2f0824%2f6947%2f000006947232.shtml&c=7809840335125106408&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-24 10:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "对话闪极CEO张波：loomos L1以主动记忆 打造AI眼镜差异化体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8c1b440cc147aeadcaf94cd8539d54&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25AF%25B9%25E8%25AF%259D%25E9%2597%25AA%25E6%259E%2581ceo%25E5%25BC%25A0%25E6%25B3%25A2-loomos-l1%25E4%25BB%25A5%25E4%25B8%25BB%25E5%258A%25A8%25E8%25AE%25B0%25E5%25BF%2586-%25E6%2589%2593%25E9%2580%25A0ai%25E7%259C%25BC%25E9%2595%259C%25E5%25B7%25AE%25E5%25BC%2582%25E5%258C%2596%25E4%25BD%2593%25E9%25AA%258C%2far-AA2aNG0A&c=5014450467803454648&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-24 10:15",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -192,20 +203,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "机器人/AI硬件": [
    {
-    "beat": "AI/大模型",
-    "title": "How Complex Systems Fail (1998)",
-    "url": "https://how.complexsystems.fail/",
-    "source": "Hacker News",
-    "time": "08-23 23:13",
+    "beat": "机器人/AI硬件",
+    "title": "何小鹏：不远的将来，会努力将第一个高阶人形机器人带入真正的现实",
+    "url": "https://www.ithome.com/0/993/681.htm",
+    "source": "IT之家",
+    "time": "08-24 18:01",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "机器人/AI硬件": [
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "刷新中国机器人私募融资纪录：小鹏机器人业务完成首轮超 9 亿美元融资，IRON 计划年底进入量产阶段",
@@ -240,21 +251,31 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
    {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "国内首款 3nm 智驾芯片，小米玄戒 D100 官宣明年商用",
-    "url": "https://www.ithome.com/0/993/526.htm",
+    "beat": "游戏/电竞/平台公司",
+    "title": "281 匹马力，标致将携 E-208 GTi“纯电小钢炮”参加科隆游戏展",
+    "url": "https://www.ithome.com/0/993/687.htm",
     "source": "IT之家",
-    "time": "08-24 14:36",
+    "time": "08-24 18:12",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "电商/直播/即时零售": [],
-  "游戏/电竞/平台公司": [
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "华硕天选 TX75 有线版磁轴游戏键盘上市，到手价低至 424.15 元",
+    "url": "https://www.ithome.com/0/993/676.htm",
+    "source": "IT之家",
+    "time": "08-24 17:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "《剑星》Switch2 版游戏新预告发布，支持体感操控",
@@ -283,17 +304,6 @@
     "url": "https://www.ithome.com/0/993/539.htm",
     "source": "IT之家",
     "time": "08-24 14:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "改变 PC 游戏行业的 Valve，今天三十岁了",
-    "url": "https://www.ithome.com/0/993/506.htm",
-    "source": "IT之家",
-    "time": "08-24 14:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -331,17 +341,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "财报点名创新高，却被steam数据判凉？游戏越火非议越多",
-    "url": "http://www.gamelook.com.cn/2026/08/600454/",
-    "source": "GameLook",
-    "time": "08-24 01:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -351,8 +350,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(10)",
-   "Bing新闻(4)"
+   "HackerNews(11)",
+   "Bing新闻(5)"
   ],
   "fail": [
    "36氪(no entries)"
