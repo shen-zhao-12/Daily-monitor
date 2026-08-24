@@ -2,16 +2,16 @@
  "id": "2026-08-24-wubao",
  "title": "线口监测午报 · 2026年08月24日(周一)",
  "shift": "午报",
- "date": "2026-08-24 12:11",
+ "date": "2026-08-24 17:31",
  "docx": "../briefings/线口监测午报-2026-08-24.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "《使命召唤：现代战争 4》测试版疑似出现 AI 生成美术素材，引发玩家争议",
-    "url": "https://www.ithome.com/0/993/477.htm",
+    "title": "海信视像 AI 战略暨 JUOS 发布会将于 8 月 31 日 14:30 举行",
+    "url": "https://www.ithome.com/0/993/625.htm",
     "source": "IT之家",
-    "time": "08-24 12:05",
+    "time": "08-24 16:27",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Anthropic 最强大模型 Fable 5 遇冷，企业用户转向更便宜 AI 产品",
-    "url": "https://www.ithome.com/0/993/426.htm",
+    "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+    "url": "https://www.ithome.com/0/993/604.htm",
     "source": "IT之家",
-    "time": "08-24 11:34",
+    "time": "08-24 16:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -30,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "消息称 NVIDIA 考虑向 Perplexity AI 投资“数十亿美元”",
-    "url": "https://www.ithome.com/0/993/418.htm",
+    "title": "AI 大模型周榜：国产 glm-5.3-max 首秀闯入综合榜前 15，kimi-k3-max 冲进前十",
+    "url": "https://www.ithome.com/0/993/601.htm",
     "source": "IT之家",
-    "time": "08-24 11:30",
+    "time": "08-24 16:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,10 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "联想来酷 Air 16 酷睿 5 315 开启预约：12GB + 512GB，国补后 3739.15 元",
-    "url": "https://www.ithome.com/0/993/376.htm",
+    "title": "雷军：玄戒不只是小米的芯片战略，更是小米 AI 战略的物理基础",
+    "url": "https://www.ithome.com/0/993/587.htm",
     "source": "IT之家",
-    "time": "08-24 10:22",
+    "time": "08-24 15:43",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -52,10 +52,109 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "联想集团与海尔集团签署战略合作协议，推动联想 AI PC 等与海尔智慧家庭场景融合",
-    "url": "https://www.ithome.com/0/993/353.htm",
+    "title": "韩国通过《个人信息保护法》修正案，允许 AI 开发使用个人数据",
+    "url": "https://www.ithome.com/0/993/581.htm",
     "source": "IT之家",
-    "time": "08-24 09:08",
+    "time": "08-24 15:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雅虎拟借 AI 工具重振雄风，CEO 兰佐内称“复古”就是最大优势",
+    "url": "https://www.ithome.com/0/993/580.htm",
+    "source": "IT之家",
+    "time": "08-24 15:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米 18 Fold 全新折叠旗舰机开启预约，首发搭载自研玄戒 O3 AI 处理器",
+    "url": "https://www.ithome.com/0/993/576.htm",
+    "source": "IT之家",
+    "time": "08-24 15:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全部用于投资全栈 AI 能力，消息称阿里 800 亿港元配售获近 3 倍超额认购",
+    "url": "https://www.ithome.com/0/993/561.htm",
+    "source": "IT之家",
+    "time": "08-24 15:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026 胡润中国品牌榜发布：苹果蝉联第一，抖音与微信并列，华为重返前十，AIGC 品牌首次入榜",
+    "url": "https://www.ithome.com/0/993/499.htm",
+    "source": "IT之家",
+    "time": "08-24 14:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韶音 OpenFit 2 AI 耳机开售：基于千问大模型、48 小时续航，首发价 1398 元",
+    "url": "https://www.ithome.com/0/993/557.htm",
+    "source": "IT之家",
+    "time": "08-24 14:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米 AI Cube 工程版迷你主机官宣：玄戒 O3+O100+D100 三芯阵容，150W 持续性能释放",
+    "url": "https://www.ithome.com/0/993/546.htm",
+    "source": "IT之家",
+    "time": "08-24 14:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "行业首颗 6nm 3D 晶圆级堆叠的 AI 加速芯片：小米玄戒 O100 官宣",
+    "url": "https://www.ithome.com/0/993/512.htm",
+    "source": "IT之家",
+    "time": "08-24 14:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "New EU-wide product repair rules come into force",
+    "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+    "source": "Hacker News",
+    "time": "08-24 13:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "I built a low-latency AI companion that plays Skyrim with me",
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "source": "Hacker News",
+    "time": "08-24 07:18",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -104,37 +203,15 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "展会上“被留住脚步”的外媒记者：讯飞AI眼镜如何破解商务洽谈的“三秒尴尬”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8bc461d61149caa85d8b757307d836&url=https%3a%2f%2fsoftware.it168.com%2fa2026%2f0824%2f6947%2f000006947232.shtml&c=7809840335125106408&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-23 20:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "雷鸟 iO AI 眼镜体验：全天智记是亮点，堪比随身助理",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8bc461d61149caa85d8b757307d836&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260822A09E4600&c=16222190655970994947&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-22 19:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "“绝世高手”之“太极宗师”：智元远征 A3 夺得第二届世界人形机器人运动会“武术-太极拳”金牌",
-    "url": "https://www.ithome.com/0/993/384.htm",
+    "title": "刷新中国机器人私募融资纪录：小鹏机器人业务完成首轮超 9 亿美元融资，IRON 计划年底进入量产阶段",
+    "url": "https://www.ithome.com/0/993/649.htm",
     "source": "IT之家",
-    "time": "08-24 10:40",
+    "time": "08-24 17:14",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -142,10 +219,10 @@
    },
    {
     "beat": "机器人/AI硬件",
-    "title": "填补国产空白：东南大学手术机器人具备接近人手的精细力觉感知能力，跨越 2400 公里成功完成 3 例手术",
-    "url": "https://www.ithome.com/0/993/363.htm",
+    "title": "宇树科技股价收跌 10.31%：总市值 2439 亿元，跌至全球人形机器人市值榜第二",
+    "url": "https://www.ithome.com/0/993/591.htm",
     "source": "IT之家",
-    "time": "08-24 09:43",
+    "time": "08-24 15:49",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -153,59 +230,70 @@
    },
    {
     "beat": "机器人/AI硬件",
-    "title": "人形机器人运动会跳远冠军出炉，天骄队跳出 7.97 米夺冠",
-    "url": "https://www.ithome.com/0/993/348.htm",
+    "title": "2026 世界机器人大会在京闭幕：首发新品 311 件，下一届官宣 2027 年 8 月 18 日开幕",
+    "url": "https://www.ithome.com/0/993/589.htm",
     "source": "IT之家",
-    "time": "08-24 09:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "天工团队回应机器人捂脸跑夺冠：没有找小姑娘让它学，是它自己想出来的",
-    "url": "https://www.ithome.com/0/993/344.htm",
-    "source": "IT之家",
-    "time": "08-24 08:51",
+    "time": "08-24 15:47",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
-  "电商/直播/即时零售": [
+  "无人驾驶/低空/智慧出行": [
    {
-    "beat": "电商/直播/即时零售",
-    "title": "中央网信办深入推进网络娱乐团播乱象整治工作，已处置 7200 余个违规直播间",
-    "url": "https://www.ithome.com/0/993/378.htm",
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "国内首款 3nm 智驾芯片，小米玄戒 D100 官宣明年商用",
+    "url": "https://www.ithome.com/0/993/526.htm",
     "source": "IT之家",
-    "time": "08-24 10:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "电商/直播/即时零售",
-    "title": "NVIDIA 官宣 GeForce ON 玩家大放送 | Gamescom 2026 科隆游戏展直播",
-    "url": "https://www.ithome.com/0/993/342.htm",
-    "source": "IT之家",
-    "time": "08-24 08:49",
+    "time": "08-24 14:36",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
+  "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "腾讯发布 2026 年科学探索奖获奖名单：50 位科学家入选，每人获 300 万奖金，史上第一位“95 后”获奖人",
-    "url": "https://www.ithome.com/0/993/401.htm",
+    "title": "《剑星》Switch2 版游戏新预告发布，支持体感操控",
+    "url": "https://www.ithome.com/0/993/627.htm",
     "source": "IT之家",
-    "time": "08-24 11:21",
+    "time": "08-24 16:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "飞傲推出 QX11 解码耳放：双 ES9069Q DAC 芯片、提供 HiFi / 游戏模式，999 元",
+    "url": "https://www.ithome.com/0/993/626.htm",
+    "source": "IT之家",
+    "time": "08-24 16:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "优派推出小尺寸游戏显示器 VX24G81-2K-9：23.8\" QHD，超频 260Hz",
+    "url": "https://www.ithome.com/0/993/539.htm",
+    "source": "IT之家",
+    "time": "08-24 14:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "改变 PC 游戏行业的 Valve，今天三十岁了",
+    "url": "https://www.ithome.com/0/993/506.htm",
+    "source": "IT之家",
+    "time": "08-24 14:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -235,28 +323,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "俱乐部一日双冠：Team Spirit 夺得 EWC 2026 电竞世俱杯《CS2》项目头名",
-    "url": "https://www.ithome.com/0/993/346.htm",
-    "source": "IT之家",
-    "time": "08-24 08:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "中国电竞俱乐部登顶世界第一，法国总统马克龙为 AG.AL 颁发 2026 EWC 冠军奖杯",
-    "url": "https://www.ithome.com/0/993/337.htm",
-    "source": "IT之家",
-    "time": "08-24 08:20",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "1200万DAU，中式摸金第一游戏仍在狂飙",
     "url": "http://www.gamelook.com.cn/2026/08/600471/",
     "source": "GameLook",
@@ -278,38 +344,15 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": [
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "荣耀 HONOR Life FlyClip 3i 耳夹耳机开启预售：单耳重约 5.2g、双轨锁音系统，国补价 199.75 元",
-    "url": "https://www.ithome.com/0/993/399.htm",
-    "source": "IT之家",
-    "time": "08-24 11:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "小米米家智能晾衣机 3C 柔光版预售：9.3cm 超薄机身、1.3m 智能升降，国补价 1099 元",
-    "url": "https://www.ithome.com/0/993/394.htm",
-    "source": "IT之家",
-    "time": "08-24 11:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ]
+  "消费/以旧换新/新餐饮": []
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(7)",
-   "Bing新闻(2)"
+   "HackerNews(10)",
+   "Bing新闻(4)"
   ],
   "fail": [
    "36氪(no entries)"
