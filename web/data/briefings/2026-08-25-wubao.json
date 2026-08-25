@@ -2,10 +2,43 @@
  "id": "2026-08-25-wubao",
  "title": "线口监测午报 · 2026年08月25日(周二)",
  "shift": "午报",
- "date": "2026-08-25 17:10",
+ "date": "2026-08-25 17:56",
  "docx": "../briefings/线口监测午报-2026-08-25.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "小米公司发言人：近期，多起使用 AI 技术造谣我司的案件被警方侦破",
+    "url": "https://www.ithome.com/0/994/126.htm",
+    "source": "IT之家",
+    "time": "08-25 17:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小扎 AI 战略的重要一环，消息称 Meta 计划未来数周内推出“Hatch”智能体平台",
+    "url": "https://www.ithome.com/0/994/114.htm",
+    "source": "IT之家",
+    "time": "08-25 17:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "保时捷与印度塔塔咨询签署为期 5 年、价值 12.5 亿欧元的 AI 合作协议",
+    "url": "https://www.ithome.com/0/994/105.htm",
+    "source": "IT之家",
+    "time": "08-25 17:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "印度初创公司 Airbound 开发“火箭形态”配送无人机，还要和卡车比货运成本",
@@ -30,32 +63,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "DeepSeek-V4-PRO AI 模型测试：英伟达 Vera Rubin 每兆瓦吞吐量达 GB300 的 30 倍",
-    "url": "https://www.ithome.com/0/993/750.htm",
-    "source": "IT之家",
-    "time": "08-25 14:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "雷军详解新一代玄戒芯片原型机，包括高速 AI 演示终端和个人 AI 超级计算终端",
-    "url": "https://www.ithome.com/0/994/002.htm",
-    "source": "IT之家",
-    "time": "08-25 14:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "英特尔披露 Wildcat Lake 处理器：平台 AI 算力最高 40 TOPS，UCIe 多芯片封装",
-    "url": "https://www.ithome.com/0/993/995.htm",
-    "source": "IT之家",
-    "time": "08-25 14:36",
+    "title": "走出米哈游鹰角大佬，对话刘博：AI 时代，上海交大如何培养游戏人才？",
+    "url": "http://www.gamelook.com.cn/2026/08/600561/",
+    "source": "GameLook",
+    "time": "08-25 09:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -64,7 +75,7 @@
    {
     "beat": "AI/大模型",
     "title": "老板电器新一代AI烹饪眼镜预计明年3月发布 自研“食神”烹饪大模型",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d5c1817484e7399f705ac7b9ffec4&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E8%2580%2581%25E6%259D%25BF%25E7%2594%25B5%25E5%2599%25A8%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3ai%25E7%2583%25B9%25E9%25A5%25AA%25E7%259C%25BC%25E9%2595%259C%25E9%25A2%2584%25E8%25AE%25A1%25E6%2598%258E%25E5%25B9%25B43%25E6%259C%2588%25E5%258F%2591%25E5%25B8%2583-%25E8%2587%25AA%25E7%25A0%2594-%25E9%25A3%259F%25E7%25A5%259E-%25E7%2583%25B9%25E9%25A5%25AA%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2aRUdV&c=18391333896898032266&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d66e3ff6647959ebe8892698099da&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E8%2580%2581%25E6%259D%25BF%25E7%2594%25B5%25E5%2599%25A8%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3ai%25E7%2583%25B9%25E9%25A5%25AA%25E7%259C%25BC%25E9%2595%259C%25E9%25A2%2584%25E8%25AE%25A1%25E6%2598%258E%25E5%25B9%25B43%25E6%259C%2588%25E5%258F%2591%25E5%25B8%2583-%25E8%2587%25AA%25E7%25A0%2594-%25E9%25A3%259F%25E7%25A5%259E-%25E7%2583%25B9%25E9%25A5%25AA%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2aRUdV&c=549986062716599859&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-25 09:01",
     "summary": "",
@@ -86,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "蓝思科技多点突破，AI眼镜服务器折叠机齐发力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d5c1817484e7399f705ac7b9ffec4&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8vsTWqWtbjT&c=14892100323490799087&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d66e3ff6647959ebe8892698099da&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8vsTWqWtbjT&c=14892100323490799087&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-25 01:43",
     "summary": "",
@@ -96,19 +107,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "TOZO AIVU AI眼镜Kickstarter众筹突破10万美元，首创染色光波导技术",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d5c1817484e7399f705ac7b9ffec4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1067060623_447547&c=12894284307330332007&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-25 01:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "消息称老板电器旗下新一代AI烹饪眼镜将于明年3月发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d5c1817484e7399f705ac7b9ffec4&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8vsNDAFNG7V&c=15385238203130999281&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d66e3ff6647959ebe8892698099da&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8vsNDAFNG7V&c=15385238203130999281&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-25 00:08",
     "summary": "",
@@ -119,9 +119,20 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜集体转向轻量化、主动化，雷鸟眼镜新品1996元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d5c1817484e7399f705ac7b9ffec4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260824A0D0F900&c=7336813802795041639&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d66e3ff6647959ebe8892698099da&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260824A0D0F900&c=7336813802795041639&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-25 00:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "独家｜老板电器新一代AI烹饪眼镜预计明年3月发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d66e3ff6647959ebe8892698099da&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%258B%25AC%25E5%25AE%25B6-%25E8%2580%2581%25E6%259D%25BF%25E7%2594%25B5%25E5%2599%25A8%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3ai%25E7%2583%25B9%25E9%25A5%25AA%25E7%259C%25BC%25E9%2595%259C%25E9%25A2%2584%25E8%25AE%25A1%25E6%2598%258E%25E5%25B9%25B43%25E6%259C%2588%25E5%258F%2591%25E5%25B8%2583%2far-AA2aRoIL&c=18175839297000680626&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-24 23:48",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -140,32 +151,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "蓝思科技：公司在AI眼镜领域已实现核心卡位",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d5c1817484e7399f705ac7b9ffec4&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-25%2fdoc-inipnyqu1675326.shtml&c=2507973395732496632&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-24 23:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Training AI to Paint with Code",
     "url": "https://surya.website/rling-qwen-to-paint-with-code",
     "source": "Hacker News",
     "time": "08-24 03:39",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "对标林德伯格、学做胖东来！闪极loomos解锁AI眼镜新赛道",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d5c1817484e7399f705ac7b9ffec4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1066561085_380891&c=4123852165692502000&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-23 19:34",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -188,6 +177,17 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "宏碁暗影骑士 · 擎 8 游戏本上市：14650HX + 5060 配置国补后 8999 元",
+    "url": "https://www.ithome.com/0/994/127.htm",
+    "source": "IT之家",
+    "time": "08-25 17:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "2026 科隆游戏展大奖提名公布，国产游戏包揽最佳手游入围名单",
@@ -223,10 +223,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "七彩虹 COLORFIRE 橘宝 MEOW X16 Pro 游戏本预售：支持手机互联",
-    "url": "https://www.ithome.com/0/994/006.htm",
-    "source": "IT之家",
-    "time": "08-25 15:03",
+    "title": "微信小游戏又来大招！IAP首发新游最高可获170%综合分成",
+    "url": "http://www.gamelook.com.cn/2026/08/600613/",
+    "source": "GameLook",
+    "time": "08-25 09:40",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -234,10 +234,76 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "Windows 95 为何塞进音乐、动画和游戏？微软说全是因为“好玩”",
-    "url": "https://www.ithome.com/0/994/000.htm",
-    "source": "IT之家",
-    "time": "08-25 14:52",
+    "title": "腾讯套现18.2亿元！出售韩国游戏大厂Netmarble 13.41%股权，韩国董事长接盘",
+    "url": "http://www.gamelook.com.cn/2026/08/600551/",
+    "source": "GameLook",
+    "time": "08-25 09:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "独立游戏开发者感慨：“陌生人更支持我，亲戚朋友都沉默了”！",
+    "url": "http://www.gamelook.com.cn/2026/08/600560/",
+    "source": "GameLook",
+    "time": "08-25 08:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "分析：玩家月留存仅3%，“友尽类游戏”为何成为独游爆款发动机？",
+    "url": "http://www.gamelook.com.cn/2026/08/600444/",
+    "source": "GameLook",
+    "time": "08-24 09:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Sensor Tower首席分析师：游戏广告变现的5个隐藏要点！",
+    "url": "http://www.gamelook.com.cn/2026/08/600435/",
+    "source": "GameLook",
+    "time": "08-24 09:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "1200万DAU，中式摸金第一游戏仍在狂飙",
+    "url": "http://www.gamelook.com.cn/2026/08/600471/",
+    "source": "GameLook",
+    "time": "08-24 01:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "财报点名创新高，却被steam数据判凉？游戏越火非议越多",
+    "url": "http://www.gamelook.com.cn/2026/08/600454/",
+    "source": "GameLook",
+    "time": "08-24 01:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "当游戏遇上成都烟火，手瓦让年轻人重新认识成都",
+    "url": "http://www.gamelook.com.cn/2026/08/600527/",
+    "source": "GameLook",
+    "time": "08-24 01:07",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -250,12 +316,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "HackerNews(7)",
-   "Bing新闻(7)"
+   "GameLook(14)",
+   "HackerNews(6)",
+   "Bing新闻(5)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "GameLook(HTTP 502)"
+   "36氪(no entries)"
   ]
  }
 }
