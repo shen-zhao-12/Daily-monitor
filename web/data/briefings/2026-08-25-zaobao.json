@@ -1,0 +1,362 @@
+{
+ "id": "2026-08-25-zaobao",
+ "title": "线口监测早报 · 2026年08月25日(周二)",
+ "shift": "早报",
+ "date": "2026-08-25 11:27",
+ "docx": "../briefings/线口监测早报-2026-08-25.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "古尔曼：苹果 AirPods 5 耳机下月发布，提供普通版和主动降噪版",
+    "url": "https://www.ithome.com/0/993/905.htm",
+    "source": "IT之家",
+    "time": "08-25 11:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "LinkedIn“看起来像是 AI 垃圾”按钮收效显著，相关内容浏览量下降四成",
+    "url": "https://www.ithome.com/0/993/873.htm",
+    "source": "IT之家",
+    "time": "08-25 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英特尔介绍 Crescent Island 加速卡：面向 AI 推理，额定 350W、最高 480GB 内存",
+    "url": "https://www.ithome.com/0/993/866.htm",
+    "source": "IT之家",
+    "time": "08-25 10:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "宏碁非凡 Go Air 轻薄本发售：酷睿 5 320 + 12GB + 512GB，国补后 4249.15 元",
+    "url": "https://www.ithome.com/0/993/845.htm",
+    "source": "IT之家",
+    "time": "08-25 10:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型",
+    "url": "https://www.ithome.com/0/993/838.htm",
+    "source": "IT之家",
+    "time": "08-25 10:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "走出米哈游鹰角大佬，对话刘博：AI 时代，上海交大如何培养游戏人才？",
+    "url": "http://www.gamelook.com.cn/2026/08/600561/",
+    "source": "GameLook",
+    "time": "08-25 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球最大生活指南百科 WikiHow 指控 OpenAI 爬取超 1.1 万篇教程文章训练 AI",
+    "url": "https://www.ithome.com/0/993/824.htm",
+    "source": "IT之家",
+    "time": "08-25 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软员工自报 AI 使用量：各部门差异悬殊，与薪资、晋升无明显关联",
+    "url": "https://www.ithome.com/0/993/822.htm",
+    "source": "IT之家",
+    "time": "08-25 09:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "高盛合伙人警告：华尔街普及 AI 或削弱金融从业者思考能力",
+    "url": "https://www.ithome.com/0/993/816.htm",
+    "source": "IT之家",
+    "time": "08-25 09:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 AI 智能体系统 Aion 曝光：以 Copilot 为核心、重塑桌面体验",
+    "url": "https://www.ithome.com/0/993/798.htm",
+    "source": "IT之家",
+    "time": "08-25 08:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克：SpaceX 计划明年第四季度发射搭载英伟达芯片的 AI 卫星",
+    "url": "https://www.ithome.com/0/993/796.htm",
+    "source": "IT之家",
+    "time": "08-25 08:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "source": "Hacker News",
+    "time": "08-25 06:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "TOZO AIVU AI眼镜Kickstarter众筹突破10万美元，首创染色光波导技术",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d0bba79e94b55a30d25d6fce336df&url=https%3a%2f%2fwww.sohu.com%2fa%2f1067060623_447547&c=12894284307330332007&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-25 01:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "source": "Hacker News",
+    "time": "08-24 23:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IPFS Maintainers Winding Down",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "source": "Hacker News",
+    "time": "08-24 23:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "source": "Hacker News",
+    "time": "08-24 23:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "source": "Hacker News",
+    "time": "08-24 23:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "展会上“被留住脚步”的外媒记者：讯飞AI眼镜如何破解商务洽谈的“三秒尴尬”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d0bba79e94b55a30d25d6fce336df&url=https%3a%2f%2fsoftware.it168.com%2fa2026%2f0824%2f6947%2f000006947232.shtml&c=7809840335125106408&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-24 10:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "机器人接管最后一站，亚马逊计划打造完全自动化配送站",
+    "url": "https://www.ithome.com/0/993/870.htm",
+    "source": "IT之家",
+    "time": "08-25 11:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "明确自动驾驶违法由车企担责，道路交通安全法修订草案提请审议",
+    "url": "https://www.ithome.com/0/993/853.htm",
+    "source": "IT之家",
+    "time": "08-25 10:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "动作角色扮演游戏《红色沙漠》全平台开启首次促销：8 折后 Steam 国区 214.4 元起",
+    "url": "https://www.ithome.com/0/993/830.htm",
+    "source": "IT之家",
+    "time": "08-25 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微信小游戏又来大招！IAP首发新游最高可获170%综合分成",
+    "url": "http://www.gamelook.com.cn/2026/08/600613/",
+    "source": "GameLook",
+    "time": "08-25 09:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯套现18.2亿元！出售韩国游戏大厂Netmarble 13.41%股权，韩国董事长接盘",
+    "url": "http://www.gamelook.com.cn/2026/08/600551/",
+    "source": "GameLook",
+    "time": "08-25 09:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "雷神推出猎刃 60 游戏手柄：8KHz 回报率、可调力 TMR 摇杆，399 元",
+    "url": "https://www.ithome.com/0/993/817.htm",
+    "source": "IT之家",
+    "time": "08-25 09:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "独立游戏开发者感慨：“陌生人更支持我，亲戚朋友都沉默了”！",
+    "url": "http://www.gamelook.com.cn/2026/08/600560/",
+    "source": "GameLook",
+    "time": "08-25 08:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 喜加一：原价 49 元 RPG 游戏《Dokimon Quest》免费领",
+    "url": "https://www.ithome.com/0/993/784.htm",
+    "source": "IT之家",
+    "time": "08-25 07:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "分析：玩家月留存仅3%，“友尽类游戏”为何成为独游爆款发动机？",
+    "url": "http://www.gamelook.com.cn/2026/08/600444/",
+    "source": "GameLook",
+    "time": "08-24 09:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Sensor Tower首席分析师：游戏广告变现的5个隐藏要点！",
+    "url": "http://www.gamelook.com.cn/2026/08/600435/",
+    "source": "GameLook",
+    "time": "08-24 09:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "1200万DAU，中式摸金第一游戏仍在狂飙",
+    "url": "http://www.gamelook.com.cn/2026/08/600471/",
+    "source": "GameLook",
+    "time": "08-24 01:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "中消协发布消费提示：使用人工智能服务需谨防误导",
+    "url": "https://www.ithome.com/0/993/856.htm",
+    "source": "IT之家",
+    "time": "08-25 10:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(11)",
+   "Bing新闻(2)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
