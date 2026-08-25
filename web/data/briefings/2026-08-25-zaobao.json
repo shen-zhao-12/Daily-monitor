@@ -2,7 +2,7 @@
  "id": "2026-08-25-zaobao",
  "title": "线口监测早报 · 2026年08月25日(周二)",
  "shift": "早报",
- "date": "2026-08-25 11:27",
+ "date": "2026-08-25 11:58",
  "docx": "../briefings/线口监测早报-2026-08-25.docx",
  "sections": {
   "AI/大模型": [
@@ -140,21 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "TOZO AIVU AI眼镜Kickstarter众筹突破10万美元，首创染色光波导技术",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d0bba79e94b55a30d25d6fce336df&url=https%3a%2f%2fwww.sohu.com%2fa%2f1067060623_447547&c=12894284307330332007&mkt=en-us",
+    "title": "AI眼镜集体转向轻量化、主动化，雷鸟眼镜新品1996元起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d12de383d40ea80552abea7f0f3c3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260824A0D0F900&c=7336813802795041639&mkt=en-us",
     "source": "Bing新闻",
-    "time": "08-25 01:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Coding expertise is going to collapse from AI reliance",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "source": "Hacker News",
-    "time": "08-24 23:52",
+    "time": "08-25 00:04",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -188,17 +177,6 @@
     "url": "https://developers.openai.com/api/docs/pricing",
     "source": "Hacker News",
     "time": "08-24 23:22",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "展会上“被留住脚步”的外媒记者：讯飞AI眼镜如何破解商务洽谈的“三秒尴尬”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d0bba79e94b55a30d25d6fce336df&url=https%3a%2f%2fsoftware.it168.com%2fa2026%2f0824%2f6947%2f000006947232.shtml&c=7809840335125106408&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-24 10:31",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -290,17 +268,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "Steam 喜加一：原价 49 元 RPG 游戏《Dokimon Quest》免费领",
-    "url": "https://www.ithome.com/0/993/784.htm",
-    "source": "IT之家",
-    "time": "08-25 07:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "分析：玩家月留存仅3%，“友尽类游戏”为何成为独游爆款发动机？",
     "url": "http://www.gamelook.com.cn/2026/08/600444/",
     "source": "GameLook",
@@ -331,6 +298,28 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "财报点名创新高，却被steam数据判凉？游戏越火非议越多",
+    "url": "http://www.gamelook.com.cn/2026/08/600454/",
+    "source": "GameLook",
+    "time": "08-24 01:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "当游戏遇上成都烟火，手瓦让年轻人重新认识成都",
+    "url": "http://www.gamelook.com.cn/2026/08/600527/",
+    "source": "GameLook",
+    "time": "08-24 01:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -352,8 +341,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(11)",
-   "Bing新闻(2)"
+   "HackerNews(9)",
+   "Bing新闻(1)"
   ],
   "fail": [
    "36氪(no entries)"
