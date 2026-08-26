@@ -2,10 +2,21 @@
  "id": "2026-08-26-wubao",
  "title": "线口监测午报 · 2026年08月26日(周三)",
  "shift": "午报",
- "date": "2026-08-26 17:24",
+ "date": "2026-08-26 18:06",
  "docx": "../briefings/线口监测午报-2026-08-26.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "华尔街高度关注英伟达第二财季业绩，盼其能继续引领 AI 板块",
+    "url": "https://www.ithome.com/0/994/668.htm",
+    "source": "IT之家",
+    "time": "08-26 17:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "华为投标埃及政府 AI 数据中心项目：拟出口至少 1408 颗昇腾 950 芯片并提议 12 个月完成基建",
@@ -96,30 +107,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Artificial Analysis 公布苹果 iPhone 17 Pro 跑 8GB 以内本地 AI 性能排名",
-    "url": "https://www.ithome.com/0/994/550.htm",
-    "source": "IT之家",
-    "time": "08-26 15:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "海盗船推出 iCUE LINK TITAN II 系列处理器 AIO 液冷，水泵风扇双升级",
-    "url": "https://www.ithome.com/0/994/542.htm",
-    "source": "IT之家",
-    "time": "08-26 14:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "34克、两天续航、1996元起：雷鸟iO把带显示的AI眼镜做进了日常镜框",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8eb0f2f4284c6d894197f662e9ec30&url=https%3a%2f%2fwww.sohu.com%2fa%2f1067530724_339733&c=12696361886721613309&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ebac8f099427596743a229c869ec3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1067530724_339733&c=12696361886721613309&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-26 08:21",
     "summary": "",
@@ -152,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI翻译×AI眼镜，两个\"全球第一\"碰到一起了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8eb0f2f4284c6d894197f662e9ec30&url=https%3a%2f%2fnews.tom.com%2f202608%2f4475543334.html&c=4113761229826849809&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ebac8f099427596743a229c869ec3&url=https%3a%2f%2fnews.tom.com%2f202608%2f4475543334.html&c=4113761229826849809&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-26 03:41",
     "summary": "",
@@ -163,20 +152,9 @@
    {
     "beat": "AI/大模型",
     "title": "AI记忆成智能眼镜竞赛新赛点：从“功能外挂”迈向“第二大脑”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8eb0f2f4284c6d894197f662e9ec30&url=https%3a%2f%2fwww.sohu.com%2fa%2f1067548702_447547&c=12365414586759068378&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ebac8f099427596743a229c869ec3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1067548702_447547&c=12365414586759068378&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-26 01:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-    "url": "https://github.com/ThinkOffApp/CarWatch",
-    "source": "Hacker News",
-    "time": "08-25 23:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -196,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "独家｜老板电器新一代AI烹饪眼镜预计明年3月发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8eb0f2f4284c6d894197f662e9ec30&url=https%3a%2f%2ffinance.china.com%2fTMT%2f13004688%2f20260826%2f49699633.html&c=6439173544781594152&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ebac8f099427596743a229c869ec3&url=https%3a%2f%2ffinance.china.com%2fTMT%2f13004688%2f20260826%2f49699633.html&c=6439173544781594152&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-25 21:08",
     "summary": "",
@@ -207,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "蓝思科技多点突破，AI眼镜服务器折叠机齐发力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8eb0f2f4284c6d894197f662e9ec30&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8vsTWqWtbjT&c=14892100323490799087&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ebac8f099427596743a229c869ec3&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8vsTWqWtbjT&c=14892100323490799087&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-25 15:43",
     "summary": "",
@@ -218,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "蓝思科技：公司在AI眼镜领域已实现核心卡位",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8eb0f2f4284c6d894197f662e9ec30&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-25%2fdoc-inipnyqu1675326.shtml&c=2507973395732496632&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ebac8f099427596743a229c869ec3&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-25%2fdoc-inipnyqu1675326.shtml&c=2507973395732496632&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-25 13:14",
     "summary": "",
@@ -229,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "退货率60% vs 融资300亿，AI眼镜到底卡在哪?",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8eb0f2f4284c6d894197f662e9ec30&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2580%2580%25E8%25B4%25A7%25E7%258E%258760-vs-%25E8%259E%258D%25E8%25B5%2584300%25E4%25BA%25BF-ai%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E5%25BA%2595%25E5%258D%25A1%25E5%259C%25A8%25E5%2593%25AA%2far-AA2aURTV&c=4382843313982928455&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ebac8f099427596743a229c869ec3&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2580%2580%25E8%25B4%25A7%25E7%258E%258760-vs-%25E8%259E%258D%25E8%25B5%2584300%25E4%25BA%25BF-ai%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E5%25BA%2595%25E5%258D%25A1%25E5%259C%25A8%25E5%2593%25AA%2far-AA2aURTV&c=4382843313982928455&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-25 11:00",
     "summary": "",
@@ -243,6 +221,17 @@
     "url": "http://www.gamelook.com.cn/2026/08/600561/",
     "source": "GameLook",
     "time": "08-25 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蒋奇明、李诞、柯洁同款AI眼镜开售，JoyInside让雷鸟iO实现听得懂、记得住、帮得上",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ebac8f099427596743a229c869ec3&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%2592%258B%25E5%25A5%2587%25E6%2598%258E-%25E6%259D%258E%25E8%25AF%259E-%25E6%259F%25AF%25E6%25B4%2581%25E5%2590%258C%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C%25E5%25BC%2580%25E5%2594%25AE-joyinside%25E8%25AE%25A9%25E9%259B%25B7%25E9%25B8%259Fio%25E5%25AE%259E%25E7%258E%25B0%25E5%2590%25AC%25E5%25BE%2597%25E6%2587%2582-%25E8%25AE%25B0%25E5%25BE%2597%25E4%25BD%258F-%25E5%25B8%25AE%25E5%25BE%2597%25E4%25B8%258A%2far-AA2aR4x2&c=17168344889287332324&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-25 04:43",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -270,17 +259,6 @@
     "url": "https://www.ithome.com/0/994/643.htm",
     "source": "IT之家",
     "time": "08-26 16:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯《洛克王国：世界》国际服定档 10 月 27 日首测，登陆 PS5、Xbox、PC 及移动平台",
-    "url": "https://www.ithome.com/0/994/547.htm",
-    "source": "IT之家",
-    "time": "08-26 15:07",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -340,6 +318,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "独立游戏开发者感慨：“陌生人更支持我，亲戚朋友都沉默了”！",
+    "url": "http://www.gamelook.com.cn/2026/08/600560/",
+    "source": "GameLook",
+    "time": "08-25 08:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -349,7 +338,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(5)",
+   "HackerNews(4)",
    "Bing新闻(9)"
   ],
   "fail": [
