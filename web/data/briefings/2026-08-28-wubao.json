@@ -2,7 +2,7 @@
  "id": "2026-08-28-wubao",
  "title": "线口监测午报 · 2026年08月28日(周五)",
  "shift": "午报",
- "date": "2026-08-28 14:22",
+ "date": "2026-08-28 15:01",
  "docx": "../briefings/线口监测午报-2026-08-28.docx",
  "sections": {
   "AI/大模型": [
@@ -30,28 +30,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Please stop flooding our projects with AI slop to furnish your CV",
-    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-    "source": "Hacker News",
-    "time": "08-28 11:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌推出《Pokémon Sleep》联名款 Fitbit Air 活动追踪器",
-    "url": "https://www.ithome.com/0/995/407.htm",
-    "source": "IT之家",
-    "time": "08-28 10:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Stripe said to abandon $50B pursuit of PayPal",
     "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
     "source": "Hacker News",
@@ -63,8 +41,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "source": "Hacker News",
+    "time": "08-28 05:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "2026年第一副卖爆的AI眼镜，雷鸟iO首销破纪录",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91291a91184ac09dd0f1b2106af21a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1068504395_633374&c=4400070377449162759&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9132575d614597b4af94c9aba9b474&url=https%3a%2f%2fwww.sohu.com%2fa%2f1068504395_633374&c=4400070377449162759&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 22:59",
     "summary": "",
@@ -75,7 +64,7 @@
    {
     "beat": "AI/大模型",
     "title": "HICOOL 2026丨黄玮铮：轻量化是AI+AR眼镜从极客产品走向大众的前提",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91291a91184ac09dd0f1b2106af21a&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-27%2fdoc-inipuiyr5941314.shtml&c=15843028698567207791&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9132575d614597b4af94c9aba9b474&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-27%2fdoc-inipuiyr5941314.shtml&c=15843028698567207791&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 22:15",
     "summary": "",
@@ -86,7 +75,7 @@
    {
     "beat": "AI/大模型",
     "title": "Even把极米告上了美国法院，120万美元“AI眼镜”众筹突然被叫停！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91291a91184ac09dd0f1b2106af21a&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8130-30700400.html&c=11100800243623622374&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9132575d614597b4af94c9aba9b474&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8130-30700400.html&c=11100800243623622374&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 15:40",
     "summary": "",
@@ -97,7 +86,7 @@
    {
     "beat": "AI/大模型",
     "title": "AR眼镜出货第一之后，雷鸟能否赢下AI之战？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91291a91184ac09dd0f1b2106af21a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260827A04WE200&c=15200858538946688642&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9132575d614597b4af94c9aba9b474&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260827A04WE200&c=15200858538946688642&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 11:37",
     "summary": "",
@@ -119,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI翻译×AI眼镜，时空壶与雷鸟达成深度合作",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91291a91184ac09dd0f1b2106af21a&url=https%3a%2f%2fbusiness.china.com.cn%2f2026-08%2f27%2fcontent_43482894.shtml&c=5168072262899745360&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9132575d614597b4af94c9aba9b474&url=https%3a%2f%2fbusiness.china.com.cn%2f2026-08%2f27%2fcontent_43482894.shtml&c=5168072262899745360&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 01:00",
     "summary": "",
@@ -130,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "The turbulent AI era is here",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
     "source": "Hacker News",
     "time": "08-26 19:23",
     "summary": "",
@@ -141,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI翻译×AI眼镜，两个\"全球第一\"碰到一起了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91291a91184ac09dd0f1b2106af21a&url=https%3a%2f%2fnews.tom.com%2f202608%2f4475543334.html&c=4113761229826849809&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9132575d614597b4af94c9aba9b474&url=https%3a%2f%2fnews.tom.com%2f202608%2f4475543334.html&c=4113761229826849809&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-26 17:40",
     "summary": "",
@@ -163,7 +152,19 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "香港运输署公布网约车服务牌照申请要求，Uber 优步、滴滴准备申请",
+    "url": "https://www.ithome.com/0/995/582.htm",
+    "source": "IT之家",
+    "time": "08-28 14:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
