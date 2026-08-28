@@ -1,0 +1,361 @@
+{
+ "id": "2026-08-29-zaobao",
+ "title": "线口监测早报 · 2026年08月29日(周六)",
+ "shift": "早报",
+ "date": "2026-08-29 05:31",
+ "docx": "../briefings/线口监测早报-2026-08-29.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活",
+    "url": "https://www.ithome.com/0/995/818.htm",
+    "source": "IT之家",
+    "time": "08-28 23:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全国算力互联互通区域节点名单出炉，北京上海等 17 省市入围",
+    "url": "https://www.ithome.com/0/995/814.htm",
+    "source": "IT之家",
+    "time": "08-28 23:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极摩客 EVO-X5 Pro 迷你主机官宣：锐龙 AI Max+ PRO 495 处理器，IFA 2026 亮相",
+    "url": "https://www.ithome.com/0/995/811.htm",
+    "source": "IT之家",
+    "time": "08-28 23:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 提交新请愿书，要求驳回苹果诉讼",
+    "url": "https://www.ithome.com/0/995/810.htm",
+    "source": "IT之家",
+    "time": "08-28 23:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达 CEO 黄仁勋呼吁 AI 行业加强沟通：想建数据中心就得争取公众支持",
+    "url": "https://www.ithome.com/0/995/808.htm",
+    "source": "IT之家",
+    "time": "08-28 23:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美团 CEO 王兴：AI 模型和产品将用于支持主业发展，我们不会成为“Token 工厂”",
+    "url": "https://www.ithome.com/0/995/807.htm",
+    "source": "IT之家",
+    "time": "08-28 23:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里巴巴胜诉拿下 Alibaba.ai、Tmall.ai 域名，裁定被告存在恶意注册行为",
+    "url": "https://www.ithome.com/0/995/805.htm",
+    "source": "IT之家",
+    "time": "08-28 22:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "试图摆脱“变态眼镜”之名，Meta AI 眼镜升级后挡住指示灯就立即停止拍摄",
+    "url": "https://www.ithome.com/0/995/795.htm",
+    "source": "IT之家",
+    "time": "08-28 21:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "U.S. sanctions against the A/I Collective",
+    "url": "https://www.inventati.org/",
+    "source": "Hacker News",
+    "time": "08-28 20:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "真香：《我的世界》创始人佩尔松承认自己早期拒绝 AI 编程“可能错了”",
+    "url": "https://www.ithome.com/0/995/770.htm",
+    "source": "IT之家",
+    "time": "08-28 18:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华硕成立物理 AI 事业群，人形机器人计划 9 月上路",
+    "url": "https://www.ithome.com/0/995/763.htm",
+    "source": "IT之家",
+    "time": "08-28 18:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "机械革命预热翼龙 15 Air 轻薄游戏本，8 月 30 日 14:00 发布",
+    "url": "https://www.ithome.com/0/995/726.htm",
+    "source": "IT之家",
+    "time": "08-28 17:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "source": "Hacker News",
+    "time": "08-28 14:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Best Buy二季度财报：AI眼镜等新兴品类销售额翻倍，推动业绩超预期",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91fe56fae14f45a5f72fad9b185447&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fbest-buy%25E4%25BA%258C%25E5%25AD%25A3%25E5%25BA%25A6%25E8%25B4%25A2%25E6%258A%25A5-ai%25E7%259C%25BC%25E9%2595%259C%25E7%25AD%2589%25E6%2596%25B0%25E5%2585%25B4%25E5%2593%2581%25E7%25B1%25BB%25E9%2594%2580%25E5%2594%25AE%25E9%25A2%259D%25E7%25BF%25BB%25E5%2580%258D-%25E6%258E%25A8%25E5%258A%25A8%25E4%25B8%259A%25E7%25BB%25A9%25E8%25B6%2585%25E9%25A2%2584%25E6%259C%259F%2far-AA2b5auL&c=15334924135411169501&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-28 02:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026年第一副卖爆的AI眼镜，雷鸟iO首销破纪录",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91fe56fae14f45a5f72fad9b185447&url=https%3a%2f%2fwww.sohu.com%2fa%2f1068504395_633374&c=4400070377449162759&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-27 22:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Even把极米告上了美国法院，120万美元“AI眼镜”众筹突然被叫停！",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91fe56fae14f45a5f72fad9b185447&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8130-30700400.html&c=11100800243623622374&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-27 15:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AR眼镜出货第一之后，雷鸟能否赢下AI之战？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91fe56fae14f45a5f72fad9b185447&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260827A04WE200&c=15200858538946688642&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-27 11:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "灵掌机器人完成数千万元天使轮融资",
+    "url": "https://www.ithome.com/0/995/790.htm",
+    "source": "IT之家",
+    "time": "08-28 21:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "优必选 2026 财年上半年归母亏损 3.11 亿元，同比亏损收窄 24.7%",
+    "url": "https://www.ithome.com/0/995/769.htm",
+    "source": "IT之家",
+    "time": "08-28 18:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "亿航智能 EH216-S eVTOL 完成香港公开首飞",
+    "url": "https://www.ithome.com/0/995/799.htm",
+    "source": "IT之家",
+    "time": "08-28 22:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游大伟哥现身科隆展，现场晒合影",
+    "url": "http://www.gamelook.com.cn/2026/08/601014/",
+    "source": "GameLook",
+    "time": "08-28 23:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "HMD 推出 105 4G 校园版手机：移除网页浏览器、游戏和录音功能",
+    "url": "https://www.ithome.com/0/995/794.htm",
+    "source": "IT之家",
+    "time": "08-28 21:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易捐赠 1000 万元驰援西藏吉隆泥石流灾区",
+    "url": "https://www.ithome.com/0/995/785.htm",
+    "source": "IT之家",
+    "time": "08-28 20:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "HKC 预热猎弦 T1 游戏手柄：旋控力摇杆、支持无线充电，8 月 31 日上市",
+    "url": "https://www.ithome.com/0/995/743.htm",
+    "source": "IT之家",
+    "time": "08-28 17:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中国游戏“冲爆科隆游戏展”！GameLook带你见识大场面",
+    "url": "http://www.gamelook.com.cn/2026/08/600892/",
+    "source": "GameLook",
+    "time": "08-28 10:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“游戏禅师”陈星汉要做发行？官宣TGC发行品牌，助力游戏创作者“梦想成真”！",
+    "url": "http://www.gamelook.com.cn/2026/08/600894/",
+    "source": "GameLook",
+    "time": "08-28 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "全球手游大洗牌！超休闲、休闲和中重度，最终都融合成同一种游戏？",
+    "url": "http://www.gamelook.com.cn/2026/08/600878/",
+    "source": "GameLook",
+    "time": "08-28 09:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯游戏安全 ACE 携手腾讯云与 Sandbox Interactive 达成合作，护航全球知名MMO《Albion Online》",
+    "url": "http://www.gamelook.com.cn/2026/08/600944/",
+    "source": "GameLook",
+    "time": "08-28 08:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "抢夺全球游戏话语权，14款中国游戏轰炸科隆游戏展开幕夜！",
+    "url": "http://www.gamelook.com.cn/2026/08/600840/",
+    "source": "GameLook",
+    "time": "08-27 12:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游奇幻网游《源初之结》震惊全球玩家，大伟哥感慨：“做游戏真难”！",
+    "url": "http://www.gamelook.com.cn/2026/08/600743/",
+    "source": "GameLook",
+    "time": "08-27 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(17)",
+   "HackerNews(2)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
