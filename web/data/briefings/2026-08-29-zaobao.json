@@ -2,7 +2,7 @@
  "id": "2026-08-29-zaobao",
  "title": "线口监测早报 · 2026年08月29日(周六)",
  "shift": "早报",
- "date": "2026-08-29 05:31",
+ "date": "2026-08-29 05:48",
  "docx": "../briefings/线口监测早报-2026-08-29.docx",
  "sections": {
   "AI/大模型": [
@@ -151,19 +151,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Best Buy二季度财报：AI眼镜等新兴品类销售额翻倍，推动业绩超预期",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91fe56fae14f45a5f72fad9b185447&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fbest-buy%25E4%25BA%258C%25E5%25AD%25A3%25E5%25BA%25A6%25E8%25B4%25A2%25E6%258A%25A5-ai%25E7%259C%25BC%25E9%2595%259C%25E7%25AD%2589%25E6%2596%25B0%25E5%2585%25B4%25E5%2593%2581%25E7%25B1%25BB%25E9%2594%2580%25E5%2594%25AE%25E9%25A2%259D%25E7%25BF%25BB%25E5%2580%258D-%25E6%258E%25A8%25E5%258A%25A8%25E4%25B8%259A%25E7%25BB%25A9%25E8%25B6%2585%25E9%25A2%2584%25E6%259C%259F%2far-AA2b5auL&c=15334924135411169501&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-28 02:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "2026年第一副卖爆的AI眼镜，雷鸟iO首销破纪录",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91fe56fae14f45a5f72fad9b185447&url=https%3a%2f%2fwww.sohu.com%2fa%2f1068504395_633374&c=4400070377449162759&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92022498ba46cbbbc11cc373de6517&url=https%3a%2f%2fwww.sohu.com%2fa%2f1068504395_633374&c=4400070377449162759&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 22:59",
     "summary": "",
@@ -173,8 +162,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "HICOOL 2026丨黄玮铮：轻量化是AI+AR眼镜从极客产品走向大众的前提",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92022498ba46cbbbc11cc373de6517&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-27%2fdoc-inipuiyr5941314.shtml&c=15843028698567207791&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-27 22:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "Even把极米告上了美国法院，120万美元“AI眼镜”众筹突然被叫停！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91fe56fae14f45a5f72fad9b185447&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8130-30700400.html&c=11100800243623622374&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92022498ba46cbbbc11cc373de6517&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8130-30700400.html&c=11100800243623622374&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 15:40",
     "summary": "",
@@ -185,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "AR眼镜出货第一之后，雷鸟能否赢下AI之战？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a91fe56fae14f45a5f72fad9b185447&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260827A04WE200&c=15200858538946688642&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92022498ba46cbbbc11cc373de6517&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260827A04WE200&c=15200858538946688642&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 11:37",
     "summary": "",
