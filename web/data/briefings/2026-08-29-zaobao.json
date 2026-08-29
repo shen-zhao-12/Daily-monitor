@@ -2,16 +2,16 @@
  "id": "2026-08-29-zaobao",
  "title": "线口监测早报 · 2026年08月29日(周六)",
  "shift": "早报",
- "date": "2026-08-29 08:23",
+ "date": "2026-08-29 09:22",
  "docx": "../briefings/线口监测早报-2026-08-29.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "因软件缺陷存在起火隐患，Lucid 宣布召回 2.7 万辆 Lucid Air 车型",
-    "url": "https://www.ithome.com/0/995/824.htm",
+    "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+    "url": "https://www.ithome.com/0/995/854.htm",
     "source": "IT之家",
-    "time": "08-29 06:37",
+    "time": "08-29 08:39",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Stopping the smart TV from being used against you",
-    "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-    "source": "Hacker News",
-    "time": "08-29 04:27",
+    "title": "因软件缺陷存在起火隐患，Lucid 宣布召回 2.7 万辆 Lucid Air 车型",
+    "url": "https://www.ithome.com/0/995/824.htm",
+    "source": "IT之家",
+    "time": "08-29 06:37",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -140,19 +140,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Best Buy二季度财报：AI眼镜等新兴品类销售额翻倍，推动业绩超预期",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92268b3af1490185082afd2c50e9e8&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fbest-buy%25E4%25BA%258C%25E5%25AD%25A3%25E5%25BA%25A6%25E8%25B4%25A2%25E6%258A%25A5-ai%25E7%259C%25BC%25E9%2595%259C%25E7%25AD%2589%25E6%2596%25B0%25E5%2585%25B4%25E5%2593%2581%25E7%25B1%25BB%25E9%2594%2580%25E5%2594%25AE%25E9%25A2%259D%25E7%25BF%25BB%25E5%2580%258D-%25E6%258E%25A8%25E5%258A%25A8%25E4%25B8%259A%25E7%25BB%25A9%25E8%25B6%2585%25E9%25A2%2584%25E6%259C%259F%2far-AA2b5auL&c=15334924135411169501&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-28 02:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "2026年第一副卖爆的AI眼镜，雷鸟iO首销破纪录",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92268b3af1490185082afd2c50e9e8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1068504395_633374&c=4400070377449162759&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9234644150473e9f15aebf44e5564d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1068504395_633374&c=4400070377449162759&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 22:59",
     "summary": "",
@@ -163,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "HICOOL 2026丨黄玮铮：轻量化是AI+AR眼镜从极客产品走向大众的前提",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92268b3af1490185082afd2c50e9e8&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-27%2fdoc-inipuiyr5941314.shtml&c=15843028698567207791&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9234644150473e9f15aebf44e5564d&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-27%2fdoc-inipuiyr5941314.shtml&c=15843028698567207791&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 22:15",
     "summary": "",
@@ -174,28 +163,27 @@
    {
     "beat": "AI/大模型",
     "title": "Even把极米告上了美国法院，120万美元“AI眼镜”众筹突然被叫停！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92268b3af1490185082afd2c50e9e8&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8130-30700400.html&c=11100800243623622374&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9234644150473e9f15aebf44e5564d&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8130-30700400.html&c=11100800243623622374&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-27 15:40",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "机器人/AI硬件": [
+   },
    {
-    "beat": "机器人/AI硬件",
-    "title": "灵掌机器人完成数千万元天使轮融资",
-    "url": "https://www.ithome.com/0/995/790.htm",
-    "source": "IT之家",
-    "time": "08-28 21:09",
+    "beat": "AI/大模型",
+    "title": "AR眼镜出货第一之后，雷鸟能否赢下AI之战？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9234644150473e9f15aebf44e5564d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260827A04WE200&c=15200858538946688642&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-27 11:37",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
+  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -342,6 +330,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游奇幻网游《源初之结》震惊全球玩家，大伟哥感慨：“做游戏真难”！",
+    "url": "http://www.gamelook.com.cn/2026/08/600743/",
+    "source": "GameLook",
+    "time": "08-27 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -350,9 +349,9 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(16)",
-   "HackerNews(3)",
-   "Bing新闻(6)"
+   "GameLook(15)",
+   "HackerNews(2)",
+   "Bing新闻(5)"
   ],
   "fail": [
    "36氪(no entries)"
