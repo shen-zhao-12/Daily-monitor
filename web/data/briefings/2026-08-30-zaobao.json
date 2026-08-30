@@ -1,0 +1,318 @@
+{
+ "id": "2026-08-30-zaobao",
+ "title": "线口监测早报 · 2026年08月30日(周日)",
+ "shift": "早报",
+ "date": "2026-08-30 08:23",
+ "docx": "../briefings/线口监测早报-2026-08-30.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "少 1 个展开步骤：部分谷歌搜索测试默认进入 AI 模式，下移传统蓝链搜索结果",
+    "url": "https://www.ithome.com/0/996/062.htm",
+    "source": "IT之家",
+    "time": "08-30 07:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
+    "url": "https://www.ithome.com/0/996/058.htm",
+    "source": "IT之家",
+    "time": "08-30 07:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+    "url": "https://www.ithome.com/0/996/057.htm",
+    "source": "IT之家",
+    "time": "08-30 07:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+    "url": "https://www.ithome.com/0/996/053.htm",
+    "source": "IT之家",
+    "time": "08-30 06:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "source": "Hacker News",
+    "time": "08-30 01:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国政府计划向全体国民提供免费 AI 服务",
+    "url": "https://www.ithome.com/0/996/050.htm",
+    "source": "IT之家",
+    "time": "08-29 23:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+    "url": "https://www.ithome.com/0/996/041.htm",
+    "source": "IT之家",
+    "time": "08-29 21:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快",
+    "url": "https://www.ithome.com/0/996/038.htm",
+    "source": "IT之家",
+    "time": "08-29 21:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Debian 社区议案表决：开发者可使用生成式 AI，人类负最终责任",
+    "url": "https://www.ithome.com/0/996/035.htm",
+    "source": "IT之家",
+    "time": "08-29 21:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+    "url": "https://www.ithome.com/0/996/022.htm",
+    "source": "IT之家",
+    "time": "08-29 19:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果AI眼镜2027年首秀，聚焦语音与视觉识别新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93781063e34365ba90ed81657b63c8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1069478828_122004016&c=16418177249315779176&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-29 18:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果首款AI眼镜细节曝光！无屏设计 主打Siri视觉智能 2027年发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93781063e34365ba90ed81657b63c8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdiscovery%2f2026-08-30%2fdoc-inipzxsc8555600.shtml&c=18020774451210642838&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-29 18:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "推广 Claude 遭网友狂喷，加拿大博主称使用 AI 正成为社交禁忌",
+    "url": "https://www.ithome.com/0/995/969.htm",
+    "source": "IT之家",
+    "time": "08-29 17:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "极狐阿尔法 T7 预售 72 小时订单突破 3 万台，新车搭载华为乾崑智驾 ADS 5 Pro",
+    "url": "https://www.ithome.com/0/996/067.htm",
+    "source": "IT之家",
+    "time": "08-30 08:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "近 400 万观众观看各类主播直播《GTA 6》实机演示，创今年游戏直播最高纪录",
+    "url": "https://www.ithome.com/0/996/047.htm",
+    "source": "IT之家",
+    "time": "08-29 22:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "一用户宏碁游戏本因 14900HX 过热送修后，免费升级至 U9 275HX + RTX 5070 Ti 最新款",
+    "url": "https://www.ithome.com/0/996/043.htm",
+    "source": "IT之家",
+    "time": "08-29 21:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026 科隆游戏展频发参展设备失窃案，多家独立工作室展位电脑被盗",
+    "url": "https://www.ithome.com/0/996/026.htm",
+    "source": "IT之家",
+    "time": "08-29 20:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "EA《钢铁侠》游戏泄露后，官方作出回应",
+    "url": "https://www.ithome.com/0/996/017.htm",
+    "source": "IT之家",
+    "time": "08-29 19:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "开放世界黑暗奇幻 RPG 游戏《黎明行者之血》全新实机演示公开，9 月 3 日发售",
+    "url": "https://www.ithome.com/0/995/997.htm",
+    "source": "IT之家",
+    "time": "08-29 18:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游大伟哥现身科隆展，现场晒合影",
+    "url": "http://www.gamelook.com.cn/2026/08/601014/",
+    "source": "GameLook",
+    "time": "08-28 23:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中国游戏“冲爆科隆游戏展”！GameLook带你见识大场面",
+    "url": "http://www.gamelook.com.cn/2026/08/600892/",
+    "source": "GameLook",
+    "time": "08-28 10:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“游戏禅师”陈星汉要做发行？官宣TGC发行品牌，助力游戏创作者“梦想成真”！",
+    "url": "http://www.gamelook.com.cn/2026/08/600894/",
+    "source": "GameLook",
+    "time": "08-28 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "全球手游大洗牌！超休闲、休闲和中重度，最终都融合成同一种游戏？",
+    "url": "http://www.gamelook.com.cn/2026/08/600878/",
+    "source": "GameLook",
+    "time": "08-28 09:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯游戏安全 ACE 携手腾讯云与 Sandbox Interactive 达成合作，护航全球知名MMO《Albion Online》",
+    "url": "http://www.gamelook.com.cn/2026/08/600944/",
+    "source": "GameLook",
+    "time": "08-28 08:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "印度消费电子品牌 Mivi 跨界进军手机市场，首款产品 9 月发布",
+    "url": "https://www.ithome.com/0/996/049.htm",
+    "source": "IT之家",
+    "time": "08-29 23:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "《GTA 6》预告片引爆主机市场，美国第三方零售商 PS5 Pro 纷纷加价出售",
+    "url": "https://www.ithome.com/0/996/008.htm",
+    "source": "IT之家",
+    "time": "08-29 18:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(59)",
+   "GameLook(8)",
+   "HackerNews(3)",
+   "Bing新闻(3)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
