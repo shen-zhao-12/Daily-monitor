@@ -2,10 +2,32 @@
  "id": "2026-08-30-wubao",
  "title": "线口监测午报 · 2026年08月30日(周日)",
  "shift": "午报",
- "date": "2026-08-30 15:12",
+ "date": "2026-08-30 16:12",
  "docx": "../briefings/线口监测午报-2026-08-30.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "全球仅 3 家能铸：马斯克 SpaceX 突破 AI 供电瓶颈，自产涡轮叶片提前 18 个月投运",
+    "url": "https://www.ithome.com/0/996/179.htm",
+    "source": "IT之家",
+    "time": "08-30 15:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站",
+    "url": "https://www.ithome.com/0/996/169.htm",
+    "source": "IT之家",
+    "time": "08-30 15:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "R 星确认：《GTA 6》发售时不会有微交易和生成式 AI",
@@ -41,7 +63,7 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "“史上最大规模版权盗窃”：Anthropic 被指侵权训练 Claude AI，单曲最高索赔 15 万美元",
+    "title": "“史上最大规模版权盗窃”：索尼与华纳联合起诉 Anthropic，指控其大规模盗用版权音乐训练 AI 模型",
     "url": "https://www.ithome.com/0/996/095.htm",
     "source": "IT之家",
     "time": "08-30 10:54",
@@ -52,10 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%",
-    "url": "https://www.ithome.com/0/996/073.htm",
-    "source": "IT之家",
-    "time": "08-30 08:55",
+    "title": "苹果AI眼镜2027年首秀，聚焦语音与视觉识别新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93e5e91e984f1ab0db3a73effab685&url=https%3a%2f%2fwww.sohu.com%2fa%2f1069478828_122004016&c=16418177249315779176&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 08:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -64,7 +86,18 @@
    {
     "beat": "AI/大模型",
     "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93d804640847cd9febe1d30b0febec&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-30%2fdoc-inipzxsc8549096.shtml&c=9849650226344112646&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93e5e91e984f1ab0db3a73effab685&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-30%2fdoc-inipzxsc8549096.shtml&c=9849650226344112646&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 07:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果首款AI智能眼镜：2027年亮相，无显示屏的未来科技探索",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93e5e91e984f1ab0db3a73effab685&url=https%3a%2f%2fwww.sohu.com%2fa%2f1069472774_122004016&c=16185620518110180748&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-30 07:44",
     "summary": "",
@@ -86,9 +119,20 @@
    {
     "beat": "AI/大模型",
     "title": "苹果2027年推首款AI智能眼镜：无屏设计融合视觉智能 开启Siri交互新篇",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93d804640847cd9febe1d30b0febec&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%258B%25B9%25E6%259E%259C2027%25E5%25B9%25B4%25E6%258E%25A8%25E9%25A6%2596%25E6%25AC%25BEai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C-%25E6%2597%25A0%25E5%25B1%258F%25E8%25AE%25BE%25E8%25AE%25A1%25E8%259E%258D%25E5%2590%2588%25E8%25A7%2586%25E8%25A7%2589%25E6%2599%25BA%25E8%2583%25BD-%25E5%25BC%2580%25E5%2590%25AFsiri%25E4%25BA%25A4%25E4%25BA%2592%25E6%2596%25B0%25E7%25AF%2587%2far-AA2bbYrI&c=14867038660101511646&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93e5e91e984f1ab0db3a73effab685&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E8%258B%25B9%25E6%259E%259C2027%25E5%25B9%25B4%25E6%258E%25A8%25E9%25A6%2596%25E6%25AC%25BEai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C-%25E6%2597%25A0%25E5%25B1%258F%25E8%25AE%25BE%25E8%25AE%25A1%25E8%259E%258D%25E5%2590%2588%25E8%25A7%2586%25E8%25A7%2589%25E6%2599%25BA%25E8%2583%25BD-%25E5%25BC%2580%25E5%2590%25AFsiri%25E4%25BA%25A4%25E4%25BA%2592%25E6%2596%25B0%25E7%25AF%2587%2far-AA2bbYrI&c=3987068881966301444&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-30 06:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果2027年推首款AI眼镜：无屏主打AI交互，隐私防护成最大看点",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93e5e91e984f1ab0db3a73effab685&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%258B%25B9%25E6%259E%259C2027%25E5%25B9%25B4%25E6%258E%25A8%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C-%25E6%2597%25A0%25E5%25B1%258F%25E4%25B8%25BB%25E6%2589%2593ai%25E4%25BA%25A4%25E4%25BA%2592-%25E9%259A%2590%25E7%25A7%2581%25E9%2598%25B2%25E6%258A%25A4%25E6%2588%2590%25E6%259C%2580%25E5%25A4%25A7%25E7%259C%258B%25E7%2582%25B9%2far-AA2bbXQA&c=8647837118120845654&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 05:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -108,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果首款AI智能眼镜定档2027年，主打无屏视觉智能驱动Siri",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93d804640847cd9febe1d30b0febec&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-30%2fdoc-iniqakft2909216.shtml&c=2398509077942162102&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93e5e91e984f1ab0db3a73effab685&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-30%2fdoc-iniqakft2909216.shtml&c=2398509077942162102&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-30 01:00",
     "summary": "",
@@ -119,20 +163,9 @@
    {
     "beat": "AI/大模型",
     "title": "苹果首款AI眼镜定档2027：无屏设计、主打Siri视觉交互",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93d804640847cd9febe1d30b0febec&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260830A059VT00&c=12369498067883249686&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93e5e91e984f1ab0db3a73effab685&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260830A059VT00&c=12369498067883249686&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-29 21:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苹果AI眼镜2027年首秀，聚焦语音与视觉识别新体验",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93d804640847cd9febe1d30b0febec&url=https%3a%2f%2fwww.sohu.com%2fa%2f1069478828_122004016&c=16418177249315779176&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-29 18:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -170,28 +203,6 @@
     "url": "https://www.ithome.com/0/996/108.htm",
     "source": "IT之家",
     "time": "08-30 12:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑",
-    "url": "https://www.ithome.com/0/996/074.htm",
-    "source": "IT之家",
-    "time": "08-30 08:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "极狐阿尔法 T7 预售 72 小时订单突破 3 万台，新车搭载华为乾崑智驾 ADS 5 Pro",
-    "url": "https://www.ithome.com/0/996/067.htm",
-    "source": "IT之家",
-    "time": "08-30 08:14",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -253,7 +264,7 @@
    "IT之家(60)",
    "GameLook(2)",
    "HackerNews(3)",
-   "Bing新闻(5)"
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
