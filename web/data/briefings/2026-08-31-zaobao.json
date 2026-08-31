@@ -1,0 +1,361 @@
+{
+ "id": "2026-08-31-zaobao",
+ "title": "线口监测早报 · 2026年08月31日(周一)",
+ "shift": "早报",
+ "date": "2026-08-31 08:23",
+ "docx": "../briefings/线口监测早报-2026-08-31.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "上线不足一个月：米哈游 AI 女友桌面陪伴软件《BSide: Olivia Lin》今起停运，离线版本可限时领取",
+    "url": "https://www.ithome.com/0/996/273.htm",
+    "source": "IT之家",
+    "time": "08-31 07:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国内首部 AIGC 长剧《后西游记》今日开播，首部“边审边播”剧集",
+    "url": "https://www.ithome.com/0/996/265.htm",
+    "source": "IT之家",
+    "time": "08-31 07:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称微软收紧员工 AI 预算成本，有员工 28 天挥霍 2.8 万美元 Token",
+    "url": "https://www.ithome.com/0/996/254.htm",
+    "source": "IT之家",
+    "time": "08-31 06:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Haiku R1/beta6 has been released",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "source": "Hacker News",
+    "time": "08-31 00:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "古尔曼：苹果 AirPods 5 耳机最早 9 月发布，OLED 版 iPad mini 平板预计 10 月推出",
+    "url": "https://www.ithome.com/0/996/252.htm",
+    "source": "IT之家",
+    "time": "08-30 23:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+    "url": "https://www.ithome.com/0/996/239.htm",
+    "source": "IT之家",
+    "time": "08-30 21:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头",
+    "url": "https://www.ithome.com/0/996/218.htm",
+    "source": "IT之家",
+    "time": "08-30 19:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "东芝 S300 AI 系列机械硬盘开售：可选 8TB、10TB，2949 元起",
+    "url": "https://www.ithome.com/0/996/213.htm",
+    "source": "IT之家",
+    "time": "08-30 18:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "url": "https://arxiv.org/abs/1804.07389",
+    "source": "Hacker News",
+    "time": "08-30 16:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "跳出AR路线！苹果首款AI眼镜2027年面世：主打无屏视觉智能驱动Siri",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-30%2fdoc-iniqcfmp8062299.shtml&c=12056403867709311280&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 14:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果首款AI眼镜定档2027：无屏设计、主打Siri视觉交互",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260830A059VT00%3fadChannelId%3dtech&c=1727892613930361199&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 11:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-30%2fdoc-inipzxsc8549096.shtml&c=9849650226344112646&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 07:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果首款AI智能眼镜定档2027年，主打无屏视觉智能驱动Siri",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%258B%25B9%25E6%259E%259C%25E9%25A6%2596%25E6%25AC%25BEai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%25AE%259A%25E6%25A1%25A32027%25E5%25B9%25B4-%25E4%25B8%25BB%25E6%2589%2593%25E6%2597%25A0%25E5%25B1%258F%25E8%25A7%2586%25E8%25A7%2589%25E6%2599%25BA%25E8%2583%25BD%25E9%25A9%25B1%25E5%258A%25A8siri%2far-AA2bbXTW&c=503583242047000864&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 05:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "法拉第未来机器人中东业务启航，首笔订单销售及交付完成",
+    "url": "https://www.ithome.com/0/996/269.htm",
+    "source": "IT之家",
+    "time": "08-31 07:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
+    "url": "https://www.ithome.com/0/996/222.htm",
+    "source": "IT之家",
+    "time": "08-30 19:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "智能眼镜可AR导航 机器人能陪伴老人",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1069792001_161795&c=13354252651395593390&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 18:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "网易 CC 直播今日正式停运，产品服务器、官网将同步关闭",
+    "url": "https://www.ithome.com/0/996/268.htm",
+    "source": "IT之家",
+    "time": "08-31 07:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "R 星《GTA 6：分量十足的一瞥》前瞻预告引发流量热潮，Twitch 平台相关直播峰值同时观看量达 397 万人",
+    "url": "https://www.ithome.com/0/996/255.htm",
+    "source": "IT之家",
+    "time": "08-31 06:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》通缉机制大曝光：警方可识别犯罪者服装 / 车辆、游戏强调潜行玩法",
+    "url": "https://www.ithome.com/0/996/275.htm",
+    "source": "IT之家",
+    "time": "08-31 08:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "IT早报 0831：特斯拉廉价版 Model 3 港澳上市；爱奇艺会员用券专享影片纳入 VIP 片库；华为 Mate XT 2 展翼三折叠手机官宣；网易云音乐鸿蒙版 9 月将上线...",
+    "url": "https://www.ithome.com/0/996/274.htm",
+    "source": "IT之家",
+    "time": "08-31 08:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "HKC 猎弦 T1 游戏手柄发售：摇杆支持无级阻尼调节、扳机双切设计，179 元起",
+    "url": "https://www.ithome.com/0/996/270.htm",
+    "source": "IT之家",
+    "time": "08-31 07:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称网易全系列产品将陆续登陆华为鸿蒙 HarmonyOS NEXT 系统",
+    "url": "https://www.ithome.com/0/996/262.htm",
+    "source": "IT之家",
+    "time": "08-31 07:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "CDPR 吸取《赛博朋克 2077》主机平台性能不佳教训，同步开发多平台版本《巫师 4》游戏",
+    "url": "https://www.ithome.com/0/996/256.htm",
+    "source": "IT之家",
+    "time": "08-31 06:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "R 星谈《GTA6》游戏驾驶手感：保留《GTA4》最优秀部分，兼顾 5 代易上手",
+    "url": "https://www.ithome.com/0/996/248.htm",
+    "source": "IT之家",
+    "time": "08-30 22:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "V社 12TB 游戏开发数据泄露详情：含《传送门 2》早期版本，《半衰期 2：第三章》线索出现",
+    "url": "https://www.ithome.com/0/996/241.htm",
+    "source": "IT之家",
+    "time": "08-30 22:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《神鬼寓言》游戏 PC 版配置要求公布：最低 RTX 2060，推荐 RTX 5060",
+    "url": "https://www.ithome.com/0/996/237.htm",
+    "source": "IT之家",
+    "time": "08-30 21:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "卡普空《鬼武者：剑之道》游戏全新预告片公布，9 月 4 日发售",
+    "url": "https://www.ithome.com/0/996/233.htm",
+    "source": "IT之家",
+    "time": "08-30 21:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称索尼 State of Play 游戏发布会即将到来，9 月可能性极大",
+    "url": "https://www.ithome.com/0/996/232.htm",
+    "source": "IT之家",
+    "time": "08-30 21:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026 科隆游戏展大奖公布，CDPR、世嘉各揽三奖",
+    "url": "https://www.ithome.com/0/996/224.htm",
+    "source": "IT之家",
+    "time": "08-30 19:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《红霞岛》总监谈游戏失败：我们被服务型游戏的浪潮带偏了",
+    "url": "https://www.ithome.com/0/996/217.htm",
+    "source": "IT之家",
+    "time": "08-30 18:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(3)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
