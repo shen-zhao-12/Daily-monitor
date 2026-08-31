@@ -2,10 +2,32 @@
  "id": "2026-08-31-zaobao",
  "title": "线口监测早报 · 2026年08月31日(周一)",
  "shift": "早报",
- "date": "2026-08-31 08:23",
+ "date": "2026-08-31 09:23",
  "docx": "../briefings/线口监测早报-2026-08-31.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "北邮牵头：全球首个太空算力云实现常态化在轨试验服务",
+    "url": "https://www.ithome.com/0/996/292.htm",
+    "source": "IT之家",
+    "time": "08-31 09:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "长虹追光 Q60S Pro 电视发布：39mm 厚度 0 距离贴墙，行业首创 AI 星河呼吸灯",
+    "url": "https://www.ithome.com/0/996/289.htm",
+    "source": "IT之家",
+    "time": "08-31 09:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "上线不足一个月：米哈游 AI 女友桌面陪伴软件《BSide: Olivia Lin》今起停运，离线版本可限时领取",
@@ -74,21 +96,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头",
-    "url": "https://www.ithome.com/0/996/218.htm",
-    "source": "IT之家",
-    "time": "08-30 19:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "东芝 S300 AI 系列机械硬盘开售：可选 8TB、10TB，2949 元起",
-    "url": "https://www.ithome.com/0/996/213.htm",
-    "source": "IT之家",
-    "time": "08-30 18:32",
+    "title": "苹果2027年推首款AI眼镜：无屏设计聚焦视觉智能 重新定义人机交互新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94d782a58a4b498481fddaf593b2c4&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%258B%25B9%25E6%259E%259C2027%25E5%25B9%25B4%25E6%258E%25A8%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C-%25E6%2597%25A0%25E5%25B1%258F%25E8%25AE%25BE%25E8%25AE%25A1%25E8%2581%259A%25E7%2584%25A6%25E8%25A7%2586%25E8%25A7%2589%25E6%2599%25BA%25E8%2583%25BD-%25E9%2587%258D%25E6%2596%25B0%25E5%25AE%259A%25E4%25B9%2589%25E4%25BA%25BA%25E6%259C%25BA%25E4%25BA%25A4%25E4%25BA%2592%25E6%2596%25B0%25E4%25BD%2593%25E9%25AA%258C%2far-AA2bexmh&c=11467393810006408728&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-30 19:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -108,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "跳出AR路线！苹果首款AI眼镜2027年面世：主打无屏视觉智能驱动Siri",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-30%2fdoc-iniqcfmp8062299.shtml&c=12056403867709311280&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94d782a58a4b498481fddaf593b2c4&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-30%2fdoc-iniqcfmp8062299.shtml&c=12056403867709311280&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-30 14:50",
     "summary": "",
@@ -119,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果首款AI眼镜定档2027：无屏设计、主打Siri视觉交互",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260830A059VT00%3fadChannelId%3dtech&c=1727892613930361199&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94d782a58a4b498481fddaf593b2c4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260830A059VT00%3fadChannelId%3dtech&c=1727892613930361199&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-30 11:58",
     "summary": "",
@@ -130,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-30%2fdoc-inipzxsc8549096.shtml&c=9849650226344112646&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94d782a58a4b498481fddaf593b2c4&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-30%2fdoc-inipzxsc8549096.shtml&c=9849650226344112646&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-30 07:44",
     "summary": "",
@@ -140,10 +151,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "苹果首款AI智能眼镜定档2027年，主打无屏视觉智能驱动Siri",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%258B%25B9%25E6%259E%259C%25E9%25A6%2596%25E6%25AC%25BEai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%25AE%259A%25E6%25A1%25A32027%25E5%25B9%25B4-%25E4%25B8%25BB%25E6%2589%2593%25E6%2597%25A0%25E5%25B1%258F%25E8%25A7%2586%25E8%25A7%2589%25E6%2599%25BA%25E8%2583%25BD%25E9%25A9%25B1%25E5%258A%25A8siri%2far-AA2bbXTW&c=503583242047000864&mkt=en-us",
+    "title": "苹果首款AI智能眼镜：2027年亮相，无显示屏的未来科技探索",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94d782a58a4b498481fddaf593b2c4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1069472774_122004016&c=16185620518110180748&mkt=en-us",
     "source": "Bing新闻",
-    "time": "08-30 05:48",
+    "time": "08-30 07:44",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -157,28 +168,6 @@
     "url": "https://www.ithome.com/0/996/269.htm",
     "source": "IT之家",
     "time": "08-31 07:39",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
-    "url": "https://www.ithome.com/0/996/222.htm",
-    "source": "IT之家",
-    "time": "08-30 19:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "智能眼镜可AR导航 机器人能陪伴老人",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94c988c4b44ec880e1fc5806e83d5a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1069792001_161795&c=13354252651395593390&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-30 18:09",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -211,6 +200,39 @@
    }
   ],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "完善 Edition 20 阵容：华硕 ROG 推出冲锋甲 2 XXL 电竞鼠标垫 20 周年版",
+    "url": "https://www.ithome.com/0/996/291.htm",
+    "source": "IT之家",
+    "time": "08-31 09:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《沙丘：觉醒》PS5 版本运行规格公布：性能模式支持动态 4K 分辨率 / 60 帧，游戏 9 月 22 日发售",
+    "url": "https://www.ithome.com/0/996/288.htm",
+    "source": "IT之家",
+    "time": "08-31 09:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "联想来酷斗战者战 7000P 2025 游戏本配置上新：8940HX + 5050",
+    "url": "https://www.ithome.com/0/996/283.htm",
+    "source": "IT之家",
+    "time": "08-31 08:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "《GTA 6》通缉机制大曝光：警方可识别犯罪者服装 / 车辆、游戏强调潜行玩法",
@@ -320,28 +342,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "2026 科隆游戏展大奖公布，CDPR、世嘉各揽三奖",
-    "url": "https://www.ithome.com/0/996/224.htm",
-    "source": "IT之家",
-    "time": "08-30 19:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《红霞岛》总监谈游戏失败：我们被服务型游戏的浪潮带偏了",
-    "url": "https://www.ithome.com/0/996/217.htm",
-    "source": "IT之家",
-    "time": "08-30 18:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -352,7 +352,7 @@
    "IT之家(60)",
    "GameLook(0)",
    "HackerNews(3)",
-   "Bing新闻(5)"
+   "Bing新闻(6)"
   ],
   "fail": [
    "36氪(no entries)"
