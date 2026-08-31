@@ -2,10 +2,54 @@
  "id": "2026-08-31-wubao",
  "title": "线口监测午报 · 2026年08月31日(周一)",
  "shift": "午报",
- "date": "2026-08-31 15:12",
+ "date": "2026-08-31 16:12",
  "docx": "../briefings/线口监测午报-2026-08-31.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Dbrand 为苹果 AirPods Pro 3 入耳式 TWS 耳机推出 Tank 保护壳",
+    "url": "https://www.ithome.com/0/996/546.htm",
+    "source": "IT之家",
+    "time": "08-31 16:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "工信部：加大大模型、智能体、Token 等服务采购力度",
+    "url": "https://www.ithome.com/0/996/543.htm",
+    "source": "IT之家",
+    "time": "08-31 16:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "行业首个家庭智能伴侣级 AIOS：海信电视 JUOS 发布，桌面随人变化、首创 AI 搜索片段",
+    "url": "https://www.ithome.com/0/996/499.htm",
+    "source": "IT之家",
+    "time": "08-31 15:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克提出新计划：靠 AI 卫星让地球在未来大约 10 亿年内保持宜居",
+    "url": "https://www.ithome.com/0/996/490.htm",
+    "source": "IT之家",
+    "time": "08-31 15:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，威胁患者安全",
@@ -41,10 +85,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "LG 电子推出偶像女团 AI-DOL，实为推销自家洗烘一体机",
-    "url": "https://www.ithome.com/0/996/395.htm",
-    "source": "IT之家",
-    "time": "08-31 11:40",
+    "title": "P99 0 ms* autocomplete for 240M domain names",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "source": "Hacker News",
+    "time": "08-31 11:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -63,8 +107,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "url": "https://arxiv.org/abs/1804.07389",
+    "source": "Hacker News",
+    "time": "08-30 16:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "跳出AR路线！苹果首款AI眼镜2027年面世：主打无屏视觉智能驱动Siri",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9529720b7d4b1cb7e42e0c87289a3c&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-30%2fdoc-iniqcfmp8062299.shtml&c=12056403867709311280&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a95377263ca4c7298762dc86e056799&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-30%2fdoc-iniqcfmp8062299.shtml&c=12056403867709311280&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-30 14:50",
     "summary": "",
@@ -75,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果首款AI眼镜定档2027：无屏设计、主打Siri视觉交互",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9529720b7d4b1cb7e42e0c87289a3c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260830A059VT00%3fadChannelId%3dtech&c=1727892613930361199&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a95377263ca4c7298762dc86e056799&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260830A059VT00%3fadChannelId%3dtech&c=1727892613930361199&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-30 11:58",
     "summary": "",
@@ -85,21 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9529720b7d4b1cb7e42e0c87289a3c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-08-30%2fdoc-inipzxsc8549096.shtml&c=9849650226344112646&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "08-30 07:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "苹果首款AI智能眼镜定档2027年，主打无屏视觉智能驱动Siri",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9529720b7d4b1cb7e42e0c87289a3c&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%258B%25B9%25E6%259E%259C%25E9%25A6%2596%25E6%25AC%25BEai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%25AE%259A%25E6%25A1%25A32027%25E5%25B9%25B4-%25E4%25B8%25BB%25E6%2589%2593%25E6%2597%25A0%25E5%25B1%258F%25E8%25A7%2586%25E8%25A7%2589%25E6%2599%25BA%25E8%2583%25BD%25E9%25A9%25B1%25E5%258A%25A8siri%2far-AA2bbXTW&c=503583242047000864&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a95377263ca4c7298762dc86e056799&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-08-30%2fdoc-iniqakft2909216.shtml&c=2398509077942162102&mkt=en-us",
     "source": "Bing新闻",
-    "time": "08-30 05:48",
+    "time": "08-30 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -108,6 +152,28 @@
   ],
   "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "鸿蒙智行智界 RX 轿跑 SUV 官宣开展 L3 级自动驾驶准入测试",
+    "url": "https://www.ithome.com/0/996/545.htm",
+    "source": "IT之家",
+    "time": "08-31 16:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "我国 L3 / L4 自动驾驶强制国标正式文件发布，2027 年 7 月 1 日实施",
+    "url": "https://www.ithome.com/0/996/526.htm",
+    "source": "IT之家",
+    "time": "08-31 15:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "无人驾驶/低空/智慧出行",
     "title": "滴滴自动驾驶新一代车型开启载客测试服务，北京、广州可体验",
@@ -129,17 +195,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "启境 GX7 阔五座 SUV 官宣全系搭载华为乾崑智驾 ADS 5",
-    "url": "https://www.ithome.com/0/996/373.htm",
-    "source": "IT之家",
-    "time": "08-31 11:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "电商/直播/即时零售": [
@@ -149,17 +204,6 @@
     "url": "https://www.ithome.com/0/996/426.htm",
     "source": "IT之家",
     "time": "08-31 13:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "电商/直播/即时零售",
-    "title": "公安部网安局：郑某编造传播“外卖员向配送饮料里加百草枯”网络谣言被行政处罚",
-    "url": "https://www.ithome.com/0/996/369.htm",
-    "source": "IT之家",
-    "time": "08-31 11:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -256,27 +300,15 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": [
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "小米米家智能燃气热水器 Pro 新品开售：热效率 107%，国补价 2974.15 元",
-    "url": "https://www.ithome.com/0/996/367.htm",
-    "source": "IT之家",
-    "time": "08-31 10:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ]
+  "消费/以旧换新/新餐饮": []
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(13)",
-   "HackerNews(4)",
-   "Bing新闻(4)"
+   "HackerNews(6)",
+   "Bing新闻(3)"
   ],
   "fail": [
    "36氪(no entries)"
