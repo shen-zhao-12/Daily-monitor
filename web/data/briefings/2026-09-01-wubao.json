@@ -2,10 +2,54 @@
  "id": "2026-09-01-wubao",
  "title": "线口监测午报 · 2026年09月01日(周二)",
  "shift": "午报",
- "date": "2026-09-01 15:20",
+ "date": "2026-09-01 16:22",
  "docx": "../briefings/线口监测午报-2026-09-01.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "日企 Newtech 推出 Ness4300 四盘位 NAS，搭载专有 RAID 控制器",
+    "url": "https://www.ithome.com/0/997/017.htm",
+    "source": "IT之家",
+    "time": "09-01 16:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 XBOX CEO 夏尔马谈 AI 导致主机涨价：GPU 能在游戏以外领域应用，这是好事啊",
+    "url": "https://www.ithome.com/0/996/987.htm",
+    "source": "IT之家",
+    "time": "09-01 15:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "人工智能交互新研究：AI 更“像人”、用户更“像机器”",
+    "url": "https://www.ithome.com/0/996/982.htm",
+    "source": "IT之家",
+    "time": "09-01 15:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国五角大楼部署定制版 ChatGPT 和 Grok AI 助手",
+    "url": "https://www.ithome.com/0/996/972.htm",
+    "source": "IT之家",
+    "time": "09-01 15:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "韩国公布史上最大规模财政支出计划：2027 年预算达 821 万亿韩元，押注 AI 与芯片产业",
@@ -52,50 +96,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "国产智能化工大模型 3.0 Pro 发布，中国科学院大连化物所、科大讯飞、阿里云等研发",
-    "url": "https://www.ithome.com/0/996/891.htm",
-    "source": "IT之家",
-    "time": "09-01 13:28",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称华为新平板切 OLED 屏设计：Air 搭载麒麟 T93 系处理器本月发布、Pad mini 二代加速中",
-    "url": "https://www.ithome.com/0/996/890.htm",
-    "source": "IT之家",
-    "time": "09-01 13:28",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "男子听信 AI 抄近道下山被困深山，事后 AI 承认“要是直接跟导航走就不会遭那么大罪了”",
-    "url": "https://www.ithome.com/0/996/882.htm",
-    "source": "IT之家",
-    "time": "09-01 12:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "中央网信办：当前 AI 领域主要面临 5 方面安全风险挑战",
-    "url": "https://www.ithome.com/0/996/868.htm",
-    "source": "IT之家",
-    "time": "09-01 11:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
     "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
     "source": "Hacker News",
@@ -108,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜偷拍要坐牢了！严打AI眼镜偷拍，新法案重锤出击",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a967ccfe9aa4346be7cc4511ead2ab2&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8110-30700889.html&c=17855910883410590918&mkt=es-mx",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a968b56a9974ae0b72d4bd48295c609&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8110-30700889.html&c=17855910883410590918&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-31 17:13",
     "summary": "",
@@ -118,19 +118,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "方正证券：AI眼镜仍处于消费端导入期 自下而上寻找个股机会",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a967ccfe9aa4346be7cc4511ead2ab2&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fhkstock%2fggscyd%2f2026-08-31%2fdoc-iniqetnt4713549.shtml&c=12451829302986892420&mkt=es-mx",
-    "source": "Bing新闻",
-    "time": "08-31 15:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "苹果 AI 眼镜要来! 没有屏幕，靠眼睛就能使唤 Siri，2027 年登场",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a967ccfe9aa4346be7cc4511ead2ab2&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E8%258B%25B9%25E6%259E%259C-ai-%25E7%259C%25BC%25E9%2595%259C%25E8%25A6%2581%25E6%259D%25A5-%25E6%25B2%25A1%25E6%259C%2589%25E5%25B1%258F%25E5%25B9%2595-%25E9%259D%25A0%25E7%259C%25BC%25E7%259D%259B%25E5%25B0%25B1%25E8%2583%25BD%25E4%25BD%25BF%25E5%2594%25A4-siri-2027-%25E5%25B9%25B4%25E7%2599%25BB%25E5%259C%25BA%2far-AA2bh7PL&c=16842589195036478603&mkt=es-mx",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a968b56a9974ae0b72d4bd48295c609&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E8%258B%25B9%25E6%259E%259C-ai-%25E7%259C%25BC%25E9%2595%259C%25E8%25A6%2581%25E6%259D%25A5-%25E6%25B2%25A1%25E6%259C%2589%25E5%25B1%258F%25E5%25B9%2595-%25E9%259D%25A0%25E7%259C%25BC%25E7%259D%259B%25E5%25B0%25B1%25E8%2583%25BD%25E4%25BD%25BF%25E5%2594%25A4-siri-2027-%25E5%25B9%25B4%25E7%2599%25BB%25E5%259C%25BA%2far-AA2bh7PL&c=10577093096437933118&mkt=en-us",
     "source": "Bing新闻",
     "time": "08-31 13:49",
     "summary": "",
@@ -179,6 +168,28 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "迈从 R9 头戴式电竞耳机上架：分压式双头梁结构、235g 重量，299 元",
+    "url": "https://www.ithome.com/0/997/006.htm",
+    "source": "IT之家",
+    "time": "09-01 15:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "R 星称《GTA 6》体量空前：游戏世界过于庞大，连开发者都无法完全熟知",
+    "url": "https://www.ithome.com/0/996/970.htm",
+    "source": "IT之家",
+    "time": "09-01 15:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "消息称 Steam Frame 头显用户可免费获赠《半衰期：爱莉克斯》游戏",
     "url": "https://www.ithome.com/0/996/956.htm",
     "source": "IT之家",
@@ -212,32 +223,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "发行已 27 年：非官方 PC 原生版《咚奇刚 64》游戏问世，演示达 4K@200 FPS",
-    "url": "https://www.ithome.com/0/996/886.htm",
-    "source": "IT之家",
-    "time": "09-01 13:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "怪现象热议：为何90年代的“游戏业宗师”，他们之后再无成功游戏？",
     "url": "http://www.gamelook.com.cn/2026/09/601266/",
     "source": "GameLook",
     "time": "09-01 12:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "1.5TB 压到 214GB：腾讯混元 Hy4 preview 轻量版发布开源，异构设备可联合推理",
-    "url": "https://www.ithome.com/0/996/880.htm",
-    "source": "IT之家",
-    "time": "09-01 12:31",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -319,15 +308,26 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中年人鼓起勇气发问：“44岁想做游戏是否太老”？同行：“行业艰难，有热情就不晚”",
+    "url": "http://www.gamelook.com.cn/2026/08/601049/",
+    "source": "GameLook",
+    "time": "08-31 10:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "鸿蒙智行智界 V9 旗舰 MPV 官宣 8 月零售交付量 8312 台",
-    "url": "https://www.ithome.com/0/996/940.htm",
+    "title": "上汽 MG & 荣威 8 月零售超 7.27 万辆汽车，同比增长 2.5%",
+    "url": "https://www.ithome.com/0/996/976.htm",
     "source": "IT之家",
-    "time": "09-01 14:43",
+    "time": "09-01 15:38",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -335,10 +335,10 @@
    },
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "广发银行 Visa、万事达卡即日起支持绑定 Apple Pay，首绑消费返现至高 9 及 5 美元",
-    "url": "https://www.ithome.com/0/996/893.htm",
+    "title": "鸿蒙智行智界 V9 旗舰 MPV 官宣 8 月零售交付量 8312 台",
+    "url": "https://www.ithome.com/0/996/940.htm",
     "source": "IT之家",
-    "time": "09-01 13:35",
+    "time": "09-01 14:43",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,7 +352,7 @@
    "IT之家(60)",
    "GameLook(19)",
    "HackerNews(4)",
-   "Bing新闻(5)"
+   "Bing新闻(4)"
   ],
   "fail": [
    "36氪(no entries)"
