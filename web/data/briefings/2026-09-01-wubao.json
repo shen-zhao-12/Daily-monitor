@@ -1,0 +1,361 @@
+{
+ "id": "2026-09-01-wubao",
+ "title": "线口监测午报 · 2026年09月01日(周二)",
+ "shift": "午报",
+ "date": "2026-09-01 15:20",
+ "docx": "../briefings/线口监测午报-2026-09-01.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "韩国公布史上最大规模财政支出计划：2027 年预算达 821 万亿韩元，押注 AI 与芯片产业",
+    "url": "https://www.ithome.com/0/996/950.htm",
+    "source": "IT之家",
+    "time": "09-01 14:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "机智连接推出 AI 纪要 TWS 耳机 Plaud One，内置 eSIM",
+    "url": "https://www.ithome.com/0/996/945.htm",
+    "source": "IT之家",
+    "time": "09-01 14:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 否认窃取苹果商业机密：自己一手造成的还想赖别人",
+    "url": "https://www.ithome.com/0/996/942.htm",
+    "source": "IT之家",
+    "time": "09-01 14:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta AI 编程工具 Muse Code 结束测试，新增多项功能并开启订阅服务",
+    "url": "https://www.ithome.com/0/996/937.htm",
+    "source": "IT之家",
+    "time": "09-01 14:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国产智能化工大模型 3.0 Pro 发布，中国科学院大连化物所、科大讯飞、阿里云等研发",
+    "url": "https://www.ithome.com/0/996/891.htm",
+    "source": "IT之家",
+    "time": "09-01 13:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称华为新平板切 OLED 屏设计：Air 搭载麒麟 T93 系处理器本月发布、Pad mini 二代加速中",
+    "url": "https://www.ithome.com/0/996/890.htm",
+    "source": "IT之家",
+    "time": "09-01 13:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "男子听信 AI 抄近道下山被困深山，事后 AI 承认“要是直接跟导航走就不会遭那么大罪了”",
+    "url": "https://www.ithome.com/0/996/882.htm",
+    "source": "IT之家",
+    "time": "09-01 12:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中央网信办：当前 AI 领域主要面临 5 方面安全风险挑战",
+    "url": "https://www.ithome.com/0/996/868.htm",
+    "source": "IT之家",
+    "time": "09-01 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "source": "Hacker News",
+    "time": "08-31 20:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜偷拍要坐牢了！严打AI眼镜偷拍，新法案重锤出击",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a967ccfe9aa4346be7cc4511ead2ab2&url=https%3a%2f%2foptics.ofweek.com%2f2026-08%2fART-250003-8110-30700889.html&c=17855910883410590918&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-31 17:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "方正证券：AI眼镜仍处于消费端导入期 自下而上寻找个股机会",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a967ccfe9aa4346be7cc4511ead2ab2&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fhkstock%2fggscyd%2f2026-08-31%2fdoc-iniqetnt4713549.shtml&c=12451829302986892420&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-31 15:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 AI 眼镜要来! 没有屏幕，靠眼睛就能使唤 Siri，2027 年登场",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a967ccfe9aa4346be7cc4511ead2ab2&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E8%258B%25B9%25E6%259E%259C-ai-%25E7%259C%25BC%25E9%2595%259C%25E8%25A6%2581%25E6%259D%25A5-%25E6%25B2%25A1%25E6%259C%2589%25E5%25B1%258F%25E5%25B9%2595-%25E9%259D%25A0%25E7%259C%25BC%25E7%259D%259B%25E5%25B0%25B1%25E8%2583%25BD%25E4%25BD%25BF%25E5%2594%25A4-siri-2027-%25E5%25B9%25B4%25E7%2599%25BB%25E5%259C%25BA%2far-AA2bh7PL&c=16842589195036478603&mkt=es-mx",
+    "source": "Bing新闻",
+    "time": "08-31 13:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“中国油管”正式出海“引老外热议”！B站发布半年报，陈睿：“AI投入聚焦三件事”",
+    "url": "http://www.gamelook.com.cn/2026/08/601107/",
+    "source": "GameLook",
+    "time": "08-31 11:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "我国专家牵头制定，全球首个腿式机器人国际标准正式发布",
+    "url": "https://www.ithome.com/0/996/961.htm",
+    "source": "IT之家",
+    "time": "09-01 15:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "3 周内增长约 7 倍：Cybercab 发布在即，特斯拉悄悄扩张 Robotaxi 车队规模",
+    "url": "https://www.ithome.com/0/996/943.htm",
+    "source": "IT之家",
+    "time": "09-01 14:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称 Steam Frame 头显用户可免费获赠《半衰期：爱莉克斯》游戏",
+    "url": "https://www.ithome.com/0/996/956.htm",
+    "source": "IT之家",
+    "time": "09-01 15:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "12TB 旧 Steam 数据集流出，含《传送门 2》游戏多个可玩预发布版本",
+    "url": "https://www.ithome.com/0/996/936.htm",
+    "source": "IT之家",
+    "time": "09-01 14:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "里程碑时刻：Steam Deck“可玩及已验证”游戏突破三万大关",
+    "url": "https://www.ithome.com/0/996/911.htm",
+    "source": "IT之家",
+    "time": "09-01 14:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "发行已 27 年：非官方 PC 原生版《咚奇刚 64》游戏问世，演示达 4K@200 FPS",
+    "url": "https://www.ithome.com/0/996/886.htm",
+    "source": "IT之家",
+    "time": "09-01 13:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "怪现象热议：为何90年代的“游戏业宗师”，他们之后再无成功游戏？",
+    "url": "http://www.gamelook.com.cn/2026/09/601266/",
+    "source": "GameLook",
+    "time": "09-01 12:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "1.5TB 压到 214GB：腾讯混元 Hy4 preview 轻量版发布开源，异构设备可联合推理",
+    "url": "https://www.ithome.com/0/996/880.htm",
+    "source": "IT之家",
+    "time": "09-01 12:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "对话腾讯李纳川：腾讯游戏的使命是什么？",
+    "url": "http://www.gamelook.com.cn/2026/09/601248/",
+    "source": "GameLook",
+    "time": "09-01 11:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "真玩了！科隆展亲自试玩网易《无限大》，全球玩家热议",
+    "url": "http://www.gamelook.com.cn/2026/09/601232/",
+    "source": "GameLook",
+    "time": "09-01 10:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "209款国产6款进口游戏获版号：《凡人修仙传》《龙之谷》过审，三七散爆盛趣畅游在列",
+    "url": "http://www.gamelook.com.cn/2026/09/601225/",
+    "source": "GameLook",
+    "time": "09-01 09:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam经济全貌：1%游戏赚走Steam营收84.5%，绝大多数游戏“穷的叮当响”",
+    "url": "http://www.gamelook.com.cn/2026/09/601216/",
+    "source": "GameLook",
+    "time": "09-01 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“成都游戏圈又牛了一把”！《湮灭之潮》喜获科隆展“最史诗游戏”大奖",
+    "url": "http://www.gamelook.com.cn/2026/08/601167/",
+    "source": "GameLook",
+    "time": "08-31 11:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "科隆游戏展“展台电脑集体被盗”！独游展区成重灾区，玩家痛斥、大厂伸出援手",
+    "url": "http://www.gamelook.com.cn/2026/08/601189/",
+    "source": "GameLook",
+    "time": "08-31 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“A股游戏王”还在狂飙！世纪华通上半年净利润高达45亿，将首次中期分红",
+    "url": "http://www.gamelook.com.cn/2026/08/601169/",
+    "source": "GameLook",
+    "time": "08-31 11:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "鸿蒙智行智界 V9 旗舰 MPV 官宣 8 月零售交付量 8312 台",
+    "url": "https://www.ithome.com/0/996/940.htm",
+    "source": "IT之家",
+    "time": "09-01 14:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "广发银行 Visa、万事达卡即日起支持绑定 Apple Pay，首绑消费返现至高 9 及 5 美元",
+    "url": "https://www.ithome.com/0/996/893.htm",
+    "source": "IT之家",
+    "time": "09-01 13:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(19)",
+   "HackerNews(4)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
