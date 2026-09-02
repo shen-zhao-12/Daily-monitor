@@ -1,0 +1,361 @@
+{
+ "id": "2026-09-02-zaobao",
+ "title": "线口监测早报 · 2026年09月02日(周三)",
+ "shift": "早报",
+ "date": "2026-09-02 08:36",
+ "docx": "../briefings/线口监测早报-2026-09-02.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 发布首个实时音频感知 AI 模型，支持 20 余人分轨转写",
+    "url": "https://www.ithome.com/0/997/218.htm",
+    "source": "IT之家",
+    "time": "09-02 08:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奥尔特曼不喜欢智能眼镜：和戴着摄像机的人讲话很不舒服，Meta 扎克伯克不用担心 OpenAI 来抢生意",
+    "url": "https://www.ithome.com/0/997/217.htm",
+    "source": "IT之家",
+    "time": "09-02 08:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "最贴合你的耳朵：苹果专利探索 3D 编织定制 AirPods 耳机",
+    "url": "https://www.ithome.com/0/997/214.htm",
+    "source": "IT之家",
+    "time": "09-02 08:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能",
+    "url": "https://www.ithome.com/0/997/207.htm",
+    "source": "IT之家",
+    "time": "09-02 07:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "source": "Hacker News",
+    "time": "09-02 02:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克：预计 AI 将令全球经济规模增加约 20%-30%",
+    "url": "https://www.ithome.com/0/997/186.htm",
+    "source": "IT之家",
+    "time": "09-01 23:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "百度 CFO 何海建：AI 业务有望很快带来与搜索业务相当的利润和现金回报",
+    "url": "https://www.ithome.com/0/997/173.htm",
+    "source": "IT之家",
+    "time": "09-01 22:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果新CEO主导AI智能眼镜项目，无AR镜片聚焦视觉交互，2027年亮相",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a976fadb22845ddbdcad0dfccf6d4df&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%258B%25B9%25E6%259E%259C%25E6%2596%25B0ceo%25E4%25B8%25BB%25E5%25AF%25BCai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E9%25A1%25B9%25E7%259B%25AE-%25E6%2597%25A0ar%25E9%2595%259C%25E7%2589%2587%25E8%2581%259A%25E7%2584%25A6%25E8%25A7%2586%25E8%25A7%2589%25E4%25BA%25A4%25E4%25BA%2592-2027%25E5%25B9%25B4%25E4%25BA%25AE%25E7%259B%25B8%2far-AA2bmUS9&c=5938968885912864444&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-01 22:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "安全公司曝光黑客组织 Aurora 内部信息：利用 Cursor AI 制定攻击计划、使用 Zig 语言开发勒索软件",
+    "url": "https://www.ithome.com/0/997/155.htm",
+    "source": "IT之家",
+    "time": "09-01 21:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“什么值得买”8月AI硬件交易额走高，AI眼镜增长近八成",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a976fadb22845ddbdcad0dfccf6d4df&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-01%2fdoc-iniqipiw3570896.shtml&c=13089580457475151286&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-01 19:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜去掉摄像头，雷鸟怎么敢的？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a976fadb22845ddbdcad0dfccf6d4df&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260901A09EGD00%3fadChannelId%3dtech&c=16720110804399107914&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-01 18:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "source": "Hacker News",
+    "time": "09-01 17:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "行业首个AI音频眼镜腿插拔接口规范工作组正式成立，推动产业标准化进程",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a976fadb22845ddbdcad0dfccf6d4df&url=https%3a%2f%2fwww.sohu.com%2fa%2f1069970218_447547&c=1709576291376864322&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-31 15:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "方正证券：AI眼镜仍处于消费端导入期 自下而上寻找个股机会",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a976fadb22845ddbdcad0dfccf6d4df&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fhkstock%2fggscyd%2f2026-08-31%2fdoc-iniqetnt4713549.shtml&c=12451829302986892420&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-31 15:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 AI 眼镜要来! 没有屏幕，靠眼睛就能使唤 Siri，2027 年登场",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a976fadb22845ddbdcad0dfccf6d4df&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E8%258B%25B9%25E6%259E%259C-ai-%25E7%259C%25BC%25E9%2595%259C%25E8%25A6%2581%25E6%259D%25A5-%25E6%25B2%25A1%25E6%259C%2589%25E5%25B1%258F%25E5%25B9%2595-%25E9%259D%25A0%25E7%259C%25BC%25E7%259D%259B%25E5%25B0%25B1%25E8%2583%25BD%25E4%25BD%25BF%25E5%2594%25A4-siri-2027-%25E5%25B9%25B4%25E7%2599%25BB%25E5%259C%25BA%2far-AA2bh7PL&c=10577093096437933118&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "08-31 13:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“中国油管”正式出海“引老外热议”！B站发布半年报，陈睿：“AI投入聚焦三件事”",
+    "url": "http://www.gamelook.com.cn/2026/08/601107/",
+    "source": "GameLook",
+    "time": "08-31 11:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "url": "https://www.norirobotics.com/",
+    "source": "Hacker News",
+    "time": "09-02 01:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "雷蛇灵猫 Razer Prio 可折叠游戏手柄发布：支持 7 英寸内手机，国行 799 元",
+    "url": "https://www.ithome.com/0/997/209.htm",
+    "source": "IT之家",
+    "time": "09-02 07:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 客户端更新：可在游戏运行时切换账户，新增 HDR 串流支持",
+    "url": "https://www.ithome.com/0/997/200.htm",
+    "source": "IT之家",
+    "time": "09-02 07:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏制作人神谷英树吐槽《生化危机：安魂曲》太恐怖，建议加入非恐怖模式",
+    "url": "https://www.ithome.com/0/997/171.htm",
+    "source": "IT之家",
+    "time": "09-01 22:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英伟达 DLSS 5 发布：支持 RTX 50 系显卡，首发支持《NBA 2K27》游戏",
+    "url": "https://www.ithome.com/0/997/166.htm",
+    "source": "IT之家",
+    "time": "09-01 22:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 新一周游戏销量榜公布：《星球大战：零号连队》登顶全球榜",
+    "url": "https://www.ithome.com/0/997/162.htm",
+    "source": "IT之家",
+    "time": "09-01 21:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "怪现象热议：为何90年代的“游戏业宗师”，他们之后再无成功游戏？",
+    "url": "http://www.gamelook.com.cn/2026/09/601266/",
+    "source": "GameLook",
+    "time": "09-01 12:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "对话腾讯李纳川：腾讯游戏的使命是什么？",
+    "url": "http://www.gamelook.com.cn/2026/09/601248/",
+    "source": "GameLook",
+    "time": "09-01 11:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "真玩了！科隆展亲自试玩网易《无限大》，全球玩家热议",
+    "url": "http://www.gamelook.com.cn/2026/09/601232/",
+    "source": "GameLook",
+    "time": "09-01 10:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "209款国产6款进口游戏获版号：《凡人修仙传》《龙之谷》过审，三七散爆盛趣畅游在列",
+    "url": "http://www.gamelook.com.cn/2026/09/601225/",
+    "source": "GameLook",
+    "time": "09-01 09:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam经济全貌：1%游戏赚走Steam营收84.5%，绝大多数游戏“穷的叮当响”",
+    "url": "http://www.gamelook.com.cn/2026/09/601216/",
+    "source": "GameLook",
+    "time": "09-01 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“成都游戏圈又牛了一把”！《湮灭之潮》喜获科隆展“最史诗游戏”大奖",
+    "url": "http://www.gamelook.com.cn/2026/08/601167/",
+    "source": "GameLook",
+    "time": "08-31 11:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "科隆游戏展“展台电脑集体被盗”！独游展区成重灾区，玩家痛斥、大厂伸出援手",
+    "url": "http://www.gamelook.com.cn/2026/08/601189/",
+    "source": "GameLook",
+    "time": "08-31 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "高通跃龙 Q-2390、IQ-2390 处理器发布：面向消费级物联网等领域，预计 2027 年初面市",
+    "url": "https://www.ithome.com/0/997/185.htm",
+    "source": "IT之家",
+    "time": "09-01 23:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(5)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
