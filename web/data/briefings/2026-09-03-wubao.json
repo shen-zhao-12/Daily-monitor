@@ -1,0 +1,362 @@
+{
+ "id": "2026-09-03-wubao",
+ "title": "线口监测午报 · 2026年09月03日(周四)",
+ "shift": "午报",
+ "date": "2026-09-03 15:20",
+ "docx": "../briefings/线口监测午报-2026-09-03.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "图像编辑器 Paint.NET 首次登陆 Linux：开发者称 AI 辅助 3 周进展超 12 年总和",
+    "url": "https://www.ithome.com/0/997/921.htm",
+    "source": "IT之家",
+    "time": "09-03 15:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奥尔特曼：OpenAI 肯定会研发人形机器人",
+    "url": "https://www.ithome.com/0/997/918.htm",
+    "source": "IT之家",
+    "time": "09-03 14:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 VS Code 纪录片明日开播，聚焦 10 年演变与 AI 适配",
+    "url": "https://www.ithome.com/0/997/907.htm",
+    "source": "IT之家",
+    "time": "09-03 14:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "分形工艺推出 Radius 处理器 AIO 液冷：管内走线 + 菊链风扇",
+    "url": "https://www.ithome.com/0/997/906.htm",
+    "source": "IT之家",
+    "time": "09-03 14:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度未跳跃增长",
+    "url": "https://www.ithome.com/0/997/866.htm",
+    "source": "IT之家",
+    "time": "09-03 13:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 MagicOS 11 迭代后，苹果 iPhone 来电可在荣耀 Magic9 上调用 AI 通话接听",
+    "url": "https://www.ithome.com/0/997/823.htm",
+    "source": "IT之家",
+    "time": "09-03 11:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "错过鹰角、投过TapTap，这家游戏资本要在上海赌 AI 与游戏下个十年",
+    "url": "http://www.gamelook.com.cn/2026/09/601415/",
+    "source": "GameLook",
+    "time": "09-03 10:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+    "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+    "source": "Hacker News",
+    "time": "09-03 02:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里智能体编程平台Qoder上线眼镜版，将接入千问、乐奇AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a991fe188fd4c6980716ebe3ad2c85f&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260903A065F800&c=8895804787823377041&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-02 23:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "source": "Hacker News",
+    "time": "09-02 21:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "WorkBuddy第一次上眼镜，怎么又是乐奇AI眼镜？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a991fe188fd4c6980716ebe3ad2c85f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1071111269_116157&c=3137273502806619785&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-02 21:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Aging brains blend memories together instead of just forgetting them",
+    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+    "source": "Hacker News",
+    "time": "09-02 20:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Can I opt out of my input or output data being used for training?",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "source": "Hacker News",
+    "time": "09-02 20:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "乐奇Rokid × 腾讯WorkBuddy联名发布AI眼镜 共创Agent新生态",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a991fe188fd4c6980716ebe3ad2c85f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1071249659_362042&c=9634491862684362705&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-02 19:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“半个游戏圈都投了”！Tripo AI母公司VAST融资30亿元，三七,完美,延趣入局当股东",
+    "url": "http://www.gamelook.com.cn/2026/09/601316/",
+    "source": "GameLook",
+    "time": "09-02 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+    "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+    "source": "Hacker News",
+    "time": "09-02 00:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "量产规模 + 市场份额双第一：地平线征程智驾芯片官宣量产突破 1500 万套",
+    "url": "https://www.ithome.com/0/997/824.htm",
+    "source": "IT之家",
+    "time": "09-03 11:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "卢伟冰公布今晚小米 IFA 柏林国际消费电子展直播亮点，称将带来小米汽车的好消息",
+    "url": "https://www.ithome.com/0/997/870.htm",
+    "source": "IT之家",
+    "time": "09-03 13:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "乐高 PS1 套装曝光：1911 块积木含手柄，附赠《GT 赛车》《捉猴啦》游戏场景",
+    "url": "https://www.ithome.com/0/997/825.htm",
+    "source": "IT之家",
+    "time": "09-03 11:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《漫威金刚狼》游戏 32 套金刚狼战衣曝光，多款利爪外观同步流出",
+    "url": "https://www.ithome.com/0/997/821.htm",
+    "source": "IT之家",
+    "time": "09-03 10:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "8月微信小游戏畅销榜Top 100：《向僵尸开炮》登顶、三七多达8款入榜",
+    "url": "http://www.gamelook.com.cn/2026/09/601375/",
+    "source": "GameLook",
+    "time": "09-03 10:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "前腾讯海外总监分享：全球游戏业大洗牌，你该知道啥？",
+    "url": "http://www.gamelook.com.cn/2026/09/601359/",
+    "source": "GameLook",
+    "time": "09-03 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "小牛推出雷蛇联名款 FQiX 电动两轮车，配备专属电竞黑绿涂装",
+    "url": "https://www.ithome.com/0/997/812.htm",
+    "source": "IT之家",
+    "time": "09-03 10:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "休闲游戏成香馍馍！MMO大佬已花20亿并购，表态：“继续买休闲厂商”",
+    "url": "http://www.gamelook.com.cn/2026/09/601355/",
+    "source": "GameLook",
+    "time": "09-03 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "欧美游戏圈“再添荒唐事”！《星战》新游爆卖，80%员工却停薪留职",
+    "url": "http://www.gamelook.com.cn/2026/09/601336/",
+    "source": "GameLook",
+    "time": "09-02 13:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "9月预计12款新游上线：腾讯《王者万象棋》领衔，莉莉丝,完美,B站,趣加逐个登场",
+    "url": "http://www.gamelook.com.cn/2026/09/601320/",
+    "source": "GameLook",
+    "time": "09-02 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "程序员吐槽：不要给“编故事的作家”做游戏，“5个月大改4次”太折腾人了",
+    "url": "http://www.gamelook.com.cn/2026/09/601305/",
+    "source": "GameLook",
+    "time": "09-02 10:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "苹果护城河塌了！App Store收入十年首次下滑，中国游戏成“全球手游顶梁柱”",
+    "url": "http://www.gamelook.com.cn/2026/09/601294/",
+    "source": "GameLook",
+    "time": "09-02 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "七年经手400亿美元，“游戏并购教父”分享：终极买家已是中国人沙特人",
+    "url": "http://www.gamelook.com.cn/2026/09/601289/",
+    "source": "GameLook",
+    "time": "09-02 09:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "苹果礼品卡全球诈骗案告破：犯罪团伙窃取兑换码后重新封装，全美前 20 大零售商均遭波及",
+    "url": "https://www.ithome.com/0/997/908.htm",
+    "source": "IT之家",
+    "time": "09-03 14:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(12)",
+   "HackerNews(6)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
