@@ -2,10 +2,76 @@
  "id": "2026-09-03-zaobao",
  "title": "线口监测早报 · 2026年09月03日(周四)",
  "shift": "早报",
- "date": "2026-09-03 08:38",
+ "date": "2026-09-03 09:31",
  "docx": "../briefings/线口监测早报-2026-09-03.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "遏制智能体失控，消息称 OpenAI 正开发 AI 自动终止功能",
+    "url": "https://www.ithome.com/0/997/755.htm",
+    "source": "IT之家",
+    "time": "09-03 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "ACEMAGIC 将推升级款 F9A 迷你主机，换装 AMD 锐龙 AI Max+ PRO 495",
+    "url": "https://www.ithome.com/0/997/754.htm",
+    "source": "IT之家",
+    "time": "09-03 09:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 会消灭所有工作？英伟达黄仁勋称这是无稽之谈",
+    "url": "https://www.ithome.com/0/997/753.htm",
+    "source": "IT之家",
+    "time": "09-03 09:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic、OpenAI 将超越谷歌成为博通 AI ASIC 业务前两大客户",
+    "url": "https://www.ithome.com/0/997/749.htm",
+    "source": "IT之家",
+    "time": "09-03 09:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "曲线陡峭：Linux 7.3 预估修复漏洞数逼近 2000 个，AI“除虫”让维护者不堪重负",
+    "url": "https://www.ithome.com/0/997/748.htm",
+    "source": "IT之家",
+    "time": "09-03 09:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "戚薇回应 AI 授权“卖脸”争议：与其被别人“拿走”，更愿意“主动出击”",
+    "url": "https://www.ithome.com/0/997/747.htm",
+    "source": "IT之家",
+    "time": "09-03 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "探索太阳风暴早期预警：AI 提前 9.24 小时捕捉太阳活动区信号",
@@ -45,6 +111,28 @@
     "url": "https://www.ithome.com/0/997/726.htm",
     "source": "IT之家",
     "time": "09-03 07:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+    "source": "Hacker News",
+    "time": "09-03 07:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+    "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+    "source": "Hacker News",
+    "time": "09-03 02:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -107,41 +195,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "美光探索近 GPU NAND 闪存，可支撑更大规模 AI 模型",
-    "url": "https://www.ithome.com/0/997/668.htm",
-    "source": "IT之家",
-    "time": "09-02 21:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "研究发现：AI 客服“更像人”未必带来更佳体验",
-    "url": "https://www.ithome.com/0/997/667.htm",
-    "source": "IT之家",
-    "time": "09-02 21:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "英伟达 CEO 黄仁勋呼吁 G20 成员国加快发展、应用 AI，以促进经济增长",
-    "url": "https://www.ithome.com/0/997/665.htm",
-    "source": "IT之家",
-    "time": "09-02 21:37",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "WorkBuddy第一次上眼镜，怎么又是乐奇AI眼镜？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a98c197279e4be9a167e634f369bf23&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260902A0D4O600&c=16622832277113250720&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a98cddfbb374ca594083104a1eb3344&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260902A0D4O600&c=16622832277113250720&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-02 21:02",
     "summary": "",
@@ -170,39 +225,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“半个游戏圈都投了”！Tripo AI母公司VAST融资30亿元，三七,完美,延趣入局当股东",
-    "url": "http://www.gamelook.com.cn/2026/09/601316/",
-    "source": "GameLook",
-    "time": "09-02 10:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“什么值得买”8月AI硬件交易额走高，AI眼镜增长近八成",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a98c197279e4be9a167e634f369bf23&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-01%2fdoc-iniqipiw3570896.shtml&c=13089580457475151286&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-01 19:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜去掉摄像头，雷鸟怎么敢的？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a98c197279e4be9a167e634f369bf23&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260901A09EGD00%3fadChannelId%3dtech&c=16720110804399107914&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-01 18:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "机器人/AI硬件": [
@@ -221,6 +243,50 @@
   "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "8月微信小游戏畅销榜Top 100：《向僵尸开炮》登顶、三七多达8款入榜",
+    "url": "http://www.gamelook.com.cn/2026/09/601375/",
+    "source": "GameLook",
+    "time": "09-03 09:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "前腾讯海外总监分享：全球游戏业大洗牌，你该知道啥？",
+    "url": "http://www.gamelook.com.cn/2026/09/601359/",
+    "source": "GameLook",
+    "time": "09-03 09:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "休闲游戏成香馍馍！MMO大佬已花20亿并购，表态：“继续买休闲厂商”",
+    "url": "http://www.gamelook.com.cn/2026/09/601355/",
+    "source": "GameLook",
+    "time": "09-03 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软公布 9 月 XGP 首批游戏阵容：《使命召唤 17：黑色行动冷战》加入，《赛博朋克 2077》退出",
+    "url": "https://www.ithome.com/0/997/743.htm",
+    "source": "IT之家",
+    "time": "09-03 08:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "任天堂 Switch 2 独占：双人合作游戏《轨道双子星》今日发售，致敬 80 年代经典动画",
@@ -267,17 +333,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "网易云音乐鸿蒙尝鲜内测版 App 获 9.5.82 升级，优化后台播放、音频切换等",
-    "url": "https://www.ithome.com/0/997/666.htm",
-    "source": "IT之家",
-    "time": "09-02 21:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "欧美游戏圈“再添荒唐事”！《星战》新游爆卖，80%员工却停薪留职",
     "url": "http://www.gamelook.com.cn/2026/09/601336/",
     "source": "GameLook",
@@ -286,72 +341,16 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "9月预计12款新游上线：腾讯《王者万象棋》领衔，莉莉丝,完美,B站,趣加逐个登场",
-    "url": "http://www.gamelook.com.cn/2026/09/601320/",
-    "source": "GameLook",
-    "time": "09-02 10:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "程序员吐槽：不要给“编故事的作家”做游戏，“5个月大改4次”太折腾人了",
-    "url": "http://www.gamelook.com.cn/2026/09/601305/",
-    "source": "GameLook",
-    "time": "09-02 10:17",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "苹果护城河塌了！App Store收入十年首次下滑，中国游戏成“全球手游顶梁柱”",
-    "url": "http://www.gamelook.com.cn/2026/09/601294/",
-    "source": "GameLook",
-    "time": "09-02 09:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "七年经手400亿美元，“游戏并购教父”分享：终极买家已是中国人沙特人",
-    "url": "http://www.gamelook.com.cn/2026/09/601289/",
-    "source": "GameLook",
-    "time": "09-02 09:17",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": [
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "宏碁推出第四代 Vero 环保消费笔电，支持至少 2 代处理器升级",
-    "url": "https://www.ithome.com/0/997/671.htm",
-    "source": "IT之家",
-    "time": "09-02 21:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ]
+  "消费/以旧换新/新餐饮": []
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(12)",
-   "HackerNews(5)",
+   "GameLook(14)",
+   "HackerNews(7)",
    "Bing新闻(4)"
   ],
   "fail": [
