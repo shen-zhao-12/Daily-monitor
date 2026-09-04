@@ -1,0 +1,359 @@
+{
+ "id": "2026-09-04-zaobao",
+ "title": "线口监测早报 · 2026年09月04日(周五)",
+ "shift": "早报",
+ "date": "2026-09-04 08:35",
+ "docx": "../briefings/线口监测早报-2026-09-04.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软最强转录 AI 模型：MAI-Transcribe-2 登场，60 语种平均词错误率 5.2%",
+    "url": "https://www.ithome.com/0/998/241.htm",
+    "source": "IT之家",
+    "time": "09-04 08:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "铭凡确认 AI 迷你工作站 MS-S1 MAX-P495 九月开售",
+    "url": "https://www.ithome.com/0/998/236.htm",
+    "source": "IT之家",
+    "time": "09-04 07:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "HTC 为旗下 AI 智能眼镜 VIVE Eagle 新增全新圆框款式，系列产品同步升级支持 3K 分辨率录像等功能",
+    "url": "https://www.ithome.com/0/998/232.htm",
+    "source": "IT之家",
+    "time": "09-04 07:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智谱 GLM-5.3-Flash 夜间免费用：9 月 3 日至 20 日、每天 23 时至次日 9 时额度全免",
+    "url": "https://www.ithome.com/0/998/231.htm",
+    "source": "IT之家",
+    "time": "09-04 07:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达开源发布 PAIR：本地跑 AI 新方案，调度 Mac / RTX PC 跨设备推理",
+    "url": "https://www.ithome.com/0/998/229.htm",
+    "source": "IT之家",
+    "time": "09-04 07:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "研究显示：用户过度依赖 ChatGPT 等 AI 产品可能导致独立思考能力下降",
+    "url": "https://www.ithome.com/0/998/217.htm",
+    "source": "IT之家",
+    "time": "09-04 07:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 宣布将向全球投入 10 亿美元扩大 AI 网络安全能力，优先覆盖供水、电力等关键服务",
+    "url": "https://www.ithome.com/0/998/212.htm",
+    "source": "IT之家",
+    "time": "09-04 06:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI GPT-6 Astra 发布：首次达到“关键”级网络安全能力门槛，布罗克曼认为 AGI 时代已经到来",
+    "url": "https://www.ithome.com/0/998/208.htm",
+    "source": "IT之家",
+    "time": "09-04 06:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "url": "https://arcprize.org/blog/astra",
+    "source": "Hacker News",
+    "time": "09-04 03:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "source": "Hacker News",
+    "time": "09-04 02:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜“看向”打工人",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a126a12b24f5f9852fde94bbee160&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260903A0BWGH00&c=5032097053978374303&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-04 00:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌 DeepMind 发布 WeatherNext 3：分辨率最高 5 公里，号称全球最先进、精准 AI 天气预报模型",
+    "url": "https://www.ithome.com/0/998/198.htm",
+    "source": "IT之家",
+    "time": "09-03 23:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+    "url": "https://news.ycombinator.com/item?id=49551096",
+    "source": "Hacker News",
+    "time": "09-03 23:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "沙特 HUMAIN 公布前沿阿语模型 humain-m3，由 MiniMax 受托开发",
+    "url": "https://www.ithome.com/0/998/189.htm",
+    "source": "IT之家",
+    "time": "09-03 22:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "HTC 推出 AI 智能眼镜 VIVE Eagle：主打隐私保护，499 美元起",
+    "url": "https://www.ithome.com/0/998/188.htm",
+    "source": "IT之家",
+    "time": "09-03 22:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称苹果计划推出全新 MacBook 机型：13.8 寸单层 OLED 面板，定位介于 Air 和 Pro 之间",
+    "url": "https://www.ithome.com/0/998/187.htm",
+    "source": "IT之家",
+    "time": "09-03 22:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里Qoder上线眼镜版：首批接入千问AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a126a12b24f5f9852fde94bbee160&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%2598%25BF%25E9%2587%258Cqoder%25E4%25B8%258A%25E7%25BA%25BF%25E7%259C%25BC%25E9%2595%259C%25E7%2589%2588-%25E9%25A6%2596%25E6%2589%25B9%25E6%258E%25A5%25E5%2585%25A5%25E5%258D%2583%25E9%2597%25AEai%25E7%259C%25BC%25E9%2595%259C%2far-AA2bw4Xb&c=11787245547879921695&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-03 18:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "讯飞AI眼镜接入WorkBuddy，AI办公生态再添新拼图",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a126a12b24f5f9852fde94bbee160&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2frelnews%2fcn%2f2026-09-03%2fdoc-iniqpvfw6931534.shtml&c=9761181790169381765&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-03 18:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "错过鹰角、投过TapTap，这家游戏资本要在上海赌 AI 与游戏下个十年",
+    "url": "http://www.gamelook.com.cn/2026/09/601415/",
+    "source": "GameLook",
+    "time": "09-03 10:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软 XGPU 会员今年 11 月起每月最多可免费玩 15 小时云游戏，超过时长需看广告或额外付费",
+    "url": "https://www.ithome.com/0/998/238.htm",
+    "source": "IT之家",
+    "time": "09-04 08:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "古墓丽影 IP 游戏《劳拉克劳馥：奥西里斯神庙》将于 9 月 8 日登陆移动平台，定价 9.99 美元",
+    "url": "https://www.ithome.com/0/998/237.htm",
+    "source": "IT之家",
+    "time": "09-04 07:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国产类魂游戏《达巴：水痕之地》预告片发布，2027 年春季登陆 PS5 及 PC",
+    "url": "https://www.ithome.com/0/998/233.htm",
+    "source": "IT之家",
+    "time": "09-04 07:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6：分量十足的一瞥》前瞻预告片带动英国市场游戏机销量：上周 PS5 增长 33%、XBOX Series 增 34%",
+    "url": "https://www.ithome.com/0/998/225.htm",
+    "source": "IT之家",
+    "time": "09-04 07:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "篮球模拟游戏《NBA 2K27》今日发售：Steam 国区 298 元起，首发支持英伟达 DLSS5",
+    "url": "https://www.ithome.com/0/998/224.htm",
+    "source": "IT之家",
+    "time": "09-04 07:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "多人竞速派对游戏《极速跑者 2：速度之王》登陆 Steam，国区首发价 31.49 元",
+    "url": "https://www.ithome.com/0/998/207.htm",
+    "source": "IT之家",
+    "time": "09-04 01:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "AMD 推送肾上腺素驱动 26.9.1 可选更新：支持两款新游戏，修复部分游戏崩溃",
+    "url": "https://www.ithome.com/0/998/199.htm",
+    "source": "IT之家",
+    "time": "09-03 23:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 喜加一：原价 42 元的科幻冒险游戏《Alone With You》免费领",
+    "url": "https://www.ithome.com/0/998/192.htm",
+    "source": "IT之家",
+    "time": "09-03 23:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "惊悚游戏《直到黎明 2》明年 1 月 28 日发售：下周预购开启，PS5 独占",
+    "url": "https://www.ithome.com/0/998/190.htm",
+    "source": "IT之家",
+    "time": "09-03 23:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英特尔 Arc 显卡驱动 32.0.101.8992 测试版发布：支持两款新游戏，修复多款游戏画面异常问题",
+    "url": "https://www.ithome.com/0/998/179.htm",
+    "source": "IT之家",
+    "time": "09-03 22:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《地铁 2039》游戏 2027 年 2 月 4 日发售，PS5/PS5 Pro 版支持光追",
+    "url": "https://www.ithome.com/0/998/178.htm",
+    "source": "IT之家",
+    "time": "09-03 22:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(12)",
+   "HackerNews(8)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
