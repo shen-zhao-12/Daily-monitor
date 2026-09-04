@@ -2,10 +2,32 @@
  "id": "2026-09-04-zaobao",
  "title": "线口监测早报 · 2026年09月04日(周五)",
  "shift": "早报",
- "date": "2026-09-04 08:35",
+ "date": "2026-09-04 09:25",
  "docx": "../briefings/线口监测早报-2026-09-04.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软给 Copilot AI 智能体加“刹车”：发邮件等操作可先请求审批",
+    "url": "https://www.ithome.com/0/998/252.htm",
+    "source": "IT之家",
+    "time": "09-04 08:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+    "url": "https://www.ithome.com/0/998/248.htm",
+    "source": "IT之家",
+    "time": "09-04 08:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "微软最强转录 AI 模型：MAI-Transcribe-2 登场，60 语种平均词错误率 5.2%",
@@ -119,9 +141,20 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜“看向”打工人",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a126a12b24f5f9852fde94bbee160&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260903A0BWGH00&c=5032097053978374303&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a1e018cb8405b895e1738ab9b591c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260903A0BWGH00&c=5032097053978374303&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-04 00:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "HTC 推出 AI 智能眼镜 VIVE Eagle：主打隐私保护，499 美元起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a1e018cb8405b895e1738ab9b591c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-03%2fdoc-iniqqncn1031338.shtml&c=3854582441023242836&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-03 23:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,61 +184,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "沙特 HUMAIN 公布前沿阿语模型 humain-m3，由 MiniMax 受托开发",
-    "url": "https://www.ithome.com/0/998/189.htm",
-    "source": "IT之家",
-    "time": "09-03 22:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "HTC 推出 AI 智能眼镜 VIVE Eagle：主打隐私保护，499 美元起",
-    "url": "https://www.ithome.com/0/998/188.htm",
-    "source": "IT之家",
-    "time": "09-03 22:56",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称苹果计划推出全新 MacBook 机型：13.8 寸单层 OLED 面板，定位介于 Air 和 Pro 之间",
-    "url": "https://www.ithome.com/0/998/187.htm",
-    "source": "IT之家",
-    "time": "09-03 22:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "阿里Qoder上线眼镜版：首批接入千问AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a126a12b24f5f9852fde94bbee160&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%2598%25BF%25E9%2587%258Cqoder%25E4%25B8%258A%25E7%25BA%25BF%25E7%259C%25BC%25E9%2595%259C%25E7%2589%2588-%25E9%25A6%2596%25E6%2589%25B9%25E6%258E%25A5%25E5%2585%25A5%25E5%258D%2583%25E9%2597%25AEai%25E7%259C%25BC%25E9%2595%259C%2far-AA2bw4Xb&c=11787245547879921695&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-03 18:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "讯飞AI眼镜接入WorkBuddy，AI办公生态再添新拼图",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a126a12b24f5f9852fde94bbee160&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2frelnews%2fcn%2f2026-09-03%2fdoc-iniqpvfw6931534.shtml&c=9761181790169381765&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-03 18:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "错过鹰角、投过TapTap，这家游戏资本要在上海赌 AI 与游戏下个十年",
     "url": "http://www.gamelook.com.cn/2026/09/601415/",
     "source": "GameLook",
@@ -220,6 +198,39 @@
   "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《龙之信条 2》游戏推送 67GB 更新，微软 XBOX Series X 最高支持 60FPS",
+    "url": "https://www.ithome.com/0/998/258.htm",
+    "source": "IT之家",
+    "time": "09-04 09:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "8月抖音小游戏畅销榜Top 100：《灵画师》连冠、三七6款入榜",
+    "url": "http://www.gamelook.com.cn/2026/09/601451/",
+    "source": "GameLook",
+    "time": "09-04 09:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "报告称已有 1212 款游戏兼容微软 XBOX 实体光盘游戏转数字版功能",
+    "url": "https://www.ithome.com/0/998/256.htm",
+    "source": "IT之家",
+    "time": "09-04 09:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "微软 XGPU 会员今年 11 月起每月最多可免费玩 15 小时云游戏，超过时长需看广告或额外付费",
@@ -329,17 +340,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《地铁 2039》游戏 2027 年 2 月 4 日发售，PS5/PS5 Pro 版支持光追",
-    "url": "https://www.ithome.com/0/998/178.htm",
-    "source": "IT之家",
-    "time": "09-03 22:15",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -348,9 +348,9 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(12)",
+   "GameLook(14)",
    "HackerNews(8)",
-   "Bing新闻(7)"
+   "Bing新闻(5)"
   ],
   "fail": [
    "36氪(no entries)"
