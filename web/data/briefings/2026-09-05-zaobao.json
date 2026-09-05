@@ -2,10 +2,32 @@
  "id": "2026-09-05-zaobao",
  "title": "线口监测早报 · 2026年09月05日(周六)",
  "shift": "早报",
- "date": "2026-09-05 08:37",
+ "date": "2026-09-05 09:25",
  "docx": "../briefings/线口监测早报-2026-09-05.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "7999 元戴尔最轻 XPS 13 Air 开售：酷睿 5 320 处理器 + 16GB 内存，重约 1kg",
+    "url": "https://www.ithome.com/0/998/667.htm",
+    "source": "IT之家",
+    "time": "09-05 09:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
+    "url": "https://www.ithome.com/0/998/661.htm",
+    "source": "IT之家",
+    "time": "09-05 08:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "消息称谷歌正为旧款 Pixel 手机引入苹果 AirDrop 跨平台传输支持",
@@ -129,39 +151,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenAI 奥尔特曼：AI 若要赢得怀疑论者的支持，“能治愈癌症”还不够",
-    "url": "https://www.ithome.com/0/998/595.htm",
-    "source": "IT之家",
-    "time": "09-04 20:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
-    "url": "https://www.ithome.com/0/998/593.htm",
-    "source": "IT之家",
-    "time": "09-04 20:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "问界：网传 M6 车型“预制车”铭牌系 P 图 / AI 修改生成，已就谣言报案",
-    "url": "https://www.ithome.com/0/998/592.htm",
-    "source": "IT之家",
-    "time": "09-04 20:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Discovery of a new OpenAI agent message board",
     "url": "https://collusion.wiki/",
     "source": "Hacker News",
@@ -174,18 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜正在「刷屏」互联网",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b644d03ce4c04a7be501ebb5fb95e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260904A0AGQX00&c=1997898048822360710&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-04 17:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "用AI眼镜打破感官边界，乐奇让“看见”与“听见”再无壁垒",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b644d03ce4c04a7be501ebb5fb95e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260904A0AGZG00&c=8228075182359696338&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b6f797e904b14b4374a7729bda9d9&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260904A0AGQX00&c=1997898048822360710&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-04 17:24",
     "summary": "",
@@ -196,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "Rokid携手腾讯WorkBuddy发布联名AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b644d03ce4c04a7be501ebb5fb95e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1071776631_128242&c=3183399589971971991&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b6f797e904b14b4374a7729bda9d9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1071776631_128242&c=3183399589971971991&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-04 12:49",
     "summary": "",
@@ -207,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "全国首家AI眼镜4S旗舰店落户东莞",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b644d03ce4c04a7be501ebb5fb95e&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2585%25A8%25E5%259B%25BD%25E9%25A6%2596%25E5%25AE%25B6ai%25E7%259C%25BC%25E9%2595%259C4s%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597%25E8%2590%25BD%25E6%2588%25B7%25E4%25B8%259C%25E8%258E%259E%2far-AA2bwYz6&c=10200453584114148729&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b6f797e904b14b4374a7729bda9d9&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%2585%25A8%25E5%259B%25BD%25E9%25A6%2596%25E5%25AE%25B6ai%25E7%259C%25BC%25E9%2595%259C4s%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597%25E8%2590%25BD%25E6%2588%25B7%25E4%25B8%259C%25E8%258E%259E%2far-AA2bwYz6&c=1338428028475505961&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-04 02:47",
     "summary": "",
@@ -217,10 +195,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "讯飞AI眼镜接入WorkBuddy，AI办公生态再添新拼图",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b644d03ce4c04a7be501ebb5fb95e&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2frelnews%2fcn%2f2026-09-03%2fdoc-iniqpvfw6931534.shtml&c=9761181790169381765&mkt=en-us",
+    "title": "AI眼镜“看向”打工人",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b6f797e904b14b4374a7729bda9d9&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260903A0BWGH00&c=5032097053978374303&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-03 18:02",
+    "time": "09-04 00:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -228,10 +206,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜“看向”打工人",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b644d03ce4c04a7be501ebb5fb95e&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-03%2fdoc-iniqqncn0994474.shtml&c=2716483872186228670&mkt=en-us",
+    "title": "HTC 推出 AI 智能眼镜 VIVE Eagle：主打隐私保护，499 美元起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b6f797e904b14b4374a7729bda9d9&url=https%3a%2f%2fwww.ithome.com%2f0%2f998%2f188.htm&c=8779552051742238452&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-03 15:19",
+    "time": "09-03 23:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -251,21 +229,42 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
    {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "长安发布天枢领航辅助驾驶：支持交互式智驾指令，能识别交警手势",
-    "url": "https://www.ithome.com/0/998/597.htm",
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称因 PS5/XBOX Series 大幅涨价降低消费者购买游戏机意愿，R 星考虑提前推出《GTA 6》PC 版应对",
+    "url": "https://www.ithome.com/0/998/666.htm",
     "source": "IT之家",
-    "time": "09-04 21:03",
+    "time": "09-05 09:01",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "电商/直播/即时零售": [],
-  "游戏/电竞/平台公司": [
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "AMD 显卡首次跑通英伟达 DLSS 5：《赛博朋克 2077》游戏 1080P 帧率约 30FPS",
+    "url": "https://www.ithome.com/0/998/665.htm",
+    "source": "IT之家",
+    "time": "09-05 08:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "神舟战神 S8 游戏本新增 16+500GB 存储配置：酷睿 i7-13620H + RTX 5060，首发价 8699 元",
+    "url": "https://www.ithome.com/0/998/660.htm",
+    "source": "IT之家",
+    "time": "09-05 08:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "10 年了还在更：Hello Games 预热《无人深空》游戏十周年纪念神秘更新“Cosmos”即将上线",
@@ -351,8 +350,8 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(12)",
-   "HackerNews(4)",
+   "GameLook(11)",
+   "HackerNews(5)",
    "Bing新闻(6)"
   ],
   "fail": [
