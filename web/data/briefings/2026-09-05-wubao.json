@@ -2,10 +2,32 @@
  "id": "2026-09-05-wubao",
  "title": "线口监测午报 · 2026年09月05日(周六)",
  "shift": "午报",
- "date": "2026-09-05 19:14",
+ "date": "2026-09-05 19:48",
  "docx": "../briefings/线口监测午报-2026-09-05.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日",
+    "url": "https://www.ithome.com/0/998/815.htm",
+    "source": "IT之家",
+    "time": "09-05 19:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
+    "url": "https://www.ithome.com/0/998/814.htm",
+    "source": "IT之家",
+    "time": "09-05 19:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "塔塔咨询将在印度海得拉巴建设 1GW AI 数据中心，预计投资 7000 亿卢比",
@@ -130,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "雷鸟亮相IFA2026：把私人影院与AI助手双双装进眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9bf9a49ff540d39f154c1c3b75eefa&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A07W0200&c=162487010704280396&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9c018faa8840778c3315627d77db43&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A07W0200&c=162487010704280396&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-05 02:02",
     "summary": "",
@@ -141,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "500元红包补偿雷鸟iO延迟发货，AI眼镜的版本答案是去AI化？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9bf9a49ff540d39f154c1c3b75eefa&url=https%3a%2f%2fwww.tmtpost.com%2f8129338.html&c=3261097857798482141&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9c018faa8840778c3315627d77db43&url=https%3a%2f%2fwww.tmtpost.com%2f8129338.html&c=3261097857798482141&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-05 01:00",
     "summary": "",
@@ -163,20 +185,9 @@
    {
     "beat": "AI/大模型",
     "title": "用AI眼镜打破感官边界，乐奇让“看见”与“听见”再无壁垒",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9bf9a49ff540d39f154c1c3b75eefa&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260904A0AGZG00&c=8228075182359696338&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9c018faa8840778c3315627d77db43&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260904A0AGZG00&c=8228075182359696338&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-04 17:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "全国首家AI眼镜4S旗舰店落户东莞",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9bf9a49ff540d39f154c1c3b75eefa&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2585%25A8%25E5%259B%25BD%25E9%25A6%2596%25E5%25AE%25B6ai%25E7%259C%25BC%25E9%2595%259C4s%25E6%2597%2597%25E8%2588%25B0%25E5%25BA%2597%25E8%2590%25BD%25E6%2588%25B7%25E4%25B8%259C%25E8%258E%259E%2far-AA2bwYz6&c=10200453584114148729&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-04 02:47",
     "summary": "",
     "grade": "C",
     "local": false,
