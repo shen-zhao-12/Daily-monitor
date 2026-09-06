@@ -1,0 +1,285 @@
+{
+ "id": "2026-09-06-wubao",
+ "title": "线口监测午报 · 2026年09月06日(周日)",
+ "shift": "午报",
+ "date": "2026-09-06 12:43",
+ "docx": "../briefings/线口监测午报-2026-09-06.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "开源安卓应用商店 F-Droid 考虑效仿 Debian AI 政策：允许使用 AI，最终责任由贡献者承担",
+    "url": "https://www.ithome.com/0/998/895.htm",
+    "source": "IT之家",
+    "time": "09-06 10:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "绿联发布家庭 AIoT 中枢 HomeAgent，至高可选 Jetson Thor T5000",
+    "url": "https://www.ithome.com/0/998/879.htm",
+    "source": "IT之家",
+    "time": "09-06 09:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "联通反诈大模型揪出涉诈 VOIP 黑盒，如有可疑人员不请自来“维修网络”要警惕",
+    "url": "https://www.ithome.com/0/998/877.htm",
+    "source": "IT之家",
+    "time": "09-06 09:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IT早报 0906：苹果 iPhone 18 Pro / Ultra 机模再曝光；曝华为新机防窥屏为独立像素驱动；Kimi、MiniMax 将天猫开店；全球首款家用 Wi-Fi8 路由器上市...",
+    "url": "https://www.ithome.com/0/998/861.htm",
+    "source": "IT之家",
+    "time": "09-06 07:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
+    "url": "https://www.ithome.com/0/998/859.htm",
+    "source": "IT之家",
+    "time": "09-06 07:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Chrome again exempts Google from user site data settings",
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "source": "Hacker News",
+    "time": "09-06 07:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一副AI眼镜，4天“诞生”！华强北“一米展台”秀出深圳创新效率",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9cef92edd94b7ba13dce1a71b9f13e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A0BVAR00&c=14734372288527883398&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-05 23:44",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "source": "Hacker News",
+    "time": "09-05 21:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟亮相IFA2026：把私人影院与AI助手双双装进眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9cef92edd94b7ba13dce1a71b9f13e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A07W0200&c=162487010704280396&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-05 16:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "source": "Hacker News",
+    "time": "09-05 03:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "500元红包补偿雷鸟iO延迟发货，AI眼镜的版本答案是去AI化？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9cef92edd94b7ba13dce1a71b9f13e&url=https%3a%2f%2fwww.tmtpost.com%2f8129338.html&c=3261097857798482141&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-05 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "source": "Hacker News",
+    "time": "09-04 19:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "无界动力 CEO 张玉峰预判：具身智能 5 年后有望对标成年人劳动能力",
+    "url": "https://www.ithome.com/0/998/901.htm",
+    "source": "IT之家",
+    "time": "09-06 10:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "GPT-6 Astra on robot arms",
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "source": "Hacker News",
+    "time": "09-06 09:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营",
+    "url": "https://www.ithome.com/0/998/849.htm",
+    "source": "IT之家",
+    "time": "09-06 07:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "珠海港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台",
+    "url": "https://www.ithome.com/0/998/854.htm",
+    "source": "IT之家",
+    "time": "09-06 07:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "可换电池版的欧版任天堂 Switch 2 游戏机悄然现身，重量、续航变了",
+    "url": "https://www.ithome.com/0/998/891.htm",
+    "source": "IT之家",
+    "time": "09-06 10:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "策略游戏《席德 · 梅尔的文明 VII》在 Steam 平台开启限时免费试玩活动，持续至 9 月 11 日",
+    "url": "https://www.ithome.com/0/998/888.htm",
+    "source": "IT之家",
+    "time": "09-06 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "前V社编剧自曝：《求生之路 2》游戏预告片是官方故意泄露的",
+    "url": "https://www.ithome.com/0/998/874.htm",
+    "source": "IT之家",
+    "time": "09-06 08:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "蚂蚁电竞推出“ANT27DZQE Pro”27 英寸显示器：2K 480Hz、DP 2.1 接口，4979 元",
+    "url": "https://www.ithome.com/0/998/871.htm",
+    "source": "IT之家",
+    "time": "09-06 08:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称微软 XGPU“每月 15 小时云游戏限制”新规为精心设计，系业务“盈亏平衡点”",
+    "url": "https://www.ithome.com/0/998/857.htm",
+    "source": "IT之家",
+    "time": "09-06 07:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英伟达宣布在 PAX West 游戏展以官方建议零售价销售 RTX 50 系列 Founders Edition 显卡",
+    "url": "https://www.ithome.com/0/998/851.htm",
+    "source": "IT之家",
+    "time": "09-06 07:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
+    "url": "https://www.ithome.com/0/998/906.htm",
+    "source": "IT之家",
+    "time": "09-06 11:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(8)",
+   "Bing新闻(3)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
