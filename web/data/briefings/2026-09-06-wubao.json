@@ -2,10 +2,109 @@
  "id": "2026-09-06-wubao",
  "title": "线口监测午报 · 2026年09月06日(周日)",
  "shift": "午报",
- "date": "2026-09-06 13:59",
+ "date": "2026-09-06 19:37",
  "docx": "../briefings/线口监测午报-2026-09-06.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软借力 AI 重塑 Win11 应用生态：30 分钟即可生成 WinUI 原生应用",
+    "url": "https://www.ithome.com/0/999/015.htm",
+    "source": "IT之家",
+    "time": "09-06 19:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+    "url": "https://www.ithome.com/0/999/014.htm",
+    "source": "IT之家",
+    "time": "09-06 18:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "加南科技预告新款屏显 AI 眼镜：整机 26g、无边框设计，计划 2027 年春季发布",
+    "url": "https://www.ithome.com/0/998/995.htm",
+    "source": "IT之家",
+    "time": "09-06 16:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
+    "url": "https://www.ithome.com/0/998/949.htm",
+    "source": "IT之家",
+    "time": "09-06 16:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 短剧制作价格大跳水：部分报价逼近成本线，行业竞争转向拼内容、拼市场",
+    "url": "https://www.ithome.com/0/998/943.htm",
+    "source": "IT之家",
+    "time": "09-06 15:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国内首款 AI 辅助创新药艾普司韦获批上市",
+    "url": "https://www.ithome.com/0/998/936.htm",
+    "source": "IT之家",
+    "time": "09-06 15:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 应用研究主管谈空间推理，称 Astra 模型已补上人类少数优势",
+    "url": "https://www.ithome.com/0/998/935.htm",
+    "source": "IT之家",
+    "time": "09-06 15:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "58 同城姚劲波：企业家必须亲自驾驭 AI，转型不能假手他人",
+    "url": "https://www.ithome.com/0/998/930.htm",
+    "source": "IT之家",
+    "time": "09-06 14:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+    "url": "https://www.ithome.com/0/998/927.htm",
+    "source": "IT之家",
+    "time": "09-06 14:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "“随时能问、随手可查”的反诈智能助手“国家反诈 AI”App 上线，微信、支付宝小程序也同步开放",
@@ -30,61 +129,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "开源安卓应用商店 F-Droid 考虑效仿 Debian AI 政策：允许使用 AI，最终责任由贡献者承担",
-    "url": "https://www.ithome.com/0/998/895.htm",
-    "source": "IT之家",
-    "time": "09-06 10:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "绿联发布家庭 AIoT 中枢 HomeAgent，至高可选 Jetson Thor T5000",
-    "url": "https://www.ithome.com/0/998/879.htm",
-    "source": "IT之家",
-    "time": "09-06 09:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "联通反诈大模型揪出涉诈 VOIP 黑盒，如有可疑人员不请自来“维修网络”要警惕",
-    "url": "https://www.ithome.com/0/998/877.htm",
-    "source": "IT之家",
-    "time": "09-06 09:03",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "IT早报 0906：苹果 iPhone 18 Pro / Ultra 机模再曝光；曝华为新机防窥屏为独立像素驱动；Kimi、MiniMax 将天猫开店；全球首款家用 Wi-Fi8 路由器上市...",
-    "url": "https://www.ithome.com/0/998/861.htm",
-    "source": "IT之家",
-    "time": "09-06 07:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
-    "url": "https://www.ithome.com/0/998/859.htm",
-    "source": "IT之家",
-    "time": "09-06 07:43",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Chrome again exempts Google from user site data settings",
     "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
     "source": "Hacker News",
@@ -97,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "一副AI眼镜，4天“诞生”！华强北“一米展台”秀出深圳创新效率",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d013076434dd9b93aa8892f0bc0bd&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A0BVAR00&c=14734372288527883398&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d507be886495292512ebd0f66e1fe&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A0BVAR00&c=14734372288527883398&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-05 23:44",
     "summary": "",
@@ -118,8 +162,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "HTC黄昭颖谈业务转型：手机创新遇瓶颈，资源聚焦AI眼镜赛道",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d507be886495292512ebd0f66e1fe&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fhtc%25E9%25BB%2584%25E6%2598%25AD%25E9%25A2%2596%25E8%25B0%2588%25E4%25B8%259A%25E5%258A%25A1%25E8%25BD%25AC%25E5%259E%258B-%25E6%2589%258B%25E6%259C%25BA%25E5%2588%259B%25E6%2596%25B0%25E9%2581%2587%25E7%2593%25B6%25E9%25A2%2588-%25E8%25B5%2584%25E6%25BA%2590%25E8%2581%259A%25E7%2584%25A6ai%25E7%259C%25BC%25E9%2595%259C%25E8%25B5%259B%25E9%2581%2593%2far-AA2bDYBc&c=9305882811080189743&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-05 20:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "雷鸟亮相IFA2026：把私人影院与AI助手双双装进眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d013076434dd9b93aa8892f0bc0bd&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A07W0200&c=162487010704280396&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d507be886495292512ebd0f66e1fe&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A07W0200&c=162487010704280396&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-05 16:02",
     "summary": "",
@@ -129,10 +184,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Can AI design circuit boards yet?",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "source": "Hacker News",
-    "time": "09-05 03:48",
+    "title": "乐奇Rokid × 腾讯WorkBuddy联名发布AI眼镜 共创Agent新生态",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d507be886495292512ebd0f66e1fe&url=https%3a%2f%2fwww.sohu.com%2fa%2f1071721479_122420666&c=5753360834947968989&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-05 10:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -141,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "500元红包补偿雷鸟iO延迟发货，AI眼镜的版本答案是去AI化？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d013076434dd9b93aa8892f0bc0bd&url=https%3a%2f%2fwww.tmtpost.com%2f8129338.html&c=3261097857798482141&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d507be886495292512ebd0f66e1fe&url=https%3a%2f%2fwww.tmtpost.com%2f8129338.html&c=3261097857798482141&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-05 01:00",
     "summary": "",
@@ -164,10 +219,10 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "无界动力 CEO 张玉峰预判：具身智能 5 年后有望对标成年人劳动能力",
-    "url": "https://www.ithome.com/0/998/901.htm",
+    "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+    "url": "https://www.ithome.com/0/999/001.htm",
     "source": "IT之家",
-    "time": "09-06 10:55",
+    "time": "09-06 17:30",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -185,71 +240,27 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
-  "电商/直播/即时零售": [
+  "无人驾驶/低空/智慧出行": [
    {
-    "beat": "电商/直播/即时零售",
-    "title": "珠海港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台",
-    "url": "https://www.ithome.com/0/998/854.htm",
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "阿里千问开源 Qwen-Drive-1.0-4B：首个面向自动驾驶的视觉语言基础模型",
+    "url": "https://www.ithome.com/0/998/997.htm",
     "source": "IT之家",
-    "time": "09-06 07:29",
+    "time": "09-06 17:15",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
+  "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "可换电池版的欧版任天堂 Switch 2 游戏机悄然现身，重量、续航变了",
-    "url": "https://www.ithome.com/0/998/891.htm",
+    "title": "PS5 游戏机模拟器 KyTyPS5 新进展：可运行《GTA5》北扬克顿序章任务",
+    "url": "https://www.ithome.com/0/998/924.htm",
     "source": "IT之家",
-    "time": "09-06 10:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "策略游戏《席德 · 梅尔的文明 VII》在 Steam 平台开启限时免费试玩活动，持续至 9 月 11 日",
-    "url": "https://www.ithome.com/0/998/888.htm",
-    "source": "IT之家",
-    "time": "09-06 09:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "前V社编剧自曝：《求生之路 2》游戏预告片是官方故意泄露的",
-    "url": "https://www.ithome.com/0/998/874.htm",
-    "source": "IT之家",
-    "time": "09-06 08:43",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "蚂蚁电竞推出“ANT27DZQE Pro”27 英寸显示器：2K 480Hz、DP 2.1 接口，4979 元",
-    "url": "https://www.ithome.com/0/998/871.htm",
-    "source": "IT之家",
-    "time": "09-06 08:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "消息称微软 XGPU“每月 15 小时云游戏限制”新规为精心设计，系业务“盈亏平衡点”",
-    "url": "https://www.ithome.com/0/998/857.htm",
-    "source": "IT之家",
-    "time": "09-06 07:36",
+    "time": "09-06 14:27",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -257,6 +268,28 @@
    }
   ],
   "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "商家隐瞒关键信息致消费者错失购车补贴，法院判赔 1.3 万元",
+    "url": "https://www.ithome.com/0/998/941.htm",
+    "source": "IT之家",
+    "time": "09-06 15:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
+    "url": "https://www.ithome.com/0/998/934.htm",
+    "source": "IT之家",
+    "time": "09-06 15:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
@@ -275,8 +308,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(0)",
-   "HackerNews(8)",
-   "Bing新闻(3)"
+   "HackerNews(7)",
+   "Bing新闻(6)"
   ],
   "fail": [
    "36氪(no entries)"
