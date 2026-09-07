@@ -2,7 +2,7 @@
  "id": "2026-09-07-wubao",
  "title": "线口监测午报 · 2026年09月07日(周一)",
  "shift": "午报",
- "date": "2026-09-07 12:47",
+ "date": "2026-09-07 14:08",
  "docx": "../briefings/线口监测午报-2026-09-07.docx",
  "sections": {
   "AI/大模型": [
@@ -53,7 +53,7 @@
    {
     "beat": "AI/大模型",
     "title": "IFA重磅新品！全能AI眼镜来袭，解锁记录仪、翻译、对讲全新体验",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e41ec8dd148e1868ec978431bbe6c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1072610453_447547&c=13808436247585610426&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e54df81294313bc071c95bf1992db&url=https%3a%2f%2fwww.sohu.com%2fa%2f1072610453_447547&c=13808436247585610426&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-07 01:27",
     "summary": "",
@@ -75,7 +75,7 @@
    {
     "beat": "AI/大模型",
     "title": "Meta 给 AI 眼镜打补丁：遮住指示灯就停拍",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e41ec8dd148e1868ec978431bbe6c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260907A06IL000%3fadChannelId%3dtech&c=10586732695875771970&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e54df81294313bc071c95bf1992db&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260907A06IL000%3fadChannelId%3dtech&c=10586732695875771970&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-06 22:19",
     "summary": "",
@@ -85,21 +85,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "加南科技预告新款屏显 AI 眼镜：整机 26g，计划 2027 年春季发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e41ec8dd148e1868ec978431bbe6c&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E5%258A%25A0%25E5%258D%2597%25E7%25A7%2591%25E6%258A%2580%25E9%25A2%2584%25E5%2591%258A%25E6%2596%25B0%25E6%25AC%25BE%25E5%25B1%258F%25E6%2598%25BE-ai-%25E7%259C%25BC%25E9%2595%259C-%25E6%2595%25B4%25E6%259C%25BA-26g-%25E8%25AE%25A1%25E5%2588%2592-2027-%25E5%25B9%25B4%25E6%2598%25A5%25E5%25AD%25A3%25E5%258F%2591%25E5%25B8%2583%2far-AA2bFk7Q&c=4523209842870048210&mkt=en-us",
+    "title": "加南科技预告新款屏显 AI 眼镜：整机 26g、无边框设计，计划 2027 年春季发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e54df81294313bc071c95bf1992db&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-06%2fdoc-iniqwssy6422804.shtml&c=3027638973418217206&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-06 09:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "雷鸟亮相IFA2026：把私人影院与AI助手双双装进眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e41ec8dd148e1868ec978431bbe6c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260905A07W0200&c=162487010704280396&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-05 16:02",
+    "time": "09-06 17:57",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -230,8 +219,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(6)",
-   "HackerNews(2)",
-   "Bing新闻(4)"
+   "HackerNews(1)",
+   "Bing新闻(3)"
   ],
   "fail": [
    "36氪(no entries)"
