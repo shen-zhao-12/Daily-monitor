@@ -2,10 +2,21 @@
  "id": "2026-09-08-wubao",
  "title": "线口监测午报 · 2026年09月08日(周二)",
  "shift": "午报",
- "date": "2026-09-08 12:42",
+ "date": "2026-09-08 13:59",
  "docx": "../briefings/线口监测午报-2026-09-08.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Mistral AI 完成 30 亿欧元 D 轮融资：投后估值超 210 亿欧元，三星电子领投",
+    "url": "https://www.ithome.com/0/999/657.htm",
+    "source": "IT之家",
+    "time": "09-08 13:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "联发科官宣天玑旗舰芯首款 Pro 来了：先进制程里程碑式突破、AI 深度融合的 GPU 图形渲染技术等",
@@ -53,7 +64,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI 眼镜越做越重，有人却在做一副不像AI眼镜的AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073206177_122055437&c=4166407743853755762&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fa435b709434e90b98c9ebe9f990a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073206177_122055437&c=4166407743853755762&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-07 21:42",
     "summary": "",
@@ -64,7 +75,7 @@
    {
     "beat": "AI/大模型",
     "title": "Meta 给 AI 眼镜打补丁：遮住指示灯就停拍",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fwww.sohu.com%2fa%2f1072957930_122990312&c=9797104665899953117&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fa435b709434e90b98c9ebe9f990a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1072957930_122990312&c=9797104665899953117&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-07 20:33",
     "summary": "",
@@ -75,7 +86,7 @@
    {
     "beat": "AI/大模型",
     "title": "TCL实业旗下雷鸟创新两款智能眼镜新品IFA 2026首秀：全天候AI与杜比巨幕，拓展近眼显示新边界",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-07%2fdoc-iniqyvry5529424.shtml&c=14723783505121070326&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fa435b709434e90b98c9ebe9f990a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-07%2fdoc-iniqyvry5529424.shtml&c=14723783505121070326&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-07 16:10",
     "summary": "",
@@ -86,20 +97,9 @@
    {
     "beat": "AI/大模型",
     "title": "致敬未知BleeqUp发布Rover AI运动眼镜，能拍3K视频",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260907A08EYD00&c=2047994268719424927&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fa435b709434e90b98c9ebe9f990a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260907A08EYD00&c=2047994268719424927&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-07 14:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "GOSIGHT发布旗下首款一体式双目全彩AI+AR眼镜，主打轻量化",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260907A07XX300&c=14833486992430039962&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-07 14:02",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -130,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "闪极张波，AI眼镜最执着的人",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2597%25AA%25E6%259E%2581%25E5%25BC%25A0%25E6%25B3%25A2-ai%25E7%259C%25BC%25E9%2595%259C%25E6%259C%2580%25E6%2589%25A7%25E7%259D%2580%25E7%259A%2584%25E4%25BA%25BA%2far-AA2bFG4v&c=16888047476942964810&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fa435b709434e90b98c9ebe9f990a&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2597%25AA%25E6%259E%2581%25E5%25BC%25A0%25E6%25B3%25A2-ai%25E7%259C%25BC%25E9%2595%259C%25E6%259C%2580%25E6%2589%25A7%25E7%259D%2580%25E7%259A%2584%25E4%25BA%25BA%2far-AA2bFG4v&c=16888047476942964810&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-06 17:22",
     "summary": "",
@@ -142,10 +142,10 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "小鹏机器人生产线正式启用，“全球首位高阶通用人形机器人”自主走下产线",
-    "url": "https://www.ithome.com/0/999/529.htm",
+    "title": "小米推出米家扫拖机器人 6 Max 白色系列：水箱版国补价 4799 元起，薄嵌上下水 5099 元起",
+    "url": "https://www.ithome.com/0/999/647.htm",
     "source": "IT之家",
-    "time": "09-08 09:06",
+    "time": "09-08 12:53",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -155,10 +155,10 @@
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "华为乾崑智驾、鸿蒙座舱搭载量达成 200 万里程碑",
-    "url": "https://www.ithome.com/0/999/540.htm",
+    "title": "极狐阿尔法 T7 汽车 9 月 16 日上市：搭载华为乾崑智驾 ADS 5 Pro，预售价 13.78 万元起",
+    "url": "https://www.ithome.com/0/999/654.htm",
     "source": "IT之家",
-    "time": "09-08 09:39",
+    "time": "09-08 13:34",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -166,10 +166,10 @@
    },
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "华境 S 大六座 SUV 累计交付突破 2.5 万台：标配华为乾崑智驾 ADS Pro 增强版，售 15.98 万元起",
-    "url": "https://www.ithome.com/0/999/533.htm",
+    "title": "华为乾崑智驾、鸿蒙座舱搭载量达成 200 万里程碑",
+    "url": "https://www.ithome.com/0/999/540.htm",
     "source": "IT之家",
-    "time": "09-08 09:24",
+    "time": "09-08 09:39",
     "summary": "",
     "grade": "C",
     "local": false,
