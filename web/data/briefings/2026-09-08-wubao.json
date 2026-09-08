@@ -1,0 +1,295 @@
+{
+ "id": "2026-09-08-wubao",
+ "title": "线口监测午报 · 2026年09月08日(周二)",
+ "shift": "午报",
+ "date": "2026-09-08 12:42",
+ "docx": "../briefings/线口监测午报-2026-09-08.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "联发科官宣天玑旗舰芯首款 Pro 来了：先进制程里程碑式突破、AI 深度融合的 GPU 图形渲染技术等",
+    "url": "https://www.ithome.com/0/999/622.htm",
+    "source": "IT之家",
+    "time": "09-08 11:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "HyperX Cloud Alpha Air 半开放式游戏耳机发售，999 元人民币",
+    "url": "https://www.ithome.com/0/999/562.htm",
+    "source": "IT之家",
+    "time": "09-08 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一帮中国最牛AI公司，要革3A游戏的命？",
+    "url": "http://www.gamelook.com.cn/2026/09/601627/",
+    "source": "GameLook",
+    "time": "09-08 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "这届UP太有才！B站百万奖金AI大赛，猫娘夺冠、元气3D亚军、“无限流游戏”季军",
+    "url": "http://www.gamelook.com.cn/2026/09/601616/",
+    "source": "GameLook",
+    "time": "09-08 09:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 眼镜越做越重，有人却在做一副不像AI眼镜的AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073206177_122055437&c=4166407743853755762&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-07 21:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 给 AI 眼镜打补丁：遮住指示灯就停拍",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fwww.sohu.com%2fa%2f1072957930_122990312&c=9797104665899953117&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-07 20:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "TCL实业旗下雷鸟创新两款智能眼镜新品IFA 2026首秀：全天候AI与杜比巨幕，拓展近眼显示新边界",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-07%2fdoc-iniqyvry5529424.shtml&c=14723783505121070326&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-07 16:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "致敬未知BleeqUp发布Rover AI运动眼镜，能拍3K视频",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260907A08EYD00&c=2047994268719424927&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-07 14:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "GOSIGHT发布旗下首款一体式双目全彩AI+AR眼镜，主打轻量化",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260907A07XX300&c=14833486992430039962&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-07 14:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "米哈游要造“AI梦工厂”？《雨之城》内测 AI 视频平台，玩家人人拍大片！",
+    "url": "http://www.gamelook.com.cn/2026/09/601520/",
+    "source": "GameLook",
+    "time": "09-07 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "3款爆卖“AI原生游戏”怎么赢的？“千万玩家、百万套销量、月活近300万”全兑现！",
+    "url": "http://www.gamelook.com.cn/2026/09/601538/",
+    "source": "GameLook",
+    "time": "09-07 10:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "闪极张波，AI眼镜最执着的人",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f92536c9743959b8c0e5510d2a838&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2597%25AA%25E6%259E%2581%25E5%25BC%25A0%25E6%25B3%25A2-ai%25E7%259C%25BC%25E9%2595%259C%25E6%259C%2580%25E6%2589%25A7%25E7%259D%2580%25E7%259A%2584%25E4%25BA%25BA%2far-AA2bFG4v&c=16888047476942964810&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-06 17:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小鹏机器人生产线正式启用，“全球首位高阶通用人形机器人”自主走下产线",
+    "url": "https://www.ithome.com/0/999/529.htm",
+    "source": "IT之家",
+    "time": "09-08 09:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为乾崑智驾、鸿蒙座舱搭载量达成 200 万里程碑",
+    "url": "https://www.ithome.com/0/999/540.htm",
+    "source": "IT之家",
+    "time": "09-08 09:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华境 S 大六座 SUV 累计交付突破 2.5 万台：标配华为乾崑智驾 ADS Pro 增强版，售 15.98 万元起",
+    "url": "https://www.ithome.com/0/999/533.htm",
+    "source": "IT之家",
+    "time": "09-08 09:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "HKC 神盾 25Q360B 电竞显示器发布：2K 360Hz QD-MiniLED，预售价 1999 元",
+    "url": "https://www.ithome.com/0/999/645.htm",
+    "source": "IT之家",
+    "time": "09-08 12:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《鸣潮》《鬼谷八荒》《灵画师》及网易《梦幻西游》赛事等 35 个项目入选广州 2026 年游戏电竞产业扶持名单",
+    "url": "https://www.ithome.com/0/999/608.htm",
+    "source": "IT之家",
+    "time": "09-08 10:55",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“花不完腾讯钱”、离开腾讯的团队，做出Steam 24万在线爆款？",
+    "url": "http://www.gamelook.com.cn/2026/09/601687/",
+    "source": "GameLook",
+    "time": "09-08 10:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩文化部拼了“力挺3A与独游”！送钱送办公室、游戏公司贷款直接“贴息担保”",
+    "url": "http://www.gamelook.com.cn/2026/09/601682/",
+    "source": "GameLook",
+    "time": "09-08 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“开发者痴迷、玩家劝退”，策划谈真相：战棋游戏如何破局？",
+    "url": "http://www.gamelook.com.cn/2026/09/601657/",
+    "source": "GameLook",
+    "time": "09-08 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "马克龙宣布设立国际电子游戏节，法国首款 TGA 年度游戏《光与影：33 号远征队》曾获其点赞",
+    "url": "https://www.ithome.com/0/999/545.htm",
+    "source": "IT之家",
+    "time": "09-08 09:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "从“打地鼠”到俯视战场，欧洲游戏厂商MY.GAMES点赞腾讯游戏安全ACE",
+    "url": "http://www.gamelook.com.cn/2026/09/601587/",
+    "source": "GameLook",
+    "time": "09-07 13:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "暴雪自导自演“官网故障”，《星际争霸》射击游戏真要来了？",
+    "url": "http://www.gamelook.com.cn/2026/09/601571/",
+    "source": "GameLook",
+    "time": "09-07 10:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“3只逗比猴的混乱”，600万人试玩的友尽游戏《BOMBANANA!》Steam发售",
+    "url": "http://www.gamelook.com.cn/2026/09/601542/",
+    "source": "GameLook",
+    "time": "09-07 09:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(1)",
+   "Bing新闻(6)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
