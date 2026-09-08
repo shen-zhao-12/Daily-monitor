@@ -2,10 +2,21 @@
  "id": "2026-09-08-wubao",
  "title": "线口监测午报 · 2026年09月08日(周二)",
  "shift": "午报",
- "date": "2026-09-08 20:06",
+ "date": "2026-09-08 20:50",
  "docx": "../briefings/线口监测午报-2026-09-08.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "经合组织最新报告：不用或少用 AI 完成课业的学生，整体表现优于常用 AI 的学生",
+    "url": "https://www.ithome.com/0/999/909.htm",
+    "source": "IT之家",
+    "time": "09-08 20:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "分析机构 Similarweb：网页端 AI 聊天机器人中 ChatGPT 使用者最多，8 月市场份额回升至 55.5%",
@@ -85,39 +96,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "爱芯元智推出 5nm 智驾芯片 M97、M95，单颗等效 AI 算力至高 720TOPS",
-    "url": "https://www.ithome.com/0/999/803.htm",
-    "source": "IT之家",
-    "time": "09-08 16:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "微软纳德拉发布 Opal：用户只需提目标，AI 跑全流程交付成品",
-    "url": "https://www.ithome.com/0/999/797.htm",
-    "source": "IT之家",
-    "time": "09-08 16:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "DeepSeek V4.1 Flash 中间版本内测：新模型结构，原生多模态支持，更快更强、成本更低",
-    "url": "https://www.ithome.com/0/999/795.htm",
-    "source": "IT之家",
-    "time": "09-08 16:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Mistral raises €3B",
     "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
     "source": "Hacker News",
@@ -130,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI 眼镜越做越重，有人却在做一副不像AI眼镜的AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ffa3289994eceae9c1d8afb120ec8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073206177_122055437&c=4166407743853755762&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa004880730456a86554c2c106c1252&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073206177_122055437&c=4166407743853755762&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-08 11:42",
     "summary": "",
@@ -173,8 +151,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "新一代AI运动眼镜闪现IFA！BleeqUp Rover展示了品类进化的方向",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa004880730456a86554c2c106c1252&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260908A0CDM000&c=3343911654878186943&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-08 05:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "AI日报：微信支付智能眼镜SDK上线；字节或推实时生成虚拟世界AI模型；最高法发布首部涉人工智能纠纷案件意见",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ffa3289994eceae9c1d8afb120ec8&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260908A0BWB100&c=13151026686698008960&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa004880730456a86554c2c106c1252&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260908A0BWB100&c=13151026686698008960&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-08 04:41",
     "summary": "",
@@ -185,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜进入自有品牌矩阵，康冠科技的增长边界正在外移",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ffa3289994eceae9c1d8afb120ec8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073400231_641746&c=710074411526389321&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa004880730456a86554c2c106c1252&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073400231_641746&c=710074411526389321&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-08 04:01",
     "summary": "",
@@ -196,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "Meta实时语音模型支持20+说话人识别，进一步适配AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ffa3289994eceae9c1d8afb120ec8&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fmeta%25E5%25AE%259E%25E6%2597%25B6%25E8%25AF%25AD%25E9%259F%25B3%25E6%25A8%25A1%25E5%259E%258B%25E6%2594%25AF%25E6%258C%258120-%25E8%25AF%25B4%25E8%25AF%259D%25E4%25BA%25BA%25E8%25AF%2586%25E5%2588%25AB-%25E8%25BF%259B%25E4%25B8%2580%25E6%25AD%25A5%25E9%2580%2582%25E9%2585%258Dai%25E7%259C%25BC%25E9%2595%259C%2far-AA2bLNo8&c=6686049047731494194&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa004880730456a86554c2c106c1252&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fmeta%25E5%25AE%259E%25E6%2597%25B6%25E8%25AF%25AD%25E9%259F%25B3%25E6%25A8%25A1%25E5%259E%258B%25E6%2594%25AF%25E6%258C%258120-%25E8%25AF%25B4%25E8%25AF%259D%25E4%25BA%25BA%25E8%25AF%2586%25E5%2588%25AB-%25E8%25BF%259B%25E4%25B8%2580%25E6%25AD%25A5%25E9%2580%2582%25E9%2585%258Dai%25E7%259C%25BC%25E9%2595%259C%2far-AA2bLNo8&c=6686049047731494194&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-08 03:34",
     "summary": "",
@@ -217,10 +206,32 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Meta推出实时语音转写模型Muse Voice Transcribe，瞄准AI眼镜场景",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ffa3289994eceae9c1d8afb120ec8&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260908A0895C00&c=14649011823784415250&mkt=en-us",
+    "title": "TCL实业旗下雷鸟创新两款智能眼镜新品IFA 2026首秀：全天候AI与杜比巨幕，拓展近眼显示新边界",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa004880730456a86554c2c106c1252&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-07%2fdoc-iniqyvry5529424.shtml&c=14723783505121070326&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-08 00:17",
+    "time": "09-07 16:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "米哈游要造“AI梦工厂”？《雨之城》内测 AI 视频平台，玩家人人拍大片！",
+    "url": "http://www.gamelook.com.cn/2026/09/601520/",
+    "source": "GameLook",
+    "time": "09-07 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "3款爆卖“AI原生游戏”怎么赢的？“千万玩家、百万套销量、月活近300万”全兑现！",
+    "url": "http://www.gamelook.com.cn/2026/09/601538/",
+    "source": "GameLook",
+    "time": "09-07 10:29",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -234,28 +245,6 @@
     "url": "https://www.ithome.com/0/999/819.htm",
     "source": "IT之家",
     "time": "09-08 16:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "韩国电池材料企业瞄准人形机器人，开辟电动汽车外新增长赛道",
-    "url": "https://www.ithome.com/0/999/808.htm",
-    "source": "IT之家",
-    "time": "09-08 16:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "日本首个“人形机器人救护车”现身，搭载机器人专用担架、维修零部件等",
-    "url": "https://www.ithome.com/0/999/807.htm",
-    "source": "IT之家",
-    "time": "09-08 16:23",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -282,28 +271,6 @@
     "url": "https://www.ithome.com/0/999/855.htm",
     "source": "IT之家",
     "time": "09-08 17:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "（更新：已恢复）腾讯微信团队致歉：视频号服务器出现抖动致部分功能异常，正在恢复中",
-    "url": "https://www.ithome.com/0/999/805.htm",
-    "source": "IT之家",
-    "time": "09-08 16:22",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "前索尼 SIE 总裁莱登：PlayStation 游戏去实体化并非无解，就像 Kindle 也没取代实体书",
-    "url": "https://www.ithome.com/0/999/793.htm",
-    "source": "IT之家",
-    "time": "09-08 16:03",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -341,6 +308,39 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "从“打地鼠”到俯视战场，欧洲游戏厂商MY.GAMES点赞腾讯游戏安全ACE",
+    "url": "http://www.gamelook.com.cn/2026/09/601587/",
+    "source": "GameLook",
+    "time": "09-07 13:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "暴雪自导自演“官网故障”，《星际争霸》射击游戏真要来了？",
+    "url": "http://www.gamelook.com.cn/2026/09/601571/",
+    "source": "GameLook",
+    "time": "09-07 10:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“3只逗比猴的混乱”，600万人试玩的友尽游戏《BOMBANANA!》Steam发售",
+    "url": "http://www.gamelook.com.cn/2026/09/601542/",
+    "source": "GameLook",
+    "time": "09-07 09:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -350,7 +350,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(5)",
+   "HackerNews(3)",
    "Bing新闻(6)"
   ],
   "fail": [
