@@ -1,0 +1,361 @@
+{
+ "id": "2026-09-09-wubao",
+ "title": "线口监测午报 · 2026年09月09日(周三)",
+ "shift": "午报",
+ "date": "2026-09-09 12:47",
+ "docx": "../briefings/线口监测午报-2026-09-09.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "唐家三少痛批“AI 泔水”：网络文学成 AI 洗稿重灾区，48 小时能生成 500 万字",
+    "url": "https://www.ithome.com/1/000/144.htm",
+    "source": "IT之家",
+    "time": "09-09 12:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "已修复：OpenAI 的 ChatGPT 生图功能出现故障，持续约 7.5 小时",
+    "url": "https://www.ithome.com/1/000/135.htm",
+    "source": "IT之家",
+    "time": "09-09 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI AI 训练版权纠纷案新细节：GPT-5 可代笔乔治 ·R·R· 马丁撰写《冰与火之歌》",
+    "url": "https://www.ithome.com/1/000/106.htm",
+    "source": "IT之家",
+    "time": "09-09 11:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称华为 Pura X View、Mate XT 2 非凡大师手机支持端侧本地大模型下载部署",
+    "url": "https://www.ithome.com/1/000/103.htm",
+    "source": "IT之家",
+    "time": "09-09 11:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "京东云宣布与摩尔线程规划建设 10 万卡 AI 工厂",
+    "url": "https://www.ithome.com/1/000/095.htm",
+    "source": "IT之家",
+    "time": "09-09 11:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "曹操出行与豆包联合推出 AI 打车服务，能一句话选车、设置空调温度等",
+    "url": "https://www.ithome.com/1/000/067.htm",
+    "source": "IT之家",
+    "time": "09-09 10:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "抢单“物理外挂”被判赔 300 万元：最高法发布 9 件反不正当竞争典型案例，涵盖 AI、直播电商等新兴领域",
+    "url": "https://www.ithome.com/1/000/052.htm",
+    "source": "IT之家",
+    "time": "09-09 10:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开发者集体吐槽：“AI搞乱我的游戏代码、架构一团糟”，同行：“别让AI放飞自我”",
+    "url": "http://www.gamelook.com.cn/2026/09/601703/",
+    "source": "GameLook",
+    "time": "09-09 09:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "source": "Hacker News",
+    "time": "09-09 05:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "影目科技完成近10亿C轮融资，专注于‌AI+AR智能眼镜‌研发",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0e4f00ed74886a54410eb5eb05639&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25BD%25B1%25E7%259B%25AE%25E7%25A7%2591%25E6%258A%2580%25E5%25AE%258C%25E6%2588%2590%25E8%25BF%259110%25E4%25BA%25BFc%25E8%25BD%25AE%25E8%259E%258D%25E8%25B5%2584-%25E4%25B8%2593%25E6%25B3%25A8%25E4%25BA%258E-ai-ar%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C-%25E7%25A0%2594%25E5%258F%2591%2far-AA2bQkhC&c=4683575985903297599&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-09 03:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "source": "Hacker News",
+    "time": "09-09 03:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从AI眼镜到智能机器人，热点科技在CICE 2026呈现AI消费电子新场景",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0e4f00ed74886a54410eb5eb05639&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260909A06MLH00&c=11175222306763129569&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-08 22:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜突然卖不动了 7月销量骤降引发关注",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0e4f00ed74886a54410eb5eb05639&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20260909%2f49729030.html&c=15187800221235620959&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-08 20:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智能体“入镜”，AI眼镜悄然开启下一程",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0e4f00ed74886a54410eb5eb05639&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-09-09%2fdoc-iniresye8803568.shtml&c=11604745154567180968&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-08 19:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜，突然卖不动了？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0e4f00ed74886a54410eb5eb05639&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260908A0C4UD00%3fadChannelId%3dtech&c=14854324888554276874&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-08 19:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜进入自有品牌矩阵，康冠科技的增长边界正在外移",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0e4f00ed74886a54410eb5eb05639&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073400231_641746&c=710074411526389321&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-08 18:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 眼镜越做越重，有人却在做一副不像AI眼镜的AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0e4f00ed74886a54410eb5eb05639&url=https%3a%2f%2fwww.sohu.com%2fa%2f1073206177_122055437&c=4166407743853755762&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-08 11:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一帮中国最牛AI公司，要革3A游戏的命？",
+    "url": "http://www.gamelook.com.cn/2026/09/601627/",
+    "source": "GameLook",
+    "time": "09-08 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "用牛蛙骨骼肌实现“机械飞升”，中国科学院沈阳自动化所研制无线光控类生命蝠鲼机器人",
+    "url": "https://www.ithome.com/1/000/146.htm",
+    "source": "IT之家",
+    "time": "09-09 12:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "人民币跨境支付系统与 11 家外资银行签约",
+    "url": "https://www.ithome.com/1/000/053.htm",
+    "source": "IT之家",
+    "time": "09-09 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "三款《甄嬛传》新游戏乱战！时隔12年，国民级宫斗IP杀回游戏圈？",
+    "url": "http://www.gamelook.com.cn/2026/09/601771/",
+    "source": "GameLook",
+    "time": "09-09 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“照片级FPS游戏”技惊四座！《Bodycam》更新爆卖，玩家痛呼“远离战争珍惜和平”",
+    "url": "http://www.gamelook.com.cn/2026/09/601752/",
+    "source": "GameLook",
+    "time": "09-09 11:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "海盗船推出 TC80 电竞椅：历经 30 余项严格测试，199.99 美元",
+    "url": "https://www.ithome.com/1/000/071.htm",
+    "source": "IT之家",
+    "time": "09-09 11:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "【IT之家图赏】 ROG 枪神 10X 电竞 PC 主机实拍：独一无二赛博全息投影加持",
+    "url": "https://www.ithome.com/1/000/070.htm",
+    "source": "IT之家",
+    "time": "09-09 11:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "最高扶持500万元！广州“游戏电竞18条”公示入选名单，《鸣潮》《望月》等在列",
+    "url": "http://www.gamelook.com.cn/2026/09/601729/",
+    "source": "GameLook",
+    "time": "09-09 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“大厂看好，平台巨头喊穷”，云游戏真的要完蛋了？",
+    "url": "http://www.gamelook.com.cn/2026/09/601702/",
+    "source": "GameLook",
+    "time": "09-09 09:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "从三折叠到阔直屏：鸿蒙7如何打开游戏体验新空间",
+    "url": "http://www.gamelook.com.cn/2026/09/601742/",
+    "source": "GameLook",
+    "time": "09-09 07:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“花不完腾讯钱”、离开腾讯的团队，做出Steam 24万在线爆款？",
+    "url": "http://www.gamelook.com.cn/2026/09/601687/",
+    "source": "GameLook",
+    "time": "09-08 10:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩文化部拼了“力挺3A与独游”！送钱送办公室、游戏公司贷款直接“贴息担保”",
+    "url": "http://www.gamelook.com.cn/2026/09/601682/",
+    "source": "GameLook",
+    "time": "09-08 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“开发者痴迷、玩家劝退”，策划谈真相：战棋游戏如何破局？",
+    "url": "http://www.gamelook.com.cn/2026/09/601657/",
+    "source": "GameLook",
+    "time": "09-08 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(16)",
+   "HackerNews(6)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
