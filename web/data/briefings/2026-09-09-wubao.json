@@ -2,7 +2,7 @@
  "id": "2026-09-09-wubao",
  "title": "线口监测午报 · 2026年09月09日(周三)",
  "shift": "午报",
- "date": "2026-09-09 20:17",
+ "date": "2026-09-09 20:55",
  "docx": "../briefings/线口监测午报-2026-09-09.docx",
  "sections": {
   "AI/大模型": [
@@ -140,28 +140,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenAI 奥尔特曼传记影片《Artificial》首支预告公开，展示“地堡”场景",
-    "url": "https://www.ithome.com/1/000/304.htm",
-    "source": "IT之家",
-    "time": "09-09 16:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AZZA 推出 AI 工作站机箱 TRAIL，支持塔式 / 机架部署",
-    "url": "https://www.ithome.com/1/000/280.htm",
-    "source": "IT之家",
-    "time": "09-09 16:06",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "“Tweet” and the bird logo apparently enter the public domain",
     "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
     "source": "Hacker News",
@@ -174,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "从巨头独舞到多方入局：眼镜展上，藏着AI眼镜的四种玩法",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa14e79f6f4491fa6c35cdc9977e883&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fwbstock%2f2026-09-09%2fdoc-inirfqcu8545351.shtml&c=14852089938143222253&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa15742a5c741faa92e7a59783accd1&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fwbstock%2f2026-09-09%2fdoc-inirfqcu8545351.shtml&c=14852089938143222253&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-09 11:37",
     "summary": "",
@@ -185,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜突然卖不动了 7月销量骤降引发关注",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa14e79f6f4491fa6c35cdc9977e883&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20260909%2f49729030.html&c=15187800221235620959&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa15742a5c741faa92e7a59783accd1&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20260909%2f49729030.html&c=15187800221235620959&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-09 10:57",
     "summary": "",
@@ -207,31 +185,9 @@
    {
     "beat": "AI/大模型",
     "title": "智能体“入镜”，AI眼镜悄然开启下一程",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa14e79f6f4491fa6c35cdc9977e883&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-09-09%2fdoc-iniresye8803568.shtml&c=11604745154567180968&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa15742a5c741faa92e7a59783accd1&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-09-09%2fdoc-iniresye8803568.shtml&c=11604745154567180968&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-09 09:03",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Tao: Open math problems being non-renewably mined by AI",
-    "url": "https://mathstodon.xyz/@tao/117237320796901560",
-    "source": "Hacker News",
-    "time": "09-09 05:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "阿里创投、博裕创投、联想创投先后下注，AI眼镜的“第三条路”有何不同？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa14e79f6f4491fa6c35cdc9977e883&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260909A0C08V00&c=12591700656702789148&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-09 04:33",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -239,6 +195,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "我国发布第八批新职业：具身智能机器人应用技术员等 11 个新职业、新能源汽车检测员等 23 个新工种",
+    "url": "https://www.ithome.com/1/000/429.htm",
+    "source": "IT之家",
+    "time": "09-09 20:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "行业首个开放世界全天候商业交付级具身智能架构，万勋科技发布 NOVA2.0 柔性具身大脑",
@@ -265,6 +232,17 @@
   "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "V社要求澳大利亚 Steam 玩家购买 18+ 游戏时，使用信用卡验证年龄",
+    "url": "https://www.ithome.com/1/000/435.htm",
+    "source": "IT之家",
+    "time": "09-09 20:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "英伟达 DLSS 5 可大幅提升老游戏画面效果，堪比高清重制",
@@ -335,6 +313,28 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家洗衣机 Pro 超电解新风系列开售：12kg 容量，国补到手价 3484.2 元起",
+    "url": "https://www.ithome.com/1/000/430.htm",
+    "source": "IT之家",
+    "time": "09-09 20:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家洗衣机迷你双筒洗烘 5kg 开售，国补到手价 2699 元",
+    "url": "https://www.ithome.com/1/000/424.htm",
+    "source": "IT之家",
+    "time": "09-09 20:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
     "title": "乘联分会：8 月国内狭义乘用车市场零售销量 154.1 万辆同比下降 23.6%，新能源渗透率 65.2% 再创新高",
     "url": "https://www.ithome.com/1/000/312.htm",
     "source": "IT之家",
@@ -352,7 +352,7 @@
    "IT之家(60)",
    "GameLook(15)",
    "HackerNews(7)",
-   "Bing新闻(8)"
+   "Bing新闻(9)"
   ],
   "fail": [
    "36氪(no entries)"
