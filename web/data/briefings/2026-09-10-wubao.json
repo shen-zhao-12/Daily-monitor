@@ -1,0 +1,360 @@
+{
+ "id": "2026-09-10-wubao",
+ "title": "线口监测午报 · 2026年09月10日(周四)",
+ "shift": "午报",
+ "date": "2026-09-10 12:48",
+ "docx": "../briefings/线口监测午报-2026-09-10.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "成都以 AI 治理“龟速车”：覆盖城区所有快速路及绕城高速，试行监测路段慢车数量降约 20%",
+    "url": "https://www.ithome.com/1/000/693.htm",
+    "source": "IT之家",
+    "time": "09-10 12:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek V4.1 Flash 模型今日发布，V4 Pro 服务推迟到 9 月 14 日下线",
+    "url": "https://www.ithome.com/1/000/692.htm",
+    "source": "IT之家",
+    "time": "09-10 12:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "System76 发布 AM5 工作站 Thelio Mira AI，支持双卡配置",
+    "url": "https://www.ithome.com/1/000/632.htm",
+    "source": "IT之家",
+    "time": "09-10 11:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蚂蚁国际联合 Visa、万事达卡合作开发 AI 支付新标准",
+    "url": "https://www.ithome.com/1/000/625.htm",
+    "source": "IT之家",
+    "time": "09-10 11:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米推出米家首款 AI 智控灶定时燃气灶 3 Max：5200W 猛火 + 新增离灶雷达，国补后 2299 元",
+    "url": "https://www.ithome.com/1/000/617.htm",
+    "source": "IT之家",
+    "time": "09-10 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米推出米家智能净烟机 3 Max：AI 全程托管控烟，国补价 4599 元",
+    "url": "https://www.ithome.com/1/000/615.htm",
+    "source": "IT之家",
+    "time": "09-10 10:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 快速、专家、识图模式合并升级，V4.1 Flash 最快今日发布",
+    "url": "https://www.ithome.com/1/000/602.htm",
+    "source": "IT之家",
+    "time": "09-10 10:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 新董事严厉警告：AI 失控将是灾难性的，大多数人可能丧命",
+    "url": "https://www.ithome.com/1/000/587.htm",
+    "source": "IT之家",
+    "time": "09-10 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI ChatGPT 语音模式支持调用 GPT-5.6 Sol 和 GPT-6 Astra",
+    "url": "https://www.ithome.com/1/000/577.htm",
+    "source": "IT之家",
+    "time": "09-10 09:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果部分功能不随 iOS 27 及新硬件首发：Siri AI 下月拓展更多语言支持，Apple Watch 新功能年底推出",
+    "url": "https://www.ithome.com/1/000/576.htm",
+    "source": "IT之家",
+    "time": "09-10 09:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "曾获扎克伯格 15 亿美元 offer，Meta 明星 AI 研究员安德鲁 · 塔洛克宣布离职",
+    "url": "https://www.ithome.com/1/000/574.htm",
+    "source": "IT之家",
+    "time": "09-10 08:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AirPods 5",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "source": "Hacker News",
+    "time": "09-10 01:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Understanding the recent DDoS attack against Read the Docs",
+    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+    "source": "Hacker News",
+    "time": "09-09 23:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问新AI眼镜现身！虹膜识别落地，赛道迎成长窗口",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa23694f409458e8e5920546de1e60b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260910A05GSC00&c=3885664041609335809&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-09 22:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Shopify acquires Tailwind",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "source": "Hacker News",
+    "time": "09-09 21:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "上海首个“AI眼镜城市伴游”试点落地！从豫园到外滩，数字科技重构城市漫步",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa23694f409458e8e5920546de1e60b&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-10%2fdoc-inirhvxa5402910.shtml&c=17444073292705478605&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-09 19:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "宇树科技股价跌破 500 元 / 股，市值较上市首日高点蒸发超 2400 亿元",
+    "url": "https://www.ithome.com/1/000/628.htm",
+    "source": "IT之家",
+    "time": "09-10 11:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼公布 9 月 PS Plus 二三档游戏目录：《符文世界：龙之荒野》《WWE 2K26》《地铁：归来》等",
+    "url": "https://www.ithome.com/1/000/634.htm",
+    "source": "IT之家",
+    "time": "09-10 11:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "小岛秀夫回应《PHYSINT》游戏转投微软合作：索尼今年 6 月突然通知取消开发",
+    "url": "https://www.ithome.com/1/000/627.htm",
+    "source": "IT之家",
+    "time": "09-10 11:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "PS 独占变独不占？小岛秀夫谍战游戏新作《PHYSINT》取消与索尼合作，转投微软 Xbox",
+    "url": "https://www.ithome.com/1/000/623.htm",
+    "source": "IT之家",
+    "time": "09-10 11:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“非遗传统技艺”成文化现象！中国游戏热捧，厂商竟遇到“江湖骗子”？",
+    "url": "http://www.gamelook.com.cn/2026/09/601789/",
+    "source": "GameLook",
+    "time": "09-10 10:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "六联智能介绍 \"Panther Lake 12Xe\" 核显创作游戏本，TDP 最高 100W",
+    "url": "https://www.ithome.com/1/000/613.htm",
+    "source": "IT之家",
+    "time": "09-10 10:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国外独游开发者诉苦：游戏还没发售，已被逆向破解做成小游戏上线抖音！",
+    "url": "http://www.gamelook.com.cn/2026/09/601797/",
+    "source": "GameLook",
+    "time": "09-10 10:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯 QQ 鸿蒙版 App 获 9.2.65 邀测升级，新增宠物功能",
+    "url": "https://www.ithome.com/1/000/598.htm",
+    "source": "IT之家",
+    "time": "09-10 10:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《核爆模拟器》小游戏全球火了！挨炸次数：伊朗第1,美国第2，韩国日本紧随其后",
+    "url": "http://www.gamelook.com.cn/2026/09/601803/",
+    "source": "GameLook",
+    "time": "09-10 09:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "库洛新商标“不完全燃烧”曝光，NAMI要来、还是又一款新游戏？",
+    "url": "http://www.gamelook.com.cn/2026/09/601790/",
+    "source": "GameLook",
+    "time": "09-10 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯《王者万象棋》正式开服：85 位英雄 18 位棋手首日登场，安卓最低骁龙 625、华为鸿蒙需麒麟 9000S",
+    "url": "https://www.ithome.com/1/000/583.htm",
+    "source": "IT之家",
+    "time": "09-10 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "拳头联合创始人表态：“未来要做买断制付费游戏”！",
+    "url": "http://www.gamelook.com.cn/2026/09/601784/",
+    "source": "GameLook",
+    "time": "09-10 09:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英伟达发布 GeForce Game Ready 616.92 显卡驱动：修复闪烁问题，优化多款游戏",
+    "url": "https://www.ithome.com/1/000/447.htm",
+    "source": "IT之家",
+    "time": "09-09 21:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "三款《甄嬛传》新游戏乱战！时隔12年，国民级宫斗IP杀回游戏圈？",
+    "url": "http://www.gamelook.com.cn/2026/09/601771/",
+    "source": "GameLook",
+    "time": "09-09 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(7)",
+   "Bing新闻(4)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
