@@ -2,10 +2,21 @@
  "id": "2026-09-10-wubao",
  "title": "线口监测午报 · 2026年09月10日(周四)",
  "shift": "午报",
- "date": "2026-09-10 20:11",
+ "date": "2026-09-10 20:52",
  "docx": "../briefings/线口监测午报-2026-09-10.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "NASA 与 IBM 联合发布开源月球研究基础大模型，可识别月表冰区与撞击坑",
+    "url": "https://www.ithome.com/1/000/986.htm",
+    "source": "IT之家",
+    "time": "09-10 20:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "德军正评估 30 款 AI 工具，计划 2027 年起用于加快战场决策",
@@ -140,43 +151,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "支持前实习生创业项目：消息称阿里拟领投 AI 评测公司 UniPat 的 3 亿美元融资",
-    "url": "https://www.ithome.com/1/000/856.htm",
-    "source": "IT之家",
-    "time": "09-10 16:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "支付宝设立“智能体涌现奖”：每年投入 1000 万，不会写代码也能参与",
-    "url": "https://www.ithome.com/1/000/848.htm",
-    "source": "IT之家",
-    "time": "09-10 16:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "三星加码AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa29e844ae14e978bbfadbd840e64c0&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-09-10%2fdoc-inirixkn8536649.shtml&c=7262410921140747870&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2a82988034801b58beb03893901af&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-09-10%2fdoc-inirixkn8536649.shtml&c=7262410921140747870&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-10 11:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "闪极loomos L1斩获SIVA年度最佳AI拍摄眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa29e844ae14e978bbfadbd840e64c0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%2597%25AA%25E6%259E%2581loomos-l1%25E6%2596%25A9%25E8%258E%25B7siva%25E5%25B9%25B4%25E5%25BA%25A6%25E6%259C%2580%25E4%25BD%25B3ai%25E6%258B%258D%25E6%2591%2584%25E7%259C%25BC%25E9%2595%259C%2far-AA2bWwFE&c=9635577583702674733&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-10 10:38",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -196,9 +174,42 @@
    {
     "beat": "AI/大模型",
     "title": "上海首个“AI眼镜城市伴游”试点落地！从豫园到外滩，数字科技重构城市漫步",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa29e844ae14e978bbfadbd840e64c0&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-10%2fdoc-inirhvxa5402910.shtml&c=17444073292705478605&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2a82988034801b58beb03893901af&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-10%2fdoc-inirhvxa5402910.shtml&c=17444073292705478605&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-10 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "展会与第27届中国国际光电博览会同期举行，AI眼镜成展会焦点",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2a82988034801b58beb03893901af&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074345280_99994680&c=8748820996811831782&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 04:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜进入新品密集期：充电触点、USB-C和摄像头接口如何做ESD保护",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2a82988034801b58beb03893901af&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074310865_122542932&c=3709268055615947893&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 03:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜智能化分级指导性文件正式发布，行业迎来统一评价标尺",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2a82988034801b58beb03893901af&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260910A090RX00&c=10115192191478420274&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 03:01",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -223,28 +234,6 @@
     "url": "https://www.ithome.com/1/000/885.htm",
     "source": "IT之家",
     "time": "09-10 16:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "刷新全球开源模型多项评测 SOTA，宇树科技开源全新一代通用人形机器人基座模型 UnifoLM-WLA-1.0",
-    "url": "https://www.ithome.com/1/000/837.htm",
-    "source": "IT之家",
-    "time": "09-10 16:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "中国商飞董事长贺东风：将打造人工智能训练场，让人形机器人走进大飞机的生产车间",
-    "url": "https://www.ithome.com/1/000/832.htm",
-    "source": "IT之家",
-    "time": "09-10 16:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -342,6 +331,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "拳头联合创始人表态：“未来要做买断制付费游戏”！",
+    "url": "http://www.gamelook.com.cn/2026/09/601784/",
+    "source": "GameLook",
+    "time": "09-10 09:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -352,7 +352,7 @@
    "IT之家(60)",
    "GameLook(15)",
    "HackerNews(7)",
-   "Bing新闻(9)"
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
