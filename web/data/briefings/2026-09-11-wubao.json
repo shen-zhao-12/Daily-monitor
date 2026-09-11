@@ -2,10 +2,54 @@
  "id": "2026-09-11-wubao",
  "title": "线口监测午报 · 2026年09月11日(周五)",
  "shift": "午报",
- "date": "2026-09-11 12:45",
+ "date": "2026-09-11 14:02",
  "docx": "../briefings/线口监测午报-2026-09-11.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "达尔优推出 A950SE 双模电竞鼠标：自带彩屏智显底座、AIM-WL 传感器，189 元",
+    "url": "https://www.ithome.com/1/001/242.htm",
+    "source": "IT之家",
+    "time": "09-11 14:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蚂蚁集团 CEO 韩歆毅：智能体商业的“ChatGPT”时刻已经到来",
+    "url": "https://www.ithome.com/1/001/238.htm",
+    "source": "IT之家",
+    "time": "09-11 13:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "网易 OpenPods 有道 AI 耳机发售：获苹果 MFi 认证、支持一键通话录音等功能，1499 元",
+    "url": "https://www.ithome.com/1/001/237.htm",
+    "source": "IT之家",
+    "time": "09-11 13:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "支付宝将推 AI 钱包智能体",
+    "url": "https://www.ithome.com/1/001/235.htm",
+    "source": "IT之家",
+    "time": "09-11 13:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "中国软件协会吕卫锋回应“AI 替代程序员”：高度重视，支持从业人员向高附加值岗位转型",
@@ -118,28 +162,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "工信部印发“AI + 软件”专项行动实施方案：支持软件企业与智能手机、智能家居、智能网联汽车等终端厂商联合创新",
-    "url": "https://www.ithome.com/1/001/103.htm",
-    "source": "IT之家",
-    "time": "09-11 08:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "ChatGPT、Claude、Gemini 与 Grok 谈 AI 风险：滥用比主动攻击更现实，生物武器与网络攻击比《终结者》杀手机器人更迫近",
-    "url": "https://www.ithome.com/1/001/102.htm",
-    "source": "IT之家",
-    "time": "09-11 08:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "OpenAI Agents API",
     "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
     "source": "Hacker News",
@@ -163,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "上海首个“AI眼镜城市伴游”试点落地！从豫园到外滩，数字科技重构城市漫步",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fsh.people.com.cn%2fn2%2f2026%2f0911%2fc134768-41693188.html&c=12569001839581333724&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa399717663418b8fa2241ab72336f2&url=https%3a%2f%2fsh.people.com.cn%2fn2%2f2026%2f0911%2fc134768-41693188.html&c=12569001839581333724&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 01:00",
     "summary": "",
@@ -173,8 +195,30 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "灵影正式发布，蚂蚁加码AI终端开放生态",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa399717663418b8fa2241ab72336f2&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A07J1P00&c=12839636099190810815&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 23:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta发布个人AI智能体Muse：可自主执行复杂任务，登陆AI眼镜可期",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa399717663418b8fa2241ab72336f2&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A0673W00&c=16755785510731798607&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 22:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "三星启动带屏AI眼镜研发，目标最快2027年发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074622175_213766&c=727118402194201630&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa399717663418b8fa2241ab72336f2&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074622175_213766&c=727118402194201630&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-10 20:57",
     "summary": "",
@@ -184,19 +228,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenAI限制图像广告投放；千问AI眼镜首次曝光，支持虹膜支付",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074575911_122004016&c=7852497182913248598&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-10 19:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "三星入局AI眼镜新赛道：超小显示屏研发中，未来市场格局生变?",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%2589%25E6%2598%259F%25E5%2585%25A5%25E5%25B1%2580ai%25E7%259C%25BC%25E9%2595%259C%25E6%2596%25B0%25E8%25B5%259B%25E9%2581%2593-%25E8%25B6%2585%25E5%25B0%258F%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%25E7%25A0%2594%25E5%258F%2591%25E4%25B8%25AD-%25E6%259C%25AA%25E6%259D%25A5%25E5%25B8%2582%25E5%259C%25BA%25E6%25A0%25BC%25E5%25B1%2580%25E7%2594%259F%25E5%258F%2598%2far-AA2bXPRM&c=9244463685230854782&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa399717663418b8fa2241ab72336f2&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%2589%25E6%2598%259F%25E5%2585%25A5%25E5%25B1%2580ai%25E7%259C%25BC%25E9%2595%259C%25E6%2596%25B0%25E8%25B5%259B%25E9%2581%2593-%25E8%25B6%2585%25E5%25B0%258F%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%25E7%25A0%2594%25E5%258F%2591%25E4%25B8%25AD-%25E6%259C%25AA%25E6%259D%25A5%25E5%25B8%2582%25E5%259C%25BA%25E6%25A0%25BC%25E5%25B1%2580%25E7%2594%259F%25E5%258F%2598%2far-AA2bXPRM&c=9244463685230854782&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-10 17:50",
     "summary": "",
@@ -206,21 +239,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "source": "Hacker News",
-    "time": "09-10 14:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI开始为游客当导游！ 从百年豫园到海派外滩BFC， 上海首个“AI眼镜城市伴游”试点落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260910A06U4L00&c=5664202272932772518&mkt=en-us",
+    "title": "三星加码AI眼镜 正研发超小显示屏 预计最早2027年下半年发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa399717663418b8fa2241ab72336f2&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074245509_122029351&c=1098497940197164791&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-10 14:33",
+    "time": "09-10 14:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -319,28 +341,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "索尼 SIE 第一方游戏《漫威金刚狼》获 IGN 6 分评价“内容重复度较高、中后期较为无聊”",
-    "url": "https://www.ithome.com/1/001/098.htm",
-    "source": "IT之家",
-    "time": "09-11 08:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "消息称拳头游戏与预测平台 Kalshi、Polymarket 讨论电子竞技赞助事宜",
-    "url": "https://www.ithome.com/1/001/096.htm",
-    "source": "IT之家",
-    "time": "09-11 08:39",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -351,7 +351,7 @@
    "IT之家(60)",
    "GameLook(15)",
    "HackerNews(6)",
-   "Bing新闻(8)"
+   "Bing新闻(9)"
   ],
   "fail": [
    "36氪(no entries)"
