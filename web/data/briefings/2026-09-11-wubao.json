@@ -1,0 +1,360 @@
+{
+ "id": "2026-09-11-wubao",
+ "title": "线口监测午报 · 2026年09月11日(周五)",
+ "shift": "午报",
+ "date": "2026-09-11 12:45",
+ "docx": "../briefings/线口监测午报-2026-09-11.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "中国软件协会吕卫锋回应“AI 替代程序员”：高度重视，支持从业人员向高附加值岗位转型",
+    "url": "https://www.ithome.com/1/001/220.htm",
+    "source": "IT之家",
+    "time": "09-11 12:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奥尔特曼称 OpenAI 考虑放缓前沿 AI 开发，希望其他公司也能跟进",
+    "url": "https://www.ithome.com/1/001/219.htm",
+    "source": "IT之家",
+    "time": "09-11 12:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "机械革命 2026 款翼龙 15 Air 笔记本 R7 H 449 版本发售：搭 24G + 1T + RTX5060 售 13999 元（国补后 9999 元）",
+    "url": "https://www.ithome.com/1/001/215.htm",
+    "source": "IT之家",
+    "time": "09-11 11:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 VS Code 1.137 发布：为宠物征名、按小时 / 日 / 周调度 AI 智能体任务",
+    "url": "https://www.ithome.com/1/001/147.htm",
+    "source": "IT之家",
+    "time": "09-11 11:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "让机器狗替你买东西：支付宝宣布首推“AI 付 · 具身智能”，网友戏称“狗腿付”",
+    "url": "https://www.ithome.com/1/001/145.htm",
+    "source": "IT之家",
+    "time": "09-11 11:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Flowtica Verso AI 随身记设备发布：配 259PPI 无背光 LCD 面板、支持磁吸功能",
+    "url": "https://www.ithome.com/1/001/139.htm",
+    "source": "IT之家",
+    "time": "09-11 10:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖",
+    "url": "https://www.ithome.com/1/001/129.htm",
+    "source": "IT之家",
+    "time": "09-11 10:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果详解 Apple Watch 的 Siri Recap：全天谈话划重点、AI 摘要 7 天自动删除",
+    "url": "https://www.ithome.com/1/001/127.htm",
+    "source": "IT之家",
+    "time": "09-11 10:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 2026 返校季活动更新：AirPods 4 升级为 AirPods 5",
+    "url": "https://www.ithome.com/1/001/122.htm",
+    "source": "IT之家",
+    "time": "09-11 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "《原神》63位角色声音“被AI盗用”，米哈游获赔75万元！",
+    "url": "http://www.gamelook.com.cn/2026/09/601901/",
+    "source": "GameLook",
+    "time": "09-11 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "工信部印发“AI + 软件”专项行动实施方案：支持软件企业与智能手机、智能家居、智能网联汽车等终端厂商联合创新",
+    "url": "https://www.ithome.com/1/001/103.htm",
+    "source": "IT之家",
+    "time": "09-11 08:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "ChatGPT、Claude、Gemini 与 Grok 谈 AI 风险：滥用比主动攻击更现实，生物武器与网络攻击比《终结者》杀手机器人更迫近",
+    "url": "https://www.ithome.com/1/001/102.htm",
+    "source": "IT之家",
+    "time": "09-11 08:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI Agents API",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "source": "Hacker News",
+    "time": "09-11 03:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "source": "Hacker News",
+    "time": "09-11 01:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "上海首个“AI眼镜城市伴游”试点落地！从豫园到外滩，数字科技重构城市漫步",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fsh.people.com.cn%2fn2%2f2026%2f0911%2fc134768-41693188.html&c=12569001839581333724&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-11 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三星启动带屏AI眼镜研发，目标最快2027年发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074622175_213766&c=727118402194201630&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 20:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI限制图像广告投放；千问AI眼镜首次曝光，支持虹膜支付",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074575911_122004016&c=7852497182913248598&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 19:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三星入局AI眼镜新赛道：超小显示屏研发中，未来市场格局生变?",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%2589%25E6%2598%259F%25E5%2585%25A5%25E5%25B1%2580ai%25E7%259C%25BC%25E9%2595%259C%25E6%2596%25B0%25E8%25B5%259B%25E9%2581%2593-%25E8%25B6%2585%25E5%25B0%258F%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%25E7%25A0%2594%25E5%258F%2591%25E4%25B8%25AD-%25E6%259C%25AA%25E6%259D%25A5%25E5%25B8%2582%25E5%259C%25BA%25E6%25A0%25BC%25E5%25B1%2580%25E7%2594%259F%25E5%258F%2598%2far-AA2bXPRM&c=9244463685230854782&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 17:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "source": "Hacker News",
+    "time": "09-10 14:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI开始为游客当导游！ 从百年豫园到海派外滩BFC， 上海首个“AI眼镜城市伴游”试点落地",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa387818ece498cbae4f6f8106a171b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260910A06U4L00&c=5664202272932772518&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 14:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "纪念 9·11 事件 25 周年，2977 架无人机在美国纽约重现世贸中心双子塔",
+    "url": "https://www.ithome.com/1/001/148.htm",
+    "source": "IT之家",
+    "time": "09-11 11:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "工信部等九部门：到 2030 年纯电动乘用车百公里平均电耗达 11.5kWh 左右，自动驾驶汽车规模应用",
+    "url": "https://www.ithome.com/1/001/115.htm",
+    "source": "IT之家",
+    "time": "09-11 09:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼 SIE 恐怖游戏《直到黎明 2》开启预购，PSN 港服 278 港币起",
+    "url": "https://www.ithome.com/1/001/204.htm",
+    "source": "IT之家",
+    "time": "09-11 11:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "育碧经典游戏《孤岛惊魂 3》及血龙 DLC 将于明年春季登陆任天堂 Switch 2 平台",
+    "url": "https://www.ithome.com/1/001/189.htm",
+    "source": "IT之家",
+    "time": "09-11 11:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼 SIE 在集体诉讼中称“消费者并非拥有数字游戏所有权”，玩家列举官方先前措辞清单“打脸”",
+    "url": "https://www.ithome.com/1/001/144.htm",
+    "source": "IT之家",
+    "time": "09-11 11:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "刘慈欣硬撑中国科幻，《流浪地球：望日》游戏登上热搜！团队热血，玩家理性",
+    "url": "http://www.gamelook.com.cn/2026/09/601907/",
+    "source": "GameLook",
+    "time": "09-11 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称沙特主权财富基金 PIF 考虑合并旗下两大游戏业务 EA 与 Savvy Games",
+    "url": "https://www.ithome.com/1/001/116.htm",
+    "source": "IT之家",
+    "time": "09-11 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“小岛秀夫的游戏都要自救”！索尼官宣砍掉《PHYSINT》，小岛拉来微软救场",
+    "url": "http://www.gamelook.com.cn/2026/09/601869/",
+    "source": "GameLook",
+    "time": "09-11 09:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼 SIE 第一方游戏《漫威金刚狼》获 IGN 6 分评价“内容重复度较高、中后期较为无聊”",
+    "url": "https://www.ithome.com/1/001/098.htm",
+    "source": "IT之家",
+    "time": "09-11 08:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称拳头游戏与预测平台 Kalshi、Polymarket 讨论电子竞技赞助事宜",
+    "url": "https://www.ithome.com/1/001/096.htm",
+    "source": "IT之家",
+    "time": "09-11 08:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(6)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
