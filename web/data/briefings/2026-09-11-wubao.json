@@ -2,10 +2,32 @@
  "id": "2026-09-11-wubao",
  "title": "线口监测午报 · 2026年09月11日(周五)",
  "shift": "午报",
- "date": "2026-09-11 20:10",
+ "date": "2026-09-11 20:47",
  "docx": "../briefings/线口监测午报-2026-09-11.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 将继续提供 V4 Pro API 调用服务：原定 9 月 14 日下线，计费方式保持不变",
+    "url": "https://www.ithome.com/1/001/443.htm",
+    "source": "IT之家",
+    "time": "09-11 20:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
+    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "source": "Hacker News",
+    "time": "09-11 19:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "智能体时代的移动计算，Arm 通过一场大会给出自己的答案",
@@ -108,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "讯飞AI眼镜牵手蚂蚁灵影AOS，开启智能穿戴从工具到生活入口新篇章",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25AE%25AF%25E9%25A3%259Eai%25E7%259C%25BC%25E9%2595%259C%25E7%2589%25B5%25E6%2589%258B%25E8%259A%2582%25E8%259A%2581%25E7%2581%25B5%25E5%25BD%25B1aos-%25E5%25BC%2580%25E5%2590%25AF%25E6%2599%25BA%25E8%2583%25BD%25E7%25A9%25BF%25E6%2588%25B4%25E4%25BB%258E%25E5%25B7%25A5%25E5%2585%25B7%25E5%2588%25B0%25E7%2594%259F%25E6%25B4%25BB%25E5%2585%25A5%25E5%258F%25A3%25E6%2596%25B0%25E7%25AF%2587%25E7%25AB%25A0%2far-AA2c1AOg&c=6910850393977408930&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25AE%25AF%25E9%25A3%259Eai%25E7%259C%25BC%25E9%2595%259C%25E7%2589%25B5%25E6%2589%258B%25E8%259A%2582%25E8%259A%2581%25E7%2581%25B5%25E5%25BD%25B1aos-%25E5%25BC%2580%25E5%2590%25AF%25E6%2599%25BA%25E8%2583%25BD%25E7%25A9%25BF%25E6%2588%25B4%25E4%25BB%258E%25E5%25B7%25A5%25E5%2585%25B7%25E5%2588%25B0%25E7%2594%259F%25E6%25B4%25BB%25E5%2585%25A5%25E5%258F%25A3%25E6%2596%25B0%25E7%25AF%2587%25E7%25AB%25A0%2far-AA2c1AOg&c=6910850393977408930&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 11:38",
     "summary": "",
@@ -119,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "讯飞AI眼镜获2026 SIVA年度最佳AR眼镜 权威大奖印证AI硬件实力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2fwww.163.com%2fnews%2farticle%2fL6HLP2KR00019UD6.html&c=8297034704332945973&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fwww.163.com%2fnews%2farticle%2fL6HLP2KR00019UD6.html&c=8297034704332945973&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 10:25",
     "summary": "",
@@ -141,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜“看向”办公室，能否成为下一块“生产力屏”？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A0EJC800&c=14466271073668782835&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A0EJC800&c=14466271073668782835&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 06:32",
     "summary": "",
@@ -151,8 +173,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI眼镜防近视、3D打印鞋上脚、智慧餐台4秒结账，这场成果展展出一幕日常版“数智生活”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2598%25B2%25E8%25BF%2591%25E8%25A7%2586-3d%25E6%2589%2593%25E5%258D%25B0%25E9%259E%258B%25E4%25B8%258A%25E8%2584%259A-%25E6%2599%25BA%25E6%2585%25A7%25E9%25A4%2590%25E5%258F%25B04%25E7%25A7%2592%25E7%25BB%2593%25E8%25B4%25A6-%25E8%25BF%2599%25E5%259C%25BA%25E6%2588%2590%25E6%259E%259C%25E5%25B1%2595%25E5%25B1%2595%25E5%2587%25BA%25E4%25B8%2580%25E5%25B9%2595%25E6%2597%25A5%25E5%25B8%25B8%25E7%2589%2588-%25E6%2595%25B0%25E6%2599%25BA%25E7%2594%259F%25E6%25B4%25BB%2far-AA2c02qr&c=16123456612344233323&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-11 05:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "讯飞AI眼镜接入蚂蚁灵影AOS ，从“AI工具”跃升为城市生活新入口",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074842695_104421&c=3413936975555185963&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074842695_104421&c=3413936975555185963&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 04:05",
     "summary": "",
@@ -174,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "千问AI眼镜携支付宝升级“看一下支付”，首次支持虹膜识别",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074810804_122672843&c=16990737953103665763&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074810804_122672843&c=16990737953103665763&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 02:57",
     "summary": "",
@@ -185,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "蚂蚁发布“灵影”开放平台 AI眼镜等新终端迎来Agent运行底座",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirmvzz2358325.shtml&c=13985758624084469044&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirmvzz2358325.shtml&c=13985758624084469044&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 02:40",
     "summary": "",
@@ -195,10 +228,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Detecting and countering misuse of AI: September 2026",
-    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "source": "Hacker News",
-    "time": "09-11 01:23",
+    "title": "上海市网络游戏行业协会技术主题沙龙：AI 在游戏生产中的落地提效",
+    "url": "http://www.gamelook.com.cn/2026/09/601947/",
+    "source": "GameLook",
+    "time": "09-11 01:11",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -207,7 +240,7 @@
    {
     "beat": "AI/大模型",
     "title": "上海首个“AI眼镜城市伴游”试点落地！从豫园到外滩，数字科技重构城市漫步",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2fsh.people.com.cn%2fn2%2f2026%2f0911%2fc134768-41693188.html&c=12569001839581333724&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fsh.people.com.cn%2fn2%2f2026%2f0911%2fc134768-41693188.html&c=12569001839581333724&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 01:00",
     "summary": "",
@@ -218,12 +251,23 @@
    {
     "beat": "AI/大模型",
     "title": "广州AI眼镜产业园动工，2.1平方公里瞄准哪些缺口？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A08O3100&c=9136325831720330224&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A08O3100&c=9136325831720330224&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 00:59",
     "summary": "",
     "grade": "C",
     "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三星入局AI眼镜新赛道：超小显示屏研发中，未来市场格局生变?",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%2589%25E6%2598%259F%25E5%2585%25A5%25E5%25B1%2580ai%25E7%259C%25BC%25E9%2595%259C%25E6%2596%25B0%25E8%25B5%259B%25E9%2581%2593-%25E8%25B6%2585%25E5%25B0%258F%25E6%2598%25BE%25E7%25A4%25BA%25E5%25B1%258F%25E7%25A0%2594%25E5%258F%2591%25E4%25B8%25AD-%25E6%259C%25AA%25E6%259D%25A5%25E5%25B8%2582%25E5%259C%25BA%25E6%25A0%25BC%25E5%25B1%2580%25E7%2594%259F%25E5%258F%2598%2far-AA2bXPRM&c=9244463685230854782&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-10 17:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
     "angle": ""
    },
    {
@@ -240,20 +284,9 @@
    {
     "beat": "AI/大模型",
     "title": "三星加码AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-09-10%2fdoc-inirixkn8536649.shtml&c=7262410921140747870&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3f868e5f04101ba2524798309ed59&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-09-10%2fdoc-inirixkn8536649.shtml&c=7262410921140747870&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-10 11:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "展会与第27届中国国际光电博览会同期举行，AI眼镜成展会焦点",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3efa9d9974692b7401e7b666d3ba7&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E5%25B1%2595%25E4%25BC%259A%25E4%25B8%258E%25E7%25AC%25AC27%25E5%25B1%258A%25E4%25B8%25AD%25E5%259B%25BD%25E5%259B%25BD%25E9%2599%2585%25E5%2585%2589%25E7%2594%25B5%25E5%258D%259A%25E8%25A7%2588%25E4%25BC%259A%25E5%2590%258C%25E6%259C%259F%25E4%25B8%25BE%25E8%25A1%258C-ai%25E7%259C%25BC%25E9%2595%259C%25E6%2588%2590%25E5%25B1%2595%25E4%25BC%259A%25E7%2584%25A6%25E7%2582%25B9%2far-AA2bX9FW&c=2951431918410369643&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-10 10:40",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -261,7 +294,19 @@
    }
   ],
   "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "曝一汽-大众捷达品牌首款纯电轿车 M6 采用纯视觉智驾，预计下月中上市",
+    "url": "https://www.ithome.com/1/001/445.htm",
+    "source": "IT之家",
+    "time": "09-11 20:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
@@ -296,50 +341,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "国外独游开发者诉苦：游戏还没发售，已被逆向破解做成小游戏上线抖音！",
-    "url": "http://www.gamelook.com.cn/2026/09/601797/",
-    "source": "GameLook",
-    "time": "09-10 10:06",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《核爆模拟器》小游戏全球火了！挨炸次数：伊朗第1,美国第2，韩国日本紧随其后",
-    "url": "http://www.gamelook.com.cn/2026/09/601803/",
-    "source": "GameLook",
-    "time": "09-10 09:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "库洛新商标“不完全燃烧”曝光，NAMI要来、还是又一款新游戏？",
-    "url": "http://www.gamelook.com.cn/2026/09/601790/",
-    "source": "GameLook",
-    "time": "09-10 09:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "拳头联合创始人表态：“未来要做买断制付费游戏”！",
-    "url": "http://www.gamelook.com.cn/2026/09/601784/",
-    "source": "GameLook",
-    "time": "09-10 09:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -348,9 +349,9 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(15)",
+   "GameLook(16)",
    "HackerNews(7)",
-   "Bing新闻(10)"
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
