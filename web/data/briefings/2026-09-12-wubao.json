@@ -2,10 +2,32 @@
  "id": "2026-09-12-wubao",
  "title": "线口监测午报 · 2026年09月12日(周六)",
  "shift": "午报",
- "date": "2026-09-12 12:40",
+ "date": "2026-09-12 13:49",
  "docx": "../briefings/线口监测午报-2026-09-12.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "荣耀亲选 DigaCite AI 相册管家上架：11 英寸全高清面板、内置 AI 创作功能，999 元",
+    "url": "https://www.ithome.com/1/001/557.htm",
+    "source": "IT之家",
+    "time": "09-12 13:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "25 位菲尔兹奖得主联合警告“AI 在数学领域严重错位”，邓煜调侃要退休回家写百合小说",
+    "url": "https://www.ithome.com/1/001/554.htm",
+    "source": "IT之家",
+    "time": "09-12 12:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
@@ -107,10 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Fairphone 旗下 Fairbuds 2 耳机外观谍照曝光：可选黑 / 绿双色，今年第四季度上市",
-    "url": "https://www.ithome.com/1/001/481.htm",
-    "source": "IT之家",
-    "time": "09-12 06:55",
+    "title": "AI researchers debate how close we are to recursive self-improvement",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "source": "Hacker News",
+    "time": "09-12 05:35",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -130,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "下一个AI爆发点是智能终端？外滩大会给出信号",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609123872513324.html&c=5730385222568041160&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4e7e2fed0422d8966175b396e848b&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609123872513324.html&c=5730385222568041160&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 00:59",
     "summary": "",
@@ -141,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "鸿石云锦亮相 CIOE：让彩色 MicroLED 进入更轻的 AI 眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4e7e2fed0422d8966175b396e848b&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 00:35",
     "summary": "",
@@ -151,32 +173,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值",
-    "url": "https://www.ithome.com/1/001/474.htm",
-    "source": "IT之家",
-    "time": "09-11 23:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Meta AI眼镜引发隐私风波 苹果新CEO回应“变态眼镜”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260912A02WOF00&c=160959842223637552&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4e7e2fed0422d8966175b396e848b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260912A02WOF00&c=160959842223637552&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 20:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苹果CEO回应“变态眼镜”隐私问题，AI眼镜时代的挑战与机遇",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075110306_122004016&c=1501159076907431036&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-11 20:21",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -195,8 +195,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "讯飞AI眼镜接入蚂蚁灵影AOS ，从“AI工具”跃升为城市生活新入口",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4e7e2fed0422d8966175b396e848b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074855067_114822&c=609165121562297342&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-11 18:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "广州AI眼镜产业园动工，2.1平方公里瞄准哪些缺口？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A08O3100&c=9136325831720330224&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4e7e2fed0422d8966175b396e848b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A08O3100&c=9136325831720330224&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 14:59",
     "summary": "",
@@ -207,31 +218,9 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜爆发前夜！康冠科技多款产品正冲刺2026下半年，轻量化人机交互要来了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074845436_122066679&c=1755317224027464572&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4e7e2fed0422d8966175b396e848b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074845436_122066679&c=1755317224027464572&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 13:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "讯飞AI眼镜牵手蚂蚁灵影AOS，开启智能穿戴从工具到生活入口新篇章",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25AE%25AF%25E9%25A3%259Eai%25E7%259C%25BC%25E9%2595%259C%25E7%2589%25B5%25E6%2589%258B%25E8%259A%2582%25E8%259A%2581%25E7%2581%25B5%25E5%25BD%25B1aos-%25E5%25BC%2580%25E5%2590%25AF%25E6%2599%25BA%25E8%2583%25BD%25E7%25A9%25BF%25E6%2588%25B4%25E4%25BB%258E%25E5%25B7%25A5%25E5%2585%25B7%25E5%2588%25B0%25E7%2594%259F%25E6%25B4%25BB%25E5%2585%25A5%25E5%258F%25A3%25E6%2596%25B0%25E7%25AF%2587%25E7%25AB%25A0%2far-AA2c1AOg&c=6910850393977408930&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-11 11:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "《原神》63位角色声音“被AI盗用”，米哈游获赔75万元！",
-    "url": "http://www.gamelook.com.cn/2026/09/601901/",
-    "source": "GameLook",
-    "time": "09-11 10:02",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -280,6 +269,17 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "腾讯 QQ 开放高校群认证，旨在防范不法分子私设山寨群聊诈骗新生钱财",
+    "url": "https://www.ithome.com/1/001/561.htm",
+    "source": "IT之家",
+    "time": "09-12 13:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "《胡闹厨房》团队新作《怪镇奇旅》明年春季登陆 PC 平台，官方同步公布游戏实机画面",
     "url": "https://www.ithome.com/1/001/532.htm",
     "source": "IT之家",
@@ -321,20 +321,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
    {
-    "beat": "游戏/电竞/平台公司",
-    "title": "刘慈欣硬撑中国科幻，《流浪地球：望日》游戏登上热搜！团队热血，玩家理性",
-    "url": "http://www.gamelook.com.cn/2026/09/601907/",
-    "source": "GameLook",
-    "time": "09-11 10:44",
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "京东：购苹果 iPhone 18 Pro 系列手机以旧换新至高补 900 元、早鸟票中签用户赠 AppleCare Services 原厂服务",
+    "url": "https://www.ithome.com/1/001/556.htm",
+    "source": "IT之家",
+    "time": "09-12 13:05",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "消费/以旧换新/新餐饮": [
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "因采购到低价内存模块，Framework 宣布为笔记本产品降价并向消费者提供差价退款",
@@ -353,7 +353,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(8)",
-   "HackerNews(7)",
+   "HackerNews(8)",
    "Bing新闻(8)"
   ],
   "fail": [
