@@ -1,0 +1,363 @@
+{
+ "id": "2026-09-12-wubao",
+ "title": "线口监测午报 · 2026年09月12日(周六)",
+ "shift": "午报",
+ "date": "2026-09-12 12:40",
+ "docx": "../briefings/线口监测午报-2026-09-12.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
+    "url": "https://www.ithome.com/1/001/514.htm",
+    "source": "IT之家",
+    "time": "09-12 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "第三方公司基于三星 Galaxy Watch 8 打造 Bark Watch 儿童手表，内置 AI 风险监测功能",
+    "url": "https://www.ithome.com/1/001/505.htm",
+    "source": "IT之家",
+    "time": "09-12 08:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国补后 3499 元起，全新一代华为 MatePad Air / 悦享款平板电脑今日开售",
+    "url": "https://www.ithome.com/1/001/503.htm",
+    "source": "IT之家",
+    "time": "09-12 08:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 开口说话了：灰度测试 AI 语音对话，支持四种音色",
+    "url": "https://www.ithome.com/1/001/498.htm",
+    "source": "IT之家",
+    "time": "09-12 08:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
+    "url": "https://www.ithome.com/1/001/497.htm",
+    "source": "IT之家",
+    "time": "09-12 08:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IT早报 0912：央视曝光 AI 中转站低价灰产；新版充电宝 3C 认证标准落地；36.9 万起特斯拉 Model Y 高性能版上市；哪吒汽车拟获 30 亿元偿债重整...",
+    "url": "https://www.ithome.com/1/001/495.htm",
+    "source": "IT之家",
+    "time": "09-12 07:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 承认其 AI 智能体曾对 Ruby 语言包管理器 RubyGems 发起网络攻击",
+    "url": "https://www.ithome.com/1/001/492.htm",
+    "source": "IT之家",
+    "time": "09-12 07:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "source": "Hacker News",
+    "time": "09-12 07:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
+    "url": "https://www.ithome.com/1/001/485.htm",
+    "source": "IT之家",
+    "time": "09-12 07:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Fairphone 旗下 Fairbuds 2 耳机外观谍照曝光：可选黑 / 绿双色，今年第四季度上市",
+    "url": "https://www.ithome.com/1/001/481.htm",
+    "source": "IT之家",
+    "time": "09-12 06:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "source": "Hacker News",
+    "time": "09-12 01:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "下一个AI爆发点是智能终端？外滩大会给出信号",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609123872513324.html&c=5730385222568041160&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-12 00:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "鸿石云锦亮相 CIOE：让彩色 MicroLED 进入更轻的 AI 眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-12 00:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值",
+    "url": "https://www.ithome.com/1/001/474.htm",
+    "source": "IT之家",
+    "time": "09-11 23:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta AI眼镜引发隐私风波 苹果新CEO回应“变态眼镜”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260912A02WOF00&c=160959842223637552&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-11 20:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果CEO回应“变态眼镜”隐私问题，AI眼镜时代的挑战与机遇",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075110306_122004016&c=1501159076907431036&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-11 20:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Claude is only available to people over 18 years",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "source": "Hacker News",
+    "time": "09-11 18:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "广州AI眼镜产业园动工，2.1平方公里瞄准哪些缺口？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A08O3100&c=9136325831720330224&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-11 14:59",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜爆发前夜！康冠科技多款产品正冲刺2026下半年，轻量化人机交互要来了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074845436_122066679&c=1755317224027464572&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-11 13:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "讯飞AI眼镜牵手蚂蚁灵影AOS，开启智能穿戴从工具到生活入口新篇章",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4d7baf39f4f6ba4563dbb58d3d325&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25AE%25AF%25E9%25A3%259Eai%25E7%259C%25BC%25E9%2595%259C%25E7%2589%25B5%25E6%2589%258B%25E8%259A%2582%25E8%259A%2581%25E7%2581%25B5%25E5%25BD%25B1aos-%25E5%25BC%2580%25E5%2590%25AF%25E6%2599%25BA%25E8%2583%25BD%25E7%25A9%25BF%25E6%2588%25B4%25E4%25BB%258E%25E5%25B7%25A5%25E5%2585%25B7%25E5%2588%25B0%25E7%2594%259F%25E6%25B4%25BB%25E5%2585%25A5%25E5%258F%25A3%25E6%2596%25B0%25E7%25AF%2587%25E7%25AB%25A0%2far-AA2c1AOg&c=6910850393977408930&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-11 11:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "《原神》63位角色声音“被AI盗用”，米哈游获赔75万元！",
+    "url": "http://www.gamelook.com.cn/2026/09/601901/",
+    "source": "GameLook",
+    "time": "09-11 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "source": "Hacker News",
+    "time": "09-12 02:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华境 S 汽车新增 4 款配置：标配华为乾崑智驾 ADS Pro 增强版，支持外接拓展屏",
+    "url": "https://www.ithome.com/1/001/515.htm",
+    "source": "IT之家",
+    "time": "09-12 09:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "外卖新规实施三个月，央视探访看到店员徒手抓烤鸡、明厨亮灶摄像头对着天花板",
+    "url": "https://www.ithome.com/1/001/509.htm",
+    "source": "IT之家",
+    "time": "09-12 09:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《胡闹厨房》团队新作《怪镇奇旅》明年春季登陆 PC 平台，官方同步公布游戏实机画面",
+    "url": "https://www.ithome.com/1/001/532.htm",
+    "source": "IT之家",
+    "time": "09-12 11:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "神舟为战神 S8 游戏本带回“酷睿 i5-13420H + 16G + 500G + RTX 4060“规格，7999 元",
+    "url": "https://www.ithome.com/1/001/508.htm",
+    "source": "IT之家",
+    "time": "09-12 09:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "创新推出 Creative B3 电竞音响：内置麦克风、提供 RGB 灯效，339 元",
+    "url": "https://www.ithome.com/1/001/506.htm",
+    "source": "IT之家",
+    "time": "09-12 08:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "罗布乐思 Roblox：今年底推出网页版游戏、明年上线离线游玩功能",
+    "url": "https://www.ithome.com/1/001/491.htm",
+    "source": "IT之家",
+    "time": "09-12 07:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "刘慈欣硬撑中国科幻，《流浪地球：望日》游戏登上热搜！团队热血，玩家理性",
+    "url": "http://www.gamelook.com.cn/2026/09/601907/",
+    "source": "GameLook",
+    "time": "09-11 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "因采购到低价内存模块，Framework 宣布为笔记本产品降价并向消费者提供差价退款",
+    "url": "https://www.ithome.com/1/001/489.htm",
+    "source": "IT之家",
+    "time": "09-12 07:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(8)",
+   "HackerNews(7)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
