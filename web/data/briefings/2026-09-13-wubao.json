@@ -2,7 +2,7 @@
  "id": "2026-09-13-wubao",
  "title": "线口监测午报 · 2026年09月13日(周日)",
  "shift": "午报",
- "date": "2026-09-13 12:53",
+ "date": "2026-09-13 14:12",
  "docx": "../briefings/线口监测午报-2026-09-13.docx",
  "sections": {
   "AI/大模型": [
@@ -96,17 +96,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "A20 Pro 芯片 AI 跑分曝光：苹果 iPhone 18 Pro NPU 较前代最高增幅 51.53%",
-    "url": "https://www.ithome.com/1/001/675.htm",
-    "source": "IT之家",
-    "time": "09-13 07:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
     "url": "https://withspecific.com/benchmarks/real-swe",
     "source": "Hacker News",
@@ -119,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果新CEO回应AI眼镜隐私争议：被问“变态眼镜”时笑了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa62c3472c1491db4da69ae622537b3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075307711_447547&c=10772751078408929294&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa63ee4858748c0a945d337ad947021&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075307711_447547&c=10772751078408929294&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-13 01:36",
     "summary": "",
@@ -141,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "以创新能源解决方案释放AI眼镜全天候潜能 豪鹏科技亮相IFA 2026",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa62c3472c1491db4da69ae622537b3&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa63ee4858748c0a945d337ad947021&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 20:02",
     "summary": "",
@@ -151,19 +140,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Meta AI眼镜引发隐私风波，苹果新CEO回应“变态眼镜”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa62c3472c1491db4da69ae622537b3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260912A02WOF00%3fadChannelId%3dtech&c=7747088083212765168&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-12 10:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "鸿石云锦亮相 CIOE：让彩色 MicroLED 进入更轻的 AI 眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa62c3472c1491db4da69ae622537b3&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa63ee4858748c0a945d337ad947021&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 00:35",
     "summary": "",
@@ -185,23 +163,12 @@
    {
     "beat": "AI/大模型",
     "title": "广州AI眼镜产业园动工，2.1平方公里瞄准哪些缺口？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa62c3472c1491db4da69ae622537b3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A08O3100&c=9136325831720330224&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa63ee4858748c0a945d337ad947021&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A08O3100&c=9136325831720330224&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-11 14:59",
     "summary": "",
     "grade": "C",
     "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜爆发前夜！康冠科技多款产品正冲刺2026下半年，轻量化人机交互要来了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa62c3472c1491db4da69ae622537b3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1074845436_122066679&c=1755317224027464572&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-11 13:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
     "angle": ""
    }
   ],
@@ -286,7 +253,7 @@
    "IT之家(60)",
    "GameLook(0)",
    "HackerNews(6)",
-   "Bing新闻(6)"
+   "Bing新闻(4)"
   ],
   "fail": [
    "36氪(no entries)"
