@@ -2,7 +2,7 @@
  "id": "2026-09-13-wubao",
  "title": "线口监测午报 · 2026年09月13日(周日)",
  "shift": "午报",
- "date": "2026-09-13 20:41",
+ "date": "2026-09-13 21:16",
  "docx": "../briefings/线口监测午报-2026-09-13.docx",
  "sections": {
   "AI/大模型": [
@@ -118,19 +118,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "英飞凌ICIC 2026 圆满落幕——当AI从概念走进现实",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-13%2fdoc-inirsuvt0243325.shtml&c=6553374712654037734&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-13 06:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "苹果新CEO回应AI眼镜隐私争议：被问“变态眼镜”时笑了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075307711_447547&c=10772751078408929294&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6a23f4e2a4d1c8b1d62bef718bf52&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075307711_447547&c=10772751078408929294&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-13 01:36",
     "summary": "",
@@ -141,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260913A05PWZ00&c=12796531450623894124&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6a23f4e2a4d1c8b1d62bef718bf52&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260913A05PWZ00&c=12796531450623894124&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-13 00:16",
     "summary": "",
@@ -163,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "以创新能源解决方案释放AI眼镜全天候潜能 豪鹏科技亮相IFA 2026",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6a23f4e2a4d1c8b1d62bef718bf52&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 20:02",
     "summary": "",
@@ -174,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "鸿石云锦亮相 CIOE：让彩色 MicroLED 进入更轻的 AI 眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6a23f4e2a4d1c8b1d62bef718bf52&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 00:35",
     "summary": "",
@@ -277,7 +266,7 @@
    "IT之家(60)",
    "GameLook(0)",
    "HackerNews(4)",
-   "Bing新闻(5)"
+   "Bing新闻(4)"
   ],
   "fail": [
    "36氪(no entries)"
