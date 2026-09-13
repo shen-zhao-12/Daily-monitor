@@ -2,16 +2,16 @@
  "id": "2026-09-13-wubao",
  "title": "线口监测午报 · 2026年09月13日(周日)",
  "shift": "午报",
- "date": "2026-09-13 14:12",
+ "date": "2026-09-13 20:41",
  "docx": "../briefings/线口监测午报-2026-09-13.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "荣耀 Play11 手机发售：骁龙 4 Gen4、AI 一键关广告弹窗，1399 元起",
-    "url": "https://www.ithome.com/1/001/731.htm",
+    "title": "谷歌 DeepMind 安全研究员离职，称 AI 五年内造成巨大危害的概率高得吓人",
+    "url": "https://www.ithome.com/1/001/843.htm",
     "source": "IT之家",
-    "time": "09-13 11:02",
+    "time": "09-13 20:21",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "曜越推出 AI 工作站机箱 AX1000，支持双 SSI-EEB 系统强劲配置",
-    "url": "https://www.ithome.com/1/001/715.htm",
+    "title": "智谱宣布完成约 50 亿美元融资，用于下一代 GLM 基础模型研发等",
+    "url": "https://www.ithome.com/1/001/833.htm",
     "source": "IT之家",
-    "time": "09-13 10:10",
+    "time": "09-13 18:50",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -30,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "贝尔金推出新款桌面充电基座：支持苹果 iPhone 25W + AirPods 5W 无线充，429 元",
-    "url": "https://www.ithome.com/1/001/714.htm",
+    "title": "英国试点 AI 训练营，帮助待业青年破解就业难题",
+    "url": "https://www.ithome.com/1/001/822.htm",
     "source": "IT之家",
-    "time": "09-13 10:05",
+    "time": "09-13 17:45",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,10 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Anthropic CEO 阿莫迪呼吁放缓前沿 AI 模型开发后，xAI 马斯克、OpenAI 奥尔特曼等业界大佬赞同",
-    "url": "https://www.ithome.com/1/001/709.htm",
+    "title": "多位 AI 行业高管呼吁放缓前沿模型研发，分析称芯片股短期承压",
+    "url": "https://www.ithome.com/1/001/819.htm",
     "source": "IT之家",
-    "time": "09-13 09:45",
+    "time": "09-13 17:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -52,10 +52,54 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "绿联海外发布 Nexode Air Slim 100W 超薄充电器，2C+1A",
-    "url": "https://www.ithome.com/1/001/698.htm",
+    "title": "比亚迪腾势 N8L 纯电全球首搭“迪迪虾”AI 超级智能体，官宣支付宝、豆包大模型等合作伙伴",
+    "url": "https://www.ithome.com/1/001/801.htm",
     "source": "IT之家",
-    "time": "09-13 08:56",
+    "time": "09-13 15:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国内首个国产 GPU + 类脑芯片大模型异构混合推理系统发布，较同类国产 GPU 算力集群性价比提升一倍以上",
+    "url": "https://www.ithome.com/1/001/793.htm",
+    "source": "IT之家",
+    "time": "09-13 15:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "我国实现一体化算力统筹监测，有序推动全国 31 个省区市对接入网",
+    "url": "https://www.ithome.com/1/001/786.htm",
+    "source": "IT之家",
+    "time": "09-13 15:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为 HarmonyOS 粒子动效适配设备清单调整，Mate 70 Air 等升级 7.0.0.105SP10 版本后支持",
+    "url": "https://www.ithome.com/1/001/757.htm",
+    "source": "IT之家",
+    "time": "09-13 14:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "source": "Hacker News",
+    "time": "09-13 09:22",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -74,32 +118,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "IT早报 0913：央视探访无堂食外卖后厨看到店员徒手抓烤鸡；全国多所高校买商品房当学生宿舍；DeepSeek 灰度测试 AI 语音对话；“支付宝假 App”上热搜...",
-    "url": "https://www.ithome.com/1/001/688.htm",
-    "source": "IT之家",
-    "time": "09-13 07:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
-    "url": "https://www.ithome.com/1/001/685.htm",
-    "source": "IT之家",
-    "time": "09-13 07:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-    "url": "https://withspecific.com/benchmarks/real-swe",
-    "source": "Hacker News",
-    "time": "09-13 04:25",
+    "title": "英飞凌ICIC 2026 圆满落幕——当AI从概念走进现实",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-13%2fdoc-inirsuvt0243325.shtml&c=6553374712654037734&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-13 06:58",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -108,9 +130,20 @@
    {
     "beat": "AI/大模型",
     "title": "苹果新CEO回应AI眼镜隐私争议：被问“变态眼镜”时笑了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa63ee4858748c0a945d337ad947021&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075307711_447547&c=10772751078408929294&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075307711_447547&c=10772751078408929294&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-13 01:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260913A05PWZ00&c=12796531450623894124&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-13 00:16",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -130,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "以创新能源解决方案释放AI眼镜全天候潜能 豪鹏科技亮相IFA 2026",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa63ee4858748c0a945d337ad947021&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 20:02",
     "summary": "",
@@ -141,45 +174,46 @@
    {
     "beat": "AI/大模型",
     "title": "鸿石云锦亮相 CIOE：让彩色 MicroLED 进入更轻的 AI 眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa63ee4858748c0a945d337ad947021&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa699f1520247298df5c8fc460d4190&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-11%2fdoc-inirntfu5578477.shtml&c=18086989164004771821&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 00:35",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "机器人/AI硬件": [
    {
-    "beat": "AI/大模型",
-    "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-    "source": "Hacker News",
-    "time": "09-11 22:07",
+    "beat": "机器人/AI硬件",
+    "title": "特斯拉计划在奥斯汀建设第二个 Robotaxi 专属充电站，配置 24 个 V4 充电桩",
+    "url": "https://www.ithome.com/1/001/762.htm",
+    "source": "IT之家",
+    "time": "09-13 15:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为乾崑智驾 ADS 5 加持，东风奕境安全技术讲解会明日举行",
+    "url": "https://www.ithome.com/1/001/842.htm",
+    "source": "IT之家",
+    "time": "09-13 20:16",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    },
    {
-    "beat": "AI/大模型",
-    "title": "广州AI眼镜产业园动工，2.1平方公里瞄准哪些缺口？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa63ee4858748c0a945d337ad947021&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260911A08O3100&c=9136325831720330224&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-11 14:59",
-    "summary": "",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   }
-  ],
-  "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [
-   {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "华境 S 今启 OTA 升级，华为乾崑智驾 ADS 5 Pro 上车",
-    "url": "https://www.ithome.com/1/001/711.htm",
+    "title": "Waymo 自动驾驶出租车监测到乘客携带枪支，协助警方逮捕两名未成年人",
+    "url": "https://www.ithome.com/1/001/834.htm",
     "source": "IT之家",
-    "time": "09-13 09:46",
+    "time": "09-13 19:32",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -189,21 +223,10 @@
   "电商/直播/即时零售": [
    {
     "beat": "电商/直播/即时零售",
-    "title": "淘宝闪购：苹果 iPhone 18 Pro 系列手机预售火爆，首小时销售额较上代 17 Pro 系列翻倍",
-    "url": "https://www.ithome.com/1/001/734.htm",
+    "title": "中国信通院：2025 年我国跨境电商进出口总额约 2.84 万亿元，连续五年位居全球首位",
+    "url": "https://www.ithome.com/1/001/838.htm",
     "source": "IT之家",
-    "time": "09-13 11:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "电商/直播/即时零售",
-    "title": "百度旗下百家号 App 将于 9 月 22 日更名为“百度直播伴侣”",
-    "url": "https://www.ithome.com/1/001/728.htm",
-    "source": "IT之家",
-    "time": "09-13 10:46",
+    "time": "09-13 19:58",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -213,10 +236,10 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "《人类：一败涂地》开发商全新 VR 解谜游戏《小小羊群》9 月 29 日发售，登陆 SteamVR / Meta Quest 平台",
-    "url": "https://www.ithome.com/1/001/707.htm",
+    "title": "华为 Mate XT 2 性能解禁：首款逻辑折叠 τ 芯片麒麟 9050 Pro 实际游戏体验比肩骁龙 8 Elite 产品",
+    "url": "https://www.ithome.com/1/001/832.htm",
     "source": "IT之家",
-    "time": "09-13 09:34",
+    "time": "09-13 18:40",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -224,36 +247,37 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "尘封 14 年：《堡垒之夜》2012 年美国圣迭戈动漫展早期游戏实机画面重新曝光",
-    "url": "https://www.ithome.com/1/001/687.htm",
+    "title": "Ampere Analysis：《GTA6》游戏实机演示预告为 Netflix 新增 10 万名用户",
+    "url": "https://www.ithome.com/1/001/797.htm",
     "source": "IT之家",
-    "time": "09-13 07:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "暴雪《暗黑破坏神 4：憎恨时代合集》游戏 9 月 15 日登陆任天堂 Switch 2",
-    "url": "https://www.ithome.com/1/001/686.htm",
-    "source": "IT之家",
-    "time": "09-13 07:41",
+    "time": "09-13 15:45",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "美国边境主管偷换 46 台政府电脑硬件，以旧换新套现遭 FBI 逮捕",
+    "url": "https://www.ithome.com/1/001/794.htm",
+    "source": "IT之家",
+    "time": "09-13 15:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(0)",
-   "HackerNews(6)",
-   "Bing新闻(4)"
+   "HackerNews(4)",
+   "Bing新闻(5)"
   ],
   "fail": [
    "36氪(no entries)"
