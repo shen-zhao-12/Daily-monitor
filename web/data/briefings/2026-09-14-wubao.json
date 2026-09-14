@@ -2,7 +2,7 @@
  "id": "2026-09-14-wubao",
  "title": "线口监测午报 · 2026年09月14日(周一)",
  "shift": "午报",
- "date": "2026-09-14 21:55",
+ "date": "2026-09-14 22:58",
  "docx": "../briefings/线口监测午报-2026-09-14.docx",
  "sections": {
   "AI/大模型": [
@@ -75,7 +75,7 @@
    {
     "beat": "AI/大模型",
     "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7fcd8fa3a4f7889129852ac9af2e1&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-14%2fdoc-iniruara9674233.shtml&c=10695904203430986061&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa80b9b9c544d5d90e5438912ec6640&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-14%2fdoc-iniruara9674233.shtml&c=10695904203430986061&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-14 10:54",
     "summary": "",
@@ -96,21 +96,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "讯飞AI眼镜接入蚂蚁灵影AOS生态体系，从商务场景转向全场景生活服务",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7fcd8fa3a4f7889129852ac9af2e1&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260914A09SFL00&c=2977951384365465565&mkt=en-us",
+    "title": "热点丨WorkBuddy开放了Agent底座，腾讯AI打法转向激进加速外扩",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa80b9b9c544d5d90e5438912ec6640&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260914A0CP3400&c=14078472568079804832&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-14 02:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7fcd8fa3a4f7889129852ac9af2e1&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-13%2fdoc-inirscye4646994.shtml&c=17475434221839664089&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-14 02:18",
+    "time": "09-14 07:30",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -119,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "“变态眼镜”引欧洲激烈博弈：AI智能眼镜偷拍风险触发监管呼吁",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7fcd8fa3a4f7889129852ac9af2e1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075606377_447547&c=543039675011917678&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa80b9b9c544d5d90e5438912ec6640&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075606377_447547&c=543039675011917678&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-14 01:45",
     "summary": "",
@@ -129,17 +118,39 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "广州AI眼镜产业园正式动工，规划建设2.1平方公里产业集聚区",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7fcd8fa3a4f7889129852ac9af2e1&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260914A089I200&c=8338022797907322294&mkt=en-us",
+    "title": "AI眼镜热度升温，可穿戴硬件产业链寻找新入口",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa80b9b9c544d5d90e5438912ec6640&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-14%2fdoc-inirupfe4684292.shtml&c=14866786987159963602&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-14 00:58",
+    "time": "09-14 01:00",
     "summary": "",
     "grade": "C",
-    "local": true,
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa80b9b9c544d5d90e5438912ec6640&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260913A05PWZ00&c=12796531450623894124&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-13 14:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
     "angle": ""
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小米雷军现身宇树科技，和王兴兴观看人形机器人表演",
+    "url": "https://www.ithome.com/1/002/308.htm",
+    "source": "IT之家",
+    "time": "09-14 22:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "小马智行发布第四代自动驾驶重卡 Robotruck，将于年内规模量产",
