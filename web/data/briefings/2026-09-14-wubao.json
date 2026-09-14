@@ -2,13 +2,46 @@
  "id": "2026-09-14-wubao",
  "title": "线口监测午报 · 2026年09月14日(周一)",
  "shift": "午报",
- "date": "2026-09-14 13:01",
+ "date": "2026-09-14 14:20",
  "docx": "../briefings/线口监测午报-2026-09-14.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "苹果优质售后新案例：免费为 6 年旧款 MacBook Air 升级 M5 新款",
+    "title": "努比亚 NaviX Ultra 新机官宣搭载行业首个集成指纹识别独立 AI 按键",
+    "url": "https://www.ithome.com/1/002/040.htm",
+    "source": "IT之家",
+    "time": "09-14 14:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "芯片新创 Kepler 亮相：利用 FeRAM 与 3D 堆叠突破 AI 内存瓶颈",
+    "url": "https://www.ithome.com/1/002/036.htm",
+    "source": "IT之家",
+    "time": "09-14 13:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国新提案遏制前沿 AI 发展，违规实体 / 开发者最高监禁 20 年",
+    "url": "https://www.ithome.com/1/002/028.htm",
+    "source": "IT之家",
+    "time": "09-14 13:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款",
     "url": "https://www.ithome.com/1/002/005.htm",
     "source": "IT之家",
     "time": "09-14 11:42",
@@ -74,10 +107,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "谷歌云：两年即可回收 AI 服务器投资，自研芯片回收期仅为 GPU 一半",
-    "url": "https://www.ithome.com/1/001/923.htm",
-    "source": "IT之家",
-    "time": "09-14 09:38",
+    "title": "The case against JPEG XL",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "source": "Hacker News",
+    "time": "09-14 09:02",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -85,10 +118,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "苹果 iOS 27 正式版前瞻：升级 Siri AI、优化液态玻璃设计、隔空投送提速 80%",
-    "url": "https://www.ithome.com/1/001/921.htm",
-    "source": "IT之家",
-    "time": "09-14 09:29",
+    "title": "“变态眼镜”引欧洲激烈博弈：AI智能眼镜偷拍风险触发监管呼吁",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa79242de6444119e0eab5c9cc080e1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075606377_447547&c=543039675011917678&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-14 01:45",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -97,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa77fab0354445f923b06dcdbbe7fb4&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-14%2fdoc-iniruara9674233.shtml&c=10695904203430986061&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa79242de6444119e0eab5c9cc080e1&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-14%2fdoc-iniruara9674233.shtml&c=10695904203430986061&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-13 20:52",
     "summary": "",
@@ -108,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa77fab0354445f923b06dcdbbe7fb4&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-14%2fdoc-iniruara9643171.shtml&c=470590745024412003&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa79242de6444119e0eab5c9cc080e1&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-14%2fdoc-iniruara9643171.shtml&c=470590745024412003&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-13 19:36",
     "summary": "",
@@ -119,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa77fab0354445f923b06dcdbbe7fb4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260913A05PWZ00&c=12796531450623894124&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa79242de6444119e0eab5c9cc080e1&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260913A05PWZ00&c=12796531450623894124&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-13 14:16",
     "summary": "",
@@ -130,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "以创新能源解决方案释放AI眼镜全天候潜能 豪鹏科技亮相IFA 2026",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa77fab0354445f923b06dcdbbe7fb4&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa79242de6444119e0eab5c9cc080e1&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-12 20:02",
     "summary": "",
@@ -141,6 +174,28 @@
   ],
   "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "奇瑞捷豹路虎神行者 8 官宣 9 月 19 日全国交付：华为乾崑智驾 ADS 5，28.99 万元起",
+    "url": "https://www.ithome.com/1/002/029.htm",
+    "source": "IT之家",
+    "time": "09-14 13:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "十万级唯一华为乾崑智驾 ADS 5 SE，东风风行星海 V6 新车定档 9 月 19 日上市",
+    "url": "https://www.ithome.com/1/002/025.htm",
+    "source": "IT之家",
+    "time": "09-14 13:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "无人驾驶/低空/智慧出行",
     "title": "近距离看赛博无人驾驶电动车，特斯拉 Cybercab 官宣入华展览",
@@ -212,17 +267,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "亚马逊官网泄露 PS5 版《索尼克赛车：交叉世界》1 周年版实体游戏详细信息：11 月 3 日发售，54.99 欧元",
-    "url": "https://www.ithome.com/1/001/930.htm",
-    "source": "IT之家",
-    "time": "09-14 09:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "“投降还是另辟蹊径”？二游大厂《赛马娘》开发商Cygames要做小体量游戏",
     "url": "http://www.gamelook.com.cn/2026/09/601975/",
     "source": "GameLook",
@@ -244,15 +288,27 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "机械革命苍龙 16 Ultra 笔记本新增“R9-9955HX3D + 64G + 2T + RTX5090”规格，标配外置水冷售 31999 元（国补后 30499 元）",
+    "url": "https://www.ithome.com/1/002/052.htm",
+    "source": "IT之家",
+    "time": "09-14 14:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(10)",
-   "HackerNews(1)",
-   "Bing新闻(4)"
+   "HackerNews(2)",
+   "Bing新闻(5)"
   ],
   "fail": [
    "36氪(no entries)"
