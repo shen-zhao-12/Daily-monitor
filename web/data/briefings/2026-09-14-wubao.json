@@ -1,0 +1,261 @@
+{
+ "id": "2026-09-14-wubao",
+ "title": "线口监测午报 · 2026年09月14日(周一)",
+ "shift": "午报",
+ "date": "2026-09-14 13:01",
+ "docx": "../briefings/线口监测午报-2026-09-14.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "苹果优质售后新案例：免费为 6 年旧款 MacBook Air 升级 M5 新款",
+    "url": "https://www.ithome.com/1/002/005.htm",
+    "source": "IT之家",
+    "time": "09-14 11:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "ANKER 联合飞书推出“安克 AI 会议耳机”：支持会议内容转写、实时双语翻译，1799 元",
+    "url": "https://www.ithome.com/1/001/989.htm",
+    "source": "IT之家",
+    "time": "09-14 11:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "闪鳞预告 S300 AIR 机箱：9L 体积，可装入 16 英寸行李箱",
+    "url": "https://www.ithome.com/1/001/986.htm",
+    "source": "IT之家",
+    "time": "09-14 11:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为智能门锁 2 Pro 悦享版开启预约：搭 AI 3D 人脸识别 3.0 技术，配备应急备用供电系统，2699 元",
+    "url": "https://www.ithome.com/1/001/977.htm",
+    "source": "IT之家",
+    "time": "09-14 11:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "豆包手机助手消费者版发布：GUI 合作协议同步推出，三方 App 可允许 / 拒绝 AI 自动化操作",
+    "url": "https://www.ithome.com/1/001/971.htm",
+    "source": "IT之家",
+    "time": "09-14 10:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "戴森旗下 R3 AI 扫拖机器人国行上架：30000Pa 吸力、70°C 热水深度洗地，6999 元",
+    "url": "https://www.ithome.com/1/001/970.htm",
+    "source": "IT之家",
+    "time": "09-14 10:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌云：两年即可回收 AI 服务器投资，自研芯片回收期仅为 GPU 一半",
+    "url": "https://www.ithome.com/1/001/923.htm",
+    "source": "IT之家",
+    "time": "09-14 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 iOS 27 正式版前瞻：升级 Siri AI、优化液态玻璃设计、隔空投送提速 80%",
+    "url": "https://www.ithome.com/1/001/921.htm",
+    "source": "IT之家",
+    "time": "09-14 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa77fab0354445f923b06dcdbbe7fb4&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-14%2fdoc-iniruara9674233.shtml&c=10695904203430986061&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-13 20:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa77fab0354445f923b06dcdbbe7fb4&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-14%2fdoc-iniruara9643171.shtml&c=470590745024412003&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-13 19:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa77fab0354445f923b06dcdbbe7fb4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260913A05PWZ00&c=12796531450623894124&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-13 14:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "以创新能源解决方案释放AI眼镜全天候潜能 豪鹏科技亮相IFA 2026",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa77fab0354445f923b06dcdbbe7fb4&url=https%3a%2f%2fwww.itdcw.com%2fnews%2fqiye%2f091215N2H026.html&c=3088944134579464002&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-12 20:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "近距离看赛博无人驾驶电动车，特斯拉 Cybercab 官宣入华展览",
+    "url": "https://www.ithome.com/1/002/018.htm",
+    "source": "IT之家",
+    "time": "09-14 12:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯不要的团队做出爆款：《Wardogs》Steam首日34万在线、服务器挤爆",
+    "url": "http://www.gamelook.com.cn/2026/09/601983/",
+    "source": "GameLook",
+    "time": "09-14 11:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "分析：柠檬微趣 VS 点点互动，二合游戏谁做的更好？",
+    "url": "http://www.gamelook.com.cn/2026/09/602057/",
+    "source": "GameLook",
+    "time": "09-14 11:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“游戏火了、却不是自己的”？Epic阻止UGC开发者注册商标：“不允许霸占类型名”",
+    "url": "http://www.gamelook.com.cn/2026/09/602020/",
+    "source": "GameLook",
+    "time": "09-14 10:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中年人发文：“42岁读研做游戏怎么样”？网友纷纷劝退：做游戏不认学历",
+    "url": "http://www.gamelook.com.cn/2026/09/602009/",
+    "source": "GameLook",
+    "time": "09-14 10:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏圈天价离婚案：《穿越火线》开发商老板“分割财产”，前妻获得127亿元",
+    "url": "http://www.gamelook.com.cn/2026/09/602001/",
+    "source": "GameLook",
+    "time": "09-14 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "亚马逊官网泄露 PS5 版《索尼克赛车：交叉世界》1 周年版实体游戏详细信息：11 月 3 日发售，54.99 欧元",
+    "url": "https://www.ithome.com/1/001/930.htm",
+    "source": "IT之家",
+    "time": "09-14 09:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“投降还是另辟蹊径”？二游大厂《赛马娘》开发商Cygames要做小体量游戏",
+    "url": "http://www.gamelook.com.cn/2026/09/601975/",
+    "source": "GameLook",
+    "time": "09-14 09:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "当MMO集体焦虑蔓延，这款游戏却把“战斗爽”做成了另一种答案",
+    "url": "http://www.gamelook.com.cn/2026/09/602042/",
+    "source": "GameLook",
+    "time": "09-14 08:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(10)",
+   "HackerNews(1)",
+   "Bing新闻(4)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
