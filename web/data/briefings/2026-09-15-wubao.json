@@ -2,10 +2,32 @@
  "id": "2026-09-15-wubao",
  "title": "线口监测午报 · 2026年09月15日(周二)",
  "shift": "午报",
- "date": "2026-09-15 12:58",
+ "date": "2026-09-15 14:11",
  "docx": "../briefings/线口监测午报-2026-09-15.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "消息称英伟达内部限制使用 Anthropic 和 OpenAI 的前沿模型，敏感数据改用自家 AI",
+    "url": "https://www.ithome.com/1/002/530.htm",
+    "source": "IT之家",
+    "time": "09-15 13:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 CEO 纳德拉发布警告：AI 必须处于人类控制之下，支持更广泛的第三方测试",
+    "url": "https://www.ithome.com/1/002/526.htm",
+    "source": "IT之家",
+    "time": "09-15 13:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "苹果 54 项 iOS / iPadOS 27 隐藏新功能 / 新特性汇总：打磨细节、聚焦 AI",
@@ -130,9 +152,20 @@
    {
     "beat": "AI/大模型",
     "title": "科技助残新突破 | AI助盲眼镜、智能导盲犬加速落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8d07f31204223960f04feeaa0ba72&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E7%25A7%2591%25E6%258A%2580%25E5%258A%25A9%25E6%25AE%258B%25E6%2596%25B0%25E7%25AA%2581%25E7%25A0%25B4-ai%25E5%258A%25A9%25E7%259B%25B2%25E7%259C%25BC%25E9%2595%259C-%25E6%2599%25BA%25E8%2583%25BD%25E5%25AF%25BC%25E7%259B%25B2%25E7%258A%25AC%25E5%258A%25A0%25E9%2580%259F%25E8%2590%25BD%25E5%259C%25B0%2far-AA2cegCr&c=5256705964788743560&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8e182b1b1462e84e56ed6cd4bdd04&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E7%25A7%2591%25E6%258A%2580%25E5%258A%25A9%25E6%25AE%258B%25E6%2596%25B0%25E7%25AA%2581%25E7%25A0%25B4-ai%25E5%258A%25A9%25E7%259B%25B2%25E7%259C%25BC%25E9%2595%259C-%25E6%2599%25BA%25E8%2583%25BD%25E5%25AF%25BC%25E7%259B%25B2%25E7%258A%25AC%25E5%258A%25A0%25E9%2580%259F%25E8%2590%25BD%25E5%259C%25B0%2far-AA2cegCr&c=5256705964788743560&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 03:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "source": "Hacker News",
+    "time": "09-14 22:29",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -152,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜告别普涨时代 7月线上销量首降15.3% AR眼镜逆势增长72.7%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8d07f31204223960f04feeaa0ba72&url=https%3a%2f%2fnews.hsw.cn%2fsystem%2f2026%2f0915%2f1959830.shtml&c=18322238086221881440&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8e182b1b1462e84e56ed6cd4bdd04&url=https%3a%2f%2fnews.hsw.cn%2fsystem%2f2026%2f0915%2f1959830.shtml&c=18322238086221881440&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-14 18:30",
     "summary": "",
@@ -162,10 +195,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8d07f31204223960f04feeaa0ba72&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-14%2fdoc-iniruara9674233.shtml&c=10695904203430986061&mkt=en-us",
+    "title": "讯飞AI眼镜接入蚂蚁灵影AOS生态体系，从商务场景转向全场景生活服务",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8e182b1b1462e84e56ed6cd4bdd04&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260914A09SFL00&c=2977951384365465565&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-14 10:54",
+    "time": "09-14 16:41",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -173,10 +206,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜热度升温，可穿戴硬件产业链寻找新入口",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8d07f31204223960f04feeaa0ba72&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-14%2fdoc-inirupfe4684292.shtml&c=14866786987159963602&mkt=en-us",
+    "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8e182b1b1462e84e56ed6cd4bdd04&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%2580%258E%25E6%25A0%25B7%25E8%25AE%25A9%25E4%25B8%258D%25E6%2588%25B4%25E7%259C%25BC%25E9%2595%259C%25E7%259A%2584%25E4%25BA%25BA-%25E6%2584%25BF%25E6%2584%258F%25E6%25AF%258F%25E5%25A4%25A9%25E6%2588%25B4%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C-%25E4%25B8%2593%25E8%25AE%25BF%25E5%25BA%2594%25E7%2594%25A8%25E6%259D%2590%25E6%2596%2599%25E5%2585%25AC%25E5%258F%25B8%25E5%2589%25AF%25E6%2580%25BB%25E8%25A3%2581-paul-meissner%2far-AA2c9nwh&c=255675764405997171&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-14 01:00",
+    "time": "09-14 10:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -195,21 +228,21 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "Waymo 扩大美国无人驾驶网约车服务版图，将拉斯维加斯纳入运营范围",
-    "url": "https://www.ithome.com/1/002/400.htm",
-    "source": "IT之家",
-    "time": "09-15 09:28",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易《无限大》不设任何角色卡池：纯外观付费，2027 年 1 月 15 日免费登陆 PC、PS5 和移动端",
+    "url": "https://www.ithome.com/1/002/532.htm",
+    "source": "IT之家",
+    "time": "09-15 13:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "完美世界电竞再度于上海主办 2027 反恐精英世界锦标赛",
@@ -308,28 +341,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "“投降还是另辟蹊径”？二游大厂《赛马娘》开发商Cygames要做小体量游戏",
-    "url": "http://www.gamelook.com.cn/2026/09/601975/",
-    "source": "GameLook",
-    "time": "09-14 09:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "当MMO集体焦虑蔓延，这款游戏却把“战斗爽”做成了另一种答案",
-    "url": "http://www.gamelook.com.cn/2026/09/602042/",
-    "source": "GameLook",
-    "time": "09-14 08:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -339,8 +350,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(18)",
-   "HackerNews(4)",
-   "Bing新闻(4)"
+   "HackerNews(5)",
+   "Bing新闻(6)"
   ],
   "fail": [
    "36氪(no entries)"
