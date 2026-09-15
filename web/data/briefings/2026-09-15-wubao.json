@@ -2,10 +2,21 @@
  "id": "2026-09-15-wubao",
  "title": "线口监测午报 · 2026年09月15日(周二)",
  "shift": "午报",
- "date": "2026-09-15 20:37",
+ "date": "2026-09-15 21:27",
  "docx": "../briefings/线口监测午报-2026-09-15.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "博通 CEO 陈福阳回应 AI 放缓担忧：算力需求仍强劲，长期收入目标不变",
+    "url": "https://www.ithome.com/1/002/767.htm",
+    "source": "IT之家",
+    "time": "09-15 20:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "因 AI 投入加大，消息称字节跳动今年上半年利润降至 200 亿美元",
@@ -96,19 +107,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "虹膜支付，何时才能跳出AI眼镜的演示噱头?",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa93c1c607947cba153b67ec92abf58&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E8%2599%25B9%25E8%2586%259C%25E6%2594%25AF%25E4%25BB%2598-%25E4%25BD%2595%25E6%2597%25B6%25E6%2589%258D%25E8%2583%25BD%25E8%25B7%25B3%25E5%2587%25BAai%25E7%259C%25BC%25E9%2595%259C%25E7%259A%2584%25E6%25BC%2594%25E7%25A4%25BA%25E5%2599%25B1%25E5%25A4%25B4%2far-AA2cf8kW&c=11757894525275874320&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-15 10:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜告别普涨时代 7月线上销量首降15.3% AR眼镜逆势增长72.7%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa93c1c607947cba153b67ec92abf58&url=https%3a%2f%2fnews.hsw.cn%2fsystem%2f2026%2f0915%2f1959830.shtml&c=18322238086221881440&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa947c06736451183e893678e8b3615&url=https%3a%2f%2fnews.hsw.cn%2fsystem%2f2026%2f0915%2f1959830.shtml&c=18322238086221881440&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 08:30",
     "summary": "",
@@ -119,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "讯飞一周资讯：与青海省教育厅战略签约，AI眼镜登《财富》最佳设计榜，多款AI成果亮相国内外展会",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa93c1c607947cba153b67ec92abf58&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260915A0C2WT00&c=14573556302515501408&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa947c06736451183e893678e8b3615&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260915A0C2WT00&c=14573556302515501408&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 07:03",
     "summary": "",
@@ -130,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI助盲眼镜、智能导盲犬加速落地，科技助盲仍面临哪些挑战？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa93c1c607947cba153b67ec92abf58&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f09-15%2f10696971.shtml&c=11191916991371574367&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa947c06736451183e893678e8b3615&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f09-15%2f10696971.shtml&c=11191916991371574367&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 04:48",
     "summary": "",
@@ -141,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "智能眼镜是什么？夸克AI眼镜S1、小米AI眼镜、STARV MYVU三款热门产品体验解析",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa93c1c607947cba153b67ec92abf58&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076319848_122645258&c=16676494443763350567&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa947c06736451183e893678e8b3615&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076319848_122645258&c=16676494443763350567&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 02:07",
     "summary": "",
@@ -152,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "几个月营收便数百万美金，这款AI眼镜是怎么破圈的？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa93c1c607947cba153b67ec92abf58&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260915A077OD00&c=9370069823074452375&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa947c06736451183e893678e8b3615&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260915A077OD00&c=9370069823074452375&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 00:51",
     "summary": "",
@@ -185,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa93c1c607947cba153b67ec92abf58&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-14%2fdoc-iniruara9674233.shtml&c=10695904203430986061&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa947c06736451183e893678e8b3615&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%2580%258E%25E6%25A0%25B7%25E8%25AE%25A9%25E4%25B8%258D%25E6%2588%25B4%25E7%259C%25BC%25E9%2595%259C%25E7%259A%2584%25E4%25BA%25BA-%25E6%2584%25BF%25E6%2584%258F%25E6%25AF%258F%25E5%25A4%25A9%25E6%2588%25B4%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C-%25E4%25B8%2593%25E8%25AE%25BF%25E5%25BA%2594%25E7%2594%25A8%25E6%259D%2590%25E6%2596%2599%25E5%2585%25AC%25E5%258F%25B8%25E5%2589%25AF%25E6%2580%25BB%25E8%25A3%2581-paul-meissner%2far-AA2c9nwh&c=255675764405997171&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-14 10:54",
     "summary": "",
@@ -197,7 +197,7 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "全国首个具身智能机器人专用 SIM 卡发布：套餐 599 元起，峰值上行 500Mbps",
+    "title": "全国首个具身智能机器人专用 SIM 卡发布：套餐 599 元起，峰值上行至高 500Mbps",
     "url": "https://www.ithome.com/1/002/714.htm",
     "source": "IT之家",
     "time": "09-15 18:17",
@@ -320,20 +320,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
    {
-    "beat": "游戏/电竞/平台公司",
-    "title": "中年人发文：“42岁读研做游戏怎么样”？网友纷纷劝退：做游戏不认学历",
-    "url": "http://www.gamelook.com.cn/2026/09/602009/",
-    "source": "GameLook",
-    "time": "09-14 10:14",
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "因 iOS 18 导致部分 iPhone 15 屏幕绿线，苹果遭印度消费者保护机构调查",
+    "url": "https://www.ithome.com/1/002/765.htm",
+    "source": "IT之家",
+    "time": "09-15 20:41",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "消费/以旧换新/新餐饮": [
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "国补到手价 5099.15 元起，小米电视 S Pro RGB-Mini LED 2027 开售",
