@@ -2,10 +2,32 @@
  "id": "2026-09-16-wubao",
  "title": "线口监测午报 · 2026年09月16日(周三)",
  "shift": "午报",
- "date": "2026-09-16 12:53",
+ "date": "2026-09-16 14:04",
  "docx": "../briefings/线口监测午报-2026-09-16.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "香港将推动全民 AI 培训、推进跨境自动驾驶发展、助力国产飞机打进世界市场",
+    "url": "https://www.ithome.com/1/003/019.htm",
+    "source": "IT之家",
+    "time": "09-16 13:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "得物发布 11 周年全员信：AI 时代下组织分工升级，让团队对完整结果负责",
+    "url": "https://www.ithome.com/1/003/017.htm",
+    "source": "IT之家",
+    "time": "09-16 12:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "行业首个，中国移动开源连接 VLA / WAM 模型与机器人本体的通用工程底座 Open-RAIL",
@@ -140,21 +162,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "小米 18 Pro 系列手机全新“百变背屏”亮相：AI 生成应用，煮蛋定时、喝水打卡、番茄时钟等",
-    "url": "https://www.ithome.com/1/002/868.htm",
-    "source": "IT之家",
-    "time": "09-16 09:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜，谁是第一？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa20d8dd7a4e02853d8120d880bb08&url=https%3a%2f%2fwww.tmtpost.com%2f8141381.html&c=14671792179330641487&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa315bc45140c59800ead511f68519&url=https%3a%2f%2fwww.cyzone.cn%2farticle%2f846538.html&c=7370346440231898709&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-16 05:53",
+    "time": "09-16 03:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -163,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI助盲眼镜、智能导盲犬加速落地，科技助盲仍面临哪些挑战？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa20d8dd7a4e02853d8120d880bb08&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f09-15%2f10696971.shtml&c=11191916991371574367&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa315bc45140c59800ead511f68519&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f09-15%2f10696971.shtml&c=11191916991371574367&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 21:19",
     "summary": "",
@@ -173,19 +184,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "避开偷拍争议：Meta拟推出无摄像头版本AI智能眼镜Luna",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa20d8dd7a4e02853d8120d880bb08&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260916A053XZ00&c=11877965029769741471&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-15 20:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Meta推出无摄像头AI眼镜“Luna”，重塑智能穿戴体验",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa20d8dd7a4e02853d8120d880bb08&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076607959_122004016&c=3710619971260213211&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa315bc45140c59800ead511f68519&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076607959_122004016&c=3710619971260213211&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 19:05",
     "summary": "",
@@ -218,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "智能眼镜是什么？夸克AI眼镜S1、小米AI眼镜、STARV MYVU三款热门产品体验解析",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa20d8dd7a4e02853d8120d880bb08&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076319848_122645258&c=16676494443763350567&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa315bc45140c59800ead511f68519&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076319848_122645258&c=16676494443763350567&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 16:06",
     "summary": "",
@@ -229,9 +229,20 @@
    {
     "beat": "AI/大模型",
     "title": "几个月营收便数百万美金，这款AI眼镜是怎么破圈的？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa20d8dd7a4e02853d8120d880bb08&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260915A077OD00&c=9370069823074452375&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa315bc45140c59800ead511f68519&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260915A077OD00&c=9370069823074452375&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 14:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "星无xcoming发布Feather 1模块化AI音频眼镜，重23g起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa315bc45140c59800ead511f68519&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260915A076AD00&c=8681692737547251777&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-15 14:50",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -239,7 +250,19 @@
    }
   ],
   "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "地平线 CEO 余凯：智驾以后 80% 会是供应商做，20% 是车企自研",
+    "url": "https://www.ithome.com/1/003/025.htm",
+    "source": "IT之家",
+    "time": "09-16 13:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
@@ -307,17 +330,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "年度数据报告：用Godot引擎做游戏的都是啥人？如何在用",
-    "url": "http://www.gamelook.com.cn/2026/09/602124/",
-    "source": "GameLook",
-    "time": "09-15 10:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -331,17 +343,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "机械革命无界 14S 2026 笔记本锐龙版开售：R7 H 255 处理器，24GB+512GB 售价 4699 元（国补后 3994.15 元）",
-    "url": "https://www.ithome.com/1/002/876.htm",
-    "source": "IT之家",
-    "time": "09-16 09:39",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ]
  },
@@ -350,8 +351,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(6)",
-   "Bing新闻(6)"
+   "HackerNews(5)",
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
