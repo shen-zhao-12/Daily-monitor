@@ -2,10 +2,21 @@
  "id": "2026-09-16-wubao",
  "title": "线口监测午报 · 2026年09月16日(周三)",
  "shift": "午报",
- "date": "2026-09-16 20:33",
+ "date": "2026-09-16 21:26",
  "docx": "../briefings/线口监测午报-2026-09-16.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "京东推出七鲜大厨，首创 AI 膳食规划 + 净菜供应链 + 炒菜机器人组合",
+    "url": "https://www.ithome.com/1/003/288.htm",
+    "source": "IT之家",
+    "time": "09-16 20:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "OpenAI 奥尔特曼：AI 事故无法完全避免，应借鉴航空业建立公开上报机制",
@@ -107,28 +118,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "基于全国产化算力训练，讯飞星火语音基座大模型 Spark-Audio-1.0-Preview 上线",
-    "url": "https://www.ithome.com/1/003/173.htm",
-    "source": "IT之家",
-    "time": "09-16 16:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Anthropic、谷歌、OpenAI 等美国科技巨头面临新难题：安保人员计划罢工",
-    "url": "https://www.ithome.com/1/003/167.htm",
-    "source": "IT之家",
-    "time": "09-16 16:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
     "url": "https://mistral.ai/news/mistral-x-mozilla/",
     "source": "Hacker News",
@@ -140,19 +129,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜，谁是第一？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa8cb625f741e392b463bc3dc587c4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076723124_116132&c=15022289770182331185&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-16 12:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜出货量暴增212%，为何全行业都在亏钱?",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa8cb625f741e392b463bc3dc587c4&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E5%25A2%259E212-%25E4%25B8%25BA%25E4%25BD%2595%25E5%2585%25A8%25E8%25A1%258C%25E4%25B8%259A%25E9%2583%25BD%25E5%259C%25A8%25E4%25BA%258F%25E9%2592%25B1%2far-AA2ck4xi&c=16302438355688352664&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa9915afd14b8f9aefc08912303043&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E5%25A2%259E212-%25E4%25B8%25BA%25E4%25BD%2595%25E5%2585%25A8%25E8%25A1%258C%25E4%25B8%259A%25E9%2583%25BD%25E5%259C%25A8%25E4%25BA%258F%25E9%2592%25B1%2far-AA2ck4xi&c=16302438355688352664&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-16 08:08",
     "summary": "",
@@ -163,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "全球 AI 眼镜出货增 322%，中国厂商主导全球 AR 市场，定制化外贸 ERP 助智能硬件出海｜华贸通 ERP",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa8cb625f741e392b463bc3dc587c4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076879345_122974005&c=12066249365853501170&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa9915afd14b8f9aefc08912303043&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076879345_122974005&c=12066249365853501170&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-16 04:16",
     "summary": "",
@@ -174,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "智能眼镜行业周报(09.08 - 09.15) : AI芯片融资潮",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa8cb625f741e392b463bc3dc587c4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260916A0AMFS00&c=16530348863848866846&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa9915afd14b8f9aefc08912303043&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260916A0AMFS00&c=16530348863848866846&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-16 03:43",
     "summary": "",
@@ -184,8 +162,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI眼镜，谁是第一？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa9915afd14b8f9aefc08912303043&url=https%3a%2f%2fwww.tmtpost.com%2f8141381.html&c=14671792179330641487&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "WellsennXR数据：全球AI智能眼镜销量达348万台，同比增长近200%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa8cb625f741e392b463bc3dc587c4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260916A08AEF00&c=14678458379492884670&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa9915afd14b8f9aefc08912303043&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260916A08AEF00&c=14678458379492884670&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-16 00:57",
     "summary": "",
@@ -196,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI助盲眼镜、智能导盲犬加速落地，科技助盲仍面临哪些挑战？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa8cb625f741e392b463bc3dc587c4&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f09-15%2f10696971.shtml&c=11191916991371574367&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa9915afd14b8f9aefc08912303043&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f09-15%2f10696971.shtml&c=11191916991371574367&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-15 21:19",
     "summary": "",
@@ -210,6 +199,17 @@
     "url": "https://www.forbrukerradet.no/short-life/",
     "source": "Hacker News",
     "time": "09-15 18:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智能眼镜是什么？夸克AI眼镜S1、小米AI眼镜、STARV MYVU三款热门产品体验解析",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa9915afd14b8f9aefc08912303043&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076319848_122645258&c=16676494443763350567&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-15 16:06",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -232,10 +232,10 @@
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "上市补贴价 13.28 万元起：极狐阿尔法 T7 汽车上市，可选增程 / 纯电动力、华为乾崑智驾 ADS 5 Pro",
-    "url": "https://www.ithome.com/1/003/283.htm",
+    "title": "岚图汽车卢放：华为是值得信赖的技术伙伴，所有搭载乾崑智驾与鸿蒙座舱的品牌中岚图销量第二",
+    "url": "https://www.ithome.com/1/003/296.htm",
     "source": "IT之家",
-    "time": "09-16 20:31",
+    "time": "09-16 21:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -243,10 +243,10 @@
    },
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "鸿蒙智行智界 RX L3 自动驾驶测试车现身公开道路，消息称验证重心放在城市快速路",
-    "url": "https://www.ithome.com/1/003/162.htm",
+    "title": "上市补贴价 13.28 万元起：极狐阿尔法 T7 汽车上市，可选增程 / 纯电动力、华为乾崑智驾 ADS 5 Pro",
+    "url": "https://www.ithome.com/1/003/283.htm",
     "source": "IT之家",
-    "time": "09-16 16:28",
+    "time": "09-16 20:31",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,8 +352,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(13)",
-   "HackerNews(6)",
-   "Bing新闻(7)"
+   "HackerNews(7)",
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
