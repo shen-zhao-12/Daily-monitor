@@ -2,7 +2,7 @@
  "id": "2026-09-17-wubao",
  "title": "线口监测午报 · 2026年09月17日(周四)",
  "shift": "午报",
- "date": "2026-09-17 20:33",
+ "date": "2026-09-17 21:22",
  "docx": "../briefings/线口监测午报-2026-09-17.docx",
  "sections": {
   "AI/大模型": [
@@ -129,41 +129,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "三星最新愿景：将 AI 系统的响应速度提升 10 倍",
-    "url": "https://www.ithome.com/1/003/698.htm",
-    "source": "IT之家",
-    "time": "09-17 16:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "英国国王查尔斯三世召开论坛，呼吁英伟达、OpenAI、谷歌等巨头掌控好 AI 技术",
-    "url": "https://www.ithome.com/1/003/678.htm",
-    "source": "IT之家",
-    "time": "09-17 16:20",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI Model Misalignment Report",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-    "source": "Hacker News",
-    "time": "09-17 15:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "哈啰Robotaxi融资1亿美元，估值近30亿；Meta将推无摄像头AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabde3991e54765ad8082bdb636c1a3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A048U400&c=14316926396420504784&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabe9a866b449afa2fb3145bec33ee9&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A048U400&c=14316926396420504784&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-17 10:55",
     "summary": "",
@@ -174,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI助盲眼镜、智能导盲犬加速落地，科技助盲仍面临哪些挑战？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabde3991e54765ad8082bdb636c1a3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A03X4F00&c=14322414050085996183&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabe9a866b449afa2fb3145bec33ee9&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A03X4F00&c=14322414050085996183&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-17 10:37",
     "summary": "",
@@ -185,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "家用投影仪跌下“神坛”，AI眼镜不是极米光峰的救命稻草",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabde3991e54765ad8082bdb636c1a3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077129945_111100&c=3677833674972442172&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabe9a866b449afa2fb3145bec33ee9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077129945_111100&c=3677833674972442172&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-17 10:28",
     "summary": "",
@@ -207,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "Halliday G2首批售罄并开始出货，无摄像头显示AI眼镜加速落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabde3991e54765ad8082bdb636c1a3&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2fhalliday-g2%25E9%25A6%2596%25E6%2589%25B9%25E5%2594%25AE%25E7%25BD%2584%25E5%25B9%25B6%25E5%25BC%2580%25E5%25A7%258B%25E5%2587%25BA%25E8%25B4%25A7-%25E6%2597%25A0%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%25E6%2598%25BE%25E7%25A4%25BAai%25E7%259C%25BC%25E9%2595%259C%25E5%258A%25A0%25E9%2580%259F%25E8%2590%25BD%25E5%259C%25B0%2far-AA2cojbU&c=7202599420746777091&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabe9a866b449afa2fb3145bec33ee9&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2fhalliday-g2%25E9%25A6%2596%25E6%2589%25B9%25E5%2594%25AE%25E7%25BD%2584%25E5%25B9%25B6%25E5%25BC%2580%25E5%25A7%258B%25E5%2587%25BA%25E8%25B4%25A7-%25E6%2597%25A0%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%25E6%2598%25BE%25E7%25A4%25BAai%25E7%259C%25BC%25E9%2595%259C%25E5%258A%25A0%25E9%2580%259F%25E8%2590%25BD%25E5%259C%25B0%2far-AA2cojbU&c=7202599420746777091&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-17 04:26",
     "summary": "",
@@ -240,9 +207,31 @@
    {
     "beat": "AI/大模型",
     "title": "一副AI眼镜背后的牵挂，韩国留学生想给父亲当“翻译官”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabde3991e54765ad8082bdb636c1a3&url=https%3a%2f%2fori.hangzhou.com.cn%2fornews%2fcontent%2f2026-09%2f17%2fcontent_9309675.htm&c=16609469331834093315&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabe9a866b449afa2fb3145bec33ee9&url=https%3a%2f%2fori.hangzhou.com.cn%2fornews%2fcontent%2f2026-09%2f17%2fcontent_9309675.htm&c=16609469331834093315&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-17 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜，谁是第一？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabe9a866b449afa2fb3145bec33ee9&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2fai%25E7%259C%25BC%25E9%2595%259C-%25E8%25B0%2581%25E6%2598%25AF%25E7%25AC%25AC%25E4%25B8%2580%2far-AA2coH17&c=1213754532085192912&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 22:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球 AI 眼镜出货增 322%，中国厂商主导全球 AR 市场，定制化外贸 ERP 助智能硬件出海｜华贸通 ERP",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aabe9a866b449afa2fb3145bec33ee9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076879345_122974005&c=12066249365853501170&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 18:16",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -279,10 +268,10 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "蛮啾《蓝色星原：旅谣》游戏开启「旅迹测试」，覆盖安卓、鸿蒙、iOS 和 PC 平台",
-    "url": "https://www.ithome.com/1/003/797.htm",
+    "title": "《GTA 6》实体原声专辑公布：最高售价近 125 美元，超游戏终极版",
+    "url": "https://www.ithome.com/1/003/826.htm",
     "source": "IT之家",
-    "time": "09-17 19:02",
+    "time": "09-17 20:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -290,10 +279,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "华硕推出新款 TUF Gaming 16（2026）游戏本：酷睿 i5-14450HX、RTX 5050",
-    "url": "https://www.ithome.com/1/003/693.htm",
+    "title": "蛮啾《蓝色星原：旅谣》游戏开启「旅迹测试」，覆盖安卓、鸿蒙、iOS 和 PC 平台",
+    "url": "https://www.ithome.com/1/003/797.htm",
     "source": "IT之家",
-    "time": "09-17 16:33",
+    "time": "09-17 19:02",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -331,6 +320,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国外游戏人哀嚎：去年被裁失业半年、今年上班3个月又被裁，“我真顶不住了”！",
+    "url": "http://www.gamelook.com.cn/2026/09/602315/",
+    "source": "GameLook",
+    "time": "09-16 12:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -352,7 +352,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(7)",
+   "HackerNews(6)",
    "Bing新闻(8)"
   ],
   "fail": [
