@@ -1,0 +1,362 @@
+{
+ "id": "2026-09-17-wubao",
+ "title": "线口监测午报 · 2026年09月17日(周四)",
+ "shift": "午报",
+ "date": "2026-09-17 12:56",
+ "docx": "../briefings/线口监测午报-2026-09-17.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OPPO ColorOS 17 设备互联升级：Car+ 车联支持步行导航接续，耳机支持 AI 对话翻译",
+    "url": "https://www.ithome.com/1/003/436.htm",
+    "source": "IT之家",
+    "time": "09-17 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OPPO 发布全天候主动式 AI 硬件“心力球”，今年晚些时候到来",
+    "url": "https://www.ithome.com/1/003/435.htm",
+    "source": "IT之家",
+    "time": "09-17 11:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "联想 Googlebook 15 笔记本曝光：配灯条“AI Mouse”鼠标，预估 9 月 21 日亮相",
+    "url": "https://www.ithome.com/1/003/429.htm",
+    "source": "IT之家",
+    "time": "09-17 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "广电总局：使用 AI 的广电视听节目必须添加内容标识，严禁 AI 魔改",
+    "url": "https://www.ithome.com/1/003/428.htm",
+    "source": "IT之家",
+    "time": "09-17 11:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为轮值董事长汪涛：华为 AI 战略的核心是算力，坚持硬件变现",
+    "url": "https://www.ithome.com/1/003/426.htm",
+    "source": "IT之家",
+    "time": "09-17 10:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "火狐 Firefox 浏览器迈步 AI 进化：处理复杂搜索，承诺“零数据保留”",
+    "url": "https://www.ithome.com/1/003/419.htm",
+    "source": "IT之家",
+    "time": "09-17 10:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "比亚迪大唐 SUV 新增“迪迪虾”AI 超级智能体，支持一句话点外卖等",
+    "url": "https://www.ithome.com/1/003/395.htm",
+    "source": "IT之家",
+    "time": "09-17 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 Anthropic 算力布局首度落子澳大利亚，将租赁 2.16GW 数据中心园区",
+    "url": "https://www.ithome.com/1/003/393.htm",
+    "source": "IT之家",
+    "time": "09-17 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 首次公开六起模型异常案例，涉及瞒报错误、编造数据及未经授权上传文件",
+    "url": "https://www.ithome.com/1/003/392.htm",
+    "source": "IT之家",
+    "time": "09-17 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "url": "https://openspec.dev/",
+    "source": "Hacker News",
+    "time": "09-17 07:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "康冠科技(001308)披露AI眼镜研发进展 中期拟高分红布局AI领域",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fwww.eeo.com.cn%2f2026%2f0917%2f1039107.shtml&c=10074994627962344599&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-17 05:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "source": "Hacker News",
+    "time": "09-17 04:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "source": "Hacker News",
+    "time": "09-17 02:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "哈啰Robotaxi融资1亿美元，估值近30亿；Meta将推无摄像头AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A048U400&c=14316926396420504784&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 20:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "家用投影仪跌下“神坛”，AI眼镜不是极米光峰的救命稻草",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077129945_111100&c=3677833674972442172&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 20:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜出货量暴增212%，为何全行业都在亏钱?",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E5%25A2%259E212-%25E4%25B8%25BA%25E4%25BD%2595%25E5%2585%25A8%25E8%25A1%258C%25E4%25B8%259A%25E9%2583%25BD%25E5%259C%25A8%25E4%25BA%258F%25E9%2592%25B1%2far-AA2ck4xi&c=16302438355688352664&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 08:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta据报将推出无摄像头AI眼镜，代号“Luna”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-16%2fdoc-inirykpe6624731.shtml&c=15542433872985854415&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI助盲眼镜、智能导盲犬加速落地，科技助盲仍面临哪些挑战？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f09-15%2f10696971.shtml&c=11191916991371574367&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-15 21:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "朱江明：零跑近期不会把人形机器人作为重点，将来真正能带来价值的还是非人形",
+    "url": "https://www.ithome.com/1/003/451.htm",
+    "source": "IT之家",
+    "time": "09-17 11:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "朱江明回应零跑智驾何时追上特斯拉 FSD：没有可比性，中国车不能到美国，FSD 也没在中国落地",
+    "url": "https://www.ithome.com/1/003/456.htm",
+    "source": "IT之家",
+    "time": "09-17 11:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "小米直播训练 MiMo-V2.6 模型，罗福莉称沉寂半年钻研一件事",
+    "url": "https://www.ithome.com/1/003/555.htm",
+    "source": "IT之家",
+    "time": "09-17 12:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "SteamOS 游戏生态扩容：Valve 完善兼容层，瞄准 Win11/Arm/ 安卓",
+    "url": "https://www.ithome.com/1/003/554.htm",
+    "source": "IT之家",
+    "time": "09-17 12:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "任天堂 Switch 2 游戏《火焰纹章：万缕千丝》发售：IGN 打出 10 分满分，港区售价 499 港币",
+    "url": "https://www.ithome.com/1/003/553.htm",
+    "source": "IT之家",
+    "time": "09-17 12:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "被腾讯“放走”的《Wardogs》5天爆卖200万套！Steam 42万人在线，新股东增持",
+    "url": "http://www.gamelook.com.cn/2026/09/602417/",
+    "source": "GameLook",
+    "time": "09-17 09:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "不差钱的博士大佬：“自从开发独立游戏，我遇到了中年危机”，同行都笑了",
+    "url": "http://www.gamelook.com.cn/2026/09/602386/",
+    "source": "GameLook",
+    "time": "09-17 09:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "小游戏迈入转型关键期，越来越多开发者在vivo抢到了先机",
+    "url": "http://www.gamelook.com.cn/2026/09/602446/",
+    "source": "GameLook",
+    "time": "09-17 08:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国外游戏人哀嚎：去年被裁失业半年、今年上班3个月又被裁，“我真顶不住了”！",
+    "url": "http://www.gamelook.com.cn/2026/09/602315/",
+    "source": "GameLook",
+    "time": "09-16 12:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Newzoo报告：PC/主机/手游TOP5品类和游戏榜，长线游戏表现不佳，中国厂商扩张",
+    "url": "http://www.gamelook.com.cn/2026/09/602281/",
+    "source": "GameLook",
+    "time": "09-16 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "大厂狂砸“微恐游戏”！腾讯光子《Higame》扩招，Krafton新游戏交作业",
+    "url": "http://www.gamelook.com.cn/2026/09/602273/",
+    "source": "GameLook",
+    "time": "09-16 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Unity CEO：“游戏成本显著下降”，已在ICU的西方游戏公司还有救？",
+    "url": "http://www.gamelook.com.cn/2026/09/602271/",
+    "source": "GameLook",
+    "time": "09-16 09:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(13)",
+   "HackerNews(6)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
