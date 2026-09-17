@@ -2,10 +2,43 @@
  "id": "2026-09-17-wubao",
  "title": "线口监测午报 · 2026年09月17日(周四)",
  "shift": "午报",
- "date": "2026-09-17 12:56",
+ "date": "2026-09-17 14:10",
  "docx": "../briefings/线口监测午报-2026-09-17.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "网友 AI 开发工具：让笔记本 RTX 5090 显卡冲上 250W，最高功耗增幅 42.9%",
+    "url": "https://www.ithome.com/1/003/566.htm",
+    "source": "IT之家",
+    "time": "09-17 13:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微星 MEG X 电竞显示器上架：AI 加持第五代 QD-OLED 面板，9599 元",
+    "url": "https://www.ithome.com/1/003/563.htm",
+    "source": "IT之家",
+    "time": "09-17 13:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达展示 DSX MaxLPS 技术，AI 工厂每兆瓦 token 吞吐量最高提升 40%",
+    "url": "https://www.ithome.com/1/003/557.htm",
+    "source": "IT之家",
+    "time": "09-17 13:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "OPPO ColorOS 17 设备互联升级：Car+ 车联支持步行导航接续，耳机支持 AI 对话翻译",
@@ -74,32 +107,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "比亚迪大唐 SUV 新增“迪迪虾”AI 超级智能体，支持一句话点外卖等",
-    "url": "https://www.ithome.com/1/003/395.htm",
-    "source": "IT之家",
-    "time": "09-17 09:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称 Anthropic 算力布局首度落子澳大利亚，将租赁 2.16GW 数据中心园区",
-    "url": "https://www.ithome.com/1/003/393.htm",
-    "source": "IT之家",
-    "time": "09-17 09:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 首次公开六起模型异常案例，涉及瞒报错误、编造数据及未经授权上传文件",
-    "url": "https://www.ithome.com/1/003/392.htm",
-    "source": "IT之家",
-    "time": "09-17 09:46",
+    "title": "康冠科技(001308)披露AI眼镜研发进展 中期拟高分红布局AI领域",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab844a0eb74df38c9d41ce19c62b3b&url=https%3a%2f%2fwww.eeo.com.cn%2f2026%2f0917%2f1039107.shtml&c=10074994627962344599&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-17 07:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -111,17 +122,6 @@
     "url": "https://openspec.dev/",
     "source": "Hacker News",
     "time": "09-17 07:06",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "康冠科技(001308)披露AI眼镜研发进展 中期拟高分红布局AI领域",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fwww.eeo.com.cn%2f2026%2f0917%2f1039107.shtml&c=10074994627962344599&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-17 05:57",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,8 +151,30 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "百元 AI 眼镜销量火爆，大量用户退货，问题到底出在哪",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab844a0eb74df38c9d41ce19c62b3b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077255727_121444084&c=15155104277910960125&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 23:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜，谁是第一？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab844a0eb74df38c9d41ce19c62b3b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2fai%25E7%259C%25BC%25E9%2595%259C-%25E8%25B0%2581%25E6%2598%25AF%25E7%25AC%25AC%25E4%25B8%2580%2far-AA2coH17&c=1213754532085192912&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-16 22:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "哈啰Robotaxi融资1亿美元，估值近30亿；Meta将推无摄像头AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A048U400&c=14316926396420504784&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab844a0eb74df38c9d41ce19c62b3b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A048U400&c=14316926396420504784&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-16 20:55",
     "summary": "",
@@ -163,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "家用投影仪跌下“神坛”，AI眼镜不是极米光峰的救命稻草",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077129945_111100&c=3677833674972442172&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab844a0eb74df38c9d41ce19c62b3b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077129945_111100&c=3677833674972442172&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-16 20:28",
     "summary": "",
@@ -173,32 +195,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜出货量暴增212%，为何全行业都在亏钱?",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E5%25A2%259E212-%25E4%25B8%25BA%25E4%25BD%2595%25E5%2585%25A8%25E8%25A1%258C%25E4%25B8%259A%25E9%2583%25BD%25E5%259C%25A8%25E4%25BA%258F%25E9%2592%25B1%2far-AA2ck4xi&c=16302438355688352664&mkt=en-us",
+    "title": "智能眼镜行业周报(09.08 - 09.15) : AI芯片融资潮",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab844a0eb74df38c9d41ce19c62b3b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260916A0AMFS00&c=16530348863848866846&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-16 08:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Meta据报将推出无摄像头AI眼镜，代号“Luna”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-16%2fdoc-inirykpe6624731.shtml&c=15542433872985854415&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-16 01:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI助盲眼镜、智能导盲犬加速落地，科技助盲仍面临哪些挑战？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab731f93f04d8b927f06ac18c337b4&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f09-15%2f10696971.shtml&c=11191916991371574367&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-15 21:19",
+    "time": "09-16 17:45",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,8 +352,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(13)",
-   "HackerNews(6)",
-   "Bing新闻(8)"
+   "HackerNews(7)",
+   "Bing新闻(9)"
   ],
   "fail": [
    "36氪(no entries)"
