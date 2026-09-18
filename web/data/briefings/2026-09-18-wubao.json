@@ -2,10 +2,21 @@
  "id": "2026-09-18-wubao",
  "title": "线口监测午报 · 2026年09月18日(周五)",
  "shift": "午报",
- "date": "2026-09-18 20:12",
+ "date": "2026-09-18 20:55",
  "docx": "../briefings/线口监测午报-2026-09-18.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "优步全球范围裁员 10%，被裁员工称 AI 已大举渗透日常工作",
+    "url": "https://www.ithome.com/1/004/320.htm",
+    "source": "IT之家",
+    "time": "09-18 20:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利",
@@ -129,8 +140,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "ROKID与酷派AI眼镜深度体验：2026年，智能眼镜的工作原理到底改变了什么？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad34d50635412e95ffc85d16a4c963&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077741860_122645258&c=17899936928539332690&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-18 13:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "AI感知设备的隐私战争：手表在录音、眼镜在偷拍，大众正被悄悄“脱敏”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad2aa27bb54a1982af8db2532990c0&url=https%3a%2f%2ffinance.sina.com.cn%2fcj%2f2026-09-18%2fdoc-inisfiic3440503.shtml&c=8277059543612577217&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad34d50635412e95ffc85d16a4c963&url=https%3a%2f%2ffinance.sina.com.cn%2fcj%2f2026-09-18%2fdoc-inisfiic3440503.shtml&c=8277059543612577217&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-18 12:23",
     "summary": "",
@@ -151,21 +173,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "source": "Hacker News",
-    "time": "09-18 05:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "url": "https://bend-lang.com/",
-    "source": "Hacker News",
-    "time": "09-18 04:36",
+    "title": "AI眼镜产业链升温：轻量化与全场景如何破局?可穿戴新入口可期",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad34d50635412e95ffc85d16a4c963&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E7%259C%25BC%25E9%2595%259C%25E4%25BA%25A7%25E4%25B8%259A%25E9%2593%25BE%25E5%258D%2587%25E6%25B8%25A9-%25E8%25BD%25BB%25E9%2587%258F%25E5%258C%2596%25E4%25B8%258E%25E5%2585%25A8%25E5%259C%25BA%25E6%2599%25AF%25E5%25A6%2582%25E4%25BD%2595%25E7%25A0%25B4%25E5%25B1%2580%25E5%258F%25AF%25E7%25A9%25BF%25E6%2588%25B4%25E6%2596%25B0%25E5%2585%25A5%25E5%258F%25A3%25E5%258F%25AF%25E6%259C%259F%2far-AA2cuQaw&c=3780937097632448352&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-18 10:46",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -291,17 +302,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "黑鲨银刃游戏指套 3 Pro 上市：0.28mm 超薄银布材质，29.9 元",
-    "url": "https://www.ithome.com/1/004/102.htm",
-    "source": "IT之家",
-    "time": "09-18 15:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "新手开发者抱怨：经常被劝“别做你梦想中的游戏”，过来人：你别太天真！",
     "url": "http://www.gamelook.com.cn/2026/09/602561/",
     "source": "GameLook",
@@ -354,7 +354,7 @@
    "IT之家(60)",
    "GameLook(18)",
    "HackerNews(7)",
-   "Bing新闻(7)"
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
