@@ -2,10 +2,54 @@
  "id": "2026-09-18-wubao",
  "title": "线口监测午报 · 2026年09月18日(周五)",
  "shift": "午报",
- "date": "2026-09-18 12:48",
+ "date": "2026-09-18 13:57",
  "docx": "../briefings/线口监测午报-2026-09-18.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "因 AI 信息前后矛盾 / 影响家庭关系，男子起诉平台要求赔礼道歉",
+    "url": "https://www.ithome.com/1/004/074.htm",
+    "source": "IT之家",
+    "time": "09-18 13:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "PrismML 再出手：Bonsai 2 27B 以 1/9 内存占用保留 Qwen3.8 27B 98.2% 性能",
+    "url": "https://www.ithome.com/1/004/072.htm",
+    "source": "IT之家",
+    "time": "09-18 13:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "白帽黑客借 Anthropic Claude 成功入侵 OpenAI ChatGPT 账户，获 6500 美元赏金",
+    "url": "https://www.ithome.com/1/004/068.htm",
+    "source": "IT之家",
+    "time": "09-18 13:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全国首个海洋 Token 工厂落地青岛：算力规模超 800P，AI 像用水用电一样即开即用",
+    "url": "https://www.ithome.com/1/004/062.htm",
+    "source": "IT之家",
+    "time": "09-18 12:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "智谱 GLM-5.3-FlashX 模型上线，更快、更流畅",
@@ -118,50 +162,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "美国政府也部署阿里千问：《联邦公报》网站被发现使用中国 AI 模型提供搜索服务",
-    "url": "https://www.ithome.com/1/003/929.htm",
-    "source": "IT之家",
-    "time": "09-18 09:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "打官司最佳 AI 助手：OpenAI 推出 Astra for Law，提高案件胜诉率",
-    "url": "https://www.ithome.com/1/003/927.htm",
-    "source": "IT之家",
-    "time": "09-18 09:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "加速进化 Booster K1 探索版人形机器人发布：标配豆包大模型，38999 元",
-    "url": "https://www.ithome.com/1/003/924.htm",
-    "source": "IT之家",
-    "time": "09-18 09:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌最强数学推理 AI 模型曝光：100 万词元上下文，专攻数学难题",
-    "url": "https://www.ithome.com/1/003/922.htm",
-    "source": "IT之家",
-    "time": "09-18 09:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
     "url": "https://prismml.com/news/bonsai-2-27b",
     "source": "Hacker News",
@@ -196,9 +196,31 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜龙头遭泼冷水：Meta合作伙伴股价暴跌后遭下调评级",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aacc2bace2d4c88b2dd923bc03fd58a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077490043_222256&c=3068630449846676182&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aacd2cb450c4745bb5108a16978a699&url=https%3a%2f%2fwww.sohu.com%2fa%2f1077490043_222256&c=3068630449846676182&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-18 00:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "戴上眼镜，老建筑 “开口” 讲历史，上海首个 “AI 眼镜城市伴游” 试点落地",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aacd2cb450c4745bb5108a16978a699&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A0ERQQ00&c=9251321304067837008&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-17 22:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI感知设备的隐私战争：手表在录音、眼镜在偷拍，大众正被悄悄“脱敏”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aacd2cb450c4745bb5108a16978a699&url=https%3a%2f%2ffinance.sina.com.cn%2fcj%2f2026-09-18%2fdoc-inisfiic3440503.shtml&c=8277059543612577217&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-17 22:23",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -212,17 +234,6 @@
     "url": "https://www.ithome.com/1/003/942.htm",
     "source": "IT之家",
     "time": "09-18 10:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "美国电动汽车企业 Lucid 计划在欧洲部署至少 2.5 万辆 Robotaxi",
-    "url": "https://www.ithome.com/1/003/916.htm",
-    "source": "IT之家",
-    "time": "09-18 08:55",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -298,17 +309,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "第 20 届亚运会电竞项目赛程公布：《王者荣耀》《和平精英亚运版本》等，9 月 22 日开赛",
-    "url": "https://www.ithome.com/1/003/918.htm",
-    "source": "IT之家",
-    "time": "09-18 09:03",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -351,9 +351,9 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(19)",
-   "HackerNews(4)",
-   "Bing新闻(6)"
+   "GameLook(18)",
+   "HackerNews(5)",
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
