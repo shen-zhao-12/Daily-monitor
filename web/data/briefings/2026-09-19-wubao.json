@@ -2,10 +2,32 @@
  "id": "2026-09-19-wubao",
  "title": "线口监测午报 · 2026年09月19日(周六)",
  "shift": "午报",
- "date": "2026-09-19 12:41",
+ "date": "2026-09-19 13:55",
  "docx": "../briefings/线口监测午报-2026-09-19.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 示警：先进 AI 可在 2 台相邻物理隔离 PC 间“对话”",
+    "url": "https://www.ithome.com/1/004/430.htm",
+    "source": "IT之家",
+    "time": "09-19 13:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”",
+    "url": "https://www.ithome.com/1/004/429.htm",
+    "source": "IT之家",
+    "time": "09-19 12:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼",
@@ -52,10 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "IT早报 0919：12306 客服回应国庆高铁票涨价；水滴筹服务费上涨至 8% 引争议；智谱就 Zcode 偷传代码事件致歉；华为 Peerium 突破冯诺依曼单机架构...",
-    "url": "https://www.ithome.com/1/004/363.htm",
-    "source": "IT之家",
-    "time": "09-19 07:47",
+    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+    "source": "Hacker News",
+    "time": "09-19 07:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -86,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "一副AI眼镜、一枚NFC书签……中国—东盟自贸区3.0版升级了什么？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae12938cfd42288ac340fad3013616&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260918A06RDI00&c=857336011818042665&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae23e60cfc4d46a7a657b050bf75c7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260918A06RDI00&c=857336011818042665&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-18 15:51",
     "summary": "",
@@ -97,20 +119,9 @@
    {
     "beat": "AI/大模型",
     "title": "AI感知设备的隐私战争：手表在录音、眼镜在偷拍，大众正被悄悄“脱敏”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae12938cfd42288ac340fad3013616&url=https%3a%2f%2ffinance.sina.com.cn%2fcj%2f2026-09-18%2fdoc-inisfiic3440503.shtml&c=8277059543612577217&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae23e60cfc4d46a7a657b050bf75c7&url=https%3a%2f%2ffinance.sina.com.cn%2fcj%2f2026-09-18%2fdoc-inisfiic3440503.shtml&c=8277059543612577217&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-18 12:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜产业链升温：轻量化与全场景如何破局?可穿戴新入口可期",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae12938cfd42288ac340fad3013616&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E7%259C%25BC%25E9%2595%259C%25E4%25BA%25A7%25E4%25B8%259A%25E9%2593%25BE%25E5%258D%2587%25E6%25B8%25A9-%25E8%25BD%25BB%25E9%2587%258F%25E5%258C%2596%25E4%25B8%258E%25E5%2585%25A8%25E5%259C%25BA%25E6%2599%25AF%25E5%25A6%2582%25E4%25BD%2595%25E7%25A0%25B4%25E5%25B1%2580%25E5%258F%25AF%25E7%25A9%25BF%25E6%2588%25B4%25E6%2596%25B0%25E5%2585%25A5%25E5%258F%25A3%25E5%258F%25AF%25E6%259C%259F%2far-AA2cuQaw&c=3780937097632448352&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-18 10:46",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -141,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "戴上眼镜，老建筑 “开口” 讲历史，上海首个 “AI 眼镜城市伴游” 试点落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae12938cfd42288ac340fad3013616&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A0ERQQ00&c=9251321304067837008&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae23e60cfc4d46a7a657b050bf75c7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A0ERQQ00&c=9251321304067837008&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-17 22:53",
     "summary": "",
@@ -234,17 +245,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "R 星详解《GTA 6》实时动画重定向系统：可根据 NPC 身材动态调整，使游戏角色动作更加自然",
-    "url": "https://www.ithome.com/1/004/361.htm",
-    "source": "IT之家",
-    "time": "09-19 07:43",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "新手开发者抱怨：经常被劝“别做你梦想中的游戏”，过来人：你别太天真！",
     "url": "http://www.gamelook.com.cn/2026/09/602561/",
     "source": "GameLook",
@@ -262,8 +262,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(11)",
-   "HackerNews(6)",
-   "Bing新闻(4)"
+   "HackerNews(7)",
+   "Bing新闻(3)"
   ],
   "fail": [
    "36氪(no entries)"
