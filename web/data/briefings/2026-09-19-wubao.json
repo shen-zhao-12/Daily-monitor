@@ -2,10 +2,175 @@
  "id": "2026-09-19-wubao",
  "title": "线口监测午报 · 2026年09月19日(周六)",
  "shift": "午报",
- "date": "2026-09-19 13:55",
+ "date": "2026-09-19 19:54",
  "docx": "../briefings/线口监测午报-2026-09-19.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "巨头喊 AI 刹车，宏碁董事长陈俊圣称不太可能、技术发展只会越来越快",
+    "url": "https://www.ithome.com/1/004/535.htm",
+    "source": "IT之家",
+    "time": "09-19 19:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "SpaceXAI 发布 Grok Voice Transcribe 2.0 语音转文本模型：错误率降低约一半，价格保持不变",
+    "url": "https://www.ithome.com/1/004/534.htm",
+    "source": "IT之家",
+    "time": "09-19 19:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B",
+    "url": "https://www.ithome.com/1/004/530.htm",
+    "source": "IT之家",
+    "time": "09-19 18:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 演员接受英文采访时突然说粤语，制作公司回应称不是故障",
+    "url": "https://www.ithome.com/1/004/524.htm",
+    "source": "IT之家",
+    "time": "09-19 18:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 AI CEO 苏莱曼：我们不应创造自己无法控制的东西",
+    "url": "https://www.ithome.com/1/004/507.htm",
+    "source": "IT之家",
+    "time": "09-19 18:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek：调休上班的周末、中国法定节假日全天均按空闲时段计费",
+    "url": "https://www.ithome.com/1/004/494.htm",
+    "source": "IT之家",
+    "time": "09-19 18:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "加州州长签署行政令，要求专家组建立 AI“紧急停止”机制",
+    "url": "https://www.ithome.com/1/004/481.htm",
+    "source": "IT之家",
+    "time": "09-19 17:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI-generated posters don’t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "source": "Hacker News",
+    "time": "09-19 17:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI CEO 奥尔特曼下周将出席联合国大会，向安理会作 AI 议题简报",
+    "url": "https://www.ithome.com/1/004/467.htm",
+    "source": "IT之家",
+    "time": "09-19 16:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "漫威将在 Disney+ 剧集《幻视任务》中引入 AI 复仇者团队：奥创回归，10 月 14 日开播",
+    "url": "https://www.ithome.com/1/004/460.htm",
+    "source": "IT之家",
+    "time": "09-19 15:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问发布同声传译大模型 Qwen3.8-LiveTranslate，支持原文译文同帧同出",
+    "url": "https://www.ithome.com/1/004/450.htm",
+    "source": "IT之家",
+    "time": "09-19 15:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 Word 接入 ChatGPT，用户可 AI 起草、改写与校对文档",
+    "url": "https://www.ithome.com/1/004/444.htm",
+    "source": "IT之家",
+    "time": "09-19 14:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为朱照生：昇腾已经跨越了生态拐点，完全有能力、有机会在 Agentic 时代构建 AI 新生态",
+    "url": "https://www.ithome.com/1/004/441.htm",
+    "source": "IT之家",
+    "time": "09-19 14:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达黄仁勋反对放缓 AI 发展的呼声，称 2030 年不会是世界末日",
+    "url": "https://www.ithome.com/1/004/438.htm",
+    "source": "IT之家",
+    "time": "09-19 14:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "source": "Hacker News",
+    "time": "09-19 13:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "OpenAI 示警：先进 AI 可在 2 台相邻物理隔离 PC 间“对话”",
@@ -30,61 +195,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼",
-    "url": "https://www.ithome.com/1/004/423.htm",
-    "source": "IT之家",
-    "time": "09-19 12:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
-    "url": "https://www.ithome.com/1/004/420.htm",
-    "source": "IT之家",
-    "time": "09-19 11:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "集邦咨询：AI 基建瓶颈正从“缺芯”转向“缺电”",
-    "url": "https://www.ithome.com/1/004/402.htm",
-    "source": "IT之家",
-    "time": "09-19 10:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Anthropic 自建生物实验室推进 AI 物理实验，此前曾警告 AI 灭绝风险",
-    "url": "https://www.ithome.com/1/004/376.htm",
-    "source": "IT之家",
-    "time": "09-19 08:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-    "source": "Hacker News",
-    "time": "09-19 07:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
     "url": "https://spectrum.ieee.org/llms-for-chip-design",
     "source": "Hacker News",
@@ -96,30 +206,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-    "source": "Hacker News",
-    "time": "09-18 23:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "一副AI眼镜、一枚NFC书签……中国—东盟自贸区3.0版升级了什么？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae23e60cfc4d46a7a657b050bf75c7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260918A06RDI00&c=857336011818042665&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-18 15:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI感知设备的隐私战争：手表在录音、眼镜在偷拍，大众正被悄悄“脱敏”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae23e60cfc4d46a7a657b050bf75c7&url=https%3a%2f%2ffinance.sina.com.cn%2fcj%2f2026-09-18%2fdoc-inisfiic3440503.shtml&c=8277059543612577217&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae77fa00f245d1a77e1733014f8950&url=https%3a%2f%2ffinance.sina.com.cn%2fcj%2f2026-09-18%2fdoc-inisfiic3440503.shtml&c=8277059543612577217&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-18 12:23",
     "summary": "",
@@ -148,38 +236,49 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "戴上眼镜，老建筑 “开口” 讲历史，上海首个 “AI 眼镜城市伴游” 试点落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae23e60cfc4d46a7a657b050bf75c7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260917A0ERQQ00&c=9251321304067837008&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-17 22:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“AI两天码500万字”，网文圈怒了：唐家三少发声，平台下场整治",
-    "url": "http://www.gamelook.com.cn/2026/09/602336/",
-    "source": "GameLook",
-    "time": "09-17 17:28",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "权益价 9.99 万元起，东风星海 V6 乾崑智驾 ADS SE 版车型上市",
-    "url": "https://www.ithome.com/1/004/422.htm",
+    "title": "交通运输部徐剑：规模化落地干线自动驾驶，有望降低超九成事故率",
+    "url": "https://www.ithome.com/1/004/473.htm",
     "source": "IT之家",
-    "time": "09-19 11:59",
+    "time": "09-19 16:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "长安汽车张晓宇：2027 年 L3 级自动驾驶将实现量产，2028 年 L4 级开始商业化运营",
+    "url": "https://www.ithome.com/1/004/472.htm",
+    "source": "IT之家",
+    "time": "09-19 16:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "奇瑞捷豹路虎神行者 8 开启交付：华为乾崑智驾 ADS 5，28.99 万元起",
+    "url": "https://www.ithome.com/1/004/471.htm",
+    "source": "IT之家",
+    "time": "09-19 16:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "全新猛士 M817 获推 OTA 升级，带来华为乾崑智驾 ADS 5",
+    "url": "https://www.ithome.com/1/004/455.htm",
+    "source": "IT之家",
+    "time": "09-19 15:34",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -190,10 +289,10 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "Steam 喜加一：原价 22 元第一人称射击游戏《Deadshot》免费领",
-    "url": "https://www.ithome.com/1/004/419.htm",
+    "title": "《魔兽世界：无限》游戏 Beta 热度超预期，暴雪设计师称数据创 17 年所见峰值",
+    "url": "https://www.ithome.com/1/004/453.htm",
     "source": "IT之家",
-    "time": "09-19 11:45",
+    "time": "09-19 15:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -201,10 +300,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "消息称《漫威金刚狼》上市前三天销量达 190 万份，为 2026 年 PS5 平台表现最好的索尼第一方游戏",
-    "url": "https://www.ithome.com/1/004/416.htm",
+    "title": "腾讯元宝鸿蒙版 1.0.0.123 上架尝鲜，支持快速回答、深度思考等",
+    "url": "https://www.ithome.com/1/004/449.htm",
     "source": "IT之家",
-    "time": "09-19 11:34",
+    "time": "09-19 15:11",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -212,32 +311,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "英伟达 GPU 驱动 Bug 被修复：RPCS3 模拟游戏帧率提升 37%、显存占用降低 32%",
-    "url": "https://www.ithome.com/1/004/408.htm",
+    "title": "HKC 隐刃 L1 拉伸手机游戏手柄新增“冰川蓝”配色：霍尔摇杆、1KHz 回报率，169 元",
+    "url": "https://www.ithome.com/1/004/435.htm",
     "source": "IT之家",
-    "time": "09-19 11:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "家电“免费安装”成文字游戏，消协揭露三大套路",
-    "url": "https://www.ithome.com/1/004/397.htm",
-    "source": "IT之家",
-    "time": "09-19 10:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Steam 国区 77 元起，复古横版动作游戏《行尸走肉：生存街区》发售",
-    "url": "https://www.ithome.com/1/004/365.htm",
-    "source": "IT之家",
-    "time": "09-19 07:52",
+    "time": "09-19 13:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -255,15 +332,27 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "工信部总工程师王卫明：进一步提高汽车消费潜力，将出台汽车改装管理办法",
+    "url": "https://www.ithome.com/1/004/457.htm",
+    "source": "IT之家",
+    "time": "09-19 15:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(11)",
-   "HackerNews(7)",
-   "Bing新闻(3)"
+   "GameLook(9)",
+   "HackerNews(10)",
+   "Bing新闻(2)"
   ],
   "fail": [
    "36氪(no entries)"
