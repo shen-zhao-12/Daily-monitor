@@ -1,0 +1,207 @@
+{
+ "id": "2026-09-20-wubao",
+ "title": "线口监测午报 · 2026年09月20日(周日)",
+ "shift": "午报",
+ "date": "2026-09-20 12:57",
+ "docx": "../briefings/线口监测午报-2026-09-20.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "LG 电子推出 AI 数据中心专用涡轮冷水机，号称全年耗电量降低 30%",
+    "url": "https://www.ithome.com/1/004/721.htm",
+    "source": "IT之家",
+    "time": "09-20 11:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯升级元宝 App“AI 录音笔”功能：边录边拍、设备内录、WorkBuddy 快捷分享...",
+    "url": "https://www.ithome.com/1/004/716.htm",
+    "source": "IT之家",
+    "time": "09-20 11:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为：基于昇腾超节点训练的星辰轻量级代码智能体大模型 Xing4.0-29B 发布",
+    "url": "https://www.ithome.com/1/004/673.htm",
+    "source": "IT之家",
+    "time": "09-20 10:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "特朗普计划组建一支“人工智能部队”，称 AI 未来可能占到美国国内生产总值的 25%",
+    "url": "https://www.ithome.com/1/004/608.htm",
+    "source": "IT之家",
+    "time": "09-20 09:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "日企 TENKO 推出 10.51\" 笔电 Note Pro AI，搭载 Ultra 5 处理器 125U",
+    "url": "https://www.ithome.com/1/004/605.htm",
+    "source": "IT之家",
+    "time": "09-20 09:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "理想AI眼镜Livis 9月OTA下周推送：新增自适应音量",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf67c7593448ce9f1ecda080f0eaf8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E7%2590%2586%25E6%2583%25B3ai%25E7%259C%25BC%25E9%2595%259Clivis-9%25E6%259C%2588ota%25E4%25B8%258B%25E5%2591%25A8%25E6%258E%25A8%25E9%2580%2581-%25E6%2596%25B0%25E5%25A2%259E%25E8%2587%25AA%25E9%2580%2582%25E5%25BA%2594%25E9%259F%25B3%25E9%2587%258F%2far-AA2cAu6z&c=4519599578101359974&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-20 05:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "东博会借助AI塑造“新气质”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf67c7593448ce9f1ecda080f0eaf8&url=https%3a%2f%2fwww.xinhuanet.com%2ftech%2f20260920%2fafc656fa558d45e8a198cd74e4b8c8aa%2fc.html&c=6393378083147456113&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-20 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI-generated posters don’t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "source": "Hacker News",
+    "time": "09-19 17:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "眼动追踪、ToF、AI眼镜，Metalens的商业化路径逐渐清晰",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf67c7593448ce9f1ecda080f0eaf8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%259C%25BC%25E5%258A%25A8%25E8%25BF%25BD%25E8%25B8%25AA-tof-ai%25E7%259C%25BC%25E9%2595%259C-metalens%25E7%259A%2584%25E5%2595%2586%25E4%25B8%259A%25E5%258C%2596%25E8%25B7%25AF%25E5%25BE%2584%25E9%2580%2590%25E6%25B8%2590%25E6%25B8%2585%25E6%2599%25B0%2far-AA2ct0QQ&c=7745333922595632224&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-18 16:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "北汽星钽 5X 方盒子新车亮相，官宣搭载华为乾崑智驾",
+    "url": "https://www.ithome.com/1/004/619.htm",
+    "source": "IT之家",
+    "time": "09-20 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026 亚运会中国队首个电竞冲金点：网易《永劫无间》《第五人格》赛程出炉",
+    "url": "https://www.ithome.com/1/004/725.htm",
+    "source": "IT之家",
+    "time": "09-20 12:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Valve 开源 Steam Frame 头显安卓兼容层 Lepton，可帮助开发者将 Android 游戏快速移植至 VR 平台",
+    "url": "https://www.ithome.com/1/004/689.htm",
+    "source": "IT之家",
+    "time": "09-20 11:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "9 岁男孩为推广自己的《我的世界》游戏视频，挪用父亲公司信用卡花费 11.8 万美元致其失业“卖房还贷”",
+    "url": "https://www.ithome.com/1/004/672.htm",
+    "source": "IT之家",
+    "time": "09-20 10:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《寂静岭：Townfall》游戏 PS5 实体盘偷跑，全流程约 10-14 小时",
+    "url": "https://www.ithome.com/1/004/666.htm",
+    "source": "IT之家",
+    "time": "09-20 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英特尔 Arc 显卡驱动 32.0.101.9030 测试版发布：新增三款游戏支持，修复多款游戏卡顿崩溃问题",
+    "url": "https://www.ithome.com/1/004/341.htm",
+    "source": "IT之家",
+    "time": "09-18 23:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "“行业首款 360° 全景智能投影”坚果 MIGO 上市：750 CVIA 亮度、接入小米澎湃智联，国补 1599 元",
+    "url": "https://www.ithome.com/1/004/704.htm",
+    "source": "IT之家",
+    "time": "09-20 11:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(3)",
+   "Bing新闻(3)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
