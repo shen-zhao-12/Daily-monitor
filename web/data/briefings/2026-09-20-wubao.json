@@ -2,10 +2,54 @@
  "id": "2026-09-20-wubao",
  "title": "线口监测午报 · 2026年09月20日(周日)",
  "shift": "午报",
- "date": "2026-09-20 12:57",
+ "date": "2026-09-20 14:20",
  "docx": "../briefings/线口监测午报-2026-09-20.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "更大的换热面积：机械大师公布 KLEIN 系列双冷排 AIO 液冷",
+    "url": "https://www.ithome.com/1/004/746.htm",
+    "source": "IT之家",
+    "time": "09-20 14:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "市场监管总局：“十五五”时期将运用大数据、AI 等规范网络销售、直播带货，建设消费信用体系",
+    "url": "https://www.ithome.com/1/004/745.htm",
+    "source": "IT之家",
+    "time": "09-20 14:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "理想 AI 眼镜 Livis 获 9 月 OTA 升级：同声传译新增多语种、音量可根据环境动态调节等",
+    "url": "https://www.ithome.com/1/004/740.htm",
+    "source": "IT之家",
+    "time": "09-20 13:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "B站上线“AI 无限竞技场”LLM 测评榜：号称“全球百大模型同场竞技”、GPT-6 现居榜首",
+    "url": "https://www.ithome.com/1/004/738.htm",
+    "source": "IT之家",
+    "time": "09-20 13:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "LG 电子推出 AI 数据中心专用涡轮冷水机，号称全年耗电量降低 30%",
@@ -41,30 +85,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "特朗普计划组建一支“人工智能部队”，称 AI 未来可能占到美国国内生产总值的 25%",
-    "url": "https://www.ithome.com/1/004/608.htm",
-    "source": "IT之家",
-    "time": "09-20 09:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "日企 TENKO 推出 10.51\" 笔电 Note Pro AI，搭载 Ultra 5 处理器 125U",
-    "url": "https://www.ithome.com/1/004/605.htm",
-    "source": "IT之家",
-    "time": "09-20 09:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "理想AI眼镜Livis 9月OTA下周推送：新增自适应音量",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf67c7593448ce9f1ecda080f0eaf8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E7%2590%2586%25E6%2583%25B3ai%25E7%259C%25BC%25E9%2595%259Clivis-9%25E6%259C%2588ota%25E4%25B8%258B%25E5%2591%25A8%25E6%258E%25A8%25E9%2580%2581-%25E6%2596%25B0%25E5%25A2%259E%25E8%2587%25AA%25E9%2580%2582%25E5%25BA%2594%25E9%259F%25B3%25E9%2587%258F%2far-AA2cAu6z&c=4519599578101359974&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf7b8838cd4290b4b1d8837ecb4a14&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E7%2590%2586%25E6%2583%25B3ai%25E7%259C%25BC%25E9%2595%259Clivis-9%25E6%259C%2588ota%25E4%25B8%258B%25E5%2591%25A8%25E6%258E%25A8%25E9%2580%2581-%25E6%2596%25B0%25E5%25A2%259E%25E8%2587%25AA%25E9%2580%2582%25E5%25BA%2594%25E9%259F%25B3%25E9%2587%258F%2far-AA2cAu6z&c=4519599578101359974&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-20 05:11",
     "summary": "",
@@ -74,10 +96,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "东博会借助AI塑造“新气质”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf67c7593448ce9f1ecda080f0eaf8&url=https%3a%2f%2fwww.xinhuanet.com%2ftech%2f20260920%2fafc656fa558d45e8a198cd74e4b8c8aa%2fc.html&c=6393378083147456113&mkt=en-us",
+    "title": "理想AI眼镜Livis 9月OTA升级：自适应音量与同声传译新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf7b8838cd4290b4b1d8837ecb4a14&url=https%3a%2f%2fwww.sohu.com%2fa%2f1078533194_122004016&c=15250487856316802847&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-20 01:00",
+    "time": "09-19 23:11",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -97,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "眼动追踪、ToF、AI眼镜，Metalens的商业化路径逐渐清晰",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf67c7593448ce9f1ecda080f0eaf8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%259C%25BC%25E5%258A%25A8%25E8%25BF%25BD%25E8%25B8%25AA-tof-ai%25E7%259C%25BC%25E9%2595%259C-metalens%25E7%259A%2584%25E5%2595%2586%25E4%25B8%259A%25E5%258C%2596%25E8%25B7%25AF%25E5%25BE%2584%25E9%2580%2590%25E6%25B8%2590%25E6%25B8%2585%25E6%2599%25B0%2far-AA2ct0QQ&c=7745333922595632224&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf7b8838cd4290b4b1d8837ecb4a14&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%259C%25BC%25E5%258A%25A8%25E8%25BF%25BD%25E8%25B8%25AA-tof-ai%25E7%259C%25BC%25E9%2595%259C-metalens%25E7%259A%2584%25E5%2595%2586%25E4%25B8%259A%25E5%258C%2596%25E8%25B7%25AF%25E5%25BE%2584%25E9%2580%2590%25E6%25B8%2590%25E6%25B8%2585%25E6%2599%25B0%2far-AA2ct0QQ&c=7745333922595632224&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-18 16:27",
     "summary": "",
@@ -106,20 +128,20 @@
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [
+  "机器人/AI硬件": [
    {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "北汽星钽 5X 方盒子新车亮相，官宣搭载华为乾崑智驾",
-    "url": "https://www.ithome.com/1/004/619.htm",
+    "beat": "机器人/AI硬件",
+    "title": "智元与长隆集团合作建设“全球首个大型具身智能主题乐园”，9 月 24 日在珠海横琴长隆飞船乐园开园",
+    "url": "https://www.ithome.com/1/004/731.htm",
     "source": "IT之家",
-    "time": "09-20 09:29",
+    "time": "09-20 13:12",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
+  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
@@ -165,17 +187,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "英特尔 Arc 显卡驱动 32.0.101.9030 测试版发布：新增三款游戏支持，修复多款游戏卡顿崩溃问题",
-    "url": "https://www.ithome.com/1/004/341.htm",
-    "source": "IT之家",
-    "time": "09-18 23:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -198,7 +209,7 @@
    "IT之家(60)",
    "GameLook(0)",
    "HackerNews(3)",
-   "Bing新闻(3)"
+   "Bing新闻(4)"
   ],
   "fail": [
    "36氪(no entries)"
