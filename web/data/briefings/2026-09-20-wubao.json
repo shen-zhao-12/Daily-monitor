@@ -2,10 +2,21 @@
  "id": "2026-09-20-wubao",
  "title": "线口监测午报 · 2026年09月20日(周日)",
  "shift": "午报",
- "date": "2026-09-20 20:14",
+ "date": "2026-09-20 21:01",
  "docx": "../briefings/线口监测午报-2026-09-20.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "FBI 局长称该局 AI 使用暴增 605%，靠 AI 拦下多起枪击事件",
+    "url": "https://www.ithome.com/1/004/986.htm",
+    "source": "IT之家",
+    "time": "09-20 20:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "断网仍可作战：AI 模型加持的无人机可实现战场自主识别、打击目标",
@@ -23,6 +34,17 @@
     "url": "https://www.ithome.com/1/004/946.htm",
     "source": "IT之家",
     "time": "09-20 18:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI and the Destruction of the Creative Commons",
+    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+    "source": "Hacker News",
+    "time": "09-20 18:07",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -63,19 +85,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-    "source": "Hacker News",
-    "time": "09-20 14:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "理想AI眼镜Livis 9月OTA下周推送：新增自适应音量",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafce4b87224bfca41b4b7ed570337f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1078521206_115831&c=10894275838769935926&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafd91f276e48e5b02d75da47c660bb&url=https%3a%2f%2fwww.sohu.com%2fa%2f1078521206_115831&c=10894275838769935926&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-20 13:10",
     "summary": "",
@@ -85,32 +96,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "折叠屏手机新纪元：FPC价值量激增，AI眼镜或成下一站",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafce4b87224bfca41b4b7ed570337f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1078525702_122004016&c=7990843698252041252&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-20 11:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "理想 AI 眼镜 Livis 获 9 月 OTA 升级，同声传译新增多语种等",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafce4b87224bfca41b4b7ed570337f&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E7%2590%2586%25E6%2583%25B3-ai-%25E7%259C%25BC%25E9%2595%259C-livis-%25E8%258E%25B7-9-%25E6%259C%2588-ota-%25E5%258D%2587%25E7%25BA%25A7-%25E5%2590%258C%25E5%25A3%25B0%25E4%25BC%25A0%25E8%25AF%2591%25E6%2596%25B0%25E5%25A2%259E%25E5%25A4%259A%25E8%25AF%25AD%25E7%25A7%258D%25E7%25AD%2589%2far-AA2cAxg4&c=7884153995813546483&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafd91f276e48e5b02d75da47c660bb&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E7%2590%2586%25E6%2583%25B3-ai-%25E7%259C%25BC%25E9%2595%259C-livis-%25E8%258E%25B7-9-%25E6%259C%2588-ota-%25E5%258D%2587%25E7%25BA%25A7-%25E5%2590%258C%25E5%25A3%25B0%25E4%25BC%25A0%25E8%25AF%2591%25E6%2596%25B0%25E5%25A2%259E%25E5%25A4%259A%25E8%25AF%25AD%25E7%25A7%258D%25E7%25AD%2589%2far-AA2cAxg4&c=7884153995813546483&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-20 06:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "影目科技亮相华为全联接大会2026，联合华为云展示AI+AR文旅解决方案",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafce4b87224bfca41b4b7ed570337f&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-09-20%2fdetail-inismzva9370820.d.html%3fvt%3d4&c=4591897696267756590&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-20 02:30",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -265,7 +254,7 @@
    "IT之家(60)",
    "GameLook(0)",
    "HackerNews(5)",
-   "Bing新闻(4)"
+   "Bing新闻(3)"
   ],
   "fail": [
    "36氪(no entries)"
