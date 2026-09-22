@@ -1,0 +1,361 @@
+{
+ "id": "2026-09-22-wubao",
+ "title": "线口监测午报 · 2026年09月22日(周二)",
+ "shift": "午报",
+ "date": "2026-09-22 13:02",
+ "docx": "../briefings/线口监测午报-2026-09-22.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "曝阿里试水千问平板 QwenBook：定位原生智能体电脑，主打办公、打通 WPS",
+    "url": "https://www.ithome.com/1/005/648.htm",
+    "source": "IT之家",
+    "time": "09-22 12:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问 AI 眼镜 N1 系列亮相阿里云栖大会：支持眼动追踪与虹膜支付，10 月 13 日发售",
+    "url": "https://www.ithome.com/1/005/647.htm",
+    "source": "IT之家",
+    "time": "09-22 12:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "最强国产 AI 芯片阿里平头哥真武 V900 发布，全新磐久超节点服务器明年 Q1 上市",
+    "url": "https://www.ithome.com/1/005/602.htm",
+    "source": "IT之家",
+    "time": "09-22 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "龙芯发布自研通用 GPU 加速计算平台首个软件版本：支持 OpenCL 3.0、CUDA 及 AI 推理",
+    "url": "https://www.ithome.com/1/005/595.htm",
+    "source": "IT之家",
+    "time": "09-22 11:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里平头哥将发布最强国产 AI 芯片真武 V900，算力提升 2 倍",
+    "url": "https://www.ithome.com/1/005/588.htm",
+    "source": "IT之家",
+    "time": "09-22 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里吴泳铭：全力投入 AI 基础设施建设，目标到 2032 年阿里云全球数据中心规模超 20GW",
+    "url": "https://www.ithome.com/1/005/587.htm",
+    "source": "IT之家",
+    "time": "09-22 10:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "我国活跃智能体已近 500 万个，到 2030 年中国 AI 算力市场规模或暴增 300%",
+    "url": "https://www.ithome.com/1/005/586.htm",
+    "source": "IT之家",
+    "time": "09-22 10:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Counterpoint 数据：全球 AI 眼镜出货 2026H1 同比大增 263%",
+    "url": "https://www.ithome.com/1/005/579.htm",
+    "source": "IT之家",
+    "time": "09-22 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "129 元酷态科 6 号电能卡片 Air 太空系列三体联名版开售：最高 90W 功率 + 60W AVS 动态快充，苹果 iPhone 18 Pro Max 15 分钟充到 50%",
+    "url": "https://www.ithome.com/1/005/578.htm",
+    "source": "IT之家",
+    "time": "09-22 10:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Snapchat 社交平台更新 Lens+ 订阅服务，新增“聊天消息转歌曲”等多项生成式 AI 功能",
+    "url": "https://www.ithome.com/1/005/564.htm",
+    "source": "IT之家",
+    "time": "09-22 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "年收入1亿美元！AI游戏大佬OOC是什么来头？",
+    "url": "http://www.gamelook.com.cn/2026/09/602693/",
+    "source": "GameLook",
+    "time": "09-22 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "加拿大不列颠哥伦比亚省正式就涉 9 人死亡枪击案不作为行为起诉 OpenAI",
+    "url": "https://www.ithome.com/1/005/538.htm",
+    "source": "IT之家",
+    "time": "09-22 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国最年轻 10 位亿万富豪出炉：7 人靠 AI 创业，4 人来自 Anthropic",
+    "url": "https://www.ithome.com/1/005/532.htm",
+    "source": "IT之家",
+    "time": "09-22 09:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩 AI 芯片企业 FuriosaAI 披露新一代推理加速器规格：32 倍算力、32 倍内存带宽",
+    "url": "https://www.ithome.com/1/005/531.htm",
+    "source": "IT之家",
+    "time": "09-22 09:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Transformers Explained Visually",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "source": "Hacker News",
+    "time": "09-22 03:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "url": "https://linear.app/now/ci-bottleneck-reworked",
+    "source": "Hacker News",
+    "time": "09-22 03:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Frontier AI on Your Own Hardware",
+    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+    "source": "Hacker News",
+    "time": "09-22 02:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "铲除“幽灵外卖”、最高判刑 15 年，新一批网络食品安全犯罪典型案例发布",
+    "url": "https://www.ithome.com/1/005/580.htm",
+    "source": "IT之家",
+    "time": "09-22 10:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "中央网信办召开网络直播规范发展工作会议：对直播乱象实现靶向治理",
+    "url": "https://www.ithome.com/1/005/529.htm",
+    "source": "IT之家",
+    "time": "09-22 09:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏电影神作？“非正史”《生化危机:爆发夜》票房破1亿美元，玩家集体叫好",
+    "url": "http://www.gamelook.com.cn/2026/09/602722/",
+    "source": "GameLook",
+    "time": "09-22 12:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏《沙丘：觉醒》登陆索尼 PS5 及微软 XBOX Series X｜S 平台，定价 398 港币起",
+    "url": "https://www.ithome.com/1/005/645.htm",
+    "source": "IT之家",
+    "time": "09-22 12:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "iQOO 电竞性能技术沟通会定档 9 月 23 日，将发布「3+2 游戏技术版图」",
+    "url": "https://www.ithome.com/1/005/604.htm",
+    "source": "IT之家",
+    "time": "09-22 11:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯混元 Hy Image3.5 preview 发布：支持文生图与多轮对话创作，已上线元宝、ima 等应用",
+    "url": "https://www.ithome.com/1/005/589.htm",
+    "source": "IT之家",
+    "time": "09-22 10:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游再发“反舞弊通告”：二游周边成重灾区、涉案员工或面临10年以上徒刑",
+    "url": "http://www.gamelook.com.cn/2026/09/602694/",
+    "source": "GameLook",
+    "time": "09-22 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "台风让东京电玩展“提前散场”！中国游戏大厂集体缺席，这届还有啥看头？",
+    "url": "http://www.gamelook.com.cn/2026/09/602685/",
+    "source": "GameLook",
+    "time": "09-22 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼通知“砍游戏”，小岛秀夫亲述：“担心公司直接倒闭，我大脑一片空白”",
+    "url": "http://www.gamelook.com.cn/2026/09/602669/",
+    "source": "GameLook",
+    "time": "09-22 09:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国外玩家吐槽：Discord毁了多人游戏！“都语聊、游戏里没人说话了”",
+    "url": "http://www.gamelook.com.cn/2026/09/602667/",
+    "source": "GameLook",
+    "time": "09-22 09:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Bungie 承认近年决策失误，将为《命运 2》带回已下线游戏内容",
+    "url": "https://www.ithome.com/1/005/533.htm",
+    "source": "IT之家",
+    "time": "09-22 09:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯拯救《剑星》？金亨泰自曝：“最惨只剩3个月工资、投资人都劝别做单机”",
+    "url": "http://www.gamelook.com.cn/2026/09/602653/",
+    "source": "GameLook",
+    "time": "09-22 09:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米推出米家冰箱 425L 十字全域离子净化新品：国补价 1999.2 元",
+    "url": "https://www.ithome.com/1/005/584.htm",
+    "source": "IT之家",
+    "time": "09-22 10:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(7)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
