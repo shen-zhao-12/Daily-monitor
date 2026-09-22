@@ -2,7 +2,7 @@
  "id": "2026-09-22-wubao",
  "title": "线口监测午报 · 2026年09月22日(周二)",
  "shift": "午报",
- "date": "2026-09-22 13:02",
+ "date": "2026-09-22 14:17",
  "docx": "../briefings/线口监测午报-2026-09-22.docx",
  "sections": {
   "AI/大模型": [
@@ -140,10 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "美国最年轻 10 位亿万富豪出炉：7 人靠 AI 创业，4 人来自 Anthropic",
-    "url": "https://www.ithome.com/1/005/532.htm",
-    "source": "IT之家",
-    "time": "09-22 09:33",
+    "title": "千问新一代AI硬件云栖大会首次集中亮相，10月13日现货发售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab21d6f438d45109f6fb34ff9d8cdd2&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E5%258D%2583%25E9%2597%25AE%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3ai%25E7%25A1%25AC%25E4%25BB%25B6%25E4%25BA%2591%25E6%25A0%2596%25E5%25A4%25A7%25E4%25BC%259A%25E9%25A6%2596%25E6%25AC%25A1%25E9%259B%2586%25E4%25B8%25AD%25E4%25BA%25AE%25E7%259B%25B8-10%25E6%259C%258813%25E6%2597%25A5%25E7%258E%25B0%25E8%25B4%25A7%25E5%258F%2591%25E5%2594%25AE%2far-AA2cJ6e8&c=15183081962352951599&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 05:55",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,10 +151,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "韩 AI 芯片企业 FuriosaAI 披露新一代推理加速器规格：32 倍算力、32 倍内存带宽",
-    "url": "https://www.ithome.com/1/005/531.htm",
-    "source": "IT之家",
-    "time": "09-22 09:21",
+    "title": "2026上半年全球AI眼镜市场爆发，“无屏幕”领跑AR显示增速惊人",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab21d6f438d45109f6fb34ff9d8cdd2&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f2026%25E4%25B8%258A%25E5%258D%258A%25E5%25B9%25B4%25E5%2585%25A8%25E7%2590%2583ai%25E7%259C%25BC%25E9%2595%259C%25E5%25B8%2582%25E5%259C%25BA%25E7%2588%2586%25E5%258F%2591-%25E6%2597%25A0%25E5%25B1%258F%25E5%25B9%2595-%25E9%25A2%2586%25E8%25B7%2591ar%25E6%2598%25BE%25E7%25A4%25BA%25E5%25A2%259E%25E9%2580%259F%25E6%2583%258A%25E4%25BA%25BA%2far-AA2cI5y2&c=10284300128971755237&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 05:15",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -192,6 +192,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Why does mathmain need an encrypted loader?",
+    "url": "https://safedep.io/mathmain-encrypted-loader/",
+    "source": "Hacker News",
+    "time": "09-22 02:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "机器人/AI硬件": [],
@@ -203,17 +214,6 @@
     "url": "https://www.ithome.com/1/005/580.htm",
     "source": "IT之家",
     "time": "09-22 10:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "电商/直播/即时零售",
-    "title": "中央网信办召开网络直播规范发展工作会议：对直播乱象实现靶向治理",
-    "url": "https://www.ithome.com/1/005/529.htm",
-    "source": "IT之家",
-    "time": "09-22 09:14",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -311,17 +311,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "Bungie 承认近年决策失误，将为《命运 2》带回已下线游戏内容",
-    "url": "https://www.ithome.com/1/005/533.htm",
-    "source": "IT之家",
-    "time": "09-22 09:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "腾讯拯救《剑星》？金亨泰自曝：“最惨只剩3个月工资、投资人都劝别做单机”",
     "url": "http://www.gamelook.com.cn/2026/09/602653/",
     "source": "GameLook",
@@ -333,6 +322,17 @@
    }
   ],
   "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "泰坦军团推出“M34E7S”34 英寸带鱼屏显示器：1440P 240Hz、双扬声器，2776 元（国补后 2499 元）",
+    "url": "https://www.ithome.com/1/005/657.htm",
+    "source": "IT之家",
+    "time": "09-22 13:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "小米推出米家冰箱 425L 十字全域离子净化新品：国补价 1999.2 元",
@@ -351,8 +351,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(7)",
-   "Bing新闻(9)"
+   "HackerNews(6)",
+   "Bing新闻(10)"
   ],
   "fail": [
    "36氪(no entries)"
