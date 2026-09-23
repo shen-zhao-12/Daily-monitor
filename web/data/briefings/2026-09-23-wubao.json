@@ -1,0 +1,361 @@
+{
+ "id": "2026-09-23-wubao",
+ "title": "线口监测午报 · 2026年09月23日(周三)",
+ "shift": "午报",
+ "date": "2026-09-23 12:49",
+ "docx": "../briefings/线口监测午报-2026-09-23.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "高通：手机仍占个人交互 C 位，应用正从 APP 时代迈向 AI 智能体时代",
+    "url": "https://www.ithome.com/1/006/201.htm",
+    "source": "IT之家",
+    "time": "09-23 12:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 新论文公开 Agent 训练，梁文锋署名",
+    "url": "https://www.ithome.com/1/006/148.htm",
+    "source": "IT之家",
+    "time": "09-23 11:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷神预告 STATION 系列迷你 AI 工作站，至高可选 AMD 锐龙 AI Max+ PRO 495",
+    "url": "https://www.ithome.com/1/006/138.htm",
+    "source": "IT之家",
+    "time": "09-23 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“AI跑团手游”月收入破300万元！“玩家边吐槽、边充值”？",
+    "url": "http://www.gamelook.com.cn/2026/09/602756/",
+    "source": "GameLook",
+    "time": "09-23 10:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为智能门锁 2 Pro 悦享版预售：搭载 AI 3D 人脸识别 3.0 技术，2499 元",
+    "url": "https://www.ithome.com/1/006/076.htm",
+    "source": "IT之家",
+    "time": "09-23 09:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韶音旗下首款 AI 耳机 OpenFit 2 AI 亮相 2026 云栖大会，AI 实验室新功能首发",
+    "url": "https://www.ithome.com/1/006/065.htm",
+    "source": "IT之家",
+    "time": "09-23 09:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "source": "Hacker News",
+    "time": "09-23 03:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Omdia：2026年上半年AI眼镜出货量同比增长超一倍，创下420万台历史新高",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fwww.esmchina.com%2fmarketnews%2f59756.html&c=1123942164584796580&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从“具身”到“具人”，AI终端向新生态演进",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609233882290283.html&c=8088956816266033924&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "source": "Hacker News",
+    "time": "09-22 22:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "曹操出行与千问AI眼镜达成合作，智能端侧硬件生态再扩容",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260923A05Q9R00&c=3032684152399331526&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 22:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "source": "Hacker News",
+    "time": "09-22 21:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果暂缓AI吊坠，AI可穿戴战略转向手表、耳机与智能眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f31292.shtml&c=3564706736525542039&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 21:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球AI眼镜出货量猛增127%，隐私问题引发关注！",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079781242_122004016&c=3183834955723880798&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 20:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "港股概念追踪|AI眼镜迭代加速 配套厂商有望分享更多产业链价值（附概念股）",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079744447_323087&c=4619235308753786813&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 18:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜，怎么又不要摄像头了？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260922A08S2300&c=7726463147338547398&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 18:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "年收入1亿美元！AI游戏大佬OOC是什么来头？",
+    "url": "http://www.gamelook.com.cn/2026/09/602693/",
+    "source": "GameLook",
+    "time": "09-22 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "美团启动“放心外卖”七项行动：上线“食安版”美团外卖 App、将骑手“食安哨兵”巡店模式推向全国",
+    "url": "https://www.ithome.com/1/006/053.htm",
+    "source": "IT之家",
+    "time": "09-23 09:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "高通展示第六代骁龙 8 超级至尊版 ANF 游戏渲染能力：覆盖《异环》《崩坏：星穹铁道》《白银之城》《洛克王国：世界》等",
+    "url": "https://www.ithome.com/1/006/205.htm",
+    "source": "IT之家",
+    "time": "09-23 12:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "首家 iQOO 旗舰电竞馆 9 月 28 日在南京开幕",
+    "url": "https://www.ithome.com/1/006/198.htm",
+    "source": "IT之家",
+    "time": "09-23 12:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“500万根草里找一根针”！1亿次播放短视频，引发“游戏圈集体抄袭闹剧”？",
+    "url": "http://www.gamelook.com.cn/2026/09/602792/",
+    "source": "GameLook",
+    "time": "09-23 11:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "宣称真正吃透 PC 游戏技术：iQOO 发布“3+2 游戏技术版图”，iQOO 16 手机支持全场景光追 + 2K + 165 FPS",
+    "url": "https://www.ithome.com/1/006/137.htm",
+    "source": "IT之家",
+    "time": "09-23 11:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "反向虚标：苹果 iPhone 18 Pro Max 游戏平均帧率较前代高 50.3%",
+    "url": "https://www.ithome.com/1/006/135.htm",
+    "source": "IT之家",
+    "time": "09-23 11:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "大佬云集！中国游戏纪录片《理想的存档》开播，TapTap给这十年“存了档”",
+    "url": "http://www.gamelook.com.cn/2026/09/602786/",
+    "source": "GameLook",
+    "time": "09-23 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“45岁才做游戏太晚了么”？海外大龄开发者的回答“让人感动”！",
+    "url": "http://www.gamelook.com.cn/2026/09/602777/",
+    "source": "GameLook",
+    "time": "09-23 10:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏电影神作？“非正史”《生化危机:爆发夜》票房破1亿美元，玩家集体叫好",
+    "url": "http://www.gamelook.com.cn/2026/09/602722/",
+    "source": "GameLook",
+    "time": "09-22 12:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游再发“反舞弊通告”：二游周边成重灾区、涉案员工或面临10年以上徒刑",
+    "url": "http://www.gamelook.com.cn/2026/09/602694/",
+    "source": "GameLook",
+    "time": "09-22 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "台风让东京电玩展“提前散场”！中国游戏大厂集体缺席，这届还有啥看头？",
+    "url": "http://www.gamelook.com.cn/2026/09/602685/",
+    "source": "GameLook",
+    "time": "09-22 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼通知“砍游戏”，小岛秀夫亲述：“担心公司直接倒闭，我大脑一片空白”",
+    "url": "http://www.gamelook.com.cn/2026/09/602669/",
+    "source": "GameLook",
+    "time": "09-22 09:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家智能意式半自动咖啡机 Pro 预售，首发国补价 3395.84 元",
+    "url": "https://www.ithome.com/1/006/084.htm",
+    "source": "IT之家",
+    "time": "09-23 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(7)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
