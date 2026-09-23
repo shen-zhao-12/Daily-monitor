@@ -2,10 +2,32 @@
  "id": "2026-09-23-wubao",
  "title": "线口监测午报 · 2026年09月23日(周三)",
  "shift": "午报",
- "date": "2026-09-23 20:43",
+ "date": "2026-09-23 21:35",
  "docx": "../briefings/线口监测午报-2026-09-23.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "报告：美国人开始问 AI“吃什么零食”，高蛋白和重口味食品需求增长",
+    "url": "https://www.ithome.com/1/006/471.htm",
+    "source": "IT之家",
+    "time": "09-23 21:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "行业首个单枪峰值充电功率 2.2 兆瓦，吉利新一代 AI 补能技术“吉利智充”发布",
+    "url": "https://www.ithome.com/1/006/462.htm",
+    "source": "IT之家",
+    "time": "09-23 20:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "卢伟冰：小米 17 Pro 系列手机背屏 AI 功能将于 12 月底更新",
@@ -52,32 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "科大讯飞发布全新语音识别大模型 Spark-ASR-2.0，明日上线讯飞输入法",
-    "url": "https://www.ithome.com/1/006/345.htm",
-    "source": "IT之家",
-    "time": "09-23 16:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "荣耀 YOYO Claw、小米 miclaw、阶跃终端 AI 三款手机端侧生成式 AI 服务通过网信部门备案",
-    "url": "https://www.ithome.com/1/006/344.htm",
-    "source": "IT之家",
-    "time": "09-23 16:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "三星 AI 冰箱系统更新后直接“罢工”，导致用户食材损坏",
-    "url": "https://www.ithome.com/1/006/341.htm",
-    "source": "IT之家",
-    "time": "09-23 16:24",
+    "title": "里斯战略咨询：2026年AI眼镜出货量有望破千万，国产品牌需厘清品类定位",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%2587%258C%25E6%2596%25AF%25E6%2588%2598%25E7%2595%25A5%25E5%2592%25A8%25E8%25AF%25A2-2026%25E5%25B9%25B4ai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259C%2589%25E6%259C%259B%25E7%25A0%25B4%25E5%258D%2583%25E4%25B8%2587-%25E5%259B%25BD%25E4%25BA%25A7%25E5%2593%2581%25E7%2589%258C%25E9%259C%2580%25E5%258E%2598%25E6%25B8%2585%25E5%2593%2581%25E7%25B1%25BB%25E5%25AE%259A%25E4%25BD%258D%2far-AA2cODsS&c=12602211146246706182&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 13:21",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -96,10 +96,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "苹果暂缓AI吊坠，AI可穿戴战略转向手表、耳机与智能眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3c9630d1043988a92c36834ab4547&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f31292.shtml&c=3564706736525542039&mkt=en-us",
+    "title": "翻译从耳边变眼前! 300台AI眼镜服务北京文化论坛",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%25BF%25BB%25E8%25AF%2591%25E4%25BB%258E%25E8%2580%25B3%25E8%25BE%25B9%25E5%258F%2598%25E7%259C%25BC%25E5%2589%258D-300%25E5%258F%25B0ai%25E7%259C%25BC%25E9%2595%259C%25E6%259C%258D%25E5%258A%25A1%25E5%258C%2597%25E4%25BA%25AC%25E6%2596%2587%25E5%258C%2596%25E8%25AE%25BA%25E5%259D%259B%2far-AA2cOI75&c=14874845716295940420&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-23 11:17",
+    "time": "09-23 12:35",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -108,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "【AI眼镜】跟踪更新：Meta Muse生态加速，Rokid迭代版本发布——国金轻工",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3c9630d1043988a92c36834ab4547&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260923A046DX00&c=17018446799280847141&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260923A046DX00&c=17018446799280847141&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-23 10:24",
     "summary": "",
@@ -130,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "港股概念追踪|AI眼镜迭代加速 配套厂商有望分享更多产业链价值（附概念股）",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3c9630d1043988a92c36834ab4547&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079744447_323087&c=4619235308753786813&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079744447_323087&c=4619235308753786813&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-23 08:48",
     "summary": "",
@@ -140,8 +140,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "智动力与The Blonds联手发布超轻AI眼镜，时尚与科技的完美融合",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3c9630d1043988a92c36834ab4547&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080070591_122004016&c=10507106329871488368&mkt=en-us",
+    "title": "智动力携手The Blonds登陆纽约时装周，发布首款50克内双目全彩AI眼镜Skynea",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6ab3c3f7158f681db41bf940.html&c=9734132384129239030&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-23 07:15",
     "summary": "",
@@ -152,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "300台AI眼镜同时在线，北京以科技创新提升国际交流服务能力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3c9630d1043988a92c36834ab4547&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-23%2fdoc-inisvcqf1218316.shtml&c=18237533881800989517&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-09-23%2fdoc-inisvcqf1218316.shtml&c=18237533881800989517&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-23 03:15",
     "summary": "",
@@ -173,10 +173,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI设备隐私担忧升温 Meta据悉将推出无摄像头智能眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3c9630d1043988a92c36834ab4547&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202609233882575233.html&c=3347368801565544946&mkt=en-us",
+    "title": "Counterpoint：2026上半年全球AI眼镜出货量同比激增263%，无显示款占比达96%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079663076_447547&c=13967662584814180404&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-23 01:00",
+    "time": "09-23 02:16",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -185,20 +185,9 @@
    {
     "beat": "AI/大模型",
     "title": "Omdia：2026年上半年AI眼镜出货量同比增长超一倍，创下420万台历史新高",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3c9630d1043988a92c36834ab4547&url=https%3a%2f%2fwww.esmchina.com%2fmarketnews%2f59756.html&c=1123942164584796580&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2fwww.esmchina.com%2fmarketnews%2f59756.html&c=1123942164584796580&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-23 01:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI is well positioned to fast-follow Jev",
-    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-    "source": "Hacker News",
-    "time": "09-22 22:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -210,6 +199,17 @@
     "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
     "source": "Hacker News",
     "time": "09-22 21:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜，怎么又不要摄像头了？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d590cd884ac58d0ebfcf90f2367b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260922A08S2300&c=7726463147338547398&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 18:32",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -234,6 +234,17 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "网易《逆水寒：新世界》4.1.4 版本更新，联动《盗墓笔记》《军工文创》",
+    "url": "https://www.ithome.com/1/006/464.htm",
+    "source": "IT之家",
+    "time": "09-23 20:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "网易云音乐鸿蒙版正式上线，完成多终端适配",
     "url": "https://www.ithome.com/1/006/409.htm",
     "source": "IT之家",
@@ -249,17 +260,6 @@
     "url": "https://www.ithome.com/1/006/346.htm",
     "source": "IT之家",
     "time": "09-23 16:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "国产捉宠 RPG 游戏《伊莫》移动端开服：iOS / Android / 鸿蒙全球同步上线，与 PC 数据互通",
-    "url": "https://www.ithome.com/1/006/336.htm",
-    "source": "IT之家",
-    "time": "09-23 16:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -351,8 +351,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(9)",
-   "Bing新闻(10)"
+   "HackerNews(7)",
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
