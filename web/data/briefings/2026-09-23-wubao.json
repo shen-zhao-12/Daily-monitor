@@ -2,10 +2,54 @@
  "id": "2026-09-23-wubao",
  "title": "线口监测午报 · 2026年09月23日(周三)",
  "shift": "午报",
- "date": "2026-09-23 12:49",
+ "date": "2026-09-23 14:00",
  "docx": "../briefings/线口监测午报-2026-09-23.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "最高折扣 50%：消息称微软推进 AI 替你“干活”，Copilot 同步变身超级应用",
+    "url": "https://www.ithome.com/1/006/230.htm",
+    "source": "IT之家",
+    "time": "09-23 14:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克惊叹中国 AI 大模型“单位算力产出性能几乎是全球顶尖水平”，预计两到三年内就能靠光刻技术与芯片制造补齐算力缺口",
+    "url": "https://www.ithome.com/1/006/218.htm",
+    "source": "IT之家",
+    "time": "09-23 13:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Win11 恶意软件 ClosedQuorum 披露：入侵 PC 后 AI 自动化决策，挖掘用户最有价值信息",
+    "url": "https://www.ithome.com/1/006/211.htm",
+    "source": "IT之家",
+    "time": "09-23 13:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大黑马《Wardogs》数据复盘：Steam首发成绩超越”Arc Raider、绝地潜兵2″",
+    "url": "http://www.gamelook.com.cn/2026/09/602831/",
+    "source": "GameLook",
+    "time": "09-23 12:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "高通：手机仍占个人交互 C 位，应用正从 APP 时代迈向 AI 智能体时代",
@@ -34,6 +78,17 @@
     "url": "https://www.ithome.com/1/006/138.htm",
     "source": "IT之家",
     "time": "09-23 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Transit rewards (Waymo pays you to take the train)",
+    "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+    "source": "Hacker News",
+    "time": "09-23 10:52",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -85,43 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Omdia：2026年上半年AI眼镜出货量同比增长超一倍，创下420万台历史新高",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fwww.esmchina.com%2fmarketnews%2f59756.html&c=1123942164584796580&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-23 01:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "从“具身”到“具人”，AI终端向新生态演进",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609233882290283.html&c=8088956816266033924&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-23 01:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "OpenAI is well positioned to fast-follow Jev",
     "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
     "source": "Hacker News",
     "time": "09-22 22:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "曹操出行与千问AI眼镜达成合作，智能端侧硬件生态再扩容",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260923A05Q9R00&c=3032684152399331526&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-22 22:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -141,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果暂缓AI吊坠，AI可穿戴战略转向手表、耳机与智能眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f31292.shtml&c=3564706736525542039&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab36b05aa63447c9ee581fb846d1c30&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f31292.shtml&c=3564706736525542039&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-22 21:17",
     "summary": "",
@@ -151,8 +173,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "【AI眼镜】跟踪更新：Meta Muse生态加速，Rokid迭代版本发布——国金轻工",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab36b05aa63447c9ee581fb846d1c30&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260923A046DX00&c=17018446799280847141&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 20:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "全球AI眼镜出货量猛增127%，隐私问题引发关注！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079781242_122004016&c=3183834955723880798&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab36b05aa63447c9ee581fb846d1c30&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079781242_122004016&c=3183834955723880798&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-22 20:12",
     "summary": "",
@@ -162,8 +195,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "Omdia：2026年上半年AI眼镜出货量同比增长超一倍，创下420万台历史新高",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab36b05aa63447c9ee581fb846d1c30&url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa526948.html&c=4194294788551918971&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-22 20:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "港股概念追踪|AI眼镜迭代加速 配套厂商有望分享更多产业链价值（附概念股）",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079744447_323087&c=4619235308753786813&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab36b05aa63447c9ee581fb846d1c30&url=https%3a%2f%2fwww.sohu.com%2fa%2f1079744447_323087&c=4619235308753786813&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-22 18:48",
     "summary": "",
@@ -174,41 +218,30 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜，怎么又不要摄像头了？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35a588a9f46a1b3c2b9727fe8818b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260922A08S2300&c=7726463147338547398&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab36b05aa63447c9ee581fb846d1c30&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260922A08S2300&c=7726463147338547398&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-22 18:32",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "年收入1亿美元！AI游戏大佬OOC是什么来头？",
-    "url": "http://www.gamelook.com.cn/2026/09/602693/",
-    "source": "GameLook",
-    "time": "09-22 09:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [],
-  "电商/直播/即时零售": [
+  "机器人/AI硬件": [
    {
-    "beat": "电商/直播/即时零售",
-    "title": "美团启动“放心外卖”七项行动：上线“食安版”美团外卖 App、将骑手“食安哨兵”巡店模式推向全国",
-    "url": "https://www.ithome.com/1/006/053.htm",
+    "beat": "机器人/AI硬件",
+    "title": "马斯克预测十年内至少有 10 亿台人形机器人，未来会诞生大量“一人公司”",
+    "url": "https://www.ithome.com/1/006/217.htm",
     "source": "IT之家",
-    "time": "09-23 09:03",
+    "time": "09-23 13:32",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
@@ -286,53 +319,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "游戏电影神作？“非正史”《生化危机:爆发夜》票房破1亿美元，玩家集体叫好",
-    "url": "http://www.gamelook.com.cn/2026/09/602722/",
-    "source": "GameLook",
-    "time": "09-22 12:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "米哈游再发“反舞弊通告”：二游周边成重灾区、涉案员工或面临10年以上徒刑",
-    "url": "http://www.gamelook.com.cn/2026/09/602694/",
-    "source": "GameLook",
-    "time": "09-22 09:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "台风让东京电玩展“提前散场”！中国游戏大厂集体缺席，这届还有啥看头？",
-    "url": "http://www.gamelook.com.cn/2026/09/602685/",
-    "source": "GameLook",
-    "time": "09-22 09:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "索尼通知“砍游戏”，小岛秀夫亲述：“担心公司直接倒闭，我大脑一片空白”",
-    "url": "http://www.gamelook.com.cn/2026/09/602669/",
-    "source": "GameLook",
-    "time": "09-22 09:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家智能净烟机 3 Max、米家定时燃气灶 3 Max 今日开售：国补价 2299~4599 元",
+    "url": "https://www.ithome.com/1/006/214.htm",
+    "source": "IT之家",
+    "time": "09-23 13:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "小米米家智能意式半自动咖啡机 Pro 预售，首发国补价 3395.84 元",
@@ -350,8 +350,8 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(14)",
-   "HackerNews(7)",
+   "GameLook(15)",
+   "HackerNews(9)",
    "Bing新闻(9)"
   ],
   "fail": [
