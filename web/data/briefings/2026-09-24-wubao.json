@@ -2,10 +2,32 @@
  "id": "2026-09-24-wubao",
  "title": "线口监测午报 · 2026年09月24日(周四)",
  "shift": "午报",
- "date": "2026-09-24 12:56",
+ "date": "2026-09-24 14:12",
  "docx": "../briefings/线口监测午报-2026-09-24.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "阿里达摩院发布食管癌 AI 模型，“不插管”发现早期和癌前病变",
+    "url": "https://www.ithome.com/1/006/720.htm",
+    "source": "IT之家",
+    "time": "09-24 13:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "月之暗面最强 AI：消息称 Kimi K3.1 下月登场",
+    "url": "https://www.ithome.com/1/006/719.htm",
+    "source": "IT之家",
+    "time": "09-24 13:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "外媒关注中国直播带货，李佳琦称 AI 无法取代真人主播",
@@ -52,32 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "微软发布 Ink Canvas：数字画布承载用户灵感，AI 降低表达门槛",
-    "url": "https://www.ithome.com/1/006/565.htm",
-    "source": "IT之家",
-    "time": "09-24 09:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "爱奇艺 CEO 龚宇：AI 是内容的加分项，不是用来搭建流水线的工具",
-    "url": "https://www.ithome.com/1/006/558.htm",
-    "source": "IT之家",
-    "time": "09-24 09:32",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "双方关系何时破裂？OpenAI 称与苹果的 ChatGPT 合作远不及预期",
-    "url": "https://www.ithome.com/1/006/548.htm",
-    "source": "IT之家",
-    "time": "09-24 09:12",
+    "title": "Australia says OpenAI agent hacked into government website",
+    "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+    "source": "Hacker News",
+    "time": "09-24 09:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -97,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "Meta 将 Private Processing 机密计算扩展至 AI 眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.unite.ai%2fzh-cn%2fmeta-expands-private-processing-confidential-computing-to-ai-glasses%2f&c=9491524117308102877&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4bf4188cd4b8aa9454bdfb323231b&url=https%3a%2f%2fwww.unite.ai%2fzh-cn%2fmeta-expands-private-processing-confidential-computing-to-ai-glasses%2f&c=9491524117308102877&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 02:35",
     "summary": "",
@@ -118,10 +118,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Meta发布新一代AI眼镜，引入Muse助手",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.eeo.com.cn%2f2026%2f0924%2f1047244.shtml&c=17553424433908244996&mkt=en-us",
+    "title": "三年增长超25倍！全球AI眼镜出货量今年将破1千万台，但爆发瓶颈在这里",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4bf4188cd4b8aa9454bdfb323231b&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609243883589781.html&c=5112993132742646376&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-24 01:31",
+    "time": "09-24 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -129,10 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Meta将AI装进眼镜等随身硬件，Muse未来将走向交易抽佣",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A06XZV00&c=2862806177805005608&mkt=en-us",
+    "title": "“具人智能”来了！赵沁平院士：AI终端将不再是手机一统天下 企业：AI眼镜未来三五年将迎“iPhone时刻”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4bf4188cd4b8aa9454bdfb323231b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A05YSK00&c=13255902970670602062&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-23 22:34",
+    "time": "09-23 21:38",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -140,32 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "千问AI眼镜十月开售：眼动追踪加持，说句话就能叫到网约车",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080056321_122941582&c=16837492517219110487&mkt=en-us",
+    "title": "Meta推出首款无摄像头AI眼镜，10月13日开启预售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4bf4188cd4b8aa9454bdfb323231b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080267327_121948396&c=17574495118388571746&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-23 22:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜上半年出货量暴涨263%，中国厂商拿下AR细分市场45%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0658N00&c=10493761591295604913&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-23 21:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "智动力携手The Blonds登陆纽约时装周，发布首款50克内双目全彩AI眼镜Skynea",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6ab3c3f7158f681db41bf940.html&c=9734132384129239030&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-23 21:15",
+    "time": "09-23 20:49",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -174,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "多款新品齐发！2026 Meta Ray-Ban AI 眼镜全面进化",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080269427_447547&c=10606650384794881928&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4bf4188cd4b8aa9454bdfb323231b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080269427_447547&c=10606650384794881928&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-23 20:48",
     "summary": "",
@@ -184,10 +162,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI设备隐私担忧升温，Meta据悉将推出无摄像头智能眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6ab46406158f681db4231398.html&c=8761607119706769056&mkt=en-us",
+    "title": "Meta 眼镜搭载 AI 智能体，新增多项无障碍、相机及导航功能",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4bf4188cd4b8aa9454bdfb323231b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A044HG00&c=10149294931975557764&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-23 18:42",
+    "time": "09-23 19:37",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -195,10 +173,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "里斯战略咨询：2026年AI眼镜出货量有望破千万，国产品牌需厘清品类定位",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%2587%258C%25E6%2596%25AF%25E6%2588%2598%25E7%2595%25A5%25E5%2592%25A8%25E8%25AF%25A2-2026%25E5%25B9%25B4ai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259C%2589%25E6%259C%259B%25E7%25A0%25B4%25E5%258D%2583%25E4%25B8%2587-%25E5%259B%25BD%25E4%25BA%25A7%25E5%2593%2581%25E7%2589%258C%25E9%259C%2580%25E5%258E%2598%25E6%25B8%2585%25E5%2593%2581%25E7%25B1%25BB%25E5%25AE%259A%25E4%25BD%258D%2far-AA2cODsS&c=12602211146246706182&mkt=en-us",
+    "title": "AI设备隐私担忧升温 Meta据悉将推出无摄像头智能眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4bf4188cd4b8aa9454bdfb323231b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E8%25AE%25BE%25E5%25A4%2587%25E9%259A%2590%25E7%25A7%2581%25E6%258B%2585%25E5%25BF%25A7%25E5%258D%2587%25E6%25B8%25A9-meta%25E6%258D%25AE%25E6%2582%2589%25E5%25B0%2586%25E6%258E%25A8%25E5%2587%25BA%25E6%2597%25A0%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%2far-AA2cPx7l&c=3825154492178972705&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-23 13:21",
+    "time": "09-23 18:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -206,6 +184,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "京东七鲜大厨专业版首发价 19888 元：含智能烹饪机器人及 15000 元膳食权益",
+    "url": "https://www.ithome.com/1/006/724.htm",
+    "source": "IT之家",
+    "time": "09-24 13:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "刷新全球量产纪录：智元第 20000 台具身智能机器人今日下线",
@@ -255,6 +244,17 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏《腐烂国度》系列开发方 Undead Labs 转型员工持股工作室并裁员",
+    "url": "https://www.ithome.com/1/006/732.htm",
+    "source": "IT之家",
+    "time": "09-24 14:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "米哈游回应股权托管登记：目前没有上市融资计划",
@@ -352,7 +352,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(3)",
+   "HackerNews(5)",
    "Bing新闻(9)"
   ],
   "fail": [
