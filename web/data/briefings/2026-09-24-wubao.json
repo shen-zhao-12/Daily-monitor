@@ -1,0 +1,362 @@
+{
+ "id": "2026-09-24-wubao",
+ "title": "线口监测午报 · 2026年09月24日(周四)",
+ "shift": "午报",
+ "date": "2026-09-24 12:56",
+ "docx": "../briefings/线口监测午报-2026-09-24.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "外媒关注中国直播带货，李佳琦称 AI 无法取代真人主播",
+    "url": "https://www.ithome.com/1/006/712.htm",
+    "source": "IT之家",
+    "time": "09-24 12:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026 骁龙峰会高通高管群访：双旗舰策略、行业首超 5GHz、和小米合作关系、AI 手机未来...",
+    "url": "https://www.ithome.com/1/006/706.htm",
+    "source": "IT之家",
+    "time": "09-24 12:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点",
+    "url": "https://www.ithome.com/1/006/695.htm",
+    "source": "IT之家",
+    "time": "09-24 11:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为 MatePad Air Z 平板配置公布：麒麟 T93SD 处理器、12 英寸 LCD 屏，2799 元起",
+    "url": "https://www.ithome.com/1/006/606.htm",
+    "source": "IT之家",
+    "time": "09-24 11:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软发布 Ink Canvas：数字画布承载用户灵感，AI 降低表达门槛",
+    "url": "https://www.ithome.com/1/006/565.htm",
+    "source": "IT之家",
+    "time": "09-24 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "爱奇艺 CEO 龚宇：AI 是内容的加分项，不是用来搭建流水线的工具",
+    "url": "https://www.ithome.com/1/006/558.htm",
+    "source": "IT之家",
+    "time": "09-24 09:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "双方关系何时破裂？OpenAI 称与苹果的 ChatGPT 合作远不及预期",
+    "url": "https://www.ithome.com/1/006/548.htm",
+    "source": "IT之家",
+    "time": "09-24 09:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Feds Target AI Critics as \"Foreign Agents\"",
+    "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+    "source": "Hacker News",
+    "time": "09-24 08:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 将 Private Processing 机密计算扩展至 AI 眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.unite.ai%2fzh-cn%2fmeta-expands-private-processing-confidential-computing-to-ai-glasses%2f&c=9491524117308102877&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 02:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Making Tailscale Faster",
+    "url": "https://tailscale.com/blog/making-tailscale-faster",
+    "source": "Hacker News",
+    "time": "09-24 01:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta发布新一代AI眼镜，引入Muse助手",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.eeo.com.cn%2f2026%2f0924%2f1047244.shtml&c=17553424433908244996&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 01:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta将AI装进眼镜等随身硬件，Muse未来将走向交易抽佣",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A06XZV00&c=2862806177805005608&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 22:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问AI眼镜十月开售：眼动追踪加持，说句话就能叫到网约车",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080056321_122941582&c=16837492517219110487&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 22:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜上半年出货量暴涨263%，中国厂商拿下AR细分市场45%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0658N00&c=10493761591295604913&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 21:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智动力携手The Blonds登陆纽约时装周，发布首款50克内双目全彩AI眼镜Skynea",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6ab3c3f7158f681db41bf940.html&c=9734132384129239030&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 21:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "多款新品齐发！2026 Meta Ray-Ban AI 眼镜全面进化",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080269427_447547&c=10606650384794881928&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 20:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI设备隐私担忧升温，Meta据悉将推出无摄像头智能眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6ab46406158f681db4231398.html&c=8761607119706769056&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 18:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "里斯战略咨询：2026年AI眼镜出货量有望破千万，国产品牌需厘清品类定位",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4ada0a9784d049e1f418cae7f3e86&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%2587%258C%25E6%2596%25AF%25E6%2588%2598%25E7%2595%25A5%25E5%2592%25A8%25E8%25AF%25A2-2026%25E5%25B9%25B4ai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259C%2589%25E6%259C%259B%25E7%25A0%25B4%25E5%258D%2583%25E4%25B8%2587-%25E5%259B%25BD%25E4%25BA%25A7%25E5%2593%2581%25E7%2589%258C%25E9%259C%2580%25E5%258E%2598%25E6%25B8%2585%25E5%2593%2581%25E7%25B1%25BB%25E5%25AE%259A%25E4%25BD%258D%2far-AA2cODsS&c=12602211146246706182&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-23 13:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "刷新全球量产纪录：智元第 20000 台具身智能机器人今日下线",
+    "url": "https://www.ithome.com/1/006/710.htm",
+    "source": "IT之家",
+    "time": "09-24 12:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "终结者成真：众擎 T800 人形机器人首次参与人类格斗赛，一脚踹倒拳击手",
+    "url": "https://www.ithome.com/1/006/596.htm",
+    "source": "IT之家",
+    "time": "09-24 10:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "高通加码物理人工智能，拟收购机器人软件企业 PickNik Robotics",
+    "url": "https://www.ithome.com/1/006/594.htm",
+    "source": "IT之家",
+    "time": "09-24 10:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "全新红旗 H9 开启预订：华为乾崑智驾 ADS 5 高阶版，纵置 2.0T 混动专用发动机 + 全球首创纵置双档混动电驱",
+    "url": "https://www.ithome.com/1/006/612.htm",
+    "source": "IT之家",
+    "time": "09-24 11:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游回应股权托管登记：目前没有上市融资计划",
+    "url": "https://www.ithome.com/1/006/711.htm",
+    "source": "IT之家",
+    "time": "09-24 12:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯发布其首个面向境外用户来华支付工具“TenPayGo”，能直接微信支付",
+    "url": "https://www.ithome.com/1/006/709.htm",
+    "source": "IT之家",
+    "time": "09-24 12:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "卡普空授权游戏《逆转裁判 5 VR》公布，2027 年登陆 Meta Quest",
+    "url": "https://www.ithome.com/1/006/597.htm",
+    "source": "IT之家",
+    "time": "09-24 10:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“让女玩家做裙子的游戏火了”！3人开发《针影裁梦》好评96%, Steam在线破万人",
+    "url": "http://www.gamelook.com.cn/2026/09/602908/",
+    "source": "GameLook",
+    "time": "09-24 10:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "黑曜石并入 B 社的“定心丸”：官方回应称领导层不变、游戏项目路线不变",
+    "url": "https://www.ithome.com/1/006/575.htm",
+    "source": "IT之家",
+    "time": "09-24 10:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "数据分析：如何通过Steam Demo在线人数，预测游戏最终成绩？",
+    "url": "http://www.gamelook.com.cn/2026/09/602885/",
+    "source": "GameLook",
+    "time": "09-24 09:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《2026年日本游戏市场洞察报告》：日本手游应用内购（IAP）收入超过100亿美元",
+    "url": "http://www.gamelook.com.cn/2026/09/602863/",
+    "source": "GameLook",
+    "time": "09-23 13:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "惠普推出暗影精灵 11 白色款台式电脑：酷睿 U5 225F + RTX 5060，国补价 6799.15 元",
+    "url": "https://www.ithome.com/1/006/587.htm",
+    "source": "IT之家",
+    "time": "09-24 10:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(3)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
