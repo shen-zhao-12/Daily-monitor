@@ -2,10 +2,21 @@
  "id": "2026-09-24-wubao",
  "title": "线口监测午报 · 2026年09月24日(周四)",
  "shift": "午报",
- "date": "2026-09-24 20:41",
+ "date": "2026-09-24 21:30",
  "docx": "../briefings/线口监测午报-2026-09-24.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "三巨头联手，曝谷歌、OpenAI、Anthropic 拟共同组建 AI 安全标准自律组织",
+    "url": "https://www.ithome.com/1/007/016.htm",
+    "source": "IT之家",
+    "time": "09-24 21:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "新加坡主要金融机构承诺将为超 8 万名本地员工培训 AI 技能，降低潜在就业风险",
@@ -108,20 +119,9 @@
    {
     "beat": "AI/大模型",
     "title": "Meta压轴不是AI眼镜！祖克柏秀“电子宠物”Muse Charm",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2fwww.aboluowang.com%2f2026%2f0924%2f2437660.html&c=13303951382298537395&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab525f1daeb4c559c326556906b4544&url=https%3a%2f%2fwww.aboluowang.com%2f2026%2f0924%2f2437660.html&c=13303951382298537395&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 12:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "乐奇Rokid与老字号红星眼镜携手，上海首家AI眼镜验配一体门店落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A06QKU00&c=1756305534016756450&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-24 12:22",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -141,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "三年增长超25倍！全球AI眼镜出货量今年将破1千万台，但爆发瓶颈在这里",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-24%2fdoc-inisxaff5056630.shtml&c=12181314611165651015&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab525f1daeb4c559c326556906b4544&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-24%2fdoc-inisxaff5056630.shtml&c=12181314611165651015&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 07:05",
     "summary": "",
@@ -152,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "谁的黄金周急需一副AI眼镜？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0DB7Q00&c=12211948120880751044&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab525f1daeb4c559c326556906b4544&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0DB7Q00&c=12211948120880751044&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 05:29",
     "summary": "",
@@ -163,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "乐奇Rokid×红星眼镜，上海首家AI眼镜验配一体门店落地，开启体验式消费时代",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2fnews.inewsweek.cn%2fobserve%2f2026-09-24%2f32325.shtml&c=4961137780886759031&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab525f1daeb4c559c326556906b4544&url=https%3a%2f%2fnews.inewsweek.cn%2fobserve%2f2026-09-24%2f32325.shtml&c=4961137780886759031&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 04:43",
     "summary": "",
@@ -174,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "Meta Connect发布多款AI硬件，Muse智能助手深度集成眼镜 ｜#AI资讯# #Meta# #智能硬件#",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080416187_122396381&c=13579860412221962819&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab525f1daeb4c559c326556906b4544&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080416187_122396381&c=13579860412221962819&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 02:08",
     "summary": "",
@@ -185,9 +185,20 @@
    {
     "beat": "AI/大模型",
     "title": "Meta(META.US)全力押注Muse AI智能体 借VR眼镜、只能眼镜与Charm构建全场景入口",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080413872_323087&c=7503923856782056123&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab525f1daeb4c559c326556906b4544&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080413872_323087&c=7503923856782056123&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 02:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta AI眼镜矩阵翻新：Muse助手接入硬件，首提“代理交易抽佣”变现",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab525f1daeb4c559c326556906b4544&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14632.html&c=3526543615819081570&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 01:52",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -207,42 +218,9 @@
    {
     "beat": "AI/大模型",
     "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f31346.shtml&c=10885482704647231300&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab525f1daeb4c559c326556906b4544&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f31346.shtml&c=10885482704647231300&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 01:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI 眼镜离线也能识图问答：高通携手 PrismML 发布 1-bit Bonsai，内存占用降至 1/4",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-24%2fdoc-inisxhnx5252602.shtml&c=2626895560928019201&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-24 01:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "里斯战略咨询发布报告：全球AI眼镜2026年有望突破1000万台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab51a7f155c4deab427d4b65696478a&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609243883657187.html&c=782047100323280619&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-24 01:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "大黑马《Wardogs》数据复盘：Steam首发成绩超越”Arc Raider、绝地潜兵2″",
-    "url": "http://www.gamelook.com.cn/2026/09/602831/",
-    "source": "GameLook",
-    "time": "09-23 12:49",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -250,6 +228,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "亚马逊将投资超 1 亿美元在美国新建机器人制造工厂，2028 年投入运营",
+    "url": "https://www.ithome.com/1/007/014.htm",
+    "source": "IT之家",
+    "time": "09-24 21:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "超 300 台机器人陪你玩：全球首个大规模具身智能主题乐园今日开园",
@@ -273,9 +262,32 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "Waymo 公布 2.71 亿英里自动驾驶数据：严重事故比人类驾驶员少 95%",
+    "url": "https://www.ithome.com/1/007/015.htm",
+    "source": "IT之家",
+    "time": "09-24 21:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《暗黑破坏神 4》游戏总监吉布森：我们早该登陆任天堂 Switch 2 了",
+    "url": "https://www.ithome.com/1/007/009.htm",
+    "source": "IT之家",
+    "time": "09-24 20:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "《永劫无间》中国队全胜夺金，斩获 2026 亚运会首枚电竞金牌",
@@ -319,17 +331,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《2026年日本游戏市场洞察报告》：日本手游应用内购（IAP）收入超过100亿美元",
-    "url": "http://www.gamelook.com.cn/2026/09/602863/",
-    "source": "GameLook",
-    "time": "09-23 13:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -351,7 +352,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(7)",
+   "HackerNews(8)",
    "Bing新闻(11)"
   ],
   "fail": [
