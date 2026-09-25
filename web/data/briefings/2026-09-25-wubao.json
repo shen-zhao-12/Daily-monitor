@@ -1,0 +1,361 @@
+{
+ "id": "2026-09-25-wubao",
+ "title": "线口监测午报 · 2026年09月25日(周五)",
+ "shift": "午报",
+ "date": "2026-09-25 13:02",
+ "docx": "../briefings/线口监测午报-2026-09-25.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "影石正布局 AI 眼镜，或采用“分体电池”设计",
+    "url": "https://www.ithome.com/1/007/113.htm",
+    "source": "IT之家",
+    "time": "09-25 12:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "GPT-6 Astra 需求空前，曝 OpenAI 正筹备 ChatGPT Pro Max 订阅层级",
+    "url": "https://www.ithome.com/1/007/107.htm",
+    "source": "IT之家",
+    "time": "09-25 11:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek Harness 官方桌面版预览偷跑",
+    "url": "https://www.ithome.com/1/007/099.htm",
+    "source": "IT之家",
+    "time": "09-25 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达黄仁勋：若前沿实验室无法控制 AI，那么必须要关闭",
+    "url": "https://www.ithome.com/1/007/090.htm",
+    "source": "IT之家",
+    "time": "09-25 10:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克：若保持强劲加速度，SpaceXAI 约 6 个月后就能领跑",
+    "url": "https://www.ithome.com/1/007/069.htm",
+    "source": "IT之家",
+    "time": "09-25 08:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 推出 2 款 AI 工具，让用户在手机端直接构建游戏",
+    "url": "https://www.ithome.com/1/007/068.htm",
+    "source": "IT之家",
+    "time": "09-25 08:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 OpenAI 将在数日内预览网络安全专用模型 GPT-6 Cyber",
+    "url": "https://www.ithome.com/1/007/061.htm",
+    "source": "IT之家",
+    "time": "09-25 08:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件",
+    "url": "https://www.ithome.com/1/007/059.htm",
+    "source": "IT之家",
+    "time": "09-25 07:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IT早报 0925：李佳琦称 AI 无法取代真人主播；华为余承东称会让每个界都获更充足资源；营业厅“0 元购机”全面停办；国补 5499 元荣耀 Magic9 价格提前公布...",
+    "url": "https://www.ithome.com/1/007/058.htm",
+    "source": "IT之家",
+    "time": "09-25 07:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大厂的AI战火，攻入硬件",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34142453&c=7559840441738009000&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-25 06:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+    "url": "https://koi.rest",
+    "source": "Hacker News",
+    "time": "09-25 05:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Opus 5.5 is good at explainer videos",
+    "url": "https://launchvideo.io",
+    "source": "Hacker News",
+    "time": "09-25 04:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谁的黄金周急需一副AI眼镜？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2fwww.tmtpost.com%2f8152028.html&c=5369245023447470769&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-25 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+    "source": "Hacker News",
+    "time": "09-24 23:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "第二代乐奇Rokid AI眼镜上手：颜值更高，佩戴「轻感」十足超舒服",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0EUIY00%3fadChannelId%3dtech&c=18224735167171063891&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 22:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Rokid联合创始人向文杰：AI眼镜是个人终端智能的最佳载体",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080761664_121134737&c=12791475076241171751&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 22:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜卖爆了！全球出货量暴涨263%：Meta独占94%份额",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260925A02WY100%3fadChannelId%3dfinance&c=4527246119858671472&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 19:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Qualcomm称多设备协同需统一标准，正评估AI眼镜直连5G",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2fwww.digitaltoday.co.kr%2fcn%2fview%2f107432%2fsnapdragon-summit-2026-industry-standard-needed-for-cross-device-connectivity-considering-adding-5g-to-ai-glasses&c=18406330033678951741&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 17:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta Connect发布多款AI硬件，Muse智能助手深度集成眼镜 ｜#AI资讯# #Meta# #智能硬件#",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080416187_122396381&c=13579860412221962819&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 16:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "乐奇二代AI眼镜首秀：防抖夜景双升级 第一视角拍摄更强",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E4%25B9%2590%25E5%25A5%2587%25E4%25BA%258C%25E4%25BB%25A3ai%25E7%259C%25BC%25E9%2595%259C%25E9%25A6%2596%25E7%25A7%2580-%25E9%2598%25B2%25E6%258A%2596%25E5%25A4%259C%25E6%2599%25AF%25E5%258F%258C%25E5%258D%2587%25E7%25BA%25A7-%25E7%25AC%25AC%25E4%25B8%2580%25E8%25A7%2586%25E8%25A7%2592%25E6%258B%258D%25E6%2591%2584%25E6%259B%25B4%25E5%25BC%25BA%2far-AA2cTq0M&c=7996843489339575208&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 14:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三年增长超25倍！全球AI眼镜出货量今年将破1千万台，但爆发瓶颈在这里",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6004f03204279b46ca0803627476e&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609243883589781.html&c=5112993132742646376&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-24 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "长安汽车：力争在 2028 年实现人形机器人量产、2030 年推出商用航线飞行汽车",
+    "url": "https://www.ithome.com/1/007/073.htm",
+    "source": "IT之家",
+    "time": "09-25 09:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "苹果 Apple Music 宣布免费直播 Head Trip 音乐节",
+    "url": "https://www.ithome.com/1/007/055.htm",
+    "source": "IT之家",
+    "time": "09-25 07:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Dreunen 教授称微软重组游戏业务形成“反向收购”格局：XBOX 自有 IP 转向动视等",
+    "url": "https://www.ithome.com/1/007/117.htm",
+    "source": "IT之家",
+    "time": "09-25 12:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《巫师 4》游戏前瞻：剧情强化道德灰度叙事，塑造有血有肉的 NPC",
+    "url": "https://www.ithome.com/1/007/095.htm",
+    "source": "IT之家",
+    "time": "09-25 10:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "CEO 回应《战狗》后续涨价：游戏值这个价，《GTA6》定价过低可能伤害行业",
+    "url": "https://www.ithome.com/1/007/082.htm",
+    "source": "IT之家",
+    "time": "09-25 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "传音 Infinix 推出 GT NX 移动游戏外设：触控板手柄、扩展坞-散热二合一",
+    "url": "https://www.ithome.com/1/007/067.htm",
+    "source": "IT之家",
+    "time": "09-25 08:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英特尔 Arc 显卡驱动 32.0.101.9033 Beta 版发布：支持《控制：共振》游戏",
+    "url": "https://www.ithome.com/1/007/048.htm",
+    "source": "IT之家",
+    "time": "09-25 08:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“让女玩家做裙子的游戏火了”！3人开发《针影裁梦》好评96%, Steam在线破万人",
+    "url": "http://www.gamelook.com.cn/2026/09/602908/",
+    "source": "GameLook",
+    "time": "09-24 10:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "数据分析：如何通过Steam Demo在线人数，预测游戏最终成绩？",
+    "url": "http://www.gamelook.com.cn/2026/09/602885/",
+    "source": "GameLook",
+    "time": "09-24 09:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(8)",
+   "HackerNews(5)",
+   "Bing新闻(10)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
