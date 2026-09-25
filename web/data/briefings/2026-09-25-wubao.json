@@ -2,10 +2,120 @@
  "id": "2026-09-25-wubao",
  "title": "线口监测午报 · 2026年09月25日(周五)",
  "shift": "午报",
- "date": "2026-09-25 14:10",
+ "date": "2026-09-25 20:43",
  "docx": "../briefings/线口监测午报-2026-09-25.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期",
+    "url": "https://www.ithome.com/1/007/228.htm",
+    "source": "IT之家",
+    "time": "09-25 20:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "纽约市议员提议立法奖励危险 AI 举报人，奖金来自收取的罚款",
+    "url": "https://www.ithome.com/1/007/170.htm",
+    "source": "IT之家",
+    "time": "09-25 17:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国际货币基金组织：今年全球 AI 投资规模或突破 2 万亿美元",
+    "url": "https://www.ithome.com/1/007/165.htm",
+    "source": "IT之家",
+    "time": "09-25 17:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "又一家 AI 明星公司诞生：曝“医生版 ChatGPT”OpenEvidence 估值冲上 150 亿美元",
+    "url": "https://www.ithome.com/1/007/161.htm",
+    "source": "IT之家",
+    "time": "09-25 16:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果公布全产品线端侧 AI 能力矩阵：iPhone 18 Pro 等最高跑 140 亿参数激活模型",
+    "url": "https://www.ithome.com/1/007/155.htm",
+    "source": "IT之家",
+    "time": "09-25 15:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 智能体入侵澳大利亚政府网站，澳总理阿尔巴尼斯呼吁加强 AI 监管",
+    "url": "https://www.ithome.com/1/007/154.htm",
+    "source": "IT之家",
+    "time": "09-25 15:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达黄仁勋谈“AI 让孩子淡忘基础数学”：这不是问题，我都记不住家庭地址 / 电话号码",
+    "url": "https://www.ithome.com/1/007/145.htm",
+    "source": "IT之家",
+    "time": "09-25 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "试图闯入政府或学校网站，OpenAI 智能体四次“失控”细节曝光",
+    "url": "https://www.ithome.com/1/007/144.htm",
+    "source": "IT之家",
+    "time": "09-25 15:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克秀 AI 算力：计划年底前配 110 万张英伟达 GB300，目标约 6 个月跻身行业领先",
+    "url": "https://www.ithome.com/1/007/138.htm",
+    "source": "IT之家",
+    "time": "09-25 14:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌网页版 Gmail 星标和“重要”标签默认设为蓝色，用户抱怨导致收件箱杂乱无章",
+    "url": "https://www.ithome.com/1/007/131.htm",
+    "source": "IT之家",
+    "time": "09-25 14:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "瞄准 AI 数据中心光学需求，康宁扩大 Polarcor 玻璃偏振片产能",
@@ -41,7 +151,18 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "GPT-6 Astra 需求空前，曝 OpenAI 正筹备 ChatGPT Pro Max 订阅层级",
+    "title": "Rokid联合创始人向文杰：AI眼镜是个人终端智能的最佳载体",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080761664_121134737&c=12791475076241171751&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-25 12:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "最贵 AI 订阅服务之一：曝 OpenAI 正筹备 ChatGPT Pro Max 订阅层级",
     "url": "https://www.ithome.com/1/007/107.htm",
     "source": "IT之家",
     "time": "09-25 11:40",
@@ -52,76 +173,43 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "DeepSeek Harness 官方桌面版预览偷跑",
-    "url": "https://www.ithome.com/1/007/099.htm",
-    "source": "IT之家",
-    "time": "09-25 10:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "英伟达黄仁勋：若前沿实验室无法控制 AI，那么必须要关闭",
-    "url": "https://www.ithome.com/1/007/090.htm",
-    "source": "IT之家",
-    "time": "09-25 10:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "马斯克：若保持强劲加速度，SpaceXAI 约 6 个月后就能领跑",
-    "url": "https://www.ithome.com/1/007/069.htm",
-    "source": "IT之家",
-    "time": "09-25 08:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Meta 推出 2 款 AI 工具，让用户在手机端直接构建游戏",
-    "url": "https://www.ithome.com/1/007/068.htm",
-    "source": "IT之家",
-    "time": "09-25 08:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称 OpenAI 将在数日内预览网络安全专用模型 GPT-6 Cyber",
-    "url": "https://www.ithome.com/1/007/061.htm",
-    "source": "IT之家",
-    "time": "09-25 08:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "大厂的AI战火，攻入硬件",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab61068ec5b42ac82d0c389923961c4&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34142453&c=7559840441738009000&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-25 07:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-    "url": "https://koi.rest",
+    "title": "What About Rails?",
+    "url": "https://jardo.dev/what-about-rails",
     "source": "Hacker News",
-    "time": "09-25 05:33",
+    "time": "09-25 10:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新一代乐奇AI眼镜数贸会首秀 正式发布定档10月27日",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-25%2fdoc-iniszrtv4379526.shtml&c=11084968468033360941&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-25 10:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜卖爆了！全球出货量暴涨263%：Meta独占94%份额",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260925A02WY100%3fadChannelId%3dfinance&c=4527246119858671472&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-25 09:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Qualcomm称多设备协同需统一标准，正评估AI眼镜直连5G",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fwww.digitaltoday.co.kr%2fcn%2fview%2f107432%2fsnapdragon-summit-2026-industry-standard-needed-for-cross-device-connectivity-considering-adding-5g-to-ai-glasses&c=18406330033678951741&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-25 07:15",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -140,10 +228,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "谁的黄金周急需一副AI眼镜？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab61068ec5b42ac82d0c389923961c4&url=https%3a%2f%2fwww.tmtpost.com%2f8152028.html&c=5369245023447470769&mkt=en-us",
+    "title": "谁的黄金周急需一副AI眼镜?",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25B0%2581%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E5%2591%25A8%25E6%2580%25A5%25E9%259C%2580%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%2far-AA2cVvHX&c=13913540317316574986&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-25 01:00",
+    "time": "09-25 02:49",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,10 +239,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "第二代乐奇Rokid AI眼镜上手：颜值更高，佩戴「轻感」十足超舒服",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab61068ec5b42ac82d0c389923961c4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0EUIY00%3fadChannelId%3dtech&c=18224735167171063891&mkt=en-us",
+    "title": "Meta Connect 2026：从AI眼镜到个人智能体，Meta押注“可穿戴代理”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0EIC600&c=2764313664578684350&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-24 22:10",
+    "time": "09-24 21:26",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -162,43 +250,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Rokid联合创始人向文杰：AI眼镜是个人终端智能的最佳载体",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab61068ec5b42ac82d0c389923961c4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080761664_121134737&c=12791475076241171751&mkt=en-us",
+    "title": "乐奇Rokid×红星眼镜，上海首家AI眼镜验配一体门店落地，开启体验式消费时代",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fnews.inewsweek.cn%2fobserve%2f2026-09-24%2f32325.shtml&c=4961137780886759031&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-24 22:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜卖爆了！全球出货量暴涨263%：Meta独占94%份额",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab61068ec5b42ac82d0c389923961c4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260925A02WY100%3fadChannelId%3dfinance&c=4527246119858671472&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-24 19:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Qualcomm称多设备协同需统一标准，正评估AI眼镜直连5G",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab61068ec5b42ac82d0c389923961c4&url=https%3a%2f%2fwww.digitaltoday.co.kr%2fcn%2fview%2f107432%2fsnapdragon-summit-2026-industry-standard-needed-for-cross-device-connectivity-considering-adding-5g-to-ai-glasses&c=18406330033678951741&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-24 17:15",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Meta Connect发布多款AI硬件，Muse智能助手深度集成眼镜 ｜#AI资讯# #Meta# #智能硬件#",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab61068ec5b42ac82d0c389923961c4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080416187_122396381&c=13579860412221962819&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-24 16:08",
+    "time": "09-24 18:43",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -207,20 +262,9 @@
    {
     "beat": "AI/大模型",
     "title": "乐奇二代AI眼镜首秀：防抖夜景双升级 第一视角拍摄更强",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab61068ec5b42ac82d0c389923961c4&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E4%25B9%2590%25E5%25A5%2587%25E4%25BA%258C%25E4%25BB%25A3ai%25E7%259C%25BC%25E9%2595%259C%25E9%25A6%2596%25E7%25A7%2580-%25E9%2598%25B2%25E6%258A%2596%25E5%25A4%259C%25E6%2599%25AF%25E5%258F%258C%25E5%258D%2587%25E7%25BA%25A7-%25E7%25AC%25AC%25E4%25B8%2580%25E8%25A7%2586%25E8%25A7%2592%25E6%258B%258D%25E6%2591%2584%25E6%259B%25B4%25E5%25BC%25BA%2far-AA2cTq0M&c=7996843489339575208&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E4%25B9%2590%25E5%25A5%2587%25E4%25BA%258C%25E4%25BB%25A3ai%25E7%259C%25BC%25E9%2595%259C%25E9%25A6%2596%25E7%25A7%2580-%25E9%2598%25B2%25E6%258A%2596%25E5%25A4%259C%25E6%2599%25AF%25E5%258F%258C%25E5%258D%2587%25E7%25BA%25A7-%25E7%25AC%25AC%25E4%25B8%2580%25E8%25A7%2586%25E8%25A7%2592%25E6%258B%258D%25E6%2591%2584%25E6%259B%25B4%25E5%25BC%25BA%2far-AA2cTq0M&c=7996843489339575208&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 14:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Rails World 2026 Opening Keynote [video]",
-    "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-    "source": "Hacker News",
-    "time": "09-23 23:33",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -230,10 +274,10 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "长安汽车：力争在 2028 年实现人形机器人量产、2030 年推出商用航线飞行汽车",
-    "url": "https://www.ithome.com/1/007/073.htm",
+    "title": "宇树科技创始人王兴兴：机器人核心瓶颈是能否解决几毫米的工作误差",
+    "url": "https://www.ithome.com/1/007/143.htm",
     "source": "IT之家",
-    "time": "09-25 09:04",
+    "time": "09-25 15:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -245,54 +289,21 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "Reddit 版主大规模复制、传播盗版 Switch 游戏，被判赔偿任天堂 450 万美元",
+    "url": "https://www.ithome.com/1/007/203.htm",
+    "source": "IT之家",
+    "time": "09-25 18:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "Dreunen 教授称微软重组游戏业务形成“反向收购”格局：XBOX 自有 IP 转向动视等",
     "url": "https://www.ithome.com/1/007/117.htm",
     "source": "IT之家",
     "time": "09-25 12:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《巫师 4》游戏前瞻：剧情强化道德灰度叙事，塑造有血有肉的 NPC",
-    "url": "https://www.ithome.com/1/007/095.htm",
-    "source": "IT之家",
-    "time": "09-25 10:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "CEO 回应《战狗》后续涨价：游戏值这个价，《GTA6》定价过低可能伤害行业",
-    "url": "https://www.ithome.com/1/007/082.htm",
-    "source": "IT之家",
-    "time": "09-25 09:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "传音 Infinix 推出 GT NX 移动游戏外设：触控板手柄、扩展坞-散热二合一",
-    "url": "https://www.ithome.com/1/007/067.htm",
-    "source": "IT之家",
-    "time": "09-25 08:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "英特尔 Arc 显卡驱动 32.0.101.9033 Beta 版发布：支持《控制：共振》游戏",
-    "url": "https://www.ithome.com/1/007/048.htm",
-    "source": "IT之家",
-    "time": "09-25 08:19",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -308,20 +319,32 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "AOC 推出 34 英寸 G4 宙斯盾带鱼屏显示器：WQHD 200Hz，国补价 1613.7 元",
+    "url": "https://www.ithome.com/1/007/160.htm",
+    "source": "IT之家",
+    "time": "09-25 16:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    },
    {
-    "beat": "游戏/电竞/平台公司",
-    "title": "数据分析：如何通过Steam Demo在线人数，预测游戏最终成绩？",
-    "url": "http://www.gamelook.com.cn/2026/09/602885/",
-    "source": "GameLook",
-    "time": "09-24 09:27",
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "乘联分会：今年以来全国乘用车累计零售 1259.3 万辆，同比下降 21%",
+    "url": "https://www.ithome.com/1/007/153.htm",
+    "source": "IT之家",
+    "time": "09-25 15:43",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
-  ],
-  "消费/以旧换新/新餐饮": []
+  ]
  },
  "flash": [],
  "stats": {
@@ -329,7 +352,7 @@
    "IT之家(60)",
    "GameLook(7)",
    "HackerNews(4)",
-   "Bing新闻(9)"
+   "Bing新闻(10)"
   ],
   "fail": [
    "36氪(no entries)"
