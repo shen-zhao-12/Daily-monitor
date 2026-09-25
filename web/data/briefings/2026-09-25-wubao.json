@@ -2,10 +2,32 @@
  "id": "2026-09-25-wubao",
  "title": "线口监测午报 · 2026年09月25日(周五)",
  "shift": "午报",
- "date": "2026-09-25 20:43",
+ "date": "2026-09-25 21:39",
  "docx": "../briefings/线口监测午报-2026-09-25.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "高盛：美国五大云巨头每年 AI 收入 3000 亿美元，才可盈亏平衡",
+    "url": "https://www.ithome.com/1/007/232.htm",
+    "source": "IT之家",
+    "time": "09-25 20:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”",
+    "url": "https://www.ithome.com/1/007/230.htm",
+    "source": "IT之家",
+    "time": "09-25 20:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期",
@@ -152,20 +174,9 @@
    {
     "beat": "AI/大模型",
     "title": "Rokid联合创始人向文杰：AI眼镜是个人终端智能的最佳载体",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080761664_121134737&c=12791475076241171751&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6798a5ced4457b3f300adbd8b0cde&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080761664_121134737&c=12791475076241171751&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 12:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "最贵 AI 订阅服务之一：曝 OpenAI 正筹备 ChatGPT Pro Max 订阅层级",
-    "url": "https://www.ithome.com/1/007/107.htm",
-    "source": "IT之家",
-    "time": "09-25 11:40",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -185,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "新一代乐奇AI眼镜数贸会首秀 正式发布定档10月27日",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-25%2fdoc-iniszrtv4379526.shtml&c=11084968468033360941&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6798a5ced4457b3f300adbd8b0cde&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-25%2fdoc-iniszrtv4379526.shtml&c=11084968468033360941&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 10:24",
     "summary": "",
@@ -196,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜卖爆了！全球出货量暴涨263%：Meta独占94%份额",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260925A02WY100%3fadChannelId%3dfinance&c=4527246119858671472&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6798a5ced4457b3f300adbd8b0cde&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260925A02WY100%3fadChannelId%3dfinance&c=4527246119858671472&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 09:11",
     "summary": "",
@@ -206,8 +217,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "Meta新一代AI眼镜引入Muse助手：未来AI眼镜会成为主流吗?",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6798a5ced4457b3f300adbd8b0cde&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fmeta%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3ai%25E7%259C%25BC%25E9%2595%259C%25E5%25BC%2595%25E5%2585%25A5muse%25E5%258A%25A9%25E6%2589%258B-%25E6%259C%25AA%25E6%259D%25A5ai%25E7%259C%25BC%25E9%2595%259C%25E4%25BC%259A%25E6%2588%2590%25E4%25B8%25BA%25E4%25B8%25BB%25E6%25B5%2581%25E5%2590%2597%2far-AA2cWMi5&c=355331900429568313&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-25 07:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "Qualcomm称多设备协同需统一标准，正评估AI眼镜直连5G",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fwww.digitaltoday.co.kr%2fcn%2fview%2f107432%2fsnapdragon-summit-2026-industry-standard-needed-for-cross-device-connectivity-considering-adding-5g-to-ai-glasses&c=18406330033678951741&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6798a5ced4457b3f300adbd8b0cde&url=https%3a%2f%2fwww.digitaltoday.co.kr%2fcn%2fview%2f107432%2fsnapdragon-summit-2026-industry-standard-needed-for-cross-device-connectivity-considering-adding-5g-to-ai-glasses&c=18406330033678951741&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 07:15",
     "summary": "",
@@ -229,7 +251,7 @@
    {
     "beat": "AI/大模型",
     "title": "谁的黄金周急需一副AI眼镜?",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25B0%2581%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E5%2591%25A8%25E6%2580%25A5%25E9%259C%2580%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%2far-AA2cVvHX&c=13913540317316574986&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6798a5ced4457b3f300adbd8b0cde&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25B0%2581%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E5%2591%25A8%25E6%2580%25A5%25E9%259C%2580%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%2far-AA2cVvHX&c=13913540317316574986&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 02:49",
     "summary": "",
@@ -239,10 +261,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Meta Connect 2026：从AI眼镜到个人智能体，Meta押注“可穿戴代理”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0EIC600&c=2764313664578684350&mkt=en-us",
+    "title": "PrismML与高通合作，将1比特视觉语言模型引入AI智能眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6798a5ced4457b3f300adbd8b0cde&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080836028_213766&c=1475552389122139320&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-24 21:26",
+    "time": "09-25 02:44",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -250,21 +272,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "乐奇Rokid×红星眼镜，上海首家AI眼镜验配一体门店落地，开启体验式消费时代",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fnews.inewsweek.cn%2fobserve%2f2026-09-24%2f32325.shtml&c=4961137780886759031&mkt=en-us",
+    "title": "观察｜从AI眼镜到养老机器人，数贸会上这些新品有哪些看点",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6798a5ced4457b3f300adbd8b0cde&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0F6YL00&c=12637692650059891976&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-24 18:43",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "乐奇二代AI眼镜首秀：防抖夜景双升级 第一视角拍摄更强",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab66c71c9704437a569c76c8106b8aa&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E4%25B9%2590%25E5%25A5%2587%25E4%25BA%258C%25E4%25BB%25A3ai%25E7%259C%25BC%25E9%2595%259C%25E9%25A6%2596%25E7%25A7%2580-%25E9%2598%25B2%25E6%258A%2596%25E5%25A4%259C%25E6%2599%25AF%25E5%258F%258C%25E5%258D%2587%25E7%25BA%25A7-%25E7%25AC%25AC%25E4%25B8%2580%25E8%25A7%2586%25E8%25A7%2592%25E6%258B%258D%25E6%2591%2584%25E6%259B%25B4%25E5%25BC%25BA%2far-AA2cTq0M&c=7996843489339575208&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-24 14:58",
+    "time": "09-24 22:52",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -308,17 +319,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "“让女玩家做裙子的游戏火了”！3人开发《针影裁梦》好评96%, Steam在线破万人",
-    "url": "http://www.gamelook.com.cn/2026/09/602908/",
-    "source": "GameLook",
-    "time": "09-24 10:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -351,8 +351,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(4)",
-   "Bing新闻(10)"
+   "HackerNews(5)",
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
