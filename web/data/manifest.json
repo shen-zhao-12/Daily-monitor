@@ -1,5 +1,13 @@
 [
  {
+  "id": "2026-09-26-wubao",
+  "title": "线口监测午报 · 2026年09月26日(周六)",
+  "date": "2026-09-26 13:04",
+  "dataPath": "data/briefings/2026-09-26-wubao.json",
+  "docxPath": "briefings/线口监测午报-2026-09-26.docx",
+  "top": []
+ },
+ {
   "id": "2026-09-25-wubao",
   "title": "线口监测午报 · 2026年09月25日(周五)",
   "date": "2026-09-25 21:39",
@@ -470,17 +478,5 @@
   "dataPath": "data/briefings/2026-08-16-zaobao.json",
   "docxPath": "briefings/线口监测早报-2026-08-16.docx",
   "top": []
- },
- {
-  "id": "2026-08-15-wubao",
-  "title": "线口监测午报 · 2026年08月15日(周六)",
-  "date": "2026-08-15 17:03",
-  "dataPath": "data/briefings/2026-08-15-wubao.json",
-  "docxPath": "briefings/线口监测午报-2026-08-15.docx",
-  "top": [
-   "华强北AI眼镜销量暴涨100%华强北成全球科技扫货目的地",
-   "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
-   "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除"
-  ]
  }
 ]
