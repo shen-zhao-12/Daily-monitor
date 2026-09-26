@@ -2,7 +2,7 @@
  "id": "2026-09-26-wubao",
  "title": "线口监测午报 · 2026年09月26日(周六)",
  "shift": "午报",
- "date": "2026-09-26 20:11",
+ "date": "2026-09-26 20:59",
  "docx": "../briefings/线口监测午报-2026-09-26.docx",
  "sections": {
   "AI/大模型": [
@@ -34,6 +34,17 @@
     "url": "https://www.ithome.com/1/007/414.htm",
     "source": "IT之家",
     "time": "09-26 18:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "One Month Without AI",
+    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "source": "Hacker News",
+    "time": "09-26 18:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -118,17 +129,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "微星推出 MS-C9ZA 无风扇边缘 AI 盒子，基于 Jetson Orin Nano 8GB",
-    "url": "https://www.ithome.com/1/007/344.htm",
-    "source": "IT之家",
-    "time": "09-26 13:37",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
     "url": "https://swarmtraces.org/",
     "source": "Hacker News",
@@ -140,8 +140,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "Meta最便宜AI眼镜：249美元Meta Adventurer，10月23日开售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7c1ccaf964e2684dd362d4b8dfd79&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080931935_447547&c=6927247357843751582&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-26 02:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "Rokid联合创始人向文杰：AI眼镜是个人终端智能的最佳载体",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7b669abc74096bc0ffffe0a9e547e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080761664_121134737&c=12791475076241171751&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7c1ccaf964e2684dd362d4b8dfd79&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080761664_121134737&c=12791475076241171751&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 12:09",
     "summary": "",
@@ -152,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "新一代乐奇AI眼镜数贸会首秀 正式发布定档10月27日",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7b669abc74096bc0ffffe0a9e547e&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-25%2fdoc-iniszrtv4379526.shtml&c=11084968468033360941&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7c1ccaf964e2684dd362d4b8dfd79&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-25%2fdoc-iniszrtv4379526.shtml&c=11084968468033360941&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 10:24",
     "summary": "",
@@ -163,9 +174,9 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜卖爆了！全球出货量暴涨263%：Meta独占94%份额",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7b669abc74096bc0ffffe0a9e547e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080691130_258768&c=5708671919570473572&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7c1ccaf964e2684dd362d4b8dfd79&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260925A02WY100%3fadChannelId%3dfinance&c=4527246119858671472&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-25 08:35",
+    "time": "09-25 09:11",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -174,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "Meta新一代AI眼镜引入Muse助手：未来AI眼镜会成为主流吗?",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7b669abc74096bc0ffffe0a9e547e&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fmeta%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3ai%25E7%259C%25BC%25E9%2595%259C%25E5%25BC%2595%25E5%2585%25A5muse%25E5%258A%25A9%25E6%2589%258B-%25E6%259C%25AA%25E6%259D%25A5ai%25E7%259C%25BC%25E9%2595%259C%25E4%25BC%259A%25E6%2588%2590%25E4%25B8%25BA%25E4%25B8%25BB%25E6%25B5%2581%25E5%2590%2597%2far-AA2cWMi5&c=355331900429568313&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7c1ccaf964e2684dd362d4b8dfd79&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fmeta%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3ai%25E7%259C%25BC%25E9%2595%259C%25E5%25BC%2595%25E5%2585%25A5muse%25E5%258A%25A9%25E6%2589%258B-%25E6%259C%25AA%25E6%259D%25A5ai%25E7%259C%25BC%25E9%2595%259C%25E4%25BC%259A%25E6%2588%2590%25E4%25B8%25BA%25E4%25B8%25BB%25E6%25B5%2581%25E5%2590%2597%2far-AA2cWMi5&c=355331900429568313&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 07:17",
     "summary": "",
@@ -185,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "Qualcomm称多设备协同需统一标准，正评估AI眼镜直连5G",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7b669abc74096bc0ffffe0a9e547e&url=https%3a%2f%2fwww.digitaltoday.co.kr%2fcn%2fview%2f107432%2fsnapdragon-summit-2026-industry-standard-needed-for-cross-device-connectivity-considering-adding-5g-to-ai-glasses&c=18406330033678951741&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7c1ccaf964e2684dd362d4b8dfd79&url=https%3a%2f%2fwww.digitaltoday.co.kr%2fcn%2fview%2f107432%2fsnapdragon-summit-2026-industry-standard-needed-for-cross-device-connectivity-considering-adding-5g-to-ai-glasses&c=18406330033678951741&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-25 07:15",
     "summary": "",
@@ -196,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "观察｜从AI眼镜到养老机器人，数贸会上这些新品有哪些看点",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7b669abc74096bc0ffffe0a9e547e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0F6YL00&c=12637692650059891976&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7c1ccaf964e2684dd362d4b8dfd79&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A0F6YL00&c=12637692650059891976&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-24 22:52",
     "summary": "",
@@ -219,6 +230,17 @@
    }
   ],
   "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "北京越野泰钽 700 开启首批交付：搭载华为乾崑智驾 ADS 5，超级焕新价 24.98 万元起",
+    "url": "https://www.ithome.com/1/007/430.htm",
+    "source": "IT之家",
+    "time": "09-26 20:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "无人驾驶/低空/智慧出行",
     "title": "无人机系统项目首入世界技能大赛：选手需过装配、编程等多道关",
@@ -274,8 +296,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(1)",
-   "HackerNews(5)",
-   "Bing新闻(6)"
+   "HackerNews(6)",
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
