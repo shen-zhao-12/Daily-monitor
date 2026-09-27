@@ -2,10 +2,65 @@
  "id": "2026-09-27-wubao",
  "title": "线口监测午报 · 2026年09月27日(周日)",
  "shift": "午报",
- "date": "2026-09-27 14:37",
+ "date": "2026-09-27 20:56",
  "docx": "../briefings/线口监测午报-2026-09-27.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "吉利汽车集团副总裁李传海：目前行业缺少统一的 AI 治理标准，不仅抬高产业成本、也埋下安全隐患",
+    "url": "https://www.ithome.com/1/007/563.htm",
+    "source": "IT之家",
+    "time": "09-27 18:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+    "source": "Hacker News",
+    "time": "09-27 16:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "研究：美国医院用 AI 写病历，保险公司两年多掏 9.42 亿美元",
+    "url": "https://www.ithome.com/1/007/531.htm",
+    "source": "IT之家",
+    "time": "09-27 15:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "亿道首发 JX200 双卡液冷 AI 工作站：20.4L 机身，240 AIO 液冷",
+    "url": "https://www.ithome.com/1/007/519.htm",
+    "source": "IT之家",
+    "time": "09-27 14:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "source": "Hacker News",
+    "time": "09-27 14:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布",
@@ -41,109 +96,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "六联智能发布 4 盘位 \"Wildcat Lake\" AI NAS WS18，0.15L 迷你主机同场展出",
-    "url": "https://www.ithome.com/1/007/492.htm",
-    "source": "IT之家",
-    "time": "09-27 11:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "爆料称 OpenAI 准备扩大 Ultrafast API 开放范围",
-    "url": "https://www.ithome.com/1/007/490.htm",
-    "source": "IT之家",
-    "time": "09-27 11:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "不含真实演员数字复制：国内首部院线 AI 原生动画电影《三星堆：未来往事》定档 10 月 23 日上映",
-    "url": "https://www.ithome.com/1/007/482.htm",
-    "source": "IT之家",
-    "time": "09-27 10:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
-    "url": "https://www.ithome.com/1/007/481.htm",
-    "source": "IT之家",
-    "time": "09-27 10:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "第三方后装智驾闯大祸：5 起事故致 3 死，Comma.ai 遭美国联邦调查",
-    "url": "https://www.ithome.com/1/007/470.htm",
-    "source": "IT之家",
-    "time": "09-27 09:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "IT早报 0927：微信鸿蒙版 App 安装量破 8000 万；豆包手机助手回应努比亚手机王者荣耀异常；华为大疆联名推出 Pocket 4；OpenAI 暂停最强模型训练...",
-    "url": "https://www.ithome.com/1/007/456.htm",
-    "source": "IT之家",
-    "time": "09-27 08:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "七彩虹源 AIR 14 Ultra 轻薄本亮相：960g，X7 358H",
-    "url": "https://www.ithome.com/1/007/452.htm",
-    "source": "IT之家",
-    "time": "09-27 07:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-    "url": "https://www.ithome.com/1/007/447.htm",
-    "source": "IT之家",
-    "time": "09-27 07:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
-    "url": "https://www.ithome.com/1/007/445.htm",
-    "source": "IT之家",
-    "time": "09-27 06:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "全球首发｜秋果计划 Wigain Flow 全彩AI智能眼镜新品发布会暨生态伙伴签约仪式圆满举行",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab8b9c3d394409ca05f98c85b605291&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081351092_121826552&c=11625400373127792610&mkt=en-us",
+    "title": "重塑数字生活：雷鸟iO AI眼镜的全新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab91282a7104e7dbb6d1cc749bdb125&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081283085_122471764&c=2252266926001302727&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-26 22:27",
+    "time": "09-27 08:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -152,6 +108,28 @@
   ],
   "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "我国自研 AR-E800 无人机公开首飞：单机单日运输量达 14 吨，拥有 4800 米高海拔作业能力",
+    "url": "https://www.ithome.com/1/007/544.htm",
+    "source": "IT之家",
+    "time": "09-27 16:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "问界强调仍是鸿蒙智行成员：新 M8 月底预售，标配面向 L3 级自动驾驶架构设计、华为 ADS 5",
+    "url": "https://www.ithome.com/1/007/518.htm",
+    "source": "IT之家",
+    "time": "09-27 14:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "无人驾驶/低空/智慧出行",
     "title": "华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”",
@@ -168,10 +146,10 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "贝塞斯达确认：《上古卷轴 6》完工后，下一款游戏是《辐射 5》",
-    "url": "https://www.ithome.com/1/007/505.htm",
+    "title": "年轻人的第一台 RGB 游戏电视，小米 REDMI X 系列 RGB-Mini LED 2027 竞技版上架",
+    "url": "https://www.ithome.com/1/007/596.htm",
     "source": "IT之家",
-    "time": "09-27 13:00",
+    "time": "09-27 20:22",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -179,65 +157,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "iQOO Pad Ultra 小平板官宣跨端游戏空间功能升级，支持 PC 模拟器、PC 串流、大屏模式",
-    "url": "https://www.ithome.com/1/007/493.htm",
+    "title": "索尼 PS5 游戏机“欢迎中心”新增《最后生还者》动态壁纸，融合 1 代、2 代封面",
+    "url": "https://www.ithome.com/1/007/539.htm",
     "source": "IT之家",
-    "time": "09-27 11:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "任天堂三十年前取消的 SFC 游戏《儿童卡比》被粉丝重制，现已可 PC 游玩",
-    "url": "https://www.ithome.com/1/007/489.htm",
-    "source": "IT之家",
-    "time": "09-27 11:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "iQOO 王侃：iQOO 16 支持超 50 款热门游戏 165Hz 高刷模式，覆盖 MOBA、FPS、赛车等品类",
-    "url": "https://www.ithome.com/1/007/488.htm",
-    "source": "IT之家",
-    "time": "09-27 11:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "太能打！过去一年 6 款《生化危机》游戏销量均破 300 万份",
-    "url": "https://www.ithome.com/1/007/487.htm",
-    "source": "IT之家",
-    "time": "09-27 11:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《我的世界》游戏第四维度“筛界”官宣：《地下城 2》首发，2027 年加入基岩 / Java 版",
-    "url": "https://www.ithome.com/1/007/476.htm",
-    "source": "IT之家",
-    "time": "09-27 10:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《足球经理 27》游戏公布：今年 11 月推出，已上架 Steam",
-    "url": "https://www.ithome.com/1/007/459.htm",
-    "source": "IT之家",
-    "time": "09-27 08:45",
+    "time": "09-27 16:06",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -251,7 +174,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(1)",
-   "HackerNews(2)",
+   "HackerNews(7)",
    "Bing新闻(1)"
   ],
   "fail": [
