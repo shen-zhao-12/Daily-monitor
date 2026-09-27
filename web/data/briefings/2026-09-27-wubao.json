@@ -2,10 +2,21 @@
  "id": "2026-09-27-wubao",
  "title": "线口监测午报 · 2026年09月27日(周日)",
  "shift": "午报",
- "date": "2026-09-27 20:56",
+ "date": "2026-09-27 21:52",
  "docx": "../briefings/线口监测午报-2026-09-27.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”",
+    "url": "https://www.ithome.com/1/007/603.htm",
+    "source": "IT之家",
+    "time": "09-27 21:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "吉利汽车集团副总裁李传海：目前行业缺少统一的 AI 治理标准，不仅抬高产业成本、也埋下安全隐患",
@@ -74,30 +85,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
-    "url": "https://www.ithome.com/1/007/508.htm",
-    "source": "IT之家",
-    "time": "09-27 13:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "英国最大桌游展 UKGE 出台新规：禁止 AI 生成游戏参展，仅少数情况例外",
-    "url": "https://www.ithome.com/1/007/506.htm",
-    "source": "IT之家",
-    "time": "09-27 13:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "重塑数字生活：雷鸟iO AI眼镜的全新体验",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab91282a7104e7dbb6d1cc749bdb125&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081283085_122471764&c=2252266926001302727&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab91f96895d446d884ac7cf6e51bbea&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081283085_122471764&c=2252266926001302727&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-27 08:00",
     "summary": "",
@@ -125,17 +114,6 @@
     "url": "https://www.ithome.com/1/007/518.htm",
     "source": "IT之家",
     "time": "09-27 14:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”",
-    "url": "https://www.ithome.com/1/007/511.htm",
-    "source": "IT之家",
-    "time": "09-27 13:57",
     "summary": "",
     "grade": "C",
     "local": false,
