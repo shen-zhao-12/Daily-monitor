@@ -2,10 +2,32 @@
  "id": "2026-09-27-wubao",
  "title": "线口监测午报 · 2026年09月27日(周日)",
  "shift": "午报",
- "date": "2026-09-27 13:22",
+ "date": "2026-09-27 14:37",
  "docx": "../briefings/线口监测午报-2026-09-27.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布",
+    "url": "https://www.ithome.com/1/007/512.htm",
+    "source": "IT之家",
+    "time": "09-27 13:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
+    "url": "https://www.ithome.com/1/007/508.htm",
+    "source": "IT之家",
+    "time": "09-27 13:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "英国最大桌游展 UKGE 出台新规：禁止 AI 生成游戏参展，仅少数情况例外",
@@ -119,51 +141,29 @@
    {
     "beat": "AI/大模型",
     "title": "全球首发｜秋果计划 Wigain Flow 全彩AI智能眼镜新品发布会暨生态伙伴签约仪式圆满举行",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab8a82adc4341959a79416f3d515bba&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081351092_121826552&c=11625400373127792610&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab8b9c3d394409ca05f98c85b605291&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081351092_121826552&c=11625400373127792610&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-26 22:27",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
    {
-    "beat": "AI/大模型",
-    "title": "从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议",
-    "url": "https://www.ithome.com/1/007/441.htm",
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”",
+    "url": "https://www.ithome.com/1/007/511.htm",
     "source": "IT之家",
-    "time": "09-26 22:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "在数贸会AI浪潮中探寻“海南答案”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab8a82adc4341959a79416f3d515bba&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34159325&c=14014089645050131595&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-26 20:28",
+    "time": "09-27 13:57",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [
-   {
-    "beat": "机器人/AI硬件",
-    "title": "宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势",
-    "url": "https://www.ithome.com/1/007/443.htm",
-    "source": "IT之家",
-    "time": "09-26 22:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
-  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
@@ -252,7 +252,7 @@
    "IT之家(60)",
    "GameLook(1)",
    "HackerNews(2)",
-   "Bing新闻(2)"
+   "Bing新闻(1)"
   ],
   "fail": [
    "36氪(no entries)"
