@@ -2,10 +2,54 @@
  "id": "2026-09-28-wubao",
  "title": "线口监测午报 · 2026年09月28日(周一)",
  "shift": "午报",
- "date": "2026-09-28 13:29",
+ "date": "2026-09-28 14:57",
  "docx": "../briefings/线口监测午报-2026-09-28.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "米哈游创始人刘伟：希望在 2-3 年内进入国产大模型第一梯队",
+    "url": "https://www.ithome.com/1/007/807.htm",
+    "source": "IT之家",
+    "time": "09-28 14:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "51,999 元！铭凡 MS-S1 MAX-P495 迷你 AI 工作站发售",
+    "url": "https://www.ithome.com/1/007/787.htm",
+    "source": "IT之家",
+    "time": "09-28 14:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为智能门锁 2 Pro 悦享版发售：搭 AI 3D 人脸识别 3.0 技术，配备应急备用供电系统，2499 元",
+    "url": "https://www.ithome.com/1/007/784.htm",
+    "source": "IT之家",
+    "time": "09-28 14:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 CEO 纳德拉如何使用智能体：动手操控、追问、继续推理，而非盲目信任",
+    "url": "https://www.ithome.com/1/007/779.htm",
+    "source": "IT之家",
+    "time": "09-28 13:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "谷歌为 Google AI 订阅会员新增 Colab 高级权益，可使用高性能云端计算资源",
@@ -52,32 +96,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "比尔 · 盖茨：人类再等大概 20 年，就能等到 AI 带来的更乐观未来",
-    "url": "https://www.ithome.com/1/007/671.htm",
-    "source": "IT之家",
-    "time": "09-28 10:15",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "30年经验老鸟：AI让研发提速5倍，“毫无成就感 ，只剩最耗心力工作、新人断档”",
     "url": "http://www.gamelook.com.cn/2026/09/603042/",
     "source": "GameLook",
     "time": "09-28 09:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“AI 教父”辛顿警告：AI 执行看似无害的任务，仍有“毁灭人类”的风险",
-    "url": "https://www.ithome.com/1/007/664.htm",
-    "source": "IT之家",
-    "time": "09-28 09:50",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -96,8 +118,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "在数贸会上与AI撞个满怀 智能科技引领未来",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba0fdc88e240aaaa883fca25cfdabd&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20260928%2f49768867.html&c=12986725137665330215&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 01:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "Meta发布多款AI眼镜：Muse智能体上线，推出无摄像头版本",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9fb2ffad74ebca70c876a17f6f24f&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fmeta%25E5%258F%2591%25E5%25B8%2583%25E5%25A4%259A%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C-muse%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%2593%25E4%25B8%258A%25E7%25BA%25BF-%25E6%258E%25A8%25E5%2587%25BA%25E6%2597%25A0%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%25E7%2589%2588%25E6%259C%25AC%2far-AA2d574y&c=6022424972118075698&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba0fdc88e240aaaa883fca25cfdabd&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fmeta%25E5%258F%2591%25E5%25B8%2583%25E5%25A4%259A%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C-muse%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%2593%25E4%25B8%258A%25E7%25BA%25BF-%25E6%258E%25A8%25E5%2587%25BA%25E6%2597%25A0%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%25E7%2589%2588%25E6%259C%25AC%2far-AA2d574y&c=16764646438183297005&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-28 00:19",
     "summary": "",
@@ -107,10 +140,32 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "莫界发布轻量化AI眼镜：时尚与科技的完美结合",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9fb2ffad74ebca70c876a17f6f24f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081707099_122004016&c=4881358996885291394&mkt=en-us",
+    "title": "亮相SILMO Paris 2026｜莫界以核心光学创新，演绎有显AI眼镜的时尚与全能",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba0fdc88e240aaaa883fca25cfdabd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081717056_121850794&c=6838290281601139301&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-27 22:54",
+    "time": "09-27 23:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "【傲网GEO】小米MiMo-V2.6-Pro登顶全球开源大模型第一、数贸会开幕AI眼镜全球首秀、Anthropic再签120亿算力大单",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba0fdc88e240aaaa883fca25cfdabd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081645688_122856776&c=9989453205399532291&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-27 21:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba0fdc88e240aaaa883fca25cfdabd&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f31360.shtml&c=15394670143522364379&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-27 20:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -118,6 +173,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "吉利安聪慧：曹操出行将全面采用换电，原生 Robotaxi 将采用换电方案",
+    "url": "https://www.ithome.com/1/007/792.htm",
+    "source": "IT之家",
+    "time": "09-28 14:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "全球首台搭载全国产化电子架构的具身智能机器人亮相，提供可完整替代国外方案技术选项",
@@ -141,21 +207,32 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "华境 S 大六座 SUV 交付突破 3 万台销量创新高：标配华为乾崑智驾 ADS Pro 增强版，14.98 万元起",
-    "url": "https://www.ithome.com/1/007/675.htm",
-    "source": "IT之家",
-    "time": "09-28 10:20",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《饥荒》国服手游《饥困荒野》上架 App Store：腾讯代理，预计 11 月 24 日推出",
+    "url": "https://www.ithome.com/1/007/822.htm",
+    "source": "IT之家",
+    "time": "09-28 14:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "联想拯救者官宣 R9 68 磁轴电竞键盘、R7 电竞鼠标",
+    "url": "https://www.ithome.com/1/007/782.htm",
+    "source": "IT之家",
+    "time": "09-28 13:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "一加 16 手机定档 10 月 12 日发布：自研“电竞三芯”，首批搭载高通第六代骁龙 8 超级至尊版芯片",
@@ -173,28 +250,6 @@
     "url": "https://www.ithome.com/1/007/677.htm",
     "source": "IT之家",
     "time": "09-28 10:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "电竞赛事脱离亚运会体系：首届亚洲电子竞技与智力运动会将于 2027 年在科威特举行",
-    "url": "https://www.ithome.com/1/007/676.htm",
-    "source": "IT之家",
-    "time": "09-28 10:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "EA 年货游戏《EA Sports FC 27》发售，Steam 国区 248 元起",
-    "url": "https://www.ithome.com/1/007/665.htm",
-    "source": "IT之家",
-    "time": "09-28 09:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -221,17 +276,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯《王者荣耀》《和平精英》亚运版本项目播出平台确定，王者荣耀今日决赛",
-    "url": "https://www.ithome.com/1/007/655.htm",
-    "source": "IT之家",
-    "time": "09-28 09:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -245,17 +289,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "小米米家冰箱 425L 十字 全域离子净化今日开售：国补价 1999.2 元",
-    "url": "https://www.ithome.com/1/007/666.htm",
-    "source": "IT之家",
-    "time": "09-28 09:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ]
  },
@@ -265,7 +298,7 @@
    "IT之家(60)",
    "GameLook(8)",
    "HackerNews(1)",
-   "Bing新闻(2)"
+   "Bing新闻(5)"
   ],
   "fail": [
    "36氪(no entries)"
