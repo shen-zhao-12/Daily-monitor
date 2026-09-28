@@ -1,0 +1,274 @@
+{
+ "id": "2026-09-28-wubao",
+ "title": "线口监测午报 · 2026年09月28日(周一)",
+ "shift": "午报",
+ "date": "2026-09-28 13:29",
+ "docx": "../briefings/线口监测午报-2026-09-28.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌为 Google AI 订阅会员新增 Colab 高级权益，可使用高性能云端计算资源",
+    "url": "https://www.ithome.com/1/007/762.htm",
+    "source": "IT之家",
+    "time": "09-28 12:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token",
+    "url": "https://www.ithome.com/1/007/727.htm",
+    "source": "IT之家",
+    "time": "09-28 11:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "MINIX 推出 N304-AI 迷你主机：双 M.2 SSD 盘位、双 1GbE RJ-45 网口",
+    "url": "https://www.ithome.com/1/007/690.htm",
+    "source": "IT之家",
+    "time": "09-28 11:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美知名综艺《周六夜现场》恶搞 Anthropic 阿莫代伊：演员高喊“AI 是魔鬼，我造的”",
+    "url": "https://www.ithome.com/1/007/688.htm",
+    "source": "IT之家",
+    "time": "09-28 11:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "比尔 · 盖茨：人类再等大概 20 年，就能等到 AI 带来的更乐观未来",
+    "url": "https://www.ithome.com/1/007/671.htm",
+    "source": "IT之家",
+    "time": "09-28 10:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "30年经验老鸟：AI让研发提速5倍，“毫无成就感 ，只剩最耗心力工作、新人断档”",
+    "url": "http://www.gamelook.com.cn/2026/09/603042/",
+    "source": "GameLook",
+    "time": "09-28 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“AI 教父”辛顿警告：AI 执行看似无害的任务，仍有“毁灭人类”的风险",
+    "url": "https://www.ithome.com/1/007/664.htm",
+    "source": "IT之家",
+    "time": "09-28 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大伟哥交大演讲：AI大模型目标第一梯队，《雨城》年底测试，《原神》“大的要来”",
+    "url": "http://www.gamelook.com.cn/2026/09/603053/",
+    "source": "GameLook",
+    "time": "09-28 09:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta发布多款AI眼镜：Muse智能体上线，推出无摄像头版本",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9fb2ffad74ebca70c876a17f6f24f&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fmeta%25E5%258F%2591%25E5%25B8%2583%25E5%25A4%259A%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C-muse%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%2593%25E4%25B8%258A%25E7%25BA%25BF-%25E6%258E%25A8%25E5%2587%25BA%25E6%2597%25A0%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%25E7%2589%2588%25E6%259C%25AC%2far-AA2d574y&c=6022424972118075698&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 00:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "莫界发布轻量化AI眼镜：时尚与科技的完美结合",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9fb2ffad74ebca70c876a17f6f24f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081707099_122004016&c=4881358996885291394&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-27 22:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "全球首台搭载全国产化电子架构的具身智能机器人亮相，提供可完整替代国外方案技术选项",
+    "url": "https://www.ithome.com/1/007/678.htm",
+    "source": "IT之家",
+    "time": "09-28 10:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "蔚来秦力洪：换电有望帮助网约车收入提升 15%-20%，最多可节约四成整车成本",
+    "url": "https://www.ithome.com/1/007/684.htm",
+    "source": "IT之家",
+    "time": "09-28 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华境 S 大六座 SUV 交付突破 3 万台销量创新高：标配华为乾崑智驾 ADS Pro 增强版，14.98 万元起",
+    "url": "https://www.ithome.com/1/007/675.htm",
+    "source": "IT之家",
+    "time": "09-28 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "一加 16 手机定档 10 月 12 日发布：自研“电竞三芯”，首批搭载高通第六代骁龙 8 超级至尊版芯片",
+    "url": "https://www.ithome.com/1/007/689.htm",
+    "source": "IT之家",
+    "time": "09-28 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "一加宣布为旗下手机引入“全球领先 185Hz 极速高刷”技术，搭配风驰游戏内核及自研电竞三芯实现“全链路流畅”",
+    "url": "https://www.ithome.com/1/007/677.htm",
+    "source": "IT之家",
+    "time": "09-28 10:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "电竞赛事脱离亚运会体系：首届亚洲电子竞技与智力运动会将于 2027 年在科威特举行",
+    "url": "https://www.ithome.com/1/007/676.htm",
+    "source": "IT之家",
+    "time": "09-28 10:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "EA 年货游戏《EA Sports FC 27》发售，Steam 国区 248 元起",
+    "url": "https://www.ithome.com/1/007/665.htm",
+    "source": "IT之家",
+    "time": "09-28 09:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "休闲手游数据报告：Top300新游仅占2%，老游戏霸榜，休闲手游逻辑彻底变了！",
+    "url": "http://www.gamelook.com.cn/2026/09/603007/",
+    "source": "GameLook",
+    "time": "09-28 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“游戏圈喜剧还是悲剧”？Roblox开闸放水，几百万款游戏涌向Steam和手游？",
+    "url": "http://www.gamelook.com.cn/2026/09/603087/",
+    "source": "GameLook",
+    "time": "09-28 09:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯《王者荣耀》《和平精英》亚运版本项目播出平台确定，王者荣耀今日决赛",
+    "url": "https://www.ithome.com/1/007/655.htm",
+    "source": "IT之家",
+    "time": "09-28 09:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "石头推出 Z1 MiniPure 迷你洗衣机：2kg 洗涤容量、14L 内筒，2705 元（国补后 2299 元）",
+    "url": "https://www.ithome.com/1/007/773.htm",
+    "source": "IT之家",
+    "time": "09-28 13:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家冰箱 425L 十字 全域离子净化今日开售：国补价 1999.2 元",
+    "url": "https://www.ithome.com/1/007/666.htm",
+    "source": "IT之家",
+    "time": "09-28 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(8)",
+   "HackerNews(1)",
+   "Bing新闻(2)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
