@@ -1,0 +1,327 @@
+{
+ "id": "2026-09-29-zaobao",
+ "title": "线口监测早报 · 2026年09月29日(周二)",
+ "shift": "早报",
+ "date": "2026-09-29 00:43",
+ "docx": "../briefings/线口监测早报-2026-09-29.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "The problem is not the AI code, but nobody knows anything anymore",
+    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+    "source": "Hacker News",
+    "time": "09-29 00:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 初创公司 Instinct 完成 10 亿美元融资，投后估值达 100 亿美元",
+    "url": "https://www.ithome.com/1/008/060.htm",
+    "source": "IT之家",
+    "time": "09-28 23:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别",
+    "url": "https://www.ithome.com/1/008/056.htm",
+    "source": "IT之家",
+    "time": "09-28 22:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "ACEMAGIC 推出全球首款锐龙 AI Max+ PRO 495 处理器的 AI 迷你工作站，6499 美元",
+    "url": "https://www.ithome.com/1/008/043.htm",
+    "source": "IT之家",
+    "time": "09-28 22:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷柏带来 VT2 / VT2s Air MAX V2 鼠标：nRF54LM20 主控，329 元",
+    "url": "https://www.ithome.com/1/008/040.htm",
+    "source": "IT之家",
+    "time": "09-28 22:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "月之暗面最强 AI 模型：Kimi K3.1 前端标识泄露，预计将在近期发布",
+    "url": "https://www.ithome.com/1/008/033.htm",
+    "source": "IT之家",
+    "time": "09-28 21:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 启动企业平台 AI 赋能业务，由原 MongoDB 首席执行官兼总裁 Chirantan Desai 领导",
+    "url": "https://www.ithome.com/1/008/026.htm",
+    "source": "IT之家",
+    "time": "09-28 21:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全新深蓝 S07 AI 激光版上市，限时权益价 14.99 万元起",
+    "url": "https://www.ithome.com/1/008/019.htm",
+    "source": "IT之家",
+    "time": "09-28 20:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "深蓝汽车推出“小蓝同学车载交互屏”：适配全新 S07 AI 激光版，899 元起",
+    "url": "https://www.ithome.com/1/008/006.htm",
+    "source": "IT之家",
+    "time": "09-28 20:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "16 岁少年用 AI 发现微软内部 API 漏洞：涉及超 17 万亿行数据，获 5000 美元赏金",
+    "url": "https://www.ithome.com/1/008/000.htm",
+    "source": "IT之家",
+    "time": "09-28 19:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "酷派推出 699 元 AI 智能眼镜：800W 像素摄像头，支持抖音直播、视频通话、在线翻译",
+    "url": "https://www.ithome.com/1/007/982.htm",
+    "source": "IT之家",
+    "time": "09-28 18:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "荣耀 AI 耳夹耳机 FlyClip Pro 开启预约，支持无线充电、续航 44 小时",
+    "url": "https://www.ithome.com/1/007/981.htm",
+    "source": "IT之家",
+    "time": "09-28 18:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "url": "https://git.mills.io/prologic/parley",
+    "source": "Hacker News",
+    "time": "09-28 18:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜可信视界自律公约深度解读：三大支柱十五条义务，签署企业怎么做？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba9926a4614c229e4d3379dbbccdec&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081811346_122975633&c=9336023725229346430&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 16:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+    "url": "https://arxiv.org/abs/2110.01834",
+    "source": "Hacker News",
+    "time": "09-28 11:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nissan's third generation e-POWER powertrain",
+    "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+    "source": "Hacker News",
+    "time": "09-28 10:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "30年经验老鸟：AI让研发提速5倍，“毫无成就感 ，只剩最耗心力工作、新人断档”",
+    "url": "http://www.gamelook.com.cn/2026/09/603042/",
+    "source": "GameLook",
+    "time": "09-28 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大伟哥交大演讲：AI大模型目标第一梯队，《雨城》年底测试，《原神》“大的要来”",
+    "url": "http://www.gamelook.com.cn/2026/09/603053/",
+    "source": "GameLook",
+    "time": "09-28 09:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新机：华为Mate90正面长这样；一加16发布会定了；荣耀MagicPad 4发布；酷派发布699元的AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba9926a4614c229e4d3379dbbccdec&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260928A0C4LT00%3fadChannelId%3dtech&c=5553749974913207903&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 08:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球AI眼镜2025年出货量达870万台 2026年有望突破千万台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba9926a4614c229e4d3379dbbccdec&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609283885363452.html&c=10125584395176292574&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 07:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "让注意力回归「人」：AI眼镜的下一站",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba9926a4614c229e4d3379dbbccdec&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081834229_121698806&c=9282402657436793925&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 03:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "网红煽动粉丝网暴他人还直播带货，最高法以案释法划清网络行为底线",
+    "url": "https://www.ithome.com/1/008/047.htm",
+    "source": "IT之家",
+    "time": "09-28 22:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼公布《战神：劳菲》游戏预购奖励，明日开启预购",
+    "url": "https://www.ithome.com/1/008/035.htm",
+    "source": "IT之家",
+    "time": "09-28 21:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "开发者将《塞尔达传说：黄昏公主》游戏移植到任天堂 New 3DS 掌机，支持裸眼 3D",
+    "url": "https://www.ithome.com/1/008/030.htm",
+    "source": "IT之家",
+    "time": "09-28 21:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯元宝电脑端上线“桌宠”尝鲜版：文件、图片拖过去就能导入到应用",
+    "url": "https://www.ithome.com/1/008/010.htm",
+    "source": "IT之家",
+    "time": "09-28 20:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "休闲手游数据报告：Top300新游仅占2%，老游戏霸榜，休闲手游逻辑彻底变了！",
+    "url": "http://www.gamelook.com.cn/2026/09/603007/",
+    "source": "GameLook",
+    "time": "09-28 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“游戏圈喜剧还是悲剧”？Roblox开闸放水，几百万款游戏涌向Steam和手游？",
+    "url": "http://www.gamelook.com.cn/2026/09/603087/",
+    "source": "GameLook",
+    "time": "09-28 09:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(8)",
+   "HackerNews(4)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
