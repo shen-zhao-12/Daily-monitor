@@ -2,16 +2,16 @@
  "id": "2026-09-29-wubao",
  "title": "线口监测午报 · 2026年09月29日(周二)",
  "shift": "午报",
- "date": "2026-09-29 14:57",
+ "date": "2026-09-29 22:00",
  "docx": "../briefings/线口监测午报-2026-09-29.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "央视起底网贷诈骗新套路：利用 AI 批量拨号，两月上千人被骗、涉案流水超千万元",
-    "url": "https://www.ithome.com/1/008/284.htm",
+    "title": "赛豆科技 AIVA 首款量产车 ME7 全球首秀：提供纯电与增程版本",
+    "url": "https://www.ithome.com/1/008/470.htm",
     "source": "IT之家",
-    "time": "09-29 14:44",
+    "time": "09-29 20:26",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "麦肯锡：到 2035 年，约 1100 万美国劳动者或因 AI 替代岗位而需转行",
-    "url": "https://www.ithome.com/1/008/250.htm",
+    "title": "DeepSeek Harness 桌面端预览版 v0.2 发布，支持插件安装与自动化任务",
+    "url": "https://www.ithome.com/1/008/469.htm",
     "source": "IT之家",
-    "time": "09-29 14:26",
+    "time": "09-29 20:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -30,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "微软优化 Edge 浏览器：网页提示不乱跑、扩展 AI 智能体技能",
-    "url": "https://www.ithome.com/1/008/226.htm",
+    "title": "荣耀 Magic9 全系机型获首批“AI 智能体手机”入网认证",
+    "url": "https://www.ithome.com/1/008/465.htm",
     "source": "IT之家",
-    "time": "09-29 12:02",
+    "time": "09-29 19:46",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,10 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "华为 MatePad Air Z 平板开售：麒麟 T93SD 处理器、12 英寸 LCD 屏，叠加国补后到手价 2999 元起",
-    "url": "https://www.ithome.com/1/008/212.htm",
+    "title": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 将于 10 月 10 日正式上市，预售价 19.98 万元起",
+    "url": "https://www.ithome.com/1/008/446.htm",
     "source": "IT之家",
-    "time": "09-29 11:35",
+    "time": "09-29 19:28",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -52,10 +52,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "微软纳德拉：AI 行业“有点飘了”，呼吁回归用户需求",
-    "url": "https://www.ithome.com/1/008/179.htm",
+    "title": "荣耀 AI 耳夹耳机 FlyClip Pro 开售：国补价 389.7 元，续航 44 小时",
+    "url": "https://www.ithome.com/1/008/441.htm",
     "source": "IT之家",
-    "time": "09-29 11:21",
+    "time": "09-29 19:06",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -63,10 +63,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "三星系 6 家企业向 AI 基础设施公司 Helix 合计投资 10 亿美元",
-    "url": "https://www.ithome.com/1/008/149.htm",
+    "title": "EVGA 内部人士回顾与英伟达合作：公版显卡的出现导致 AIC 承压，曾亏本销售 MSRP 型号",
+    "url": "https://www.ithome.com/1/008/428.htm",
     "source": "IT之家",
-    "time": "09-29 10:55",
+    "time": "09-29 18:28",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -74,10 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 写作特征减少：Claude Opus 5.5 破折号使用量下降约 95%、分号下降 73%",
-    "url": "https://www.ithome.com/1/008/144.htm",
+    "title": "Meta 推出小型企业版 Muse 智能体：可分析 FB / IG 数据，兼容 Canva、Figma 和 Slack 等工具",
+    "url": "https://www.ithome.com/1/008/410.htm",
     "source": "IT之家",
-    "time": "09-29 10:42",
+    "time": "09-29 18:04",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -85,10 +85,43 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Anthropic IPO 招股书警示：AI 有可能造成人类灭绝",
-    "url": "https://www.ithome.com/1/008/132.htm",
-    "source": "IT之家",
-    "time": "09-29 10:16",
+    "title": "AI companies leak data to advertisers [pdf]",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "source": "Hacker News",
+    "time": "09-29 17:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜的底层生意经：终端火热，光峰科技等上游企业受益",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbc47332bb4f1eb77b17c4565b3055&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082201794_258613&c=6778976154575886948&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-29 14:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "把 AI 挂在钥匙扣上，把头显改成眼镜，让 Muse 帮你赚钱",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbc47332bb4f1eb77b17c4565b3055&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082217286_255990&c=7086519690046412615&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-29 14:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "专访Rokid副总裁蔡国祥：未来3年—5年AI眼镜有望成主流，只要不亏就先做探索",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbc47332bb4f1eb77b17c4565b3055&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2ft%2f2026-09-29%2fdoc-initnwnf2919627.shtml&c=11965455873840928374&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-29 11:33",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -129,17 +162,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "徐作为：从U盘到AI眼镜，以自主创新挺起中国智造脊梁",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25BE%2590%25E4%25BD%259C%25E4%25B8%25BA-%25E4%25BB%258Eu%25E7%259B%2598%25E5%2588%25B0ai%25E7%259C%25BC%25E9%2595%259C-%25E4%25BB%25A5%25E8%2587%25AA%25E4%25B8%25BB%25E5%2588%259B%25E6%2596%25B0%25E6%258C%25BA%25E8%25B5%25B7%25E4%25B8%25AD%25E5%259B%25BD%25E6%2599%25BA%25E9%2580%25A0%25E8%2584%258A%25E6%25A2%2581%2far-AA2daxSj&c=467445705863117385&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-29 05:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
     "url": "https://github.com/firelex/jeff",
     "source": "Hacker News",
@@ -151,41 +173,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "It's Time to Investigate the AI Labs",
-    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-    "source": "Hacker News",
-    "time": "09-29 03:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-    "source": "Hacker News",
-    "time": "09-28 23:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Omdia：2026年上半年全球AI眼镜出货量增长超一倍，创下420万副的历史新高",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081926068_114872&c=3430180606598199454&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-28 22:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "全球AI眼镜2025年出货量达870万台 2026年有望突破千万台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609283885363452.html&c=10125584395176292574&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbc47332bb4f1eb77b17c4565b3055&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609283885363452.html&c=10125584395176292574&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-28 21:06",
     "summary": "",
@@ -195,19 +184,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "酷派推出 699 元 AI 智能眼镜：800W 像素摄像头，支持抖音直播、视频通话、在线翻译",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-28%2fdoc-initktny2902324.shtml&c=11898380745269330527&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-28 19:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜到底值不值?退货率高，下单前先看",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E5%25BA%2595%25E5%2580%25BC%25E4%25B8%258D%25E5%2580%25BC-%25E9%2580%2580%25E8%25B4%25A7%25E7%258E%2587%25E9%25AB%2598-%25E4%25B8%258B%25E5%258D%2595%25E5%2589%258D%25E5%2585%2588%25E7%259C%258B%2far-AA2d7PyV&c=11454415224452687158&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbc47332bb4f1eb77b17c4565b3055&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E5%25BA%2595%25E5%2580%25BC%25E4%25B8%258D%25E5%2580%25BC-%25E9%2580%2580%25E8%25B4%25A7%25E7%258E%2587%25E9%25AB%2598-%25E4%25B8%258B%25E5%258D%2595%25E5%2589%258D%25E5%2585%2588%25E7%259C%258B%2far-AA2d7PyV&c=11454415224452687158&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-28 13:22",
     "summary": "",
@@ -218,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI办公硬件新解法，大眼橙联手钉钉推出首款AI听记眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2ffinance.sina.com.cn%2ftjhz%2f2026-09-28%2fdoc-initkpex8545300.shtml&c=3904718965309185814&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbc47332bb4f1eb77b17c4565b3055&url=https%3a%2f%2ffinance.sina.com.cn%2ftjhz%2f2026-09-28%2fdoc-initkpex8545300.shtml&c=3904718965309185814&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-28 10:14",
     "summary": "",
@@ -241,23 +219,34 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "IDC：今年上半年全球人形机器人出货近 2.5 万台同比增长 432.1%，中国独占 1.9 万台",
-    "url": "https://www.ithome.com/1/008/202.htm",
+    "title": "奔赴南海科考，我国自主研发 4500 米级深海作业机器人启航",
+    "url": "https://www.ithome.com/1/008/485.htm",
     "source": "IT之家",
-    "time": "09-29 11:31",
+    "time": "09-29 21:29",
     "summary": "",
     "grade": "C",
     "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "深圳智能家居等购新补贴扩围至 10 类，含智能马桶、清洁机器人等",
+    "url": "https://www.ithome.com/1/008/379.htm",
+    "source": "IT之家",
+    "time": "09-29 16:53",
+    "summary": "",
+    "grade": "C",
+    "local": true,
     "angle": ""
    }
   ],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "LG Innotek 将用自动驾驶汽车为自动驾驶传感系统开发收集数据",
-    "url": "https://www.ithome.com/1/008/220.htm",
+    "title": "奇瑞 2027 款纵横 G700 车型上市：限时 30.49 万元起，搭载华为乾崑智驾 ADS 5",
+    "url": "https://www.ithome.com/1/008/477.htm",
     "source": "IT之家",
-    "time": "09-29 11:38",
+    "time": "09-29 20:39",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -268,10 +257,54 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "《巫师 3：狂猎重制版》游戏 PC 配置要求公布：正式停止支持微软 Win10",
-    "url": "https://www.ithome.com/1/008/238.htm",
+    "title": "Steam 新一周游戏销量榜：《EA SPORTS FC 27》反超《战狗》登顶",
+    "url": "https://www.ithome.com/1/008/486.htm",
     "source": "IT之家",
-    "time": "09-29 13:34",
+    "time": "09-29 21:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "iQOO 头戴电竞耳机发布：四模式低延迟连接，售价 699 元",
+    "url": "https://www.ithome.com/1/008/478.htm",
+    "source": "IT之家",
+    "time": "09-29 20:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "火影 T5A 2026 款游戏本发售：酷睿 i5-13420H + RTX 3050，5499 元起",
+    "url": "https://www.ithome.com/1/008/467.htm",
+    "source": "IT之家",
+    "time": "09-29 20:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《巫师 3：狂猎 — 重制版》游戏今日上线，原版玩家可免费升级",
+    "url": "https://www.ithome.com/1/008/427.htm",
+    "source": "IT之家",
+    "time": "09-29 18:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《控制：共振》游戏将新增“新游戏 ++”和拍照模式，预计下月上线",
+    "url": "https://www.ithome.com/1/008/398.htm",
+    "source": "IT之家",
+    "time": "09-29 17:32",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -283,17 +316,6 @@
     "url": "http://www.gamelook.com.cn/2026/09/603191/",
     "source": "GameLook",
     "time": "09-29 12:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "暴雪《风暴英雄》游戏时隔 6 年迎第 91 位英雄萨拉塔斯，暗示第 92 位已在路上",
-    "url": "https://www.ithome.com/1/008/221.htm",
-    "source": "IT之家",
-    "time": "09-29 11:43",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -322,37 +344,14 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": [
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "全新华为 WATCH D3 腕部动态血压记录仪开售：动态血压监测、一键微体检，国补价 2539.8 元起",
-    "url": "https://www.ithome.com/1/008/224.htm",
-    "source": "IT之家",
-    "time": "09-29 12:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "沃尔玛 CEO 弗纳承诺：不会根据消费者收入、购物记录等个人信息动态定价",
-    "url": "https://www.ithome.com/1/008/213.htm",
-    "source": "IT之家",
-    "time": "09-29 11:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ]
+  "消费/以旧换新/新餐饮": []
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(4)",
+   "HackerNews(5)",
    "Bing新闻(6)"
   ],
   "fail": [
