@@ -1,0 +1,362 @@
+{
+ "id": "2026-09-29-wubao",
+ "title": "线口监测午报 · 2026年09月29日(周二)",
+ "shift": "午报",
+ "date": "2026-09-29 13:47",
+ "docx": "../briefings/线口监测午报-2026-09-29.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软优化 Edge 浏览器：网页提示不乱跑、扩展 AI 智能体技能",
+    "url": "https://www.ithome.com/1/008/226.htm",
+    "source": "IT之家",
+    "time": "09-29 12:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为 MatePad Air Z 平板开售：麒麟 T93SD 处理器、12 英寸 LCD 屏，叠加国补后到手价 2999 元起",
+    "url": "https://www.ithome.com/1/008/212.htm",
+    "source": "IT之家",
+    "time": "09-29 11:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软纳德拉：AI 行业“有点飘了”，呼吁回归用户需求",
+    "url": "https://www.ithome.com/1/008/179.htm",
+    "source": "IT之家",
+    "time": "09-29 11:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三星系 6 家企业向 AI 基础设施公司 Helix 合计投资 10 亿美元",
+    "url": "https://www.ithome.com/1/008/149.htm",
+    "source": "IT之家",
+    "time": "09-29 10:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 写作特征减少：Claude Opus 5.5 破折号使用量下降约 95%、分号下降 73%",
+    "url": "https://www.ithome.com/1/008/144.htm",
+    "source": "IT之家",
+    "time": "09-29 10:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic IPO 招股书警示：AI 有可能造成人类灭绝",
+    "url": "https://www.ithome.com/1/008/132.htm",
+    "source": "IT之家",
+    "time": "09-29 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "米哈游李嫣然：《星布谷地》AI NPC如何靠“活人感”俘获玩家？",
+    "url": "http://www.gamelook.com.cn/2026/09/603169/",
+    "source": "GameLook",
+    "time": "09-29 10:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "字节“AI修仙游戏”开卖！小师妹颜值拉满、19元诚意价，为何叫好不叫座？",
+    "url": "http://www.gamelook.com.cn/2026/09/603120/",
+    "source": "GameLook",
+    "time": "09-29 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "米哈游AI大佬揭秘：会说话的NPC与会做游戏的Agent，《崩坏》先行一步？",
+    "url": "http://www.gamelook.com.cn/2026/09/603104/",
+    "source": "GameLook",
+    "time": "09-29 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 将提供资金并成立工作组，以解决模型入侵澳大利亚政府网站事件",
+    "url": "https://www.ithome.com/1/008/118.htm",
+    "source": "IT之家",
+    "time": "09-29 09:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软报告：全球劳动年龄人口 AI 采用率 2026Q2 达 18.8%，环比增长 1%",
+    "url": "https://www.ithome.com/1/008/115.htm",
+    "source": "IT之家",
+    "time": "09-29 09:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "url": "https://github.com/firelex/jeff",
+    "source": "Hacker News",
+    "time": "09-29 04:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "It's Time to Investigate the AI Labs",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "source": "Hacker News",
+    "time": "09-29 03:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "影目Air3被召回，智能眼镜迎来散热大考",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2foptics.ofweek.com%2f2026-09%2fART-250003-8420-30705106.html&c=6603973176158968390&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-29 02:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "source": "Hacker News",
+    "time": "09-28 23:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新机：华为Mate90正面长这样；一加16发布会定了；荣耀MagicPad 4发布；酷派发布699元的AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260928A0C4LT00%3fadChannelId%3dtech&c=5553749974913207903&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 22:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球AI眼镜2025年出货量达870万台 2026年有望突破千万台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609283885363452.html&c=10125584395176292574&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 21:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "酷派推出 699 元 AI 智能眼镜：800W 像素摄像头，支持抖音直播、视频通话、在线翻译",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-28%2fdoc-initktny2902324.shtml&c=11898380745269330527&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 19:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta数据泄露事件半年复盘：中国AI眼镜企业学到了什么？_品牌_用户_Sama",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081820019_122975633&c=3492029052667336828&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 17:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜可信视界自律公约深度解读：三大支柱十五条义务，签署企业怎么做？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081811346_122975633&c=9336023725229346430&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 16:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜到底值不值?退货率高，下单前先看",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E5%25BA%2595%25E5%2580%25BC%25E4%25B8%258D%25E5%2580%25BC-%25E9%2580%2580%25E8%25B4%25A7%25E7%258E%2587%25E9%25AB%2598-%25E4%25B8%258B%25E5%258D%2595%25E5%2589%258D%25E5%2585%2588%25E7%259C%258B%2far-AA2d7PyV&c=11454415224452687158&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 13:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "IDC：今年上半年全球人形机器人出货近 2.5 万台同比增长 432.1%，中国独占 1.9 万台",
+    "url": "https://www.ithome.com/1/008/202.htm",
+    "source": "IT之家",
+    "time": "09-29 11:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "LG Innotek 将用自动驾驶汽车为自动驾驶传感系统开发收集数据",
+    "url": "https://www.ithome.com/1/008/220.htm",
+    "source": "IT之家",
+    "time": "09-29 11:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《巫师 3：狂猎重制版》游戏 PC 配置要求公布：正式停止支持微软 Win10",
+    "url": "https://www.ithome.com/1/008/238.htm",
+    "source": "IT之家",
+    "time": "09-29 13:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "必火无疑！Steam预约破250万人、全球第3，《亲爱的乘客》是什么奇葩游戏",
+    "url": "http://www.gamelook.com.cn/2026/09/603191/",
+    "source": "GameLook",
+    "time": "09-29 12:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "暴雪《风暴英雄》游戏时隔 6 年迎第 91 位英雄萨拉塔斯，暗示第 92 位已在路上",
+    "url": "https://www.ithome.com/1/008/221.htm",
+    "source": "IT之家",
+    "time": "09-29 11:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯又投资休闲手游公司：土耳其Circle Games喜获2500万美元巨额融资",
+    "url": "http://www.gamelook.com.cn/2026/09/603099/",
+    "source": "GameLook",
+    "time": "09-29 09:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "求职中游戏人发问：“不开工资、给游戏收入分红的工作是骗人么？”，引同行热议",
+    "url": "http://www.gamelook.com.cn/2026/09/603094/",
+    "source": "GameLook",
+    "time": "09-29 09:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "全新华为 WATCH D3 腕部动态血压记录仪开售：动态血压监测、一键微体检，国补价 2539.8 元起",
+    "url": "https://www.ithome.com/1/008/224.htm",
+    "source": "IT之家",
+    "time": "09-29 12:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "沃尔玛 CEO 弗纳承诺：不会根据消费者收入、购物记录等个人信息动态定价",
+    "url": "https://www.ithome.com/1/008/213.htm",
+    "source": "IT之家",
+    "time": "09-29 11:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(5)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
