@@ -2,10 +2,32 @@
  "id": "2026-09-29-wubao",
  "title": "线口监测午报 · 2026年09月29日(周二)",
  "shift": "午报",
- "date": "2026-09-29 13:47",
+ "date": "2026-09-29 14:57",
  "docx": "../briefings/线口监测午报-2026-09-29.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "央视起底网贷诈骗新套路：利用 AI 批量拨号，两月上千人被骗、涉案流水超千万元",
+    "url": "https://www.ithome.com/1/008/284.htm",
+    "source": "IT之家",
+    "time": "09-29 14:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "麦肯锡：到 2035 年，约 1100 万美国劳动者或因 AI 替代岗位而需转行",
+    "url": "https://www.ithome.com/1/008/250.htm",
+    "source": "IT之家",
+    "time": "09-29 14:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "微软优化 Edge 浏览器：网页提示不乱跑、扩展 AI 智能体技能",
@@ -107,21 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenAI 将提供资金并成立工作组，以解决模型入侵澳大利亚政府网站事件",
-    "url": "https://www.ithome.com/1/008/118.htm",
-    "source": "IT之家",
-    "time": "09-29 09:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "微软报告：全球劳动年龄人口 AI 采用率 2026Q2 达 18.8%，环比增长 1%",
-    "url": "https://www.ithome.com/1/008/115.htm",
-    "source": "IT之家",
-    "time": "09-29 09:42",
+    "title": "徐作为：从U盘到AI眼镜，以自主创新挺起中国智造脊梁",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25BE%2590%25E4%25BD%259C%25E4%25B8%25BA-%25E4%25BB%258Eu%25E7%259B%2598%25E5%2588%25B0ai%25E7%259C%25BC%25E9%2595%259C-%25E4%25BB%25A5%25E8%2587%25AA%25E4%25B8%25BB%25E5%2588%259B%25E6%2596%25B0%25E6%258C%25BA%25E8%25B5%25B7%25E4%25B8%25AD%25E5%259B%25BD%25E6%2599%25BA%25E9%2580%25A0%25E8%2584%258A%25E6%25A2%2581%2far-AA2daxSj&c=467445705863117385&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-29 05:02",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,17 +162,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "影目Air3被召回，智能眼镜迎来散热大考",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2foptics.ofweek.com%2f2026-09%2fART-250003-8420-30705106.html&c=6603973176158968390&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-29 02:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Nvidia wants to put a watchdog chip next to every AI agent",
     "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
     "source": "Hacker News",
@@ -173,10 +173,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "新机：华为Mate90正面长这样；一加16发布会定了；荣耀MagicPad 4发布；酷派发布699元的AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260928A0C4LT00%3fadChannelId%3dtech&c=5553749974913207903&mkt=en-us",
+    "title": "Omdia：2026年上半年全球AI眼镜出货量增长超一倍，创下420万副的历史新高",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081926068_114872&c=3430180606598199454&mkt=en-us",
     "source": "Bing新闻",
-    "time": "09-28 22:59",
+    "time": "09-28 22:29",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -185,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "全球AI眼镜2025年出货量达870万台 2026年有望突破千万台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609283885363452.html&c=10125584395176292574&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609283885363452.html&c=10125584395176292574&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-28 21:06",
     "summary": "",
@@ -196,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "酷派推出 699 元 AI 智能眼镜：800W 像素摄像头，支持抖音直播、视频通话、在线翻译",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-28%2fdoc-initktny2902324.shtml&c=11898380745269330527&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-09-28%2fdoc-initktny2902324.shtml&c=11898380745269330527&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-28 19:59",
     "summary": "",
@@ -206,32 +206,32 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Meta数据泄露事件半年复盘：中国AI眼镜企业学到了什么？_品牌_用户_Sama",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081820019_122975633&c=3492029052667336828&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-28 17:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜可信视界自律公约深度解读：三大支柱十五条义务，签署企业怎么做？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081811346_122975633&c=9336023725229346430&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-28 16:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜到底值不值?退货率高，下单前先看",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb511e15954b4abffce6ad114ecc06&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E5%25BA%2595%25E5%2580%25BC%25E4%25B8%258D%25E5%2580%25BC-%25E9%2580%2580%25E8%25B4%25A7%25E7%258E%2587%25E9%25AB%2598-%25E4%25B8%258B%25E5%258D%2595%25E5%2589%258D%25E5%2585%2588%25E7%259C%258B%2far-AA2d7PyV&c=11454415224452687158&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E5%25BA%2595%25E5%2580%25BC%25E4%25B8%258D%25E5%2580%25BC-%25E9%2580%2580%25E8%25B4%25A7%25E7%258E%2587%25E9%25AB%2598-%25E4%25B8%258B%25E5%258D%2595%25E5%2589%258D%25E5%2585%2588%25E7%259C%258B%2far-AA2d7PyV&c=11454415224452687158&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-28 13:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI办公硬件新解法，大眼橙联手钉钉推出首款AI听记眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb6149e0044aeb981ffc804d49257e&url=https%3a%2f%2ffinance.sina.com.cn%2ftjhz%2f2026-09-28%2fdoc-initkpex8545300.shtml&c=3904718965309185814&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-28 10:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "30年经验老鸟：AI让研发提速5倍，“毫无成就感 ，只剩最耗心力工作、新人断档”",
+    "url": "http://www.gamelook.com.cn/2026/09/603042/",
+    "source": "GameLook",
+    "time": "09-28 09:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,8 +352,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(5)",
-   "Bing新闻(7)"
+   "HackerNews(4)",
+   "Bing新闻(6)"
   ],
   "fail": [
    "36氪(no entries)"
