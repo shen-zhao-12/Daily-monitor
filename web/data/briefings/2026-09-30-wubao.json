@@ -2,10 +2,21 @@
  "id": "2026-09-30-wubao",
  "title": "线口监测午报 · 2026年09月30日(周三)",
  "shift": "午报",
- "date": "2026-09-30 13:37",
+ "date": "2026-09-30 14:45",
  "docx": "../briefings/线口监测午报-2026-09-30.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软推出实验性多模态 AI 研究系统 Project Quine，有望大幅加速药物发现",
+    "url": "https://www.ithome.com/1/008/704.htm",
+    "source": "IT之家",
+    "time": "09-30 14:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "Fairphone 预告 TWS 耳机 Fairbuds 2，延续模块化可维修设计",
@@ -173,10 +184,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "研扬推出无风扇 \"Panther Lake\" 迷你主机，内置 Frore AirJet 超声波振膜主动散热",
-    "url": "https://www.ithome.com/1/008/576.htm",
-    "source": "IT之家",
-    "time": "09-30 08:53",
+    "title": "AI眼镜的“iPhone时刻”，还有多远？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abcb018654949a7a24f00d04f84739a&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34171618&c=11362498967319580173&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-30 07:45",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -184,21 +195,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenAI CEO 奥尔特曼谈上市：需先做好 AI 安全承诺，暂无明确时间表",
-    "url": "https://www.ithome.com/1/008/575.htm",
-    "source": "IT之家",
-    "time": "09-30 08:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 奥尔特曼：AI 的影响将超过工业革命，当下是进入就业市场的最佳时机",
-    "url": "https://www.ithome.com/1/008/574.htm",
-    "source": "IT之家",
-    "time": "09-30 08:37",
+    "title": "Meta携手Naver，年末为AI眼镜上线Naver地图免手持步行导航",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abcb018654949a7a24f00d04f84739a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082445754_447547&c=10919747955691839107&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-30 01:47",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -207,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜遭遇“散热”拷问：头部品牌被曝长时间使用存在过热烫伤风险，海外已启动召回",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abca01f75aa49bba3051bfe9e27e4b3&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2581%25AD%25E9%2581%2587-%25E6%2595%25A3%25E7%2583%25AD-%25E6%258B%25B7%25E9%2597%25AE-%25E5%25A4%25B4%25E9%2583%25A8%25E5%2593%2581%25E7%2589%258C%25E8%25A2%25AB%25E6%259B%259D%25E9%2595%25BF%25E6%2597%25B6%25E9%2597%25B4%25E4%25BD%25BF%25E7%2594%25A8%25E5%25AD%2598%25E5%259C%25A8%25E8%25BF%2587%25E7%2583%25AD%25E7%2583%25AB%25E4%25BC%25A4%25E9%25A3%258E%25E9%2599%25A9-%25E6%25B5%25B7%25E5%25A4%2596%25E5%25B7%25B2%25E5%2590%25AF%25E5%258A%25A8%25E5%258F%25AC%25E5%259B%259E%2far-AA2deasv&c=14814959315296514676&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abcb018654949a7a24f00d04f84739a&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2581%25AD%25E9%2581%2587-%25E6%2595%25A3%25E7%2583%25AD-%25E6%258B%25B7%25E9%2597%25AE-%25E5%25A4%25B4%25E9%2583%25A8%25E5%2593%2581%25E7%2589%258C%25E8%25A2%25AB%25E6%259B%259D%25E9%2595%25BF%25E6%2597%25B6%25E9%2597%25B4%25E4%25BD%25BF%25E7%2594%25A8%25E5%25AD%2598%25E5%259C%25A8%25E8%25BF%2587%25E7%2583%25AD%25E7%2583%25AB%25E4%25BC%25A4%25E9%25A3%258E%25E9%2599%25A9-%25E6%25B5%25B7%25E5%25A4%2596%25E5%25B7%25B2%25E5%2590%25AF%25E5%258A%25A8%25E5%258F%25AC%25E5%259B%259E%2far-AA2deasv&c=14814959315296514676&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-30 01:00",
     "summary": "",
@@ -218,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "“可能造成严重烫伤，甚至可能导致死亡”，AI眼镜头部品牌海外启动召回",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abca01f75aa49bba3051bfe9e27e4b3&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-30%2fdoc-initqkpm2268298.shtml&c=12801605298884309473&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abcb018654949a7a24f00d04f84739a&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-30%2fdoc-initqkpm2268298.shtml&c=12801605298884309473&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-29 21:31",
     "summary": "",
@@ -254,6 +254,17 @@
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
+    "title": "R 星剧透《GTA 6》更多玩法：玩家能打网约车、刷 SNS、健身……",
+    "url": "https://www.ithome.com/1/008/700.htm",
+    "source": "IT之家",
+    "time": "09-30 13:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
     "title": "鸿蒙智行问界新 M8 开启预售：华为乾崑智驾 ADS 5、面向未来的 L3 架构设计，38.98 万元起",
     "url": "https://www.ithome.com/1/008/605.htm",
     "source": "IT之家",
@@ -266,6 +277,17 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "玩手机就能轻松赚钱？央视起底“游戏测试”兼职黑灰产业链，上百年轻人被骗",
+    "url": "https://www.ithome.com/1/008/736.htm",
+    "source": "IT之家",
+    "time": "09-30 14:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "10年独游老兵暴论：“游戏本身已不重要”！同行吵翻天：“发行商狗眼看人低”？",
@@ -309,28 +331,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "微星流光 X32 MAG 271QPX32 OLED 显示器体验：新面板 + 旗舰调校，电竞玩家新选择",
-    "url": "https://www.ithome.com/1/008/583.htm",
-    "source": "IT之家",
-    "time": "09-30 09:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "拳头游戏虚拟乐团“真实伤害”回归，演唱 2026 英雄联盟全球总决赛主题曲",
-    "url": "https://www.ithome.com/1/008/577.htm",
-    "source": "IT之家",
-    "time": "09-30 08:56",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -353,7 +353,7 @@
    "IT之家(60)",
    "GameLook(14)",
    "HackerNews(3)",
-   "Bing新闻(6)"
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
