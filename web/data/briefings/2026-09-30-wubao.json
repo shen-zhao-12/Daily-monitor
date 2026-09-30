@@ -2,10 +2,21 @@
  "id": "2026-09-30-wubao",
  "title": "线口监测午报 · 2026年09月30日(周三)",
  "shift": "午报",
- "date": "2026-09-30 21:36",
+ "date": "2026-09-30 22:52",
  "docx": "../briefings/线口监测午报-2026-09-30.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "曝美国联邦贸易委员会对 Anthropic、OpenAI 及其他 AI 实验室加大调查力度",
+    "url": "https://www.ithome.com/1/008/924.htm",
+    "source": "IT之家",
+    "time": "09-30 22:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "新加坡一男子用 AI 生成鳄鱼侵袭水库照片被起诉，最高或面临 10 年监禁 +1 万新币罚款",
@@ -74,32 +85,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenClaw Enterprise 官宣：为智能体提供企业级安全与控制功能",
-    "url": "https://www.ithome.com/1/008/774.htm",
-    "source": "IT之家",
-    "time": "09-30 15:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称豆包 AI 个人助手产品叫作“小豆”，计划推出独立 App",
-    "url": "https://www.ithome.com/1/008/773.htm",
-    "source": "IT之家",
-    "time": "09-30 15:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "LG 与微软合作研发智能家居 AI 语音助手，号称可实现流畅自然语音交流",
-    "url": "https://www.ithome.com/1/008/770.htm",
-    "source": "IT之家",
-    "time": "09-30 15:38",
+    "title": "“可能造成严重烫伤，甚至可能导致死亡”，AI眼镜头部品牌海外启动召回",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2249a19c45569cf18e47a501106d&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-30%2fdoc-initqkpm2268298.shtml&c=12801605298884309473&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-30 11:31",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -140,19 +129,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜遭遇“散热”拷问：头部品牌被曝长时间使用存在过热烫伤风险，海外已启动召回",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd106687b84a218f66dc811db218bc&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-09-30%2fdoc-initqeff7165578.shtml&c=5885527086864461461&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-30 09:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜的“iPhone时刻”，还有多远？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd106687b84a218f66dc811db218bc&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34171618&c=11362498967319580173&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2249a19c45569cf18e47a501106d&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34171618&c=11362498967319580173&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-30 07:59",
     "summary": "",
@@ -162,19 +140,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI硬件迎来“寒武纪”，百度智能云如何卡位？｜高管访谈",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd106687b84a218f66dc811db218bc&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34181006&c=682964218184925276&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "09-30 07:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "“可能造成严重烫伤甚至死亡”，某AI眼镜品牌海外启动召回",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd106687b84a218f66dc811db218bc&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082725412_115635&c=10090900330581545999&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2249a19c45569cf18e47a501106d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082725412_115635&c=10090900330581545999&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-30 02:03",
     "summary": "",
@@ -184,8 +151,30 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI眼镜遭遇“散热”拷问：头部品牌被曝长时间使用存在过热烫伤风险，海外已启动召回",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2249a19c45569cf18e47a501106d&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2581%25AD%25E9%2581%2587-%25E6%2595%25A3%25E7%2583%25AD-%25E6%258B%25B7%25E9%2597%25AE-%25E5%25A4%25B4%25E9%2583%25A8%25E5%2593%2581%25E7%2589%258C%25E8%25A2%25AB%25E6%259B%259D%25E9%2595%25BF%25E6%2597%25B6%25E9%2597%25B4%25E4%25BD%25BF%25E7%2594%25A8%25E5%25AD%2598%25E5%259C%25A8%25E8%25BF%2587%25E7%2583%25AD%25E7%2583%25AB%25E4%25BC%25A4%25E9%25A3%258E%25E9%2599%25A9-%25E6%25B5%25B7%25E5%25A4%2596%25E5%25B7%25B2%25E5%2590%25AF%25E5%258A%25A8%25E5%258F%25AC%25E5%259B%259E%2far-AA2deasv&c=14814959315296514676&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-30 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "镜腿异常升温或存烫伤风险！AI眼镜海外启动召回，影目回应",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd106687b84a218f66dc811db218bc&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609303887701649.html&c=10758489437377646321&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2249a19c45569cf18e47a501106d&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609303887701649.html&c=10758489437377646321&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "09-30 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI硬件迎来“寒武纪”，百度智能云如何卡位？｜高管访谈",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2249a19c45569cf18e47a501106d&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609303887760517.html&c=17191504050215797414&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-30 01:00",
     "summary": "",
@@ -210,6 +199,39 @@
    }
   ],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《英雄不再》系列游戏开发商草蜢工作室宣布脱离网易，独立运营",
+    "url": "https://www.ithome.com/1/008/932.htm",
+    "source": "IT之家",
+    "time": "09-30 22:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中国队夺得《第五人格》金牌，穆欣月成首位亚运电竞女子冠军",
+    "url": "https://www.ithome.com/1/008/922.htm",
+    "source": "IT之家",
+    "time": "09-30 22:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《红色沙漠》游戏首个 DLC《未知征途》跳票两周，10 月 30 日见",
+    "url": "https://www.ithome.com/1/008/921.htm",
+    "source": "IT之家",
+    "time": "09-30 22:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "联想推出拯救者 R9 68 键磁轴电竞键盘：8KHz 轮询率，999 元",
@@ -249,28 +271,6 @@
     "url": "https://www.ithome.com/1/008/860.htm",
     "source": "IT之家",
     "time": "09-30 18:03",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "铭凡推出新款原子侠 G1 PRO 游戏迷你主机：换用 Radeon RX 9060 XT 显卡，1759 美元",
-    "url": "https://www.ithome.com/1/008/784.htm",
-    "source": "IT之家",
-    "time": "09-30 16:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "索尼 PS Store 无意间曝光《GTA6》游戏分级：PEGI 18",
-    "url": "https://www.ithome.com/1/008/778.htm",
-    "source": "IT之家",
-    "time": "09-30 16:01",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,7 +352,7 @@
    "IT之家(60)",
    "GameLook(14)",
    "HackerNews(5)",
-   "Bing新闻(7)"
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
