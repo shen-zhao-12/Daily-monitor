@@ -2,7 +2,7 @@
  "id": "2026-10-01-wubao",
  "title": "线口监测午报 · 2026年10月01日(周四)",
  "shift": "午报",
- "date": "2026-10-01 22:24",
+ "date": "2026-10-01 23:23",
  "docx": "../briefings/线口监测午报-2026-10-01.docx",
  "sections": {
   "AI/大模型": [
@@ -12,6 +12,17 @@
     "url": "https://www.ithome.com/1/009/161.htm",
     "source": "IT之家",
     "time": "10-01 22:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "source": "Hacker News",
+    "time": "10-01 21:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -118,10 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "美光科技 CEO 梅赫罗特拉：目前已锁定约 1500 亿美元长期订单，AI 存储需求紧张",
-    "url": "https://www.ithome.com/1/009/079.htm",
-    "source": "IT之家",
-    "time": "10-01 15:25",
+    "title": "AI眼镜爆发前夜！Meta官宣Muse代理即将接入Ray-Ban Meta 2026款，语音一唤，世界秒变操作台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe7ae7978745289ae0dab35d840010&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083184510_122066679&c=15560327213855609092&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-01 09:29",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -140,19 +151,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "三星AI眼镜11月发布，能否撼动Meta市场地位？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6d3bfca5451e8345c0509c4cae58&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083119300_122066678&c=18263888335943467728&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-01 02:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "高通：智能眼镜将领跑AI可穿戴市场，AI别针与吊坠紧随其后",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6d3bfca5451e8345c0509c4cae58&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082912404_447547&c=17490136719487551876&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe7ae7978745289ae0dab35d840010&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082912404_447547&c=17490136719487551876&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-01 01:27",
     "summary": "",
@@ -163,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "“可能造成严重烫伤，甚至可能导致死亡”，AI眼镜头部品牌海外启动召回",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6d3bfca5451e8345c0509c4cae58&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-30%2fdoc-initqkpm2268298.shtml&c=12801605298884309473&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe7ae7978745289ae0dab35d840010&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-09-30%2fdoc-initqkpm2268298.shtml&c=12801605298884309473&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-30 11:31",
     "summary": "",
@@ -207,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜的“iPhone时刻”，还有多远？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6d3bfca5451e8345c0509c4cae58&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34171618&c=11362498967319580173&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe7ae7978745289ae0dab35d840010&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34171618&c=11362498967319580173&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-30 07:59",
     "summary": "",
@@ -218,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜遭遇“散热”拷问：头部品牌被曝长时间使用存在过热烫伤风险，海外已启动召回",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6d3bfca5451e8345c0509c4cae58&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2581%25AD%25E9%2581%2587-%25E6%2595%25A3%25E7%2583%25AD-%25E6%258B%25B7%25E9%2597%25AE-%25E5%25A4%25B4%25E9%2583%25A8%25E5%2593%2581%25E7%2589%258C%25E8%25A2%25AB%25E6%259B%259D%25E9%2595%25BF%25E6%2597%25B6%25E9%2597%25B4%25E4%25BD%25BF%25E7%2594%25A8%25E5%25AD%2598%25E5%259C%25A8%25E8%25BF%2587%25E7%2583%25AD%25E7%2583%25AB%25E4%25BC%25A4%25E9%25A3%258E%25E9%2599%25A9-%25E6%25B5%25B7%25E5%25A4%2596%25E5%25B7%25B2%25E5%2590%25AF%25E5%258A%25A8%25E5%258F%25AC%25E5%259B%259E%2far-AA2deasv&c=14814959315296514676&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe7ae7978745289ae0dab35d840010&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2581%25AD%25E9%2581%2587-%25E6%2595%25A3%25E7%2583%25AD-%25E6%258B%25B7%25E9%2597%25AE-%25E5%25A4%25B4%25E9%2583%25A8%25E5%2593%2581%25E7%2589%258C%25E8%25A2%25AB%25E6%259B%259D%25E9%2595%25BF%25E6%2597%25B6%25E9%2597%25B4%25E4%25BD%25BF%25E7%2594%25A8%25E5%25AD%2598%25E5%259C%25A8%25E8%25BF%2587%25E7%2583%25AD%25E7%2583%25AB%25E4%25BC%25A4%25E9%25A3%258E%25E9%2599%25A9-%25E6%25B5%25B7%25E5%25A4%2596%25E5%25B7%25B2%25E5%2590%25AF%25E5%258A%25A8%25E5%258F%25AC%25E5%259B%259E%2far-AA2deasv&c=14814959315296514676&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-30 01:00",
     "summary": "",
@@ -229,7 +229,7 @@
    {
     "beat": "AI/大模型",
     "title": "镜腿异常升温或存烫伤风险！AI眼镜海外启动召回，影目回应",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6d3bfca5451e8345c0509c4cae58&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609303887701649.html&c=10758489437377646321&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe7ae7978745289ae0dab35d840010&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609303887701649.html&c=10758489437377646321&mkt=en-us",
     "source": "Bing新闻",
     "time": "09-30 01:00",
     "summary": "",
@@ -350,7 +350,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(4)",
+   "HackerNews(5)",
    "Bing新闻(6)"
   ],
   "fail": [
