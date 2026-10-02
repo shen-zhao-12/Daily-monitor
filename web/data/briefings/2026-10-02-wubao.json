@@ -2,7 +2,7 @@
  "id": "2026-10-02-wubao",
  "title": "线口监测午报 · 2026年10月02日(周五)",
  "shift": "午报",
- "date": "2026-10-02 21:47",
+ "date": "2026-10-02 22:41",
  "docx": "../briefings/线口监测午报-2026-10-02.docx",
  "sections": {
   "AI/大模型": [
@@ -64,7 +64,7 @@
    {
     "beat": "AI/大模型",
     "title": "75岁王石再战房地产；零跑实现连续三个月月销超10万台；Meta计划未来几个月把AI代理Muse接入AI眼镜丨邦早报",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfb609ef8c41a2be105cb08e584736&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083284037_403354&c=10824622977826671101&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfc2a284424102af1d764361f5a9c6&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083284037_403354&c=10824622977826671101&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-02 11:02",
     "summary": "",
@@ -75,7 +75,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI赋能溪口文旅 科技点亮国庆假期",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfb609ef8c41a2be105cb08e584736&url=https%3a%2f%2fnb.ifeng.com%2fc%2f8wsQlUTad0e&c=8985696828651240895&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfc2a284424102af1d764361f5a9c6&url=https%3a%2f%2fnb.ifeng.com%2fc%2f8wsQlUTad0e&c=8985696828651240895&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-02 08:20",
     "summary": "",
@@ -85,8 +85,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "空手来、满箱走：AI眼镜热销洞见“未来感”深圳",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfc2a284424102af1d764361f5a9c6&url=https%3a%2f%2fwww.ctdsb.net%2fc1716_202610%2f2871001.html&c=13567518106967590755&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 06:28",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "极米MemoMind One AI眼镜明日线下首发",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfb609ef8c41a2be105cb08e584736&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f8%2f6729946.html&c=14928507072874660517&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfc2a284424102af1d764361f5a9c6&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f8%2f6729946.html&c=14928507072874660517&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-02 02:32",
     "summary": "",
@@ -108,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜爆发前夜！Meta官宣Muse代理即将接入Ray-Ban Meta 2026款，语音一唤，世界秒变操作台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfb609ef8c41a2be105cb08e584736&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083184510_122066679&c=15560327213855609092&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfc2a284424102af1d764361f5a9c6&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083184510_122066679&c=15560327213855609092&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-01 23:29",
     "summary": "",
@@ -192,6 +203,17 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
+    "title": "乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%",
+    "url": "https://www.ithome.com/1/009/366.htm",
+    "source": "IT之家",
+    "time": "10-02 22:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
     "title": "HKC“神盾 25Q360B”24.5 英寸显示器发售：2K 360Hz QD-Mini LED，2221 元（国补后 1999 元）",
     "url": "https://www.ithome.com/1/009/358.htm",
     "source": "IT之家",
@@ -209,7 +231,7 @@
    "IT之家(60)",
    "GameLook(0)",
    "HackerNews(8)",
-   "Bing新闻(5)"
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
