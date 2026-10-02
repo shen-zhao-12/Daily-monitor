@@ -2,10 +2,32 @@
  "id": "2026-10-02-wubao",
  "title": "线口监测午报 · 2026年10月02日(周五)",
  "shift": "午报",
- "date": "2026-10-02 13:44",
+ "date": "2026-10-02 15:01",
  "docx": "../briefings/线口监测午报-2026-10-02.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "AI 灌水稿激增：预印本平台 arXiv 出台新规，每人每月限投 2 篇",
+    "url": "https://www.ithome.com/1/009/279.htm",
+    "source": "IT之家",
+    "time": "10-02 14:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "影目科技回应 INMO AIR3 智能眼镜海外版过热：与部分第三方应用有关、已全部下架，国内版不受相关影响",
+    "url": "https://www.ithome.com/1/009/277.htm",
+    "source": "IT之家",
+    "time": "10-02 14:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "填充 AI 资金弹药：曝 OpenAI 融资再落袋 200 亿美元，英伟达、软银和亚马逊已出资约 90%",
@@ -74,61 +96,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "英伟达黄仁勋将出席：微软预热本月 Surface 发布会，聚焦本地 AI 重塑下一代 PC",
-    "url": "https://www.ithome.com/1/009/212.htm",
-    "source": "IT之家",
-    "time": "10-02 08:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "索尼 PlayStation 为标准版 PS5 游戏主机带来轻量级 AI 超分辨率技术 QSSR",
-    "url": "https://www.ithome.com/1/009/210.htm",
-    "source": "IT之家",
-    "time": "10-02 08:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录视频、仅推送文本提醒",
-    "url": "https://www.ithome.com/1/009/208.htm",
-    "source": "IT之家",
-    "time": "10-02 08:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "古尔曼：苹果首款智能家居中枢支持 AI 面部识别，为家人切换呈现专属内容",
-    "url": "https://www.ithome.com/1/009/206.htm",
-    "source": "IT之家",
-    "time": "10-02 08:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
-    "url": "https://www.ithome.com/1/009/204.htm",
-    "source": "IT之家",
-    "time": "10-02 08:06",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Vote on which of Hacker News' challenges for AI have been met",
     "url": "https://stoppels.ch/goalposts/",
     "source": "Hacker News",
@@ -141,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜爆发前夜！Meta官宣Muse代理即将接入Ray-Ban Meta 2026款，语音一唤，世界秒变操作台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf44ba58434cfdbf03603322e4a7b2&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083184510_122066679&c=15560327213855609092&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf56f1a6b345229fdf7c5a4000e190&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083184510_122066679&c=15560327213855609092&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-01 23:29",
     "summary": "",
@@ -152,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "75岁王石再战房地产；零跑实现连续三个月月销超10万台；Meta计划未来几个月把AI代理Muse接入AI眼镜丨邦早报",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf44ba58434cfdbf03603322e4a7b2&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083284037_403354&c=10824622977826671101&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf56f1a6b345229fdf7c5a4000e190&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083284037_403354&c=10824622977826671101&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-01 21:01",
     "summary": "",
@@ -161,10 +128,33 @@
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "加州通过新法：Robotaxi 阻碍警察或消防任务将面临罚款",
+    "url": "https://www.ithome.com/1/009/278.htm",
+    "source": "IT之家",
+    "time": "10-02 14:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英特尔 Arc 显卡驱动 32.0.101.9034 Beta 版发布：支持《战争机器：事变日》游戏",
+    "url": "https://www.ithome.com/1/009/245.htm",
+    "source": "IT之家",
+    "time": "10-02 14:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "金刚狼限量版 PS5 Slim 游戏主机拆解：索尼升级主板、优化散热、引入可更换 CR2032 电池",
