@@ -2,7 +2,7 @@
  "id": "2026-10-03-wubao",
  "title": "线口监测午报 · 2026年10月03日(周六)",
  "shift": "午报",
- "date": "2026-10-03 20:27",
+ "date": "2026-10-03 21:18",
  "docx": "../briefings/线口监测午报-2026-10-03.docx",
  "sections": {
   "AI/大模型": [
@@ -75,9 +75,9 @@
    {
     "beat": "AI/大模型",
     "title": "空手来、满箱走：AI眼镜热销洞见“未来感”深圳",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0f4b2233a4c31b41600f0d7908acd&url=https%3a%2f%2fwww.xinhuanet.com%2f20261003%2f8150c1160e4b41d5a952e7641f39d984%2fc.html&c=12482291935549897898&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac100974da147e2af6b13a28d170454&url=https%3a%2f%2fwww.stdaily.com%2fweb%2fgdxw%2f2026-10%2f03%2fcontent_591590.html&c=270306694378537511&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-03 01:00",
+    "time": "10-03 14:06",
     "summary": "",
     "grade": "C",
     "local": true,
@@ -86,7 +86,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜一年暴涨453% 华为、小米集体入局 下一代智能形态是它么",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0f4b2233a4c31b41600f0d7908acd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083474382_380810&c=3752574301363701856&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac100974da147e2af6b13a28d170454&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083474382_380810&c=3752574301363701856&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-02 23:42",
     "summary": "",
@@ -97,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0f4b2233a4c31b41600f0d7908acd&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-02%2fdoc-initvyex1260840.shtml&c=4939471555979111197&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac100974da147e2af6b13a28d170454&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-02%2fdoc-initvyex1260840.shtml&c=4939471555979111197&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-02 22:38",
     "summary": "",
@@ -129,6 +129,17 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "极米记得 AI 显示眼镜 MemoMind One 明日登陆线下门店，开启定金预定",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac100974da147e2af6b13a28d170454&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-02%2fdoc-initviic4671061.shtml&c=1972783927922990868&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 16:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
     "url": "https://stillwet.art/",
     "source": "Hacker News",
@@ -140,19 +151,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "极米记得 AI 显示眼镜 MemoMind One 明日登陆线下门店",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0f4b2233a4c31b41600f0d7908acd&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E6%259E%2581%25E7%25B1%25B3%25E8%25AE%25B0%25E5%25BE%2597-ai-%25E6%2598%25BE%25E7%25A4%25BA%25E7%259C%25BC%25E9%2595%259C-memomind-one-%25E6%2598%258E%25E6%2597%25A5%25E7%2599%25BB%25E9%2599%2586%25E7%25BA%25BF%25E4%25B8%258B%25E9%2597%25A8%25E5%25BA%2597%2far-AA2dog19&c=15216995047530108664&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-02 08:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜爆发前夜！Meta官宣Muse代理即将接入Ray-Ban Meta 2026款，语音一唤，世界秒变操作台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0f4b2233a4c31b41600f0d7908acd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083184510_122066679&c=15560327213855609092&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac100974da147e2af6b13a28d170454&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083184510_122066679&c=15560327213855609092&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-01 23:29",
     "summary": "",
@@ -285,20 +285,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
    {
-    "beat": "游戏/电竞/平台公司",
-    "title": "华硕 ROG 八爪鱼 8 电竞无线路由器现身：规格类似上代，改进使用体验",
-    "url": "https://www.ithome.com/1/009/452.htm",
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "充电桩扫码充电暗藏“弹窗投保”陷阱，消费者莫名被扣款",
+    "url": "https://www.ithome.com/1/009/540.htm",
     "source": "IT之家",
-    "time": "10-03 14:38",
+    "time": "10-03 21:12",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "消费/以旧换新/新餐饮": [
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "泰坦军团推出“P326MV Ultra”31.5 英寸 4K 200Hz / FHD 400Hz 双模显示器：XDR 亮度 2200 尼特 + 双扬，3888 元（国补后 3499.2 元）",
