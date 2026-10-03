@@ -1,0 +1,284 @@
+{
+ "id": "2026-10-03-wubao",
+ "title": "线口监测午报 · 2026年10月03日(周六)",
+ "shift": "午报",
+ "date": "2026-10-03 13:22",
+ "docx": "../briefings/线口监测午报-2026-10-03.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 自研 AI 芯片 Jalapeño ASIC 量产部署，因“务实”选择搭配 AMD Turin",
+    "url": "https://www.ithome.com/1/009/430.htm",
+    "source": "IT之家",
+    "time": "10-03 12:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片",
+    "url": "https://www.ithome.com/1/009/407.htm",
+    "source": "IT之家",
+    "time": "10-03 10:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 披露：澳大利亚又一政府机构遭失控智能体入侵",
+    "url": "https://www.ithome.com/1/009/390.htm",
+    "source": "IT之家",
+    "time": "10-03 08:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
+    "url": "https://www.ithome.com/1/009/389.htm",
+    "source": "IT之家",
+    "time": "10-03 08:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 CEO 纳德拉重申 Copilot AI 定位：面向工作的新操作系统",
+    "url": "https://www.ithome.com/1/009/386.htm",
+    "source": "IT之家",
+    "time": "10-03 08:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 内部动荡加剧之际，又一名安全负责人戴维 · 罗宾逊离职",
+    "url": "https://www.ithome.com/1/009/385.htm",
+    "source": "IT之家",
+    "time": "10-03 08:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果收紧 macOS 27 等完全磁盘访问权限，降低 AI 智能体操控风险",
+    "url": "https://www.ithome.com/1/009/381.htm",
+    "source": "IT之家",
+    "time": "10-03 07:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 homeOS 前瞻：整合 iOS / iPadOS / watchOS 特性，主打 Siri AI 交互",
+    "url": "https://www.ithome.com/1/009/380.htm",
+    "source": "IT之家",
+    "time": "10-03 07:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”",
+    "url": "https://www.ithome.com/1/009/376.htm",
+    "source": "IT之家",
+    "time": "10-03 07:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta",
+    "url": "https://www.ithome.com/1/009/375.htm",
+    "source": "IT之家",
+    "time": "10-03 07:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "source": "Hacker News",
+    "time": "10-03 04:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜一年暴涨453% 华为、小米集体入局 下一代智能形态是它么",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac09130574e4384b4907be8a3832f1e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083474382_380810&c=3752574301363701856&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 23:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac09130574e4384b4907be8a3832f1e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-02%2fdoc-initvyex1260840.shtml&c=4939471555979111197&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 22:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "source": "Hacker News",
+    "time": "10-02 22:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Venice’s failed war against Constantinople led to the first bond market",
+    "url": "https://bigthink.com/books/a-fabulous-debt/",
+    "source": "Hacker News",
+    "time": "10-02 21:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "空手来、满箱走：AI眼镜热销洞见“未来感”深圳",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac09130574e4384b4907be8a3832f1e&url=http%3a%2f%2fwww.ce.cn%2fxwzx%2fgnsz%2f%2fgdxw%2f202610%2ft20261003_3247408.shtml&c=11538339075561665626&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 21:01",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极米MemoMind One AI眼镜明日线下首发",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac09130574e4384b4907be8a3832f1e&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f8%2f6729946.html&c=14928507072874660517&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 16:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极米记得 AI 显示眼镜 MemoMind One 明日登陆线下门店，开启定金预定",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac09130574e4384b4907be8a3832f1e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-02%2fdoc-initviic4671061.shtml&c=1972783927922990868&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 16:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "url": "https://stillwet.art/",
+    "source": "Hacker News",
+    "time": "10-02 08:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜爆发前夜！Meta官宣Muse代理即将接入Ray-Ban Meta 2026款，语音一唤，世界秒变操作台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac09130574e4384b4907be8a3832f1e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083184510_122066679&c=15560327213855609092&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-01 23:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "曝美国陆军着手组建自主系统司令部，推动机器人进入技术未来战争",
+    "url": "https://www.ithome.com/1/009/427.htm",
+    "source": "IT之家",
+    "time": "10-03 12:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为乾崑智驾累计辅助驾驶里程突破 160 亿公里",
+    "url": "https://www.ithome.com/1/009/406.htm",
+    "source": "IT之家",
+    "time": "10-03 10:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "曝索尼重启《捉猴啦》，沉寂 16 年经典游戏 IP 有望回归",
+    "url": "https://www.ithome.com/1/009/397.htm",
+    "source": "IT之家",
+    "time": "10-03 09:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(7)",
+   "Bing新闻(6)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
