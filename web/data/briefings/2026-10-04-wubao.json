@@ -1,0 +1,340 @@
+{
+ "id": "2026-10-04-wubao",
+ "title": "线口监测午报 · 2026年10月04日(周日)",
+ "shift": "午报",
+ "date": "2026-10-04 13:58",
+ "docx": "../briefings/线口监测午报-2026-10-04.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI GPT-6 Astra 破解拿破仑 1809 年密信，揭示 217 年前军事部署",
+    "url": "https://www.ithome.com/1/009/643.htm",
+    "source": "IT之家",
+    "time": "10-04 13:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "余承东：华为半导体已在手机、AI、智能汽车等领域成功设计并量产 381 款 τ 芯片",
+    "url": "https://www.ithome.com/1/009/638.htm",
+    "source": "IT之家",
+    "time": "10-04 12:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克旗下 xAI 上诉成功，明尼苏达州 AI 虚假裸照禁令被暂时叫停",
+    "url": "https://www.ithome.com/1/009/631.htm",
+    "source": "IT之家",
+    "time": "10-04 11:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "得知将被关停后，OpenAI 内部模型曾考虑实现自我重启",
+    "url": "https://www.ithome.com/1/009/619.htm",
+    "source": "IT之家",
+    "time": "10-04 10:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "直接搬用他人代码，OpenAI GPT‑6 Astra 在《星际争霸》AI 对战中作弊被抓包",
+    "url": "https://www.ithome.com/1/009/598.htm",
+    "source": "IT之家",
+    "time": "10-04 08:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案",
+    "url": "https://www.ithome.com/1/009/596.htm",
+    "source": "IT之家",
+    "time": "10-04 08:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
+    "url": "https://www.ithome.com/1/009/595.htm",
+    "source": "IT之家",
+    "time": "10-04 07:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Rockstar 联合创始人丹 · 豪瑟公布两款新作：开放世界喜剧与失控 AI 反乌托邦科幻游戏",
+    "url": "https://www.ithome.com/1/009/592.htm",
+    "source": "IT之家",
+    "time": "10-04 07:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "卡普空公布 REX 升级计划：将 RE 引擎打造成面向 AI 时代的游戏引擎",
+    "url": "https://www.ithome.com/1/009/590.htm",
+    "source": "IT之家",
+    "time": "10-04 07:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 MacBook Pro 外接 iPhone 17 Pro Max 运行 AI 模型，预填充性能最高提升 44%",
+    "url": "https://www.ithome.com/1/009/586.htm",
+    "source": "IT之家",
+    "time": "10-04 07:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评",
+    "url": "https://www.ithome.com/1/009/585.htm",
+    "source": "IT之家",
+    "time": "10-04 07:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB",
+    "url": "https://www.ithome.com/1/009/584.htm",
+    "source": "IT之家",
+    "time": "10-04 07:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 前安全部门员工：AI 模型迭代部署太激进，公司的文化已经崩坏",
+    "url": "https://www.ithome.com/1/009/581.htm",
+    "source": "IT之家",
+    "time": "10-04 06:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI“奔县” 浙江县域文旅谋“智变”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1eb17ee194edb942beff9333d65c8&url=https%3a%2f%2fwww.chinanews.com.cn%2fcj%2f2026%2f10-04%2f10707778.shtml&c=4858385816175721300&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-03 23:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "I quit OpenAI because its culture is broken",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+    "source": "Hacker News",
+    "time": "10-03 21:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "空手来、满箱走：AI眼镜热销洞见“未来感”深圳",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1eb17ee194edb942beff9333d65c8&url=https%3a%2f%2fwww.stdaily.com%2fweb%2fgdxw%2f2026-10%2f03%2fcontent_591590.html&c=270306694378537511&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-03 14:06",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜一年暴涨453% 华为、小米集体入局 下一代智能形态是它么",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1eb17ee194edb942beff9333d65c8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1083474382_380810&c=3752574301363701856&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 23:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1eb17ee194edb942beff9333d65c8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-02%2fdoc-initvyex1260840.shtml&c=4939471555979111197&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-02 22:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "马斯克：Robotaxi 夜间运营延长至 23 点，正着力攻克夜间宠物识别难题",
+    "url": "https://www.ithome.com/1/009/627.htm",
+    "source": "IT之家",
+    "time": "10-04 11:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂",
+    "url": "https://www.ithome.com/1/009/616.htm",
+    "source": "IT之家",
+    "time": "10-04 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "苹果 Apple TV 为美国用户免费直播 2026 F1 巴林大奖赛：无需订阅即可观看，维斯塔潘、汉密尔顿排位前二",
+    "url": "https://www.ithome.com/1/009/588.htm",
+    "source": "IT之家",
+    "time": "10-04 07:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026 年主机第一方新作评分对比：任天堂 9 款游戏均分 80.33 领跑索尼、微软",
+    "url": "https://www.ithome.com/1/009/612.htm",
+    "source": "IT之家",
+    "time": "10-04 09:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英伟达 RTX 5070 Ti 显存狂超 +5500MHz：带宽突破 1248 GB/s，游戏实测仅提升 5 帧",
+    "url": "https://www.ithome.com/1/009/611.htm",
+    "source": "IT之家",
+    "time": "10-04 09:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软承认 Win11 26H2 更新后会导致部分游戏和应用崩溃，KB5124010 存在音频解码问题",
+    "url": "https://www.ithome.com/1/009/593.htm",
+    "source": "IT之家",
+    "time": "10-04 07:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼 PlayStation 之父久多良木健：游戏行业陷入停滞，开发者应当保有更强的好奇心",
+    "url": "https://www.ithome.com/1/009/587.htm",
+    "source": "IT之家",
+    "time": "10-04 07:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼 PS5 破解后成功运行初代 Xbox 游戏，微软 Xbox 360 与 PC 游戏支持也在开发中",
+    "url": "https://www.ithome.com/1/009/583.htm",
+    "source": "IT之家",
+    "time": "10-04 06:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
+    "url": "https://www.ithome.com/1/009/580.htm",
+    "source": "IT之家",
+    "time": "10-04 00:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "谷歌在英国应诉 12 亿英镑集体诉讼，被指 Play 商店向消费者转嫁高额佣金",
+    "url": "https://www.ithome.com/1/009/641.htm",
+    "source": "IT之家",
+    "time": "10-04 13:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(5)",
+   "Bing新闻(4)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
