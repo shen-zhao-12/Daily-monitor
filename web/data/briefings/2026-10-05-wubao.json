@@ -1,0 +1,306 @@
+{
+ "id": "2026-10-05-wubao",
+ "title": "线口监测午报 · 2026年10月05日(周一)",
+ "shift": "午报",
+ "date": "2026-10-05 13:47",
+ "docx": "../briefings/线口监测午报-2026-10-05.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+    "url": "https://www.ithome.com/1/009/795.htm",
+    "source": "IT之家",
+    "time": "10-05 13:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "瓦尔基里公布 VK 99 V2 机械键盘：AI 创想灯效，长至 12000hr 无线续航",
+    "url": "https://www.ithome.com/1/009/782.htm",
+    "source": "IT之家",
+    "time": "10-05 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Linux 7.3-rc6 发布：Torvalds 称进入“AI 新常态”，稳定版预计 10 月中旬发布",
+    "url": "https://www.ithome.com/1/009/781.htm",
+    "source": "IT之家",
+    "time": "10-05 10:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 生成的跨游戏混搭模组兴起，资深制作者集体表达不满",
+    "url": "https://www.ithome.com/1/009/779.htm",
+    "source": "IT之家",
+    "time": "10-05 10:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 前研究员将出席纽约 AI 听证会作证，曾警告 AI 或毁灭人类",
+    "url": "https://www.ithome.com/1/009/769.htm",
+    "source": "IT之家",
+    "time": "10-05 10:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 Reflection 等多家西方企业本月将推出开放权重 AI 模型",
+    "url": "https://www.ithome.com/1/009/765.htm",
+    "source": "IT之家",
+    "time": "10-05 10:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "跨越百年的代言：斯凯孚用 AI“复活”已故女星葛丽泰 · 嘉宝拍广告",
+    "url": "https://www.ithome.com/1/009/764.htm",
+    "source": "IT之家",
+    "time": "10-05 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "source": "Hacker News",
+    "time": "10-05 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 宣布“28 天计划”：Codex、Work 日进一步或“重置”",
+    "url": "https://www.ithome.com/1/009/761.htm",
+    "source": "IT之家",
+    "time": "10-05 09:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+    "url": "https://www.ithome.com/1/009/758.htm",
+    "source": "IT之家",
+    "time": "10-05 09:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
+    "url": "https://www.ithome.com/1/009/755.htm",
+    "source": "IT之家",
+    "time": "10-05 09:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 奥尔特曼：人工智能的巨大效益值得承担部分风险",
+    "url": "https://www.ithome.com/1/009/754.htm",
+    "source": "IT之家",
+    "time": "10-05 09:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek V4.1 Flash 发力，中美顶尖模型 LiveBench 跑分差距缩至 3%",
+    "url": "https://www.ithome.com/1/009/751.htm",
+    "source": "IT之家",
+    "time": "10-05 08:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
+    "url": "https://www.ithome.com/1/009/746.htm",
+    "source": "IT之家",
+    "time": "10-05 08:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
+    "url": "https://www.ithome.com/1/009/745.htm",
+    "source": "IT之家",
+    "time": "10-05 08:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻",
+    "url": "https://www.ithome.com/1/009/744.htm",
+    "source": "IT之家",
+    "time": "10-05 08:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
+    "url": "https://www.ithome.com/1/009/743.htm",
+    "source": "IT之家",
+    "time": "10-05 08:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
+    "url": "https://www.ithome.com/1/009/742.htm",
+    "source": "IT之家",
+    "time": "10-05 07:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+    "url": "https://www.ithome.com/1/009/741.htm",
+    "source": "IT之家",
+    "time": "10-05 07:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Muse 还没正式登陆日本，日本开发者先在乐奇 AI 眼镜上“手搓”出来",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac339eb117e4c959616deafb6711da1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084166400_99973031&c=5495325830874123117&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-04 23:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Show HN: AI search for every photo and every frame of video on macOS",
+    "url": "https://github.com/allenv0/SCM",
+    "source": "Hacker News",
+    "time": "10-04 17:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "翻译、点菜、找路线，AI眼镜能行吗？我在国外试了6天",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac339eb117e4c959616deafb6711da1&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261004A06UNP00%3fadChannelId%3dtech&c=2763620637011917096&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-04 16:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
+    "url": "https://www.ithome.com/1/009/736.htm",
+    "source": "IT之家",
+    "time": "10-04 23:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "消息称 Wayve 将为大众供应自动驾驶解决方案",
+    "url": "https://www.ithome.com/1/009/762.htm",
+    "source": "IT之家",
+    "time": "10-05 09:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源",
+    "url": "https://www.ithome.com/1/009/790.htm",
+    "source": "IT之家",
+    "time": "10-05 12:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(3)",
+   "Bing新闻(2)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
