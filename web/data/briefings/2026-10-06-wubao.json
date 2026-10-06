@@ -1,0 +1,337 @@
+{
+ "id": "2026-10-06-wubao",
+ "title": "线口监测午报 · 2026年10月06日(周二)",
+ "shift": "午报",
+ "date": "2026-10-06 14:26",
+ "docx": "../briefings/线口监测午报-2026-10-06.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+    "url": "https://www.ithome.com/1/009/990.htm",
+    "source": "IT之家",
+    "time": "10-06 14:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三星 Galaxy S27 Ultra 手机爆料：AI 减少镜头光晕，充电提速约 3%",
+    "url": "https://www.ithome.com/1/009/986.htm",
+    "source": "IT之家",
+    "time": "10-06 13:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "为防范 AI 深度伪造，意大利总理梅洛尼申请将自己的声音注册为商标",
+    "url": "https://www.ithome.com/1/009/979.htm",
+    "source": "IT之家",
+    "time": "10-06 12:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称希捷与东芝竞购 TDK 硬盘磁头业务，争夺 AI 存储供应链关键环节",
+    "url": "https://www.ithome.com/1/009/975.htm",
+    "source": "IT之家",
+    "time": "10-06 12:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称快手旗下可灵 AI 已选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
+    "url": "https://www.ithome.com/1/009/964.htm",
+    "source": "IT之家",
+    "time": "10-06 10:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
+    "url": "https://www.ithome.com/1/009/961.htm",
+    "source": "IT之家",
+    "time": "10-06 10:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证",
+    "url": "https://www.ithome.com/1/009/958.htm",
+    "source": "IT之家",
+    "time": "10-06 10:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果与 OpenAI 商业秘密诉讼交锋升级：互指违规提交新证据",
+    "url": "https://www.ithome.com/1/009/955.htm",
+    "source": "IT之家",
+    "time": "10-06 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达黄仁勋“世界巡演”AI 视频海内外爆火，马斯克调侃“内存涨价的原因找到了”",
+    "url": "https://www.ithome.com/1/009/953.htm",
+    "source": "IT之家",
+    "time": "10-06 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "维基媒体：OpenAI 失控 AI 智能体或引发其 5 月数据服务故障",
+    "url": "https://www.ithome.com/1/009/947.htm",
+    "source": "IT之家",
+    "time": "10-06 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道",
+    "url": "https://www.ithome.com/1/009/946.htm",
+    "source": "IT之家",
+    "time": "10-06 09:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出“磁悬浮”高速轨道",
+    "url": "https://www.ithome.com/1/009/941.htm",
+    "source": "IT之家",
+    "time": "10-06 09:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam",
+    "url": "https://www.ithome.com/1/009/932.htm",
+    "source": "IT之家",
+    "time": "10-06 08:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格",
+    "url": "https://www.ithome.com/1/009/924.htm",
+    "source": "IT之家",
+    "time": "10-06 07:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "tvOS 27.2 代码显示苹果 Apple TV 4K（第四代）将支持 Siri AI 和 Apple Intelligence",
+    "url": "https://www.ithome.com/1/009/920.htm",
+    "source": "IT之家",
+    "time": "10-06 07:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "挪威拟暂禁AI眼镜在公园海滩等场所使用",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4949b8a56473d914a0b8e147f5ffa&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f4%2f6731484.html&c=10151468432043788044&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-06 07:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4949b8a56473d914a0b8e147f5ffa&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14650.html&c=4620593014949644782&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-06 07:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "戴副眼镜就能偷拍你！挪威拟在学校、健身房、海滩和商场临时禁用AI智能眼镜，Meta眼镜已在荷兰被大型零售商停售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4949b8a56473d914a0b8e147f5ffa&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084334312_121207966&c=11699863922732888919&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-06 06:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "url": "https://qlabs.sh/research/dust",
+    "source": "Hacker News",
+    "time": "10-06 05:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "挪威拟临时禁止在特定场所使用AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4949b8a56473d914a0b8e147f5ffa&url=https%3a%2f%2fwww.xinhuanet.com%2f20261005%2f77a0b1daf5bb4f10a1c190eca20d86a7%2fc.html&c=3717671147430432356&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-05 22:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Linux containers in 500 lines of code (2016)",
+    "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+    "source": "Hacker News",
+    "time": "10-05 22:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "挪威要禁AI眼镜进公园和学校，欧洲第一个动真格的国家",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4949b8a56473d914a0b8e147f5ffa&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-06%2fdoc-iniuhcmn7153602.shtml&c=11532613043662843739&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-05 21:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "挪威将提议在公共场所对 AI 眼镜实施临时禁令",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4949b8a56473d914a0b8e147f5ffa&url=https%3a%2f%2fwww.unite.ai%2fzh-cn%2fnorway-to-propose-temporary-ban-on-ai-glasses-in-public-places%2f&c=5629927757720070444&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-05 14:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Muse 还没正式登陆日本，日本开发者先在乐奇 AI 眼镜上“手搓”出来",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4949b8a56473d914a0b8e147f5ffa&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084166400_99973031&c=5495325830874123117&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-05 13:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "翻译、点菜、找路线，AI眼镜能行吗？我在国外试了6天",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4949b8a56473d914a0b8e147f5ffa&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261004A06UNP00%3fadChannelId%3dtech&c=2763620637011917096&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-04 16:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "育碧《刺客信条：女巫》游戏角色与剧情细节曝光，预估 2027 下半年发行",
+    "url": "https://www.ithome.com/1/009/989.htm",
+    "source": "IT之家",
+    "time": "10-06 14:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "功夫游戏《师父 Sifu》官宣 10 月 12 日推出手游版本，搓屏幕战斗",
+    "url": "https://www.ithome.com/1/009/983.htm",
+    "source": "IT之家",
+    "time": "10-06 13:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "任天堂《超级马力欧兄弟：惊奇》游戏被原生移植到 Windows，无需模拟器几乎完美运行",
+    "url": "https://www.ithome.com/1/009/968.htm",
+    "source": "IT之家",
+    "time": "10-06 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(6)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
