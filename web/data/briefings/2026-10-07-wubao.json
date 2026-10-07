@@ -2,13 +2,90 @@
  "id": "2026-10-07-wubao",
  "title": "线口监测午报 · 2026年10月07日(周三)",
  "shift": "午报",
- "date": "2026-10-07 15:16",
+ "date": "2026-10-07 22:26",
  "docx": "../briefings/线口监测午报-2026-10-07.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "英特尔 Nova Lake-S 处理器命名添新证据：AIDA64 列出 4xxx 系列",
+    "title": "谷歌携手 Unity 推出 AI 游戏平台 Playground：支持自然语言创作，降低开发门槛",
+    "url": "https://www.ithome.com/1/010/289.htm",
+    "source": "IT之家",
+    "time": "10-07 22:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AMD 苏姿丰承诺 2027 年大幅增加 AI 数据中心芯片供应",
+    "url": "https://www.ithome.com/1/010/284.htm",
+    "source": "IT之家",
+    "time": "10-07 21:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌 Gmail 新功能曝光：Gemini 帮你回邮件",
+    "url": "https://www.ithome.com/1/010/279.htm",
+    "source": "IT之家",
+    "time": "10-07 19:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2027 款深蓝 L06 新车官宣：定位“长续航磁流变 AI 轿跑”，搭载两只“龙虾”",
+    "url": "https://www.ithome.com/1/010/276.htm",
+    "source": "IT之家",
+    "time": "10-07 19:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软、OpenAI 遭美国多家地方媒体起诉，被指侵犯版权",
+    "url": "https://www.ithome.com/1/010/257.htm",
+    "source": "IT之家",
+    "time": "10-07 18:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "source": "Hacker News",
+    "time": "10-07 17:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌推出全新 macOS 应用 AI Edge Foresight，支持离线记录会议纪要",
+    "url": "https://www.ithome.com/1/010/214.htm",
+    "source": "IT之家",
+    "time": "10-07 15:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "改为 4 位数：英特尔 Nova Lake-S 处理器命名添新证据，AIDA64 列出 4xxx 系列",
     "url": "https://www.ithome.com/1/010/210.htm",
     "source": "IT之家",
     "time": "10-07 15:13",
@@ -41,94 +118,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "华为徐直军回应“美国同行呼吁放缓 AI 开发”：中国模型更弱反而需要加快，不然怎么体会到风险",
-    "url": "https://www.ithome.com/1/010/198.htm",
-    "source": "IT之家",
-    "time": "10-07 14:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI 短剧爆火：制作成本仅为真人剧 1/10，平均每 36 秒诞生 1 部",
-    "url": "https://www.ithome.com/1/010/196.htm",
-    "source": "IT之家",
-    "time": "10-07 14:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "宏景科技声明：所有算力设备均通过合规商业渠道采购",
-    "url": "https://www.ithome.com/1/010/191.htm",
-    "source": "IT之家",
-    "time": "10-07 13:20",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“AI 教父”辛顿提议 AI 行业建立 FDA 式审批机制：模型推出前需通过安全审核",
-    "url": "https://www.ithome.com/1/010/187.htm",
-    "source": "IT之家",
-    "time": "10-07 12:32",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "微软 Surface Laptop Ultra 笔记本规格曝光：最高 128GB 内存，面向 AI 开发和内容创作",
-    "url": "https://www.ithome.com/1/010/178.htm",
-    "source": "IT之家",
-    "time": "10-07 11:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“非洲手机之王”传音控股拟赴港上市：最高募资 33.6 亿港元，加码 AI 研发",
-    "url": "https://www.ithome.com/1/010/177.htm",
-    "source": "IT之家",
-    "time": "10-07 11:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌 Fitbit Edge 手环再曝光：内置 AI 健身教练，4 种配色组合",
-    "url": "https://www.ithome.com/1/010/172.htm",
-    "source": "IT之家",
-    "time": "10-07 11:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性",
-    "url": "https://www.ithome.com/1/010/149.htm",
-    "source": "IT之家",
-    "time": "10-07 09:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Sharing AI progress in mathematics",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "source": "Hacker News",
@@ -151,6 +140,28 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "ROKID乐奇AI眼镜实测：把AR与AI装进日常，通勤骑行旅行的全能搭子",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac65691126b4c4db32c712d0b480244&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084778081_122645258&c=11032823032296177442&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-07 03:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "当AI眼镜和你看向同一个地方，发生了什么",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac65691126b4c4db32c712d0b480244&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084757558_122889522&c=12589591639833417684&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-07 02:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "OpenTPU – An open-source AI accelerator, developed by AI",
     "url": "https://github.com/FeSens/openTPU",
     "source": "Hacker News",
@@ -163,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "挪威要禁AI眼镜进公园和学校，欧洲第一个动真格的国家",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5f1d9b2a047a9864ead4f6583268c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-06%2fdoc-iniuhcmn7153602.shtml&c=11532613043662843739&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac65691126b4c4db32c712d0b480244&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-06%2fdoc-iniuhcmn7153602.shtml&c=11532613043662843739&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-06 11:54",
     "summary": "",
@@ -174,60 +185,25 @@
    {
     "beat": "AI/大模型",
     "title": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5f1d9b2a047a9864ead4f6583268c&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14650.html&c=4620593014949644782&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac65691126b4c4db32c712d0b480244&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14650.html&c=4620593014949644782&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-06 07:00",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "挪威拟临时禁止 AI 眼镜进入部分公共场所｜#AI资讯# #Meta# #可穿戴设备#",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5f1d9b2a047a9864ead4f6583268c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084299151_122396381&c=11164402147991306765&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-06 01:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "机器人/AI硬件": [
-   {
-    "beat": "机器人/AI硬件",
-    "title": "特斯拉 Robotaxi 应用多国上架，但打车服务仍仅限美国七城",
-    "url": "https://www.ithome.com/1/010/168.htm",
-    "source": "IT之家",
-    "time": "10-07 10:37",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
-  "无人驾驶/低空/智慧出行": [
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "Cybercab 欧洲首秀：特斯拉将携无人驾驶出租车亮相巴黎车展",
-    "url": "https://www.ithome.com/1/010/152.htm",
-    "source": "IT之家",
-    "time": "10-07 09:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "微软 XBOX 高管澄清：《GTA 6》并无首发独占云游戏协议",
-    "url": "https://www.ithome.com/1/010/189.htm",
+    "title": "《战锤 40K：星际战士 2》游戏免费周年庆更新上线：新增衍生全新围城模式、武器等",
+    "url": "https://www.ithome.com/1/010/240.htm",
     "source": "IT之家",
-    "time": "10-07 12:54",
+    "time": "10-07 17:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -235,10 +211,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "漫威 Comet 游戏预告曝光：蜘蛛侠、金刚狼等可玩，玩法接近《原神》",
-    "url": "https://www.ithome.com/1/010/183.htm",
+    "title": "微软 XBOX CEO 夏尔马透露：XBOX PC 商店已是中国排名第一的 PC 游戏平台",
+    "url": "https://www.ithome.com/1/010/223.htm",
     "source": "IT之家",
-    "time": "10-07 12:14",
+    "time": "10-07 16:05",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -246,10 +222,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "《战锤 40K：战争黎明 4》游戏星际战士玩法公开，12 月 3 日登陆 PC",
-    "url": "https://www.ithome.com/1/010/176.htm",
+    "title": "赛睿、KontrolFreek 发布《堡垒之夜》联名游戏外设，覆盖广泛类别",
+    "url": "https://www.ithome.com/1/010/222.htm",
     "source": "IT之家",
-    "time": "10-07 11:18",
+    "time": "10-07 16:05",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -257,25 +233,48 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "微软 XBOX 夏尔马：游戏主机仍是核心，第 10 代将提供“一系列设备”",
-    "url": "https://www.ithome.com/1/010/160.htm",
+    "title": "索尼推出玻璃紫款 INZONE E9、Fnatic 款 INZONE H9 II 游戏耳机",
+    "url": "https://www.ithome.com/1/010/220.htm",
     "source": "IT之家",
-    "time": "10-07 09:53",
+    "time": "10-07 15:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "前《堡垒之夜》制作人：游戏业界唯一不惧《GTA6》的就是任天堂",
+    "url": "https://www.ithome.com/1/010/212.htm",
+    "source": "IT之家",
+    "time": "10-07 15:17",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "支付宝：中秋国庆“双节”期间使用“碰一下”线下消费笔数同比增长近四成",
+    "url": "https://www.ithome.com/1/010/221.htm",
+    "source": "IT之家",
+    "time": "10-07 15:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(0)",
-   "HackerNews(8)",
-   "Bing新闻(3)"
+   "HackerNews(7)",
+   "Bing新闻(4)"
   ],
   "fail": [
    "36氪(no entries)"
