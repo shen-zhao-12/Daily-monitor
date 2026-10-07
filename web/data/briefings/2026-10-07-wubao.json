@@ -2,10 +2,65 @@
  "id": "2026-10-07-wubao",
  "title": "线口监测午报 · 2026年10月07日(周三)",
  "shift": "午报",
- "date": "2026-10-07 14:05",
+ "date": "2026-10-07 15:16",
  "docx": "../briefings/线口监测午报-2026-10-07.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "英特尔 Nova Lake-S 处理器命名添新证据：AIDA64 列出 4xxx 系列",
+    "url": "https://www.ithome.com/1/010/210.htm",
+    "source": "IT之家",
+    "time": "10-07 15:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "打通 AirDrop：小米 18 Pro Max 手机上线“与 Apple 设备互传”功能",
+    "url": "https://www.ithome.com/1/010/209.htm",
+    "source": "IT之家",
+    "time": "10-07 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 为 ChatGPT 新增自动年龄检测，未满 18 岁用户将自动开启青少年模式",
+    "url": "https://www.ithome.com/1/010/204.htm",
+    "source": "IT之家",
+    "time": "10-07 14:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为徐直军回应“美国同行呼吁放缓 AI 开发”：中国模型更弱反而需要加快，不然怎么体会到风险",
+    "url": "https://www.ithome.com/1/010/198.htm",
+    "source": "IT之家",
+    "time": "10-07 14:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 短剧爆火：制作成本仅为真人剧 1/10，平均每 36 秒诞生 1 部",
+    "url": "https://www.ithome.com/1/010/196.htm",
+    "source": "IT之家",
+    "time": "10-07 14:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "宏景科技声明：所有算力设备均通过合规商业渠道采购",
@@ -74,61 +129,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 颠覆担忧消退，美国软件股创 2026 年阶段新高",
-    "url": "https://www.ithome.com/1/010/141.htm",
-    "source": "IT之家",
-    "time": "10-07 07:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 发布又一批 AI 数学研究成果，攻破数百个悬而未决难题",
-    "url": "https://www.ithome.com/1/010/137.htm",
-    "source": "IT之家",
-    "time": "10-07 07:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”",
-    "url": "https://www.ithome.com/1/010/135.htm",
-    "source": "IT之家",
-    "time": "10-07 07:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称 SpaceX 计划募资 400 亿美元，用于采购英伟达 AI 芯片",
-    "url": "https://www.ithome.com/1/010/134.htm",
-    "source": "IT之家",
-    "time": "10-07 07:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
-    "url": "https://www.ithome.com/1/010/132.htm",
-    "source": "IT之家",
-    "time": "10-07 07:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Sharing AI progress in mathematics",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "source": "Hacker News",
@@ -163,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "挪威要禁AI眼镜进公园和学校，欧洲第一个动真格的国家",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5e12e336543f98f32fc8249a314ce&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-06%2fdoc-iniuhcmn7153602.shtml&c=11532613043662843739&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5f1d9b2a047a9864ead4f6583268c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-06%2fdoc-iniuhcmn7153602.shtml&c=11532613043662843739&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-06 11:54",
     "summary": "",
@@ -174,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5e12e336543f98f32fc8249a314ce&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14650.html&c=4620593014949644782&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5f1d9b2a047a9864ead4f6583268c&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14650.html&c=4620593014949644782&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-06 07:00",
     "summary": "",
@@ -185,20 +185,9 @@
    {
     "beat": "AI/大模型",
     "title": "挪威拟临时禁止 AI 眼镜进入部分公共场所｜#AI资讯# #Meta# #可穿戴设备#",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5e12e336543f98f32fc8249a314ce&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084299151_122396381&c=11164402147991306765&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5f1d9b2a047a9864ead4f6583268c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084299151_122396381&c=11164402147991306765&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-06 01:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "挪威将提议在公共场所对 AI 眼镜实施临时禁令",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5e12e336543f98f32fc8249a314ce&url=https%3a%2f%2fwww.unite.ai%2fzh-cn%2fnorway-to-propose-temporary-ban-on-ai-glasses-in-public-places%2f&c=5629927757720070444&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-05 14:57",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -276,17 +265,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "微软回应称考虑将 WinXP 经典游戏《三维弹球》带回 Win11",
-    "url": "https://www.ithome.com/1/010/140.htm",
-    "source": "IT之家",
-    "time": "10-07 07:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -296,8 +274,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(0)",
-   "HackerNews(7)",
-   "Bing新闻(4)"
+   "HackerNews(8)",
+   "Bing新闻(3)"
   ],
   "fail": [
    "36氪(no entries)"
