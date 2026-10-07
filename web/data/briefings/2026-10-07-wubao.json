@@ -2,10 +2,54 @@
  "id": "2026-10-07-wubao",
  "title": "线口监测午报 · 2026年10月07日(周三)",
  "shift": "午报",
- "date": "2026-10-07 22:26",
+ "date": "2026-10-07 23:29",
  "docx": "../briefings/线口监测午报-2026-10-07.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "“iPod 之父”法德尔分析 Rabbit R1 等初代 AI 设备为何失败：没能真正满足任何需求",
+    "url": "https://www.ithome.com/1/010/299.htm",
+    "source": "IT之家",
+    "time": "10-07 23:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "适配大屏：Meta 推出 iPad 版 Muse AI 智能体",
+    "url": "https://www.ithome.com/1/010/295.htm",
+    "source": "IT之家",
+    "time": "10-07 22:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "赛豆 AIVA ME7 量产路测车无伪谍照曝光，定位介于轿车与 SUV 之间的跨界车",
+    "url": "https://www.ithome.com/1/010/294.htm",
+    "source": "IT之家",
+    "time": "10-07 22:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌 SynthID 面向全球用户开放，可检测 AI 生成内容",
+    "url": "https://www.ithome.com/1/010/293.htm",
+    "source": "IT之家",
+    "time": "10-07 22:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "谷歌携手 Unity 推出 AI 游戏平台 Playground：支持自然语言创作，降低开发门槛",
@@ -85,39 +129,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "改为 4 位数：英特尔 Nova Lake-S 处理器命名添新证据，AIDA64 列出 4xxx 系列",
-    "url": "https://www.ithome.com/1/010/210.htm",
-    "source": "IT之家",
-    "time": "10-07 15:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "打通 AirDrop：小米 18 Pro Max 手机上线“与 Apple 设备互传”功能",
-    "url": "https://www.ithome.com/1/010/209.htm",
-    "source": "IT之家",
-    "time": "10-07 15:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 为 ChatGPT 新增自动年龄检测，未满 18 岁用户将自动开启青少年模式",
-    "url": "https://www.ithome.com/1/010/204.htm",
-    "source": "IT之家",
-    "time": "10-07 14:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Sharing AI progress in mathematics",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "source": "Hacker News",
@@ -129,19 +140,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "url": "https://penguin-mail.com/",
-    "source": "Hacker News",
-    "time": "10-07 05:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "ROKID乐奇AI眼镜实测：把AR与AI装进日常，通勤骑行旅行的全能搭子",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac65691126b4c4db32c712d0b480244&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084778081_122645258&c=11032823032296177442&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6657612c04a3b9c7b498c30cc6f53&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084778081_122645258&c=11032823032296177442&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-07 03:31",
     "summary": "",
@@ -152,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "当AI眼镜和你看向同一个地方，发生了什么",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac65691126b4c4db32c712d0b480244&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084757558_122889522&c=12589591639833417684&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6657612c04a3b9c7b498c30cc6f53&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084757558_122889522&c=12589591639833417684&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-07 02:32",
     "summary": "",
@@ -162,19 +162,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "url": "https://github.com/FeSens/openTPU",
-    "source": "Hacker News",
-    "time": "10-07 00:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "挪威要禁AI眼镜进公园和学校，欧洲第一个动真格的国家",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac65691126b4c4db32c712d0b480244&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-06%2fdoc-iniuhcmn7153602.shtml&c=11532613043662843739&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6657612c04a3b9c7b498c30cc6f53&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-06%2fdoc-iniuhcmn7153602.shtml&c=11532613043662843739&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-06 11:54",
     "summary": "",
@@ -185,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac65691126b4c4db32c712d0b480244&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14650.html&c=4620593014949644782&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6657612c04a3b9c7b498c30cc6f53&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14650.html&c=4620593014949644782&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-06 07:00",
     "summary": "",
@@ -198,6 +187,17 @@
   "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "AMD 将在 2026 年内将 FSR 4 支持扩展至 APU、游戏本、掌机等全线设备",
+    "url": "https://www.ithome.com/1/010/297.htm",
+    "source": "IT之家",
+    "time": "10-07 23:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "《战锤 40K：星际战士 2》游戏免费周年庆更新上线：新增衍生全新围城模式、武器等",
@@ -273,7 +273,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(0)",
-   "HackerNews(7)",
+   "HackerNews(4)",
    "Bing新闻(4)"
   ],
   "fail": [
