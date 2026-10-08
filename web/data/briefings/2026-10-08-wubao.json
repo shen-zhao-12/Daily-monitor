@@ -1,0 +1,338 @@
+{
+ "id": "2026-10-08-wubao",
+ "title": "线口监测午报 · 2026年10月08日(周四)",
+ "shift": "午报",
+ "date": "2026-10-08 14:11",
+ "docx": "../briefings/线口监测午报-2026-10-08.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 iPhone Air 2 爆料：厚度减薄 0.4mm 至 5.2mm，更高密度电池提升续航",
+    "url": "https://www.ithome.com/1/010/473.htm",
+    "source": "IT之家",
+    "time": "10-08 14:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌、Meta 等厂商竞逐申请 .agent 域名：OpenAI 申请.gpt、Anthropic 申请.claude",
+    "url": "https://www.ithome.com/1/010/462.htm",
+    "source": "IT之家",
+    "time": "10-08 13:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Terence Tao Responds to the OpenAI Math Drop",
+    "url": "https://mathstodon.xyz/@tao/117395269325940185",
+    "source": "Hacker News",
+    "time": "10-08 13:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里巴巴蔡崇信：开源是欧洲发展 AI 的最佳选择",
+    "url": "https://www.ithome.com/1/010/451.htm",
+    "source": "IT之家",
+    "time": "10-08 12:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "世嘉：我们对 AI 态度“非常谨慎”，不会将其用于创意工作",
+    "url": "https://www.ithome.com/1/010/444.htm",
+    "source": "IT之家",
+    "time": "10-08 11:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阶跃终端首款大模型原生智能体手机 STEPX Neo 发布定档：10 月 13 日见",
+    "url": "https://www.ithome.com/1/010/416.htm",
+    "source": "IT之家",
+    "time": "10-08 11:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "惠普战 66 Air 商务轻薄本上架：\"Wildcat Lake\" + OLED，到手 5099.15 元起",
+    "url": "https://www.ithome.com/1/010/395.htm",
+    "source": "IT之家",
+    "time": "10-08 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "警告“AI 或灭绝人类”的前 Anthropic 研究员：某种意义上，我曾研究让 AI 取代自己",
+    "url": "https://www.ithome.com/1/010/394.htm",
+    "source": "IT之家",
+    "time": "10-08 10:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "黄仁勋焦虑 AI 需求降温，曝英伟达拟再投 10 亿美元加码人形机器人企业 Figure",
+    "url": "https://www.ithome.com/1/010/387.htm",
+    "source": "IT之家",
+    "time": "10-08 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO",
+    "url": "https://www.ithome.com/1/010/373.htm",
+    "source": "IT之家",
+    "time": "10-08 09:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国一男子因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元",
+    "url": "https://www.ithome.com/1/010/378.htm",
+    "source": "IT之家",
+    "time": "10-08 09:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "这个国庆，AI眼镜找到了真正的用武之地",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac73420f47d4a5fbbeabd890dbffc57&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25BF%2599%25E4%25B8%25AA%25E5%259B%25BD%25E5%25BA%2586-ai%25E7%259C%25BC%25E9%2595%259C%25E6%2589%25BE%25E5%2588%25B0%25E4%25BA%2586%25E7%259C%259F%25E6%25AD%25A3%25E7%259A%2584%25E7%2594%25A8%25E6%25AD%25A6%25E4%25B9%258B%25E5%259C%25B0%2far-AA2dNhwY&c=13609657706290524388&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-08 04:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "source": "Hacker News",
+    "time": "10-08 02:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜企业比特幻境天使轮融资数亿元",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac73420f47d4a5fbbeabd890dbffc57&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610083889465837.html&c=6285072056299859700&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-08 00:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac73420f47d4a5fbbeabd890dbffc57&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084989709_114778&c=717375518094443296&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-07 22:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "卡位AI眼镜电池核心赛道 豪鹏科技“AI端侧电池+固态”战略加速落地",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac73420f47d4a5fbbeabd890dbffc57&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261008A02ZC200&c=13089186573382633335&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-07 19:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "当AI眼镜和你看向同一个地方，发生了什么",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac73420f47d4a5fbbeabd890dbffc57&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084757558_122889522&c=12589591639833417684&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-07 16:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "source": "Hacker News",
+    "time": "10-07 06:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小鹏集团 Robotaxi 定名小鹏悠游 XPENG YOYO，打车小程序同步上线",
+    "url": "https://www.ithome.com/1/010/391.htm",
+    "source": "IT之家",
+    "time": "10-08 10:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地",
+    "url": "https://www.ithome.com/1/010/376.htm",
+    "source": "IT之家",
+    "time": "10-08 08:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "9月微信小游戏畅销榜Top100：小游戏大势已定？仅1款新游戏跻身TOP50",
+    "url": "http://www.gamelook.com.cn/2026/10/603357/",
+    "source": "GameLook",
+    "time": "10-08 14:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《毁灭战士》游戏移植到售价约 8000 美元的哈苏 X2D 相机：触摸屏移动，快门按钮开火",
+    "url": "https://www.ithome.com/1/010/464.htm",
+    "source": "IT之家",
+    "time": "10-08 13:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Manus 母公司蝴蝶效应宣布完成超 5 亿美元新一轮融资，腾讯、红杉中国等继续加持",
+    "url": "https://www.ithome.com/1/010/457.htm",
+    "source": "IT之家",
+    "time": "10-08 12:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国产动作肉鸽游戏续作《霓虹深渊 2》发售，Steam 首发 46.40 元",
+    "url": "https://www.ithome.com/1/010/449.htm",
+    "source": "IT之家",
+    "time": "10-08 12:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "10月预计15款新游戏上线:《剑侠世界4：无限》领衔，Steam游戏反攻手游",
+    "url": "http://www.gamelook.com.cn/2026/10/603312/",
+    "source": "GameLook",
+    "time": "10-08 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《战地 6》领衔加入微软 10 月 Xbox Game Pass 游戏库，《光与影：33 号远征队》10 月 15 日离库",
+    "url": "https://www.ithome.com/1/010/400.htm",
+    "source": "IT之家",
+    "time": "10-08 10:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "206款国产3款进口游戏获版号：米哈游《源初之结》祖龙《诡秘之主：愚者》过审",
+    "url": "http://www.gamelook.com.cn/2026/10/603329/",
+    "source": "GameLook",
+    "time": "10-08 09:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "APP端首周流水5000万，B站捉宠新游开始发力小游戏",
+    "url": "http://www.gamelook.com.cn/2026/10/602850/",
+    "source": "GameLook",
+    "time": "10-08 01:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(5)",
+   "HackerNews(5)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
