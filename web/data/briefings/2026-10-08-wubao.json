@@ -2,7 +2,7 @@
  "id": "2026-10-08-wubao",
  "title": "线口监测午报 · 2026年10月08日(周四)",
  "shift": "午报",
- "date": "2026-10-08 22:31",
+ "date": "2026-10-08 23:31",
  "docx": "../briefings/线口监测午报-2026-10-08.docx",
  "sections": {
   "AI/大模型": [
@@ -41,28 +41,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "迈从 Ace 68 Air 2 键盘推出琥珀金 / 薄荷冰配色，289 元起",
-    "url": "https://www.ithome.com/1/010/624.htm",
-    "source": "IT之家",
-    "time": "10-08 16:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "韩国“世界”号第五次发射载荷包括 5 款 LG 零部件与 Mobilint AI SoC",
-    "url": "https://www.ithome.com/1/010/587.htm",
-    "source": "IT之家",
-    "time": "10-08 16:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "OpenAI Withdraws 3 Math Papers",
     "url": "https://github.com/openai/math/blob/main/history.md",
     "source": "Hacker News",
@@ -74,8 +52,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI眼镜企业比特幻境天使轮融资数亿元",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b75ec557465cb98637a75c2c866f&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610083889465837.html&c=6285072056299859700&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-08 14:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a95bc1be4376b8f5be0763e87cdd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084989709_114778&c=717375518094443296&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b75ec557465cb98637a75c2c866f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084989709_114778&c=717375518094443296&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-08 12:02",
     "summary": "",
@@ -86,7 +75,7 @@
    {
     "beat": "AI/大模型",
     "title": "卡位AI眼镜电池核心赛道 豪鹏科技“AI端侧电池+固态”战略加速落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a95bc1be4376b8f5be0763e87cdd&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261008A02ZC200&c=13089186573382633335&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b75ec557465cb98637a75c2c866f&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261008A02ZC200&c=13089186573382633335&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-08 09:55",
     "summary": "",
@@ -108,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "当AI眼镜和你看向同一个地方，发生了什么",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a95bc1be4376b8f5be0763e87cdd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084757558_122889522&c=12589591639833417684&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b75ec557465cb98637a75c2c866f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084757558_122889522&c=12589591639833417684&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-07 16:32",
     "summary": "",
@@ -141,9 +130,32 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "Waymo 获 50 亿美元贷款：未来将推动无人驾驶出租车扩张，入局欧洲、日本等市场",
+    "url": "https://www.ithome.com/1/010/734.htm",
+    "source": "IT之家",
+    "time": "10-08 23:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 喜加二：《熊视眈眈》《愿景之城》游戏免费领取",
+    "url": "https://www.ithome.com/1/010/735.htm",
+    "source": "IT之家",
+    "time": "10-08 23:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "《全面战争：幕府将军 2-完全版》游戏将登陆苹果 macOS，预计 2027 第一季度上线",
@@ -264,7 +276,7 @@
    "IT之家(60)",
    "GameLook(5)",
    "HackerNews(5)",
-   "Bing新闻(3)"
+   "Bing新闻(4)"
   ],
   "fail": [
    "36氪(no entries)"
