@@ -2,16 +2,16 @@
  "id": "2026-10-08-wubao",
  "title": "线口监测午报 · 2026年10月08日(周四)",
  "shift": "午报",
- "date": "2026-10-08 15:27",
+ "date": "2026-10-08 22:31",
  "docx": "../briefings/线口监测午报-2026-10-08.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "微星尊爵 Prestige N16 Flip AI+ 发布：RTX Spark 翻转本，16 日开售",
-    "url": "https://www.ithome.com/1/010/547.htm",
+    "title": "亚马逊发布 Alexa Tablet 平板电脑：接替 Fire Tablet，全面支持 Alexa+ AI",
+    "url": "https://www.ithome.com/1/010/715.htm",
     "source": "IT之家",
-    "time": "10-08 15:07",
+    "time": "10-08 22:14",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "不满 Mistral 表现，德国搜索引擎 Ecosia 押注中国开源 AI 模型",
-    "url": "https://www.ithome.com/1/010/539.htm",
+    "title": "谷歌云发布 Gemini Agent，定位“通用工作智能体”",
+    "url": "https://www.ithome.com/1/010/706.htm",
     "source": "IT之家",
-    "time": "10-08 15:00",
+    "time": "10-08 21:21",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -30,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "消息称 Alphabet 旗下 AI 药物研发企业 Isomorphic Labs 寻求以 400~500 亿美元估值融资",
-    "url": "https://www.ithome.com/1/010/516.htm",
+    "title": "比亚迪大唐首次 OTA 开启推送：新增生态智能体服务、路面预瞄等功能",
+    "url": "https://www.ithome.com/1/010/631.htm",
     "source": "IT之家",
-    "time": "10-08 14:33",
+    "time": "10-08 17:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,10 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "微软确认 Win11 Copilot+ PC 品牌未消亡：全球每月本地 AI 推理超 2 万亿次，每年出货数千万台",
-    "url": "https://www.ithome.com/1/010/510.htm",
+    "title": "迈从 Ace 68 Air 2 键盘推出琥珀金 / 薄荷冰配色，289 元起",
+    "url": "https://www.ithome.com/1/010/624.htm",
     "source": "IT之家",
-    "time": "10-08 14:30",
+    "time": "10-08 16:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -52,10 +52,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "消息称腾讯考虑发售 50 亿美元债券，加大力度投资 AI",
-    "url": "https://www.ithome.com/1/010/495.htm",
+    "title": "韩国“世界”号第五次发射载荷包括 5 款 LG 零部件与 Mobilint AI SoC",
+    "url": "https://www.ithome.com/1/010/587.htm",
     "source": "IT之家",
-    "time": "10-08 14:23",
+    "time": "10-08 16:38",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -63,10 +63,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "苹果 iPhone Air 2 爆料：厚度减薄 0.4mm 至 5.2mm，更高密度电池提升续航",
-    "url": "https://www.ithome.com/1/010/473.htm",
-    "source": "IT之家",
-    "time": "10-08 14:09",
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "url": "https://github.com/openai/math/blob/main/history.md",
+    "source": "Hacker News",
+    "time": "10-08 16:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -74,54 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "谷歌、Meta 等厂商竞逐申请 .agent 域名：OpenAI 申请.gpt、Anthropic 申请.claude",
-    "url": "https://www.ithome.com/1/010/462.htm",
-    "source": "IT之家",
-    "time": "10-08 13:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "阿里巴巴蔡崇信：开源是欧洲发展 AI 的最佳选择",
-    "url": "https://www.ithome.com/1/010/451.htm",
-    "source": "IT之家",
-    "time": "10-08 12:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "世嘉：我们对 AI 态度“非常谨慎”，不会将其用于创意工作",
-    "url": "https://www.ithome.com/1/010/444.htm",
-    "source": "IT之家",
-    "time": "10-08 11:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "阶跃终端首款大模型原生智能体手机 STEPX Neo 发布定档：10 月 13 日见",
-    "url": "https://www.ithome.com/1/010/416.htm",
-    "source": "IT之家",
-    "time": "10-08 11:06",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "把“AI生活”带回家 智能消费点亮假日经济",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac745dbd31b4de09ee1123619947f5b&url=https%3a%2f%2fwww.ceweekly.cn%2feconomic%2findustry%2f2026%2f1008%2f501062.html&c=6120528081164447488&mkt=en-us",
+    "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a95bc1be4376b8f5be0763e87cdd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084989709_114778&c=717375518094443296&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-08 08:02",
+    "time": "10-08 12:02",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -129,10 +85,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "这个国庆，AI眼镜找到了真正的用武之地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac745dbd31b4de09ee1123619947f5b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25BF%2599%25E4%25B8%25AA%25E5%259B%25BD%25E5%25BA%2586-ai%25E7%259C%25BC%25E9%2595%259C%25E6%2589%25BE%25E5%2588%25B0%25E4%25BA%2586%25E7%259C%259F%25E6%25AD%25A3%25E7%259A%2584%25E7%2594%25A8%25E6%25AD%25A6%25E4%25B9%258B%25E5%259C%25B0%2far-AA2dNhwY&c=13609657706290524388&mkt=en-us",
+    "title": "卡位AI眼镜电池核心赛道 豪鹏科技“AI端侧电池+固态”战略加速落地",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a95bc1be4376b8f5be0763e87cdd&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261008A02ZC200&c=13089186573382633335&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-08 04:46",
+    "time": "10-08 09:55",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,41 +107,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜企业比特幻境天使轮融资数亿元",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac745dbd31b4de09ee1123619947f5b&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610083889465837.html&c=6285072056299859700&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-08 00:22",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac745dbd31b4de09ee1123619947f5b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084989709_114778&c=717375518094443296&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-07 22:03",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "卡位AI眼镜电池核心赛道 豪鹏科技“AI端侧电池+固态”战略加速落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac745dbd31b4de09ee1123619947f5b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261008A02ZC200&c=13089186573382633335&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-07 19:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "当AI眼镜和你看向同一个地方，发生了什么",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac745dbd31b4de09ee1123619947f5b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084757558_122889522&c=12589591639833417684&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a95bc1be4376b8f5be0763e87cdd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084757558_122889522&c=12589591639833417684&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-07 16:32",
     "summary": "",
@@ -205,16 +128,28 @@
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小马智行与 Uber 将在伦敦测试第七代 Robotaxi，未来数周内启动",
+    "url": "https://www.ithome.com/1/010/636.htm",
+    "source": "IT之家",
+    "time": "10-08 17:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "《生化危机：安魂曲》游戏编剧意外泄露 DLC 内容：保护伞公司创办人史宾瑟将有全新故事",
-    "url": "https://www.ithome.com/1/010/559.htm",
+    "title": "《全面战争：幕府将军 2-完全版》游戏将登陆苹果 macOS，预计 2027 第一季度上线",
+    "url": "https://www.ithome.com/1/010/699.htm",
     "source": "IT之家",
-    "time": "10-08 15:25",
+    "time": "10-08 20:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -222,10 +157,43 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "曝索尼有意与小型开发商联手复活一批 PlayStation 经典游戏，《捉猴啦》打头阵",
-    "url": "https://www.ithome.com/1/010/543.htm",
+    "title": "微软 XBOX 宣布设立全新 XP 部门，聚焦电子游戏本体外的娱乐体验",
+    "url": "https://www.ithome.com/1/010/693.htm",
     "source": "IT之家",
-    "time": "10-08 15:03",
+    "time": "10-08 20:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA6》游戏任务玩法将更加自由，R 星希望解决此前作品最受诟病问题",
+    "url": "https://www.ithome.com/1/010/673.htm",
+    "source": "IT之家",
+    "time": "10-08 18:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "蚂蚁电竞 ANT25ASF 显示器发售：24.1\" FHD 1000Hz Fast TN，7999 元",
+    "url": "https://www.ithome.com/1/010/644.htm",
+    "source": "IT之家",
+    "time": "10-08 17:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软听取开发者呼声，承诺改善 XBOX 游戏开发流程",
+    "url": "https://www.ithome.com/1/010/633.htm",
+    "source": "IT之家",
+    "time": "10-08 17:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -237,39 +205,6 @@
     "url": "http://www.gamelook.com.cn/2026/10/603357/",
     "source": "GameLook",
     "time": "10-08 14:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《毁灭战士》游戏移植到售价约 8000 美元的哈苏 X2D 相机：触摸屏移动，快门按钮开火",
-    "url": "https://www.ithome.com/1/010/464.htm",
-    "source": "IT之家",
-    "time": "10-08 13:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Manus 母公司蝴蝶效应宣布完成超 5 亿美元新一轮融资，腾讯、红杉中国等继续加持",
-    "url": "https://www.ithome.com/1/010/457.htm",
-    "source": "IT之家",
-    "time": "10-08 12:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "国产动作肉鸽游戏续作《霓虹深渊 2》发售，Steam 首发 46.40 元",
-    "url": "https://www.ithome.com/1/010/449.htm",
-    "source": "IT之家",
-    "time": "10-08 12:13",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -309,15 +244,27 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "日本零售商公布 9 月上旬显卡销量榜：RTX 3050 力压 RTX 50 系列登顶，连 GT 1030 都榜上有名",
+    "url": "https://www.ithome.com/1/010/659.htm",
+    "source": "IT之家",
+    "time": "10-08 18:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(5)",
-   "HackerNews(4)",
-   "Bing新闻(6)"
+   "HackerNews(5)",
+   "Bing新闻(3)"
   ],
   "fail": [
    "36氪(no entries)"
