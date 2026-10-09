@@ -2,10 +2,21 @@
  "id": "2026-10-09-wubao",
  "title": "线口监测午报 · 2026年10月09日(周五)",
  "shift": "午报",
- "date": "2026-10-09 22:18",
+ "date": "2026-10-09 23:13",
  "docx": "../briefings/线口监测午报-2026-10-09.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+    "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+    "source": "Hacker News",
+    "time": "10-09 20:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "46999 元起，极摩客 EVO-X5 Pro 迷你 AI 工作站发售",
@@ -63,21 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "华为智能门锁 2 Pro 悦享版开售：支持 AI 3D 人脸识别 3.0，补贴到手价 2124.15 元",
-    "url": "https://www.ithome.com/1/011/046.htm",
-    "source": "IT之家",
-    "time": "10-09 16:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "iBUYPOWER 发布 Pro AMD AI Halo 迷你主机：2.8L 体积，简约外观",
-    "url": "https://www.ithome.com/1/011/045.htm",
-    "source": "IT之家",
-    "time": "10-09 16:39",
+    "title": "极米记得 AI 显示眼镜 MemoMind One 超前预约开启：蔡司定制光学镜片、哈曼联合调音",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac904b92f544e049a0381b747cbc0a9&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-09%2fdoc-iniurfei6927884.shtml&c=4913543271618392019&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-09 16:05",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -86,7 +86,7 @@
    {
     "beat": "AI/大模型",
     "title": "武汉商场一楼，正在被AI眼镜和机器人“占领”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8f7d16c434efa93e17a55da73843b&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-09%2fdoc-iniuqywq1104721.shtml&c=3597309723584131629&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac904b92f544e049a0381b747cbc0a9&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-09%2fdoc-iniuqywq1104721.shtml&c=3597309723584131629&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-09 12:58",
     "summary": "",
@@ -97,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "多家巨头密集押注AI眼镜，电感怎么突破技术瓶颈",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8f7d16c434efa93e17a55da73843b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085413476_100193168&c=18145583468688513686&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac904b92f544e049a0381b747cbc0a9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085413476_100193168&c=18145583468688513686&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-09 11:16",
     "summary": "",
@@ -119,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜、折叠手机…… 国庆假期，智能电子消费热",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8f7d16c434efa93e17a55da73843b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261009A02MHJ00&c=2871902030111016924&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac904b92f544e049a0381b747cbc0a9&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261009A02MHJ00&c=2871902030111016924&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-09 08:44",
     "summary": "",
@@ -141,9 +141,20 @@
    {
     "beat": "AI/大模型",
     "title": "极米记得AI显示眼镜开启预约：双目显示、蔡司镜片加持",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8f7d16c434efa93e17a55da73843b&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E6%259E%2581%25E7%25B1%25B3%25E8%25AE%25B0%25E5%25BE%2597ai%25E6%2598%25BE%25E7%25A4%25BA%25E7%259C%25BC%25E9%2595%259C%25E5%25BC%2580%25E5%2590%25AF%25E9%25A2%2584%25E7%25BA%25A6-%25E5%258F%258C%25E7%259B%25AE%25E6%2598%25BE%25E7%25A4%25BA-%25E8%2594%25A1%25E5%258F%25B8%25E9%2595%259C%25E7%2589%2587%25E5%258A%25A0%25E6%258C%2581%2far-AA2dS12F&c=3843227883831329153&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac904b92f544e049a0381b747cbc0a9&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E6%259E%2581%25E7%25B1%25B3%25E8%25AE%25B0%25E5%25BE%2597ai%25E6%2598%25BE%25E7%25A4%25BA%25E7%259C%25BC%25E9%2595%259C%25E5%25BC%2580%25E5%2590%25AF%25E9%25A2%2584%25E7%25BA%25A6-%25E5%258F%258C%25E7%259B%25AE%25E6%2598%25BE%25E7%25A4%25BA-%25E8%2594%25A1%25E5%258F%25B8%25E9%2595%259C%25E7%2589%2587%25E5%258A%25A0%25E6%258C%2581%2far-AA2dS12F&c=17611797223458228600&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-09 04:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极刻觅镜 | AI眼镜日报｜XREAL AURA公布售价与上市计划",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac904b92f544e049a0381b747cbc0a9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085302152_123023378&c=14879601854639688602&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-09 03:16",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -193,17 +204,6 @@
     "url": "https://www.ithome.com/1/011/119.htm",
     "source": "IT之家",
     "time": "10-09 20:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "电商/直播/即时零售",
-    "title": "后厨制作过程能扫码回看，中国电信推出“外卖云监管-食安封签”解决方案",
-    "url": "https://www.ithome.com/1/011/047.htm",
-    "source": "IT之家",
-    "time": "10-09 16:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,8 +352,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(12)",
-   "HackerNews(5)",
-   "Bing新闻(7)"
+   "HackerNews(4)",
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
