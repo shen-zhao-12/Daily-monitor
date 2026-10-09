@@ -2,10 +2,43 @@
  "id": "2026-10-09-wubao",
  "title": "线口监测午报 · 2026年10月09日(周五)",
  "shift": "午报",
- "date": "2026-10-09 14:14",
+ "date": "2026-10-09 15:25",
  "docx": "../briefings/线口监测午报-2026-10-09.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "极米记得 AI 显示眼镜 MemoMind One 超前预约开启：蔡司定制光学镜片、哈曼联合调音",
+    "url": "https://www.ithome.com/1/010/967.htm",
+    "source": "IT之家",
+    "time": "10-09 15:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "66.1 分登顶：Odyssey-3 基础世界模型登场，AI 开始理解真实世界",
+    "url": "https://www.ithome.com/1/010/954.htm",
+    "source": "IT之家",
+    "time": "10-09 14:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Liquid AI 开源 d1 系列决策模型：单次判断仅 8 毫秒，支持图像输入",
+    "url": "https://www.ithome.com/1/010/946.htm",
+    "source": "IT之家",
+    "time": "10-09 14:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞",
@@ -85,28 +118,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "微软升级 Win11 的 AI 框架，实验性支持 GGUF 与 ONNX 原生本地推理",
-    "url": "https://www.ithome.com/1/010/825.htm",
-    "source": "IT之家",
-    "time": "10-09 10:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "陶哲轩质疑 OpenAI 公司：719 篇 AI 数学证明，人类真的理解了吗？",
-    "url": "https://www.ithome.com/1/010/795.htm",
-    "source": "IT之家",
-    "time": "10-09 09:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "又一大佬入局！谷歌与Unity推出AI游戏研发平台，“一句话生成游戏”",
     "url": "http://www.gamelook.com.cn/2026/10/603403/",
     "source": "GameLook",
@@ -141,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "极刻觅镜 | AI眼镜日报｜XREAL AURA公布售价与上市计划",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac88645f3824d409dd8642bc53c59d1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085302152_123023378&c=14879601854639688602&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac896dadbc041d0820904aa5cc1fca6&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085302152_123023378&c=14879601854639688602&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-09 03:16",
     "summary": "",
@@ -152,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜、折叠手机…… 智能电子消费热",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac88645f3824d409dd8642bc53c59d1&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610093890044722.html&c=5388859124867060288&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac896dadbc041d0820904aa5cc1fca6&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610093890044722.html&c=5388859124867060288&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-09 01:00",
     "summary": "",
@@ -163,9 +174,31 @@
    {
     "beat": "AI/大模型",
     "title": "多家巨头密集押注AI眼镜，电感怎么突破技术瓶颈",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac88645f3824d409dd8642bc53c59d1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085413476_100193168&c=18145583468688513686&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac896dadbc041d0820904aa5cc1fca6&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085413476_100193168&c=18145583468688513686&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-08 21:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜、折叠手机…… 国庆假期，智能电子消费热",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac896dadbc041d0820904aa5cc1fca6&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261009A02MHJ00&c=2871902030111016924&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-08 18:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI withdraws three mathematical results",
+    "url": "https://twitter.com/danintheory/status/2108065033070789090",
+    "source": "Hacker News",
+    "time": "10-08 15:05",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -185,32 +218,31 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
    {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "韩国自研高超音速滑翔飞行器试射成功，拥有低空不规则飞行能力",
-    "url": "https://www.ithome.com/1/010/824.htm",
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领",
+    "url": "https://www.ithome.com/1/010/975.htm",
     "source": "IT之家",
-    "time": "10-09 10:20",
+    "time": "10-09 15:08",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    },
    {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "去年同期的 1.88 倍，华为乾崑智驾国庆 7 天假期辅助驾驶累计里程达 5.53 亿公里",
-    "url": "https://www.ithome.com/1/010/799.htm",
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 喜加一：策略游戏《Save the Earth》转付费前免费领",
+    "url": "https://www.ithome.com/1/010/952.htm",
     "source": "IT之家",
-    "time": "10-09 09:50",
+    "time": "10-09 14:40",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "电商/直播/即时零售": [],
-  "游戏/电竞/平台公司": [
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "《巫师 3：重制版》首个大型补丁发布：游戏主机端消除画面泛白现象",
@@ -257,17 +289,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "一加 x 京东方第四代东方屏发布：全新 X4 发光材料、日常 165Hz、游戏 185Hz，一加 16 首发搭载",
-    "url": "https://www.ithome.com/1/010/837.htm",
-    "source": "IT之家",
-    "time": "10-09 10:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "韩国游戏公司CEO离谱丑闻：4个夜场美女”挂职领工资 ”，被诉贪污4亿韩元",
     "url": "http://www.gamelook.com.cn/2026/10/603441/",
     "source": "GameLook",
@@ -290,10 +311,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "AX 电竞叛客正式推出 GeForce RTX 5070 秋序限定显卡",
-    "url": "https://www.ithome.com/1/010/796.htm",
-    "source": "IT之家",
-    "time": "10-09 09:41",
+    "title": "欧盟对9家游戏大厂执法行动，遭集体抵制：Supercell,拳头,育碧,King在列",
+    "url": "http://www.gamelook.com.cn/2026/10/603395/",
+    "source": "GameLook",
+    "time": "10-09 09:04",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -301,10 +322,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "欧盟对9家游戏大厂执法行动，遭集体抵制：Supercell,拳头,育碧,King在列",
-    "url": "http://www.gamelook.com.cn/2026/10/603395/",
+    "title": "9月微信小游戏畅销榜Top100：小游戏大势已定？仅1款新游戏跻身TOP50",
+    "url": "http://www.gamelook.com.cn/2026/10/603357/",
     "source": "GameLook",
-    "time": "10-09 09:04",
+    "time": "10-08 14:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -318,28 +339,6 @@
     "url": "https://www.ithome.com/1/010/921.htm",
     "source": "IT之家",
     "time": "10-09 14:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "亚马逊零售部门裁员数百人，发言人回应称做出了艰难决定",
-    "url": "https://www.ithome.com/1/010/811.htm",
-    "source": "IT之家",
-    "time": "10-09 10:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "小米智能门锁 5C 猫眼版预售：支持关门自动上锁，国补后到手价 999.6 元起",
-    "url": "https://www.ithome.com/1/010/808.htm",
-    "source": "IT之家",
-    "time": "10-09 10:01",
     "summary": "",
     "grade": "C",
     "local": false,
