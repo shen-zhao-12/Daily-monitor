@@ -1,0 +1,362 @@
+{
+ "id": "2026-10-09-wubao",
+ "title": "线口监测午报 · 2026年10月09日(周五)",
+ "shift": "午报",
+ "date": "2026-10-09 14:14",
+ "docx": "../briefings/线口监测午报-2026-10-09.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞",
+    "url": "https://www.ithome.com/1/010/922.htm",
+    "source": "IT之家",
+    "time": "10-09 14:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "孙正义大手笔加码 AI 投资，曝软银寻求向海湾投资者募资千亿美元",
+    "url": "https://www.ithome.com/1/010/918.htm",
+    "source": "IT之家",
+    "time": "10-09 13:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "JetBrains 编程 AI 模型 Mellum2.1 发布：高负载推理吞吐量近 Qwen3.5-9B 两倍",
+    "url": "https://www.ithome.com/1/010/905.htm",
+    "source": "IT之家",
+    "time": "10-09 12:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "短短 10 个月几乎翻倍，AI 模型评测平台 Arena 估值升至 31 亿美元",
+    "url": "https://www.ithome.com/1/010/899.htm",
+    "source": "IT之家",
+    "time": "10-09 12:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场",
+    "url": "https://www.ithome.com/1/010/895.htm",
+    "source": "IT之家",
+    "time": "10-09 12:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苦 Adobe 高价订阅久矣？四人团队借 AI 开发免费开源“平替”ArtCraft 套件",
+    "url": "https://www.ithome.com/1/010/856.htm",
+    "source": "IT之家",
+    "time": "10-09 11:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称英伟达拟投资 AI 推理 ASIC 企业 d-Matrix，双方此前已达成技术合作",
+    "url": "https://www.ithome.com/1/010/847.htm",
+    "source": "IT之家",
+    "time": "10-09 11:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软升级 Win11 的 AI 框架，实验性支持 GGUF 与 ONNX 原生本地推理",
+    "url": "https://www.ithome.com/1/010/825.htm",
+    "source": "IT之家",
+    "time": "10-09 10:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "陶哲轩质疑 OpenAI 公司：719 篇 AI 数学证明，人类真的理解了吗？",
+    "url": "https://www.ithome.com/1/010/795.htm",
+    "source": "IT之家",
+    "time": "10-09 09:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "又一大佬入局！谷歌与Unity推出AI游戏研发平台，“一句话生成游戏”",
+    "url": "http://www.gamelook.com.cn/2026/10/603403/",
+    "source": "GameLook",
+    "time": "10-09 09:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI, the Partition Principle, and Mathematics",
+    "url": "https://karagila.org/2026/openai-pp/",
+    "source": "Hacker News",
+    "time": "10-09 07:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI-ready biological data: $1.8B global commitment",
+    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "source": "Hacker News",
+    "time": "10-09 04:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极刻觅镜 | AI眼镜日报｜XREAL AURA公布售价与上市计划",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac88645f3824d409dd8642bc53c59d1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085302152_123023378&c=14879601854639688602&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-09 03:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜、折叠手机…… 智能电子消费热",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac88645f3824d409dd8642bc53c59d1&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610093890044722.html&c=5388859124867060288&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-09 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "多家巨头密集押注AI眼镜，电感怎么突破技术瓶颈",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac88645f3824d409dd8642bc53c59d1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085413476_100193168&c=18145583468688513686&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-08 21:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "比亚迪人形机器人外观专利公布",
+    "url": "https://www.ithome.com/1/010/907.htm",
+    "source": "IT之家",
+    "time": "10-09 13:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "韩国自研高超音速滑翔飞行器试射成功，拥有低空不规则飞行能力",
+    "url": "https://www.ithome.com/1/010/824.htm",
+    "source": "IT之家",
+    "time": "10-09 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "去年同期的 1.88 倍，华为乾崑智驾国庆 7 天假期辅助驾驶累计里程达 5.53 亿公里",
+    "url": "https://www.ithome.com/1/010/799.htm",
+    "source": "IT之家",
+    "time": "10-09 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《巫师 3：重制版》首个大型补丁发布：游戏主机端消除画面泛白现象",
+    "url": "https://www.ithome.com/1/010/917.htm",
+    "source": "IT之家",
+    "time": "10-09 13:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "VGN 推出魔竞入耳式电竞 HiFi 耳机：单耳重 3.79g、10mm 双磁双腔动圈，399 元",
+    "url": "https://www.ithome.com/1/010/916.htm",
+    "source": "IT之家",
+    "time": "10-09 13:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《怪物猎人物语 3：命运双龙》游戏 11 月 18 日登陆 XBOX on PC，首次支持 XBOX Play Anywhere",
+    "url": "https://www.ithome.com/1/010/902.htm",
+    "source": "IT之家",
+    "time": "10-09 12:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软重构 XBOX PC 应用：游戏库加载提速，商店列表与游戏列表合一",
+    "url": "https://www.ithome.com/1/010/844.htm",
+    "source": "IT之家",
+    "time": "10-09 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "一加 x 京东方第四代东方屏发布：全新 X4 发光材料、日常 165Hz、游戏 185Hz，一加 16 首发搭载",
+    "url": "https://www.ithome.com/1/010/837.htm",
+    "source": "IT之家",
+    "time": "10-09 10:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩国游戏公司CEO离谱丑闻：4个夜场美女”挂职领工资 ”，被诉贪污4亿韩元",
+    "url": "http://www.gamelook.com.cn/2026/10/603441/",
+    "source": "GameLook",
+    "time": "10-09 10:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游大伟哥成“小红书RED LAND”最大“人形彩蛋”，玩家：合照来者不拒",
+    "url": "http://www.gamelook.com.cn/2026/10/603427/",
+    "source": "GameLook",
+    "time": "10-09 09:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "AX 电竞叛客正式推出 GeForce RTX 5070 秋序限定显卡",
+    "url": "https://www.ithome.com/1/010/796.htm",
+    "source": "IT之家",
+    "time": "10-09 09:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "欧盟对9家游戏大厂执法行动，遭集体抵制：Supercell,拳头,育碧,King在列",
+    "url": "http://www.gamelook.com.cn/2026/10/603395/",
+    "source": "GameLook",
+    "time": "10-09 09:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "今晚 20:00 京东 11.11 全面开抢：家居家电 3C 数码年内好价，OPPO N6 折叠屏国补 10%",
+    "url": "https://www.ithome.com/1/010/921.htm",
+    "source": "IT之家",
+    "time": "10-09 14:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "亚马逊零售部门裁员数百人，发言人回应称做出了艰难决定",
+    "url": "https://www.ithome.com/1/010/811.htm",
+    "source": "IT之家",
+    "time": "10-09 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米智能门锁 5C 猫眼版预售：支持关门自动上锁，国补后到手价 999.6 元起",
+    "url": "https://www.ithome.com/1/010/808.htm",
+    "source": "IT之家",
+    "time": "10-09 10:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(12)",
+   "HackerNews(6)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
