@@ -2,10 +2,21 @@
  "id": "2026-10-10-wubao",
  "title": "线口监测午报 · 2026年10月10日(周六)",
  "shift": "午报",
- "date": "2026-10-10 21:34",
+ "date": "2026-10-10 22:25",
  "docx": "../briefings/线口监测午报-2026-10-10.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "铭凡首款无风扇全闪 AI NAS 机型 S5 将于 10 月中下旬国行开售",
+    "url": "https://www.ithome.com/1/011/521.htm",
+    "source": "IT之家",
+    "time": "10-10 22:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起",
@@ -52,6 +63,17 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "source": "Hacker News",
+    "time": "10-10 18:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
     "url": "https://www.ithome.com/1/011/432.htm",
     "source": "IT之家",
@@ -74,52 +96,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "教育部：教师 AI 素养全覆盖培训启动",
-    "url": "https://www.ithome.com/1/011/400.htm",
-    "source": "IT之家",
-    "time": "10-10 15:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "给 AI 植入广告涉“虚假宣传”，深圳一家 GEO 服务商被市场监管局处以 5 万元罚款",
-    "url": "https://www.ithome.com/1/011/394.htm",
-    "source": "IT之家",
-    "time": "10-10 15:35",
-    "summary": "",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Meta 与多家伙伴合作推出 PAP 协议：规范个人智能体与企业服务交互方式",
-    "url": "https://www.ithome.com/1/011/392.htm",
-    "source": "IT之家",
-    "time": "10-10 15:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "一副AI眼镜，难倒“眼镜之都”的小店主",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca3eda9c384d77a90ee97efdfc031b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C-%25E9%259A%25BE%25E5%2580%2592-%25E7%259C%25BC%25E9%2595%259C%25E4%25B9%258B%25E9%2583%25BD-%25E7%259A%2584%25E5%25B0%258F%25E5%25BA%2597%25E4%25B8%25BB%2far-AA2dWKPz&c=15807560238059030243&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-10 14:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "100多副AI眼镜集体亮相国际峰会，背后是一家中国科技公司",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca3eda9c384d77a90ee97efdfc031b&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-10%2fdoc-iniutcvm6162708.shtml&c=4914915167880044904&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca4af0a9e344be84fe2438ae288fff&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-10%2fdoc-iniutcvm6162708.shtml&c=4914915167880044904&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-10 13:21",
     "summary": "",
@@ -130,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "极刻觅镜 | AI眼镜日报｜Meta向新加坡四家机构捐赠1000副AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca3eda9c384d77a90ee97efdfc031b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085879220_123023378&c=13798154035998518851&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca4af0a9e344be84fe2438ae288fff&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085879220_123023378&c=13798154035998518851&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-10 12:28",
     "summary": "",
@@ -144,6 +122,28 @@
     "url": "http://www.gamelook.com.cn/2026/10/603507/",
     "source": "GameLook",
     "time": "10-10 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca4af0a9e344be84fe2438ae288fff&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086069715_118005&c=14122195653851414047&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 08:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一副AI眼镜，难倒“眼镜之都”的小店主",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca4af0a9e344be84fe2438ae288fff&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2flifestyle%2fother%2f%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C-%25E9%259A%25BE%25E5%2580%2592-%25E7%259C%25BC%25E9%2595%259C%25E4%25B9%258B%25E9%2583%25BD-%25E7%259A%2584%25E5%25B0%258F%25E5%25BA%2597%25E4%25B8%25BB%2far-AA2dWKPz&c=4090480296100984751&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 07:44",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -174,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "穿外骨骼登山、戴AI眼镜看景……文旅越来越有“科技范儿”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca3eda9c384d77a90ee97efdfc031b&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-10%2fdoc-iniutcvq0598250.shtml&c=718483483043505823&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca4af0a9e344be84fe2438ae288fff&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-10%2fdoc-iniutcvq0598250.shtml&c=718483483043505823&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-10 01:00",
     "summary": "",
@@ -185,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "超110台AR眼镜投入WTTC全球峰会 中国AI翻译方案迈进世界旅游业舞台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca3eda9c384d77a90ee97efdfc031b&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610103891880490.html&c=13063126509045138387&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca4af0a9e344be84fe2438ae288fff&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610103891880490.html&c=13063126509045138387&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-10 01:00",
     "summary": "",
@@ -196,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "听力科技初创公司Legato推出AI听力眼镜产品",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca3eda9c384d77a90ee97efdfc031b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%2590%25AC%25E5%258A%259B%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259D%25E5%2588%259B%25E5%2585%25AC%25E5%258F%25B8legato%25E6%258E%25A8%25E5%2587%25BAai%25E5%2590%25AC%25E5%258A%259B%25E7%259C%25BC%25E9%2595%259C%25E4%25BA%25A7%25E5%2593%2581%2far-AA2dVEpv&c=14585963499768357662&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca4af0a9e344be84fe2438ae288fff&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%2590%25AC%25E5%258A%259B%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259D%25E5%2588%259B%25E5%2585%25AC%25E5%258F%25B8legato%25E6%258E%25A8%25E5%2587%25BAai%25E5%2590%25AC%25E5%258A%259B%25E7%259C%25BC%25E9%2595%259C%25E4%25BA%25A7%25E5%2593%2581%2far-AA2dVEpv&c=6851163526031676648&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-10 00:05",
     "summary": "",
@@ -214,52 +214,41 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "多家巨头密集押注AI眼镜，电感怎么突破技术瓶颈",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca3eda9c384d77a90ee97efdfc031b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085413476_100193168&c=18145583468688513686&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-09 11:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [
+  "机器人/AI硬件": [
    {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "2026 巴黎车展新设“智驾实验室”公开体验活动，仅小鹏、特斯拉两家企业参与",
-    "url": "https://www.ithome.com/1/011/393.htm",
+    "beat": "机器人/AI硬件",
+    "title": "上市价 4699 元 → 国补后 3143 元：石头扫拖机器人 P20 Max 上下水版新低",
+    "url": "https://www.ithome.com/1/011/193.htm",
     "source": "IT之家",
-    "time": "10-10 15:33",
+    "time": "10-10 09:07",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
+  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "漫步者 HECATE G2000 Bar 电竞音箱上架：四单元声学配置、配可插拔麦克风，首发价 349 元",
+    "url": "https://www.ithome.com/1/011/515.htm",
+    "source": "IT之家",
+    "time": "10-10 21:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "华为 Pura X View 手机鸿蒙 7.0.0.109 SP10 隐藏特性曝光，实装 Mate 90 同款游戏弹幕通知功能",
     "url": "https://www.ithome.com/1/011/410.htm",
     "source": "IT之家",
     "time": "10-10 16:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "传英伟达将不再向 GeForce 游戏显卡分配 GB202 GPU",
-    "url": "https://www.ithome.com/1/011/397.htm",
-    "source": "IT之家",
-    "time": "10-10 15:43",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -343,6 +332,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 1499 → 869 元：小米米家净水器 2 官方新低，1200G 大通量 + 7 年 RO 滤芯",
+    "url": "https://www.ithome.com/1/011/200.htm",
+    "source": "IT之家",
+    "time": "10-10 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ]
  },
@@ -351,7 +351,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(4)",
+   "HackerNews(5)",
    "Bing新闻(9)"
   ],
   "fail": [
