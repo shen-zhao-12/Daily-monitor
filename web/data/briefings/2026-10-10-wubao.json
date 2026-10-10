@@ -1,0 +1,361 @@
+{
+ "id": "2026-10-10-wubao",
+ "title": "线口监测午报 · 2026年10月10日(周六)",
+ "shift": "午报",
+ "date": "2026-10-10 13:57",
+ "docx": "../briefings/线口监测午报-2026-10-10.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+    "url": "https://www.ithome.com/1/011/329.htm",
+    "source": "IT之家",
+    "time": "10-10 13:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "首张全天紫外线地图问世：Claude Science AI 协助绘制约 1/3 区域",
+    "url": "https://www.ithome.com/1/011/326.htm",
+    "source": "IT之家",
+    "time": "10-10 13:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+    "url": "https://www.ithome.com/1/011/325.htm",
+    "source": "IT之家",
+    "time": "10-10 13:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 公布大批数学研究成果引发学界巨震，学者担忧破坏学术合作传统",
+    "url": "https://www.ithome.com/1/011/285.htm",
+    "source": "IT之家",
+    "time": "10-10 11:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软推出 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+    "url": "https://www.ithome.com/1/011/264.htm",
+    "source": "IT之家",
+    "time": "10-10 10:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开发者自曝：“骗子用AI抄我游戏，威胁不给200美元就发Steam”！同行集体笑了",
+    "url": "http://www.gamelook.com.cn/2026/10/603507/",
+    "source": "GameLook",
+    "time": "10-10 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Underdog AI 发布 Saluki 27B 模型：2-bit 量化 Qwen3.8-27B，7.89GB 大小",
+    "url": "https://www.ithome.com/1/011/219.htm",
+    "source": "IT之家",
+    "time": "10-10 10:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
+    "url": "https://www.ithome.com/1/011/194.htm",
+    "source": "IT之家",
+    "time": "10-10 09:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜、折叠手机…… 智能电子消费热",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9d3cd3a1f4865a15beeb639434e60&url=https%3a%2f%2fwww.ceweekly.cn%2ffinance%2fbanking%2f2026%2f1010%2f501230.html&c=9291777225884707911&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 06:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "source": "Hacker News",
+    "time": "10-10 06:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "source": "Hacker News",
+    "time": "10-10 01:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "穿外骨骼登山、戴AI眼镜看景……文旅越来越有“科技范儿”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9d3cd3a1f4865a15beeb639434e60&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-10%2fdoc-iniutcvq0598250.shtml&c=718483483043505823&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "超110台AR眼镜投入WTTC全球峰会 中国AI翻译方案迈进世界旅游业舞台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9d3cd3a1f4865a15beeb639434e60&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610103891880490.html&c=13063126509045138387&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "100多副AI眼镜集体亮相国际峰会，背后是一家中国科技公司",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9d3cd3a1f4865a15beeb639434e60&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261010A05LBY00&c=8745927051963864361&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-09 23:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极刻觅镜 | AI眼镜日报｜Meta向新加坡四家机构捐赠1000副AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9d3cd3a1f4865a15beeb639434e60&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085879220_123023378&c=13798154035998518851&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-09 22:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+    "source": "Hacker News",
+    "time": "10-09 19:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "武汉商场一楼，正在被AI眼镜和机器人“占领”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9d3cd3a1f4865a15beeb639434e60&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-09%2fdoc-iniuqywq1104721.shtml&c=3597309723584131629&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-09 12:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "多家巨头密集押注AI眼镜，电感怎么突破技术瓶颈",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9d3cd3a1f4865a15beeb639434e60&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085413476_100193168&c=18145583468688513686&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-09 11:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "商务部等 7 部门：纠治电商平台“自动跟价”“全网最低价”等无序竞争行为",
+    "url": "https://www.ithome.com/1/011/220.htm",
+    "source": "IT之家",
+    "time": "10-10 10:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Circana 分析师：美国游戏主机市场或陷入 80 年代初至今最严重危机",
+    "url": "https://www.ithome.com/1/011/317.htm",
+    "source": "IT之家",
+    "time": "10-10 12:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "育碧哭了！发布仅8个月《彩虹六号手游》海外停运，腾讯《彩六:围攻》待发",
+    "url": "http://www.gamelook.com.cn/2026/10/603556/",
+    "source": "GameLook",
+    "time": "10-10 11:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易再次清理日本投资：与草蜢工作室和平分手，须田刚一官宣独立",
+    "url": "http://www.gamelook.com.cn/2026/10/603538/",
+    "source": "GameLook",
+    "time": "10-10 11:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "数毛社：索尼 PS5 超分技术 QSSR 存适配挑战，旧作游戏支持范围仍待确认",
+    "url": "https://www.ithome.com/1/011/287.htm",
+    "source": "IT之家",
+    "time": "10-10 11:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "战棋卡牌小游戏新爆款？《精英军团》空降微信畅销榜Top 20！",
+    "url": "http://www.gamelook.com.cn/2026/10/603530/",
+    "source": "GameLook",
+    "time": "10-10 11:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
+    "url": "https://www.ithome.com/1/011/260.htm",
+    "source": "IT之家",
+    "time": "10-10 10:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯 QQ PC 端上线隐私功能“迷你窗”：窗口更小、能调透明度，鼠标移走直接隐身",
+    "url": "https://www.ithome.com/1/011/217.htm",
+    "source": "IT之家",
+    "time": "10-10 10:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩国游戏公司CEO离谱丑闻：4个夜场美女”挂职领工资 ”，被诉贪污4亿韩元",
+    "url": "http://www.gamelook.com.cn/2026/10/603441/",
+    "source": "GameLook",
+    "time": "10-09 10:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "25kPa 大吸力 + 95℃ 高温自清洁：石头 A30 Pro 2.0 洗地机 1367 元国补新低",
+    "url": "https://www.ithome.com/1/011/210.htm",
+    "source": "IT之家",
+    "time": "10-10 09:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 1499 → 869 元：小米米家净水器 2 官方新低，1200G 大通量 + 7 年 RO 滤芯",
+    "url": "https://www.ithome.com/1/011/200.htm",
+    "source": "IT之家",
+    "time": "10-10 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 1499 → 1164 元：小米米家净水器 2 Pro 双出水 1200G 官方新低",
+    "url": "https://www.ithome.com/1/011/197.htm",
+    "source": "IT之家",
+    "time": "10-10 09:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(5)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
