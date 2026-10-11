@@ -1,0 +1,359 @@
+{
+ "id": "2026-10-11-wubao",
+ "title": "线口监测午报 · 2026年10月11日(周日)",
+ "shift": "午报",
+ "date": "2026-10-11 13:52",
+ "docx": "../briefings/线口监测午报-2026-10-11.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "磐镭 YO2 锐龙 AI Max+ PRO 495 版迷你工作站开售：192GB+2TB 售价 49999 元",
+    "url": "https://www.ithome.com/1/011/587.htm",
+    "source": "IT之家",
+    "time": "10-11 12:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国家安全部揭秘为何接陌生来电先沉默三秒，称数秒语音样本可能被不法分子用于 AI 声纹克隆",
+    "url": "https://www.ithome.com/1/011/574.htm",
+    "source": "IT之家",
+    "time": "10-11 11:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "机械革命将推 RTX Spark 迷你主机大师之路 X10，搭载 AI SSD",
+    "url": "https://www.ithome.com/1/011/563.htm",
+    "source": "IT之家",
+    "time": "10-11 10:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
+    "url": "https://www.ithome.com/1/011/558.htm",
+    "source": "IT之家",
+    "time": "10-11 09:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IT早报 1011：苹果首款智能家居中枢渲染图曝光；四部门拟禁汽车全隐藏式门把手；出版社回应网文实体书现 AI 回复内容；懂车帝称网传前总编辑身份为假...",
+    "url": "https://www.ithome.com/1/011/549.htm",
+    "source": "IT之家",
+    "time": "10-11 07:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称字节、腾讯加速个人 AI 智能体研发，追赶 Meta Muse",
+    "url": "https://www.ithome.com/1/011/548.htm",
+    "source": "IT之家",
+    "time": "10-11 07:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
+    "url": "https://www.ithome.com/1/011/545.htm",
+    "source": "IT之家",
+    "time": "10-11 07:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
+    "url": "https://www.ithome.com/1/011/542.htm",
+    "source": "IT之家",
+    "time": "10-11 06:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
+    "url": "https://www.ithome.com/1/011/541.htm",
+    "source": "IT之家",
+    "time": "10-11 06:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb242e44e34d629a11692e8bbd55c0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E6%258A%25B1%25E6%25AD%2589-ai%25E7%259C%25BC%25E9%2595%259C%25E7%259B%25AE%25E5%2589%258D%25E4%25BB%258D%25E6%2598%25AF%25E4%25B8%25AA-%25E9%25B8%25A1%25E8%2582%258B%2far-AA2dZE3R&c=12018505714474862639&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-11 05:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "source": "Hacker News",
+    "time": "10-11 02:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯元器将于 11 月 9 日停止服务，所创建智能体将不再可用",
+    "url": "https://www.ithome.com/1/011/530.htm",
+    "source": "IT之家",
+    "time": "10-10 22:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "铭凡首款无风扇全闪 AI NAS 机型 S5 将于 10 月中下旬国行开售",
+    "url": "https://www.ithome.com/1/011/521.htm",
+    "source": "IT之家",
+    "time": "10-10 22:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问AI眼镜N1 Pro支持“眼动追踪”与“虹膜支付”，10月13日现货发售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb242e44e34d629a11692e8bbd55c0&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086079821_121124517&c=16103559932445017513&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 20:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "source": "Hacker News",
+    "time": "10-10 18:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "理想AI眼镜操盘手创业儿童硬件，已完成千万元天使轮",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb242e44e34d629a11692e8bbd55c0&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261010A06ZLW00&c=2251564044847607389&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 15:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Food processing influences metabolism and brain activity",
+    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+    "source": "Hacker News",
+    "time": "10-10 13:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "100多副AI眼镜集体亮相国际峰会，背后是一家中国科技公司",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb242e44e34d629a11692e8bbd55c0&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-10%2fdoc-iniutcvm6162708.shtml&c=4914915167880044904&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 13:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极刻觅镜 | AI眼镜日报｜Meta向新加坡四家机构捐赠1000副AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb242e44e34d629a11692e8bbd55c0&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085879220_123023378&c=13798154035998518851&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 12:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开发者自曝：“骗子用AI抄我游戏，威胁不给200美元就发Steam”！同行集体笑了",
+    "url": "http://www.gamelook.com.cn/2026/10/603507/",
+    "source": "GameLook",
+    "time": "10-10 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一副AI眼镜，难倒“眼镜之都”的小店主",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb242e44e34d629a11692e8bbd55c0&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2flifestyle%2fother%2f%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C-%25E9%259A%25BE%25E5%2580%2592-%25E7%259C%25BC%25E9%2595%259C%25E4%25B9%258B%25E9%2583%25BD-%25E7%259A%2584%25E5%25B0%258F%25E5%25BA%2597%25E4%25B8%25BB%2far-AA2dWKPz&c=4090480296100984751&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 07:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "穿外骨骼登山、戴AI眼镜看景……文旅越来越有“科技范儿”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb242e44e34d629a11692e8bbd55c0&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-10%2fdoc-iniutcvq0598250.shtml&c=718483483043505823&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "超110台AR眼镜投入WTTC全球峰会 中国AI翻译方案迈进世界旅游业舞台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb242e44e34d629a11692e8bbd55c0&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610103891880490.html&c=13063126509045138387&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "source": "Hacker News",
+    "time": "10-09 14:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "一加 16 手机预热：首发自研电竞网络芯片 G3、抗干扰电竞天线，宣称手指握住天线、网络也不波动",
+    "url": "https://www.ithome.com/1/011/570.htm",
+    "source": "IT之家",
+    "time": "10-11 10:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《星际公民》衍生单机游戏《42 中队》上架 Steam，显卡最低要求 8GB 显存",
+    "url": "https://www.ithome.com/1/011/547.htm",
+    "source": "IT之家",
+    "time": "10-11 07:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "华为游戏助手弹幕通知功能适配机型公布，首批含 Pura X View、Mate XT 2 等",
+    "url": "https://www.ithome.com/1/011/531.htm",
+    "source": "IT之家",
+    "time": "10-10 22:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "育碧哭了！发布仅8个月《彩虹六号手游》海外停运，腾讯《彩六:围攻》待发",
+    "url": "http://www.gamelook.com.cn/2026/10/603556/",
+    "source": "GameLook",
+    "time": "10-10 11:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易再次清理日本投资：与草蜢工作室和平分手，须田刚一官宣独立",
+    "url": "http://www.gamelook.com.cn/2026/10/603538/",
+    "source": "GameLook",
+    "time": "10-10 11:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "战棋卡牌小游戏新爆款？《精英军团》空降微信畅销榜Top 20！",
+    "url": "http://www.gamelook.com.cn/2026/10/603530/",
+    "source": "GameLook",
+    "time": "10-10 11:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(7)",
+   "HackerNews(7)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
