@@ -1,0 +1,295 @@
+{
+ "id": "2026-10-12-wubao",
+ "title": "线口监测午报 · 2026年10月12日(周一)",
+ "shift": "午报",
+ "date": "2026-10-12 14:04",
+ "docx": "../briefings/线口监测午报-2026-10-12.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "惠普战 99 锐龙版 AI 移动工作站开售：AMD R9-9955HX3D + RTX PRO 2000，21999 元",
+    "url": "https://www.ithome.com/1/011/865.htm",
+    "source": "IT之家",
+    "time": "10-12 13:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "TikTok CEO 周受资：市场对 AI 短期发展的能力可能有所高估，却低估其长期影响",
+    "url": "https://www.ithome.com/1/011/861.htm",
+    "source": "IT之家",
+    "time": "10-12 13:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“百度世界 2026”定档 11 月 12 日，将有“重磅嘉宾、企业级 AI 产品”集中亮相",
+    "url": "https://www.ithome.com/1/011/859.htm",
+    "source": "IT之家",
+    "time": "10-12 13:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "海尔推出 M1 Plus 智能晾衣架：支持 AI 离线语音，689 元",
+    "url": "https://www.ithome.com/1/011/857.htm",
+    "source": "IT之家",
+    "time": "10-12 12:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "宇树科技王兴兴：过去十几年我犯的最大错误就是对 AI 还不够相信",
+    "url": "https://www.ithome.com/1/011/850.htm",
+    "source": "IT之家",
+    "time": "10-12 12:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "无问芯穹完成 23 亿元 C 轮融资，单轮及累计融资额均创中国 AI 原生基础设施赛道最高纪录",
+    "url": "https://www.ithome.com/1/011/849.htm",
+    "source": "IT之家",
+    "time": "10-12 12:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“AI要革小游戏的命”？千万MAU AI小游戏平台诞生，腾讯Meta谷歌加速进场！",
+    "url": "http://www.gamelook.com.cn/2026/10/603589/",
+    "source": "GameLook",
+    "time": "10-12 11:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "丘成桐数学与人工智能实验室联盟在清华大学成立，推动 AI 与数学深度融合",
+    "url": "https://www.ithome.com/1/011/814.htm",
+    "source": "IT之家",
+    "time": "10-12 11:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游戏开发者热议：“人人都在用AI，参加Game Jam还有什么意义”？",
+    "url": "http://www.gamelook.com.cn/2026/10/603634/",
+    "source": "GameLook",
+    "time": "10-12 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奇葩独游《教妹妹开车》测试火爆，开发者穷疯了：“每天AI账单7000元、贷款续命”",
+    "url": "http://www.gamelook.com.cn/2026/10/603621/",
+    "source": "GameLook",
+    "time": "10-12 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马化腾带 28 岁青年与广东省委书记黄坤明座谈：腾讯首席 AI 科学家姚顺雨露面",
+    "url": "https://www.ithome.com/1/011/765.htm",
+    "source": "IT之家",
+    "time": "10-12 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中国AI产品消费热潮涌动：智能眼镜成新宠",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc78611dc34fdcad3e37e0663b2880&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086454542_447547&c=16852320477547227272&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-12 02:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta引爆AI眼镜超级入口，国产供应链迎来黄金窗口",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc78611dc34fdcad3e37e0663b2880&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086543448_115124&c=11447356132493545689&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-11 20:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc78611dc34fdcad3e37e0663b2880&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E6%258A%25B1%25E6%25AD%2589-ai%25E7%259C%25BC%25E9%2595%259C%25E7%259B%25AE%25E5%2589%258D%25E4%25BB%258D%25E6%2598%25AF%25E4%25B8%25AA-%25E9%25B8%25A1%25E8%2582%258B%2far-AA2dZE3R&c=12018505714474862639&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-11 05:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "理想AI眼镜操盘手创业儿童硬件，已完成千万元天使轮",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc78611dc34fdcad3e37e0663b2880&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261010A06ZLW00&c=2251564044847607389&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-10 15:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小米推出米家扫拖机器人 7 Max：50℃ 热水喷淋定点拖地，4999 元起",
+    "url": "https://www.ithome.com/1/011/775.htm",
+    "source": "IT之家",
+    "time": "10-12 10:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯宣布《全境封锁 2》国服 12 月 14 日 11 点停止运营，已停止游戏充值和新用户注册",
+    "url": "https://www.ithome.com/1/011/870.htm",
+    "source": "IT之家",
+    "time": "10-12 13:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy，10 月 12 至 25 日独家限免",
+    "url": "https://www.ithome.com/1/011/852.htm",
+    "source": "IT之家",
+    "time": "10-12 12:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "万代南梦宫宣布《火影忍者》手游将面向全球发行，腾讯国服 2016 年上线",
+    "url": "https://www.ithome.com/1/011/848.htm",
+    "source": "IT之家",
+    "time": "10-12 12:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "憋了9年！网易最强射击工作室掏出“真3A FPS”，要与腾讯正面刚",
+    "url": "http://www.gamelook.com.cn/2026/10/603669/",
+    "source": "GameLook",
+    "time": "10-12 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“MMO手游如何雪崩的”？深度分析：从最赚钱游戏到收入腰斩！",
+    "url": "http://www.gamelook.com.cn/2026/10/603649/",
+    "source": "GameLook",
+    "time": "10-12 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "7年烧光千万、3次推倒重来，王老菊首款游戏终于要上线了？",
+    "url": "http://www.gamelook.com.cn/2026/10/603588/",
+    "source": "GameLook",
+    "time": "10-12 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“最惨独游神作”？10年花掉2亿巨款，吹哥“推箱子游戏”，好评97%却卖不动？",
+    "url": "http://www.gamelook.com.cn/2026/10/603566/",
+    "source": "GameLook",
+    "time": "10-12 09:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "乘联分会：9 月全国乘用车市场零售 161.8 万辆同比下降 28%，新能源渗透率 67% 创新高",
+    "url": "https://www.ithome.com/1/011/869.htm",
+    "source": "IT之家",
+    "time": "10-12 13:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(7)",
+   "HackerNews(2)",
+   "Bing新闻(4)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
