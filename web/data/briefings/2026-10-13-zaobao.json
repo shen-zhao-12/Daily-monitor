@@ -1,0 +1,361 @@
+{
+ "id": "2026-10-13-zaobao",
+ "title": "线口监测早报 · 2026年10月13日(周二)",
+ "shift": "早报",
+ "date": "2026-10-13 00:40",
+ "docx": "../briefings/线口监测早报-2026-10-13.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软 Maia 300 AI 芯片发布：台积电 N2P 工艺，288GB HBM4 内存、带宽 18TB/s",
+    "url": "https://www.ithome.com/1/012/115.htm",
+    "source": "IT之家",
+    "time": "10-12 22:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AMD 发布新一代锐龙 AI Halo 开发者平台，升级 Max+ PRO 495 与至高 192GB 内存",
+    "url": "https://www.ithome.com/1/012/104.htm",
+    "source": "IT之家",
+    "time": "10-12 22:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AMD 发布智能体 AI 计算机架 Helion，纯 CPU 版本可扩展至 32,768 核心",
+    "url": "https://www.ithome.com/1/012/103.htm",
+    "source": "IT之家",
+    "time": "10-12 22:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "安克 AI 会议耳机飞书版开售：支持线上线下全场景录音，1799 元",
+    "url": "https://www.ithome.com/1/012/072.htm",
+    "source": "IT之家",
+    "time": "10-12 19:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软详解 Edge 浏览器全新 AI 故障排查功能：整体类似聊天机器人，经用户同意后才会收集诊断数据",
+    "url": "https://www.ithome.com/1/012/069.htm",
+    "source": "IT之家",
+    "time": "10-12 19:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "QGIS bans AI assisted contributions",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "source": "Hacker News",
+    "time": "10-12 19:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问发布 QwenGyre，面向超长程智能体任务的在线强化学习框架",
+    "url": "https://www.ithome.com/1/012/066.htm",
+    "source": "IT之家",
+    "time": "10-12 19:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英特尔、博通 CEO 齐发预警：资金短缺可能成为 AI 发展最大瓶颈",
+    "url": "https://www.ithome.com/1/012/061.htm",
+    "source": "IT之家",
+    "time": "10-12 19:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开发者利用 AI 智能体将《使命召唤：黑色行动 2》游戏移植至网页端，后被动视 DMCA 版权投诉下架",
+    "url": "https://www.ithome.com/1/012/048.htm",
+    "source": "IT之家",
+    "time": "10-12 18:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "惠普 \"Wildcat Lake\" 商务轻薄笔电战 66 Air 发售，到手价 5099.15 元起",
+    "url": "https://www.ithome.com/1/012/038.htm",
+    "source": "IT之家",
+    "time": "10-12 17:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜遇挑战，亿境虚拟呼吁：商业化初期，聚焦高频场景“做减法”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd0d8e11e54e0b935104829c23690e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086757042_121134737&c=1592937205250620131&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-12 17:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大眼橙可弯折AI听记眼镜发布会定档，10月13日共同见证",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd0d8e11e54e0b935104829c23690e&url=https%3a%2f%2fwww.ithome.com%2f1%2f011%2f889.htm&c=4936312757194163471&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-12 15:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“AI要革小游戏的命”？千万MAU AI小游戏平台诞生，腾讯Meta谷歌加速进场！",
+    "url": "http://www.gamelook.com.cn/2026/10/603589/",
+    "source": "GameLook",
+    "time": "10-12 11:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta引爆AI眼镜超级入口，国产供应链迎来黄金窗口",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd0d8e11e54e0b935104829c23690e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086543448_115124&c=11447356132493545689&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-12 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游戏开发者热议：“人人都在用AI，参加Game Jam还有什么意义”？",
+    "url": "http://www.gamelook.com.cn/2026/10/603634/",
+    "source": "GameLook",
+    "time": "10-12 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奇葩独游《教妹妹开车》测试火爆，开发者穷疯了：“每天AI账单7000元、贷款续命”",
+    "url": "http://www.gamelook.com.cn/2026/10/603621/",
+    "source": "GameLook",
+    "time": "10-12 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小鹏今年底实现人形机器人量产，2027 年上半年开启交付",
+    "url": "https://www.ithome.com/1/012/094.htm",
+    "source": "IT之家",
+    "time": "10-12 21:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "经典游戏《无人深空》将登陆苹果 iOS 平台，iPhone 11 以上即可游玩",
+    "url": "https://www.ithome.com/1/012/111.htm",
+    "source": "IT之家",
+    "time": "10-12 22:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "第四代 W-OLED 电竞 FPS 显示器：AOC 惊雪 27 英寸 2699 → 1999 元国补直降",
+    "url": "https://www.ithome.com/1/012/095.htm",
+    "source": "IT之家",
+    "time": "10-12 21:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《战争机器：事变日》游戏服务器遭黑客 DDoS 攻击，玩家可能遭遇频繁掉线问题",
+    "url": "https://www.ithome.com/1/012/089.htm",
+    "source": "IT之家",
+    "time": "10-12 20:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《DroidDeck》开源应用公布，可让安卓手机通过 Proton 兼容层运行 Steam 平台 PC 游戏",
+    "url": "https://www.ithome.com/1/012/088.htm",
+    "source": "IT之家",
+    "time": "10-12 20:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026 年度 TGA 游戏大奖颁奖典礼将于北京时间 12 月 11 日举行，提名名单预计 11 月底公布",
+    "url": "https://www.ithome.com/1/012/074.htm",
+    "source": "IT之家",
+    "time": "10-12 19:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯旗下搜狗问问宣布 11 月 7 日停运，用户可提前备份数据",
+    "url": "https://www.ithome.com/1/012/040.htm",
+    "source": "IT之家",
+    "time": "10-12 18:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "憋了9年！网易最强射击工作室掏出“真3A FPS”，要与腾讯正面刚",
+    "url": "http://www.gamelook.com.cn/2026/10/603669/",
+    "source": "GameLook",
+    "time": "10-12 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“MMO手游如何雪崩的”？深度分析：从最赚钱游戏到收入腰斩！",
+    "url": "http://www.gamelook.com.cn/2026/10/603649/",
+    "source": "GameLook",
+    "time": "10-12 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "熊猫“S24Q6A”23.8 英寸显示器发售：2K 180Hz，599 元（国补后 521.1 元）",
+    "url": "https://www.ithome.com/1/012/126.htm",
+    "source": "IT之家",
+    "time": "10-12 23:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "五天线设计 + 9 颗 FEM：腾达泰山 BE7200 Ultra 路由器 429 → 244 元国补直降",
+    "url": "https://www.ithome.com/1/012/116.htm",
+    "source": "IT之家",
+    "time": "10-12 22:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "熊猫“Y27U4e”27 英寸显示器发售：4K 120Hz，888 元（国补后 781.2 元）",
+    "url": "https://www.ithome.com/1/012/092.htm",
+    "source": "IT之家",
+    "time": "10-12 21:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米“米家洗衣机健康洗双筒 1KG”开启预售：23 种洗护程序、母婴级认证，国补后 1299 元",
+    "url": "https://www.ithome.com/1/012/086.htm",
+    "source": "IT之家",
+    "time": "10-12 20:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "一加 SUPERVOOC 67W 口袋充屏显移动电源发布，零售价 229 元",
+    "url": "https://www.ithome.com/1/012/084.htm",
+    "source": "IT之家",
+    "time": "10-12 20:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(7)",
+   "HackerNews(4)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
