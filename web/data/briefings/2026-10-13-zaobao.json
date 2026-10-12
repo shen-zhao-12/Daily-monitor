@@ -2,7 +2,7 @@
  "id": "2026-10-13-zaobao",
  "title": "线口监测早报 · 2026年10月13日(周二)",
  "shift": "早报",
- "date": "2026-10-13 00:40",
+ "date": "2026-10-13 01:46",
  "docx": "../briefings/线口监测早报-2026-10-13.docx",
  "sections": {
   "AI/大模型": [
@@ -63,17 +63,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "QGIS bans AI assisted contributions",
-    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-    "source": "Hacker News",
-    "time": "10-12 19:22",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "阿里千问发布 QwenGyre，面向超长程智能体任务的在线强化学习框架",
     "url": "https://www.ithome.com/1/012/066.htm",
     "source": "IT之家",
@@ -119,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜遇挑战，亿境虚拟呼吁：商业化初期，聚焦高频场景“做减法”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd0d8e11e54e0b935104829c23690e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086757042_121134737&c=1592937205250620131&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd1d11e9f84a8f8741979d280bb3d0&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086757042_121134737&c=1592937205250620131&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-12 17:09",
     "summary": "",
@@ -130,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "大眼橙可弯折AI听记眼镜发布会定档，10月13日共同见证",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd0d8e11e54e0b935104829c23690e&url=https%3a%2f%2fwww.ithome.com%2f1%2f011%2f889.htm&c=4936312757194163471&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd1d11e9f84a8f8741979d280bb3d0&url=https%3a%2f%2fwww.ithome.com%2f1%2f011%2f889.htm&c=4936312757194163471&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-12 15:45",
     "summary": "",
@@ -152,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "Meta引爆AI眼镜超级入口，国产供应链迎来黄金窗口",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd0d8e11e54e0b935104829c23690e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086543448_115124&c=11447356132493545689&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd1d11e9f84a8f8741979d280bb3d0&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086543448_115124&c=11447356132493545689&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-12 10:20",
     "summary": "",
@@ -286,6 +275,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "7年烧光千万、3次推倒重来，王老菊首款游戏终于要上线了？",
+    "url": "http://www.gamelook.com.cn/2026/10/603588/",
+    "source": "GameLook",
+    "time": "10-12 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -351,7 +351,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(4)",
+   "HackerNews(1)",
    "Bing新闻(5)"
   ],
   "fail": [
