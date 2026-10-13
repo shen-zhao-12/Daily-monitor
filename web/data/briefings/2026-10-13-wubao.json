@@ -2,10 +2,76 @@
  "id": "2026-10-13-wubao",
  "title": "线口监测午报 · 2026年10月13日(周二)",
  "shift": "午报",
- "date": "2026-10-13 14:50",
+ "date": "2026-10-13 15:44",
  "docx": "../briefings/线口监测午报-2026-10-13.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软逆转办公 AI 策略，新版 Copilot 整合完整 Word / Excel / PowerPoint 体验",
+    "url": "https://www.ithome.com/1/012/403.htm",
+    "source": "IT之家",
+    "time": "10-13 15:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "TCOMAS GATE 幻境 360 AIO 液冷上架：主板微景观，首发 899 元",
+    "url": "https://www.ithome.com/1/012/401.htm",
+    "source": "IT之家",
+    "time": "10-13 15:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问 N1 系列 AI 眼镜发布：支持更换电池、Pro 版支持眼动交互 / 全天候健康监测，2899 元起",
+    "url": "https://www.ithome.com/1/012/400.htm",
+    "source": "IT之家",
+    "time": "10-13 15:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 警告：小型 AI 模型数月后或将具备在物联网设备上自我复制的能力",
+    "url": "https://www.ithome.com/1/012/389.htm",
+    "source": "IT之家",
+    "time": "10-13 15:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IDC：英伟达在华数据中心 AI 芯片份额降至 34%，华为升至 28%",
+    "url": "https://www.ithome.com/1/012/385.htm",
+    "source": "IT之家",
+    "time": "10-13 15:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "壹号本 OneXPlayer 预告 Super X PRO 二合一平板：锐龙 AI Max+ 495、192GB 内存",
+    "url": "https://www.ithome.com/1/012/371.htm",
+    "source": "IT之家",
+    "time": "10-13 14:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "导演徐克谈 AI：幻觉与真实交织，边界日益模糊",
@@ -45,39 +111,6 @@
     "url": "https://www.ithome.com/1/012/288.htm",
     "source": "IT之家",
     "time": "10-13 13:17",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "彭博行业研究分析 AI 数据中心成本：1GW 容量恐超 300 亿美元",
-    "url": "https://www.ithome.com/1/012/275.htm",
-    "source": "IT之家",
-    "time": "10-13 12:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "国内首家，字节 Seed 设立单独的大模型安全与对齐部门",
-    "url": "https://www.ithome.com/1/012/270.htm",
-    "source": "IT之家",
-    "time": "10-13 11:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "阿里千问升级个人 AI 助理，Personal Agent“千问 Go！”即将发布",
-    "url": "https://www.ithome.com/1/012/244.htm",
-    "source": "IT之家",
-    "time": "10-13 11:06",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -140,10 +173,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "阿里巴巴宋刚：AI硬件开启交互革命，千问AI硬件已成为你的另一双眼睛和耳朵",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acdd4b6f0ec41e493c75dc149d031fc&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fshenji%2f2026-10-13%2fdoc-inivafqi7254220.shtml&c=6338965358723987465&mkt=en-us",
+    "title": "世界旅游峰会启用亮亮视野100余台翻译眼镜，AI实时翻译迈入规模化应用阶段",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde182fbb2454d9dd013163d1a082b&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fshenji%2f2026-10-13%2fdoc-iniuzuyr8159437.shtml&c=11938540523121710182&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-13 01:43",
+    "time": "10-13 01:01",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -162,8 +195,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "极刻觅镜 | AI眼镜周报｜XREAL AURA公布售价，NIMO完成天使轮融资",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde182fbb2454d9dd013163d1a082b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086872276_123023378&c=16845546383034197479&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-12 23:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "讯飞AI眼镜接入阿里灵影AOS：一次“软硬一体”与“生态开放”的双向奔赴",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acdd4b6f0ec41e493c75dc149d031fc&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087053346_104421&c=2398083368521068111&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde182fbb2454d9dd013163d1a082b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087053346_104421&c=2398083368521068111&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-12 21:24",
     "summary": "",
@@ -174,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "大眼橙可弯折AI听记眼镜发布会定档，10月13日共同见证",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acdd4b6f0ec41e493c75dc149d031fc&url=https%3a%2f%2fwww.ithome.com%2f1%2f011%2f889.htm&c=4936312757194163471&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acde182fbb2454d9dd013163d1a082b&url=https%3a%2f%2fwww.ithome.com%2f1%2f011%2f889.htm&c=4936312757194163471&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-12 15:45",
     "summary": "",
@@ -192,37 +236,15 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Meta引爆AI眼镜超级入口，国产供应链迎来黄金窗口",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acdd4b6f0ec41e493c75dc149d031fc&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086543448_115124&c=11447356132493545689&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-12 10:20",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "游戏开发者热议：“人人都在用AI，参加Game Jam还有什么意义”？",
-    "url": "http://www.gamelook.com.cn/2026/10/603634/",
-    "source": "GameLook",
-    "time": "10-12 10:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "华为哈勃投资参投，视塔机器人完成天使轮融资",
-    "url": "https://www.ithome.com/1/012/265.htm",
+    "title": "Counterpoint 预测：全球 Robotaxi 保险市场 2035 年达 258 亿美元",
+    "url": "https://www.ithome.com/1/012/387.htm",
     "source": "IT之家",
-    "time": "10-13 11:33",
+    "time": "10-13 15:14",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -230,6 +252,17 @@
    }
   ],
   "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "特斯拉自动驾驶出租车因学区超速遭 NHTSA 调查，涉及约 1000 台车辆",
+    "url": "https://www.ithome.com/1/012/369.htm",
+    "source": "IT之家",
+    "time": "10-13 14:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "无人驾驶/低空/智慧出行",
     "title": "特斯拉 Cybercab 无人驾驶出租车将换装新座椅，达拉斯为下一落地城市",
@@ -244,6 +277,17 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "荣耀 WIN 平板核心配置确认：第五代骁龙 8 至尊版平台、10000mAh 电池，首发 240Hz OLED 电竞屏",
+    "url": "https://www.ithome.com/1/012/383.htm",
+    "source": "IT之家",
+    "time": "10-13 15:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "万代南梦宫首曝《铁拳 8》游戏第 3 赛季范马勇次郎形象",
@@ -261,17 +305,6 @@
     "url": "https://www.ithome.com/1/012/332.htm",
     "source": "IT之家",
     "time": "10-13 14:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "荣耀 WIN 电竞全家桶新品亮相：手机、平板、游戏本、耳机、手柄",
-    "url": "https://www.ithome.com/1/012/234.htm",
-    "source": "IT之家",
-    "time": "10-13 10:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -298,28 +331,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "憋了9年！网易最强射击工作室掏出“真3A FPS”，要与腾讯正面刚",
-    "url": "http://www.gamelook.com.cn/2026/10/603669/",
-    "source": "GameLook",
-    "time": "10-12 10:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "“MMO手游如何雪崩的”？深度分析：从最赚钱游戏到收入腰斩！",
-    "url": "http://www.gamelook.com.cn/2026/10/603649/",
-    "source": "GameLook",
-    "time": "10-12 10:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -329,17 +340,6 @@
     "url": "https://www.ithome.com/1/012/287.htm",
     "source": "IT之家",
     "time": "10-13 13:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "2488 → 1724 元，华为 WATCH GT 6 Pro 智能手表 7 折起国补新低",
-    "url": "https://www.ithome.com/1/012/246.htm",
-    "source": "IT之家",
-    "time": "10-13 11:08",
     "summary": "",
     "grade": "C",
     "local": false,
