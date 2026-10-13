@@ -2,7 +2,7 @@
  "id": "2026-10-13-wubao",
  "title": "线口监测午报 · 2026年10月13日(周二)",
  "shift": "午报",
- "date": "2026-10-13 22:57",
+ "date": "2026-10-13 23:53",
  "docx": "../briefings/线口监测午报-2026-10-13.docx",
  "sections": {
   "AI/大模型": [
@@ -107,17 +107,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Character.ai Files for Bankruptcy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-    "source": "Hacker News",
-    "time": "10-13 19:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "赛力斯 & 字节合作：赛豆科技 AIVA 第二款车型预计为 SUV，考虑采用换电方案",
     "url": "https://www.ithome.com/1/012/538.htm",
     "source": "IT之家",
@@ -162,21 +151,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "TCL 展示 X5 智慧 CPE：峰值下行速率可达 7Gbps，支持本地多智能体调度",
-    "url": "https://www.ithome.com/1/012/488.htm",
-    "source": "IT之家",
-    "time": "10-13 17:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "阿里千问发布新一代AI眼镜、AI耳机，AI硬件加入智能体竞争下半场",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace46ea5a2c4e6d86f6fd7e5380b09b&url=https%3a%2f%2fm.yicai.com%2fnews%2f103391908.html&c=11970157402458437724&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace53f06c7c484ea9e85065ef1895b8&url=https%3a%2f%2fm.yicai.com%2fnews%2f103391908.html&c=11970157402458437724&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-13 15:57",
+    "time": "10-13 16:53",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -184,7 +162,29 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Character.ai files for Chapter 11 bankruptcy",
+    "title": "全球首款搭载脑机接口的AI眼镜，Looktech新品发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace53f06c7c484ea9e85065ef1895b8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087224669_166680&c=14968632006647544080&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 16:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问 N1 系列 AI 眼镜发布：支持更换电池、Pro 版支持眼动交互 / 全天候健康监测，2899 元起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace53f06c7c484ea9e85065ef1895b8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-13%2fdoc-inivafqi7321532.shtml&c=15263055620850337002&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 16:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
     "url": "https://blog.character.ai/an-update-on-character-ai/",
     "source": "Hacker News",
     "time": "10-13 15:28",
@@ -196,9 +196,20 @@
    {
     "beat": "AI/大模型",
     "title": "视频｜千问发布 AI 眼镜、AI 耳机三款 Personal Agent 全新硬件",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace46ea5a2c4e6d86f6fd7e5380b09b&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%25A7%2586%25E9%25A2%2591-%25E5%258D%2583%25E9%2597%25AE%25E5%258F%2591%25E5%25B8%2583-ai-%25E7%259C%25BC%25E9%2595%259C-ai-%25E8%2580%25B3%25E6%259C%25BA%25E4%25B8%2589%25E6%25AC%25BE-personal-agent-%25E5%2585%25A8%25E6%2596%25B0%25E7%25A1%25AC%25E4%25BB%25B6%2far-AA2e984l&c=214897357904070344&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace53f06c7c484ea9e85065ef1895b8&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%25A7%2586%25E9%25A2%2591-%25E5%258D%2583%25E9%2597%25AE%25E5%258F%2591%25E5%25B8%2583-ai-%25E7%259C%25BC%25E9%2595%259C-ai-%25E8%2580%25B3%25E6%259C%25BA%25E4%25B8%2589%25E6%25AC%25BE-personal-agent-%25E5%2585%25A8%25E6%2596%25B0%25E7%25A1%25AC%25E4%25BB%25B6%2far-AA2e984l&c=214897357904070344&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-13 12:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问三款AI硬件开售，眼镜、耳机“物理助攻”Personal Agent",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace53f06c7c484ea9e85065ef1895b8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%258D%2583%25E9%2597%25AE%25E4%25B8%2589%25E6%25AC%25BEai%25E7%25A1%25AC%25E4%25BB%25B6%25E5%25BC%2580%25E5%2594%25AE-%25E7%259C%25BC%25E9%2595%259C-%25E8%2580%25B3%25E6%259C%25BA-%25E7%2589%25A9%25E7%2590%2586%25E5%258A%25A9%25E6%2594%25BB-personal-agent%2far-AA2e89wv&c=8147103457370027906&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 11:45",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -208,32 +219,10 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "德国 16 岁少女疑遭机器人骚扰：相关过程被直播，嫌疑人手机已被警方扣押",
+    "title": "德国 16 岁少女疑遭机器人骚扰：相关过程被直播，遥控嫌疑人手机已被警方扣押",
     "url": "https://www.ithome.com/1/012/544.htm",
     "source": "IT之家",
     "time": "10-13 19:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "哈啰 Robotaxi 发布生成式驾驶世界模型 HelloWorld，整合场景控制、连续生成、多传感器观测与高效推理能力",
-    "url": "https://www.ithome.com/1/012/493.htm",
-    "source": "IT之家",
-    "time": "10-13 17:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "亚马逊“机器人员工”数量突破 100 万台，人类员工数量超 150 万人",
-    "url": "https://www.ithome.com/1/012/490.htm",
-    "source": "IT之家",
-    "time": "10-13 17:43",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -278,6 +267,17 @@
    }
   ],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "首发入库 XGP 仍热销，《战争机器：事变日》游戏登顶美国、英国 XBOX 商店销量榜",
+    "url": "https://www.ithome.com/1/012/595.htm",
+    "source": "IT之家",
+    "time": "10-13 23:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "网易《逆水寒：新世界》4.2 版本大资料片【苗疆蛊事】官宣月底登场",
@@ -352,8 +352,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(11)",
-   "Bing新闻(10)"
+   "HackerNews(9)",
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
