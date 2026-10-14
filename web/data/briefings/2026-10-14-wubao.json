@@ -2,10 +2,43 @@
  "id": "2026-10-14-wubao",
  "title": "线口监测午报 · 2026年10月14日(周三)",
  "shift": "午报",
- "date": "2026-10-14 20:49",
+ "date": "2026-10-14 21:37",
  "docx": "../briefings/线口监测午报-2026-10-14.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国",
+    "url": "https://www.ithome.com/1/013/105.htm",
+    "source": "IT之家",
+    "time": "10-14 21:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "5499 → 3823 元：大疆 AI ROMO 2 超幅扫拖机器人 11.11 官方直降",
+    "url": "https://www.ithome.com/1/013/100.htm",
+    "source": "IT之家",
+    "time": "10-14 21:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 iOS 27.2 Beta 4 系统 Siri AI 新增支持法语、日语、西班牙语等",
+    "url": "https://www.ithome.com/1/013/094.htm",
+    "source": "IT之家",
+    "time": "10-14 20:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "贾跃亭宣布 FFR 合并 FFAI 机器人业务独立上市，目标美股人形和仿生机器人第一股",
@@ -75,9 +108,20 @@
    {
     "beat": "AI/大模型",
     "title": "阿里发布450美元AI眼镜，它真正想卖的不是硬件",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34244276&c=3873269184228601611&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34244276%3fcommTag%3dtrue&c=15870252976370011574&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-14 13:49",
+    "time": "10-14 14:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜闯入韩国大学招生考试：当作弊工具越来越像普通眼镜，考场如何应对？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2597%25AF%25E5%2585%25A5%25E9%259F%25A9%25E5%259B%25BD%25E5%25A4%25A7%25E5%25AD%25A6%25E6%258B%259B%25E7%2594%259F%25E8%2580%2583%25E8%25AF%2595-%25E5%25BD%2593%25E4%25BD%259C%25E5%25BC%258A%25E5%25B7%25A5%25E5%2585%25B7%25E8%25B6%258A%25E6%259D%25A5%25E8%25B6%258A%25E5%2583%258F%25E6%2599%25AE%25E9%2580%259A%25E7%259C%25BC%25E9%2595%259C-%25E8%2580%2583%25E5%259C%25BA%25E5%25A6%2582%25E4%25BD%2595%25E5%25BA%2594%25E5%25AF%25B9%2far-AA2edTik&c=11234082468835377403&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-14 13:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -86,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "歌尔虎口夺食，斩获阿里AI眼镜高端单",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261014A05JEV00&c=2743652202879839344&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261014A05JEV00&c=2743652202879839344&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-14 12:18",
     "summary": "",
@@ -96,19 +140,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "阿里千问发布新一代AI眼镜及耳机 AI公司为何看好智能硬件？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fwww.caixin.com%2f2026-10-14%2f102493257.html&c=11572603406079996768&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-14 12:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "开启AI办公新纪元！大眼橙联合钉钉发布首款AI听记眼镜Q1",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087484234_120747958&c=11379860638488830207&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087484234_120747958&c=11379860638488830207&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-14 11:06",
     "summary": "",
@@ -140,19 +173,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "大眼橙×钉钉联合定义：可弯折AI听记眼镜Q1发布，售价1299元",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fwww.ithome.com%2f1%2f013%2f034.htm&c=5475233822181412887&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-14 05:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "全球首款搭载脑机接口的AI眼镜，Looktech新品发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087696380_121960420&c=9237675233557718241&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087696380_121960420&c=9237675233557718241&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-14 03:45",
     "summary": "",
@@ -163,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "大眼橙联合钉钉发布可弯折 AI 听记眼镜 Q1：最轻仅 28g，定价 1299 元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-14%2fdoc-iniveqvs1291529.shtml&c=11761624468479683772&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-14%2fdoc-iniveqvs1291529.shtml&c=11761624468479683772&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-14 02:54",
     "summary": "",
@@ -173,54 +195,32 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "千问AI硬件矩阵浮现 路线直指Personal Agent",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610143895711649.html&c=17439171272204309156&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-14 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问发布新一代AI眼镜、AI耳机，AI硬件加入智能体竞争下半场",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103391908.html&c=10639245210122579860&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 19:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "不止AI眼镜！千问AI硬件三箭齐发，个人Agent成最大亮点",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261013A09DLU00&c=15558096088706235032&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf8596c7754e30bbda548287ce22f6&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261013A09DLU00&c=15558096088706235032&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-13 17:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "千问AI眼镜，学会主动服务",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%258D%2583%25E9%2597%25AEai%25E7%259C%25BC%25E9%2595%259C-%25E5%25AD%25A6%25E4%25BC%259A%25E4%25B8%25BB%25E5%258A%25A8%25E6%259C%258D%25E5%258A%25A1%2far-AA2e9YEc&c=381963550320836601&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-13 14:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "视频｜千问发布 AI 眼镜、AI 耳机三款 Personal Agent 全新硬件",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%25A7%2586%25E9%25A2%2591-%25E5%258D%2583%25E9%2597%25AE%25E5%258F%2591%25E5%25B8%2583-ai-%25E7%259C%25BC%25E9%2595%259C-ai-%25E8%2580%25B3%25E6%259C%25BA%25E4%25B8%2589%25E6%25AC%25BE-personal-agent-%25E5%2585%25A8%25E6%2596%25B0%25E7%25A1%25AC%25E4%25BB%25B6%2far-AA2e984l&c=214897357904070344&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-13 12:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "《ARC Raiders》自救成功！Steam在线暴涨10倍至18万人，腾讯国服看到希望",
-    "url": "http://www.gamelook.com.cn/2026/10/603736/",
-    "source": "GameLook",
-    "time": "10-13 09:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "阿里千问 N1 系列 AI 眼镜发布：支持更换电池、Pro 版支持眼动交互/全天候健康监测，2899 元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7a6678d1400d9b4071a5eee40b78&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E9%2598%25BF%25E9%2587%258C%25E5%258D%2583%25E9%2597%25AE-n1-%25E7%25B3%25BB%25E5%2588%2597-ai-%25E7%259C%25BC%25E9%2595%259C%25E5%258F%2591%25E5%25B8%2583-%25E6%2594%25AF%25E6%258C%2581%25E6%259B%25B4%25E6%258D%25A2%25E7%2594%25B5%25E6%25B1%25A0-pro-%25E7%2589%2588%25E6%2594%25AF%25E6%258C%2581%25E7%259C%25BC%25E5%258A%25A8%25E4%25BA%25A4%25E4%25BA%2592-%25E5%2585%25A8%25E5%25A4%25A9%25E5%2580%2599%25E5%2581%25A5%25E5%25BA%25B7%25E7%259B%2591%25E6%25B5%258B-2899-%25E5%2585%2583%25E8%25B5%25B7%2far-AA2e79tN&c=5935984170955100509&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-13 08:33",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -243,6 +243,28 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏史首台中国 Vision GT：小米 Vision Gran Turismo 超跑官宣明日入驻 Gran Turismo 7",
+    "url": "https://www.ithome.com/1/013/101.htm",
+    "source": "IT之家",
+    "time": "10-14 21:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "R 星驳斥《GTA6》游戏制作成本超 15 亿美元传闻，但员工规模相比 2018 年已翻倍",
+    "url": "https://www.ithome.com/1/013/096.htm",
+    "source": "IT之家",
+    "time": "10-14 21:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "雷蛇灰鲭鲨 X 游戏音箱开售：7.1 环绕声、10 灯区幻彩底光，799 元",
@@ -315,28 +337,6 @@
     "url": "http://www.gamelook.com.cn/2026/10/603835/",
     "source": "GameLook",
     "time": "10-14 09:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "苹果慌了？拉反垄断专家“写中国报告邀功”，米哈游网易成“官网充值”案例",
-    "url": "http://www.gamelook.com.cn/2026/10/603704/",
-    "source": "GameLook",
-    "time": "10-13 10:15",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "分析：三消游戏的成功秘诀是“不创新”，创新关卡反而让玩家离开？",
-    "url": "http://www.gamelook.com.cn/2026/10/603693/",
-    "source": "GameLook",
-    "time": "10-13 10:11",
     "summary": "",
     "grade": "C",
     "local": false,
