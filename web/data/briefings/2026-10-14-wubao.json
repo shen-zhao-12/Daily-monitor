@@ -1,0 +1,360 @@
+{
+ "id": "2026-10-14-wubao",
+ "title": "线口监测午报 · 2026年10月14日(周三)",
+ "shift": "午报",
+ "date": "2026-10-14 12:58",
+ "docx": "../briefings/线口监测午报-2026-10-14.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "彭博社报告：云游戏与 AI 或将终结传统游戏主机",
+    "url": "https://www.ithome.com/1/012/783.htm",
+    "source": "IT之家",
+    "time": "10-14 11:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放",
+    "url": "https://www.ithome.com/1/012/769.htm",
+    "source": "IT之家",
+    "time": "10-14 11:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "9 月“AI 魔改”视频治理成果：清理违规视频近 1.3 万条、处置违规账号 30 余个",
+    "url": "https://www.ithome.com/1/012/701.htm",
+    "source": "IT之家",
+    "time": "10-14 10:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Counterpoint：到 2030 年全球处方助听器销量将超 3100 万台，近半支持端侧 AI",
+    "url": "https://www.ithome.com/1/012/696.htm",
+    "source": "IT之家",
+    "time": "10-14 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Epic与迪士尼IP大作延期：“要求员工只能用AI写代码、搞美术”，引爆全球玩家非议",
+    "url": "http://www.gamelook.com.cn/2026/10/603886/",
+    "source": "GameLook",
+    "time": "10-14 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游族AI红岸实验室余华松：AI Agent如何重构游戏创作与交互？",
+    "url": "http://www.gamelook.com.cn/2026/10/603814/",
+    "source": "GameLook",
+    "time": "10-14 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "url": "https://pulseos.finance",
+    "source": "Hacker News",
+    "time": "10-14 07:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "source": "Hacker News",
+    "time": "10-14 04:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "source": "Hacker News",
+    "time": "10-13 23:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "source": "Hacker News",
+    "time": "10-13 22:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "歌尔虎口夺食，斩获阿里AI眼镜高端单",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0c034c9246cd8f02af85682dfe84&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087529751_122618814&c=4661995113083976803&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 22:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问发布新一代AI眼镜及耳机 AI公司为何看好智能硬件？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0c034c9246cd8f02af85682dfe84&url=https%3a%2f%2fwww.caixin.com%2f2026-10-14%2f102493257.html&c=11572603406079996768&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 22:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜赛道近期迎密集融资 比特幻境完成数亿元天使轮融资",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0c034c9246cd8f02af85682dfe84&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610133894342388.html&c=2424258679128502851&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 21:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开启AI办公新纪元！大眼橙联合钉钉发布首款AI听记眼镜Q1",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0c034c9246cd8f02af85682dfe84&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087484234_120747958&c=11379860638488830207&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 21:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "彩显AI眼镜扎堆上市，上游供应链迎来增长",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0c034c9246cd8f02af85682dfe84&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261014A03FG000&c=12832076547398633250&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 19:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不止AI眼镜！千问AI硬件三箭齐发，个人Agent成最大亮点",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0c034c9246cd8f02af85682dfe84&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261013A09DLU00&c=15558096088706235032&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 17:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "视频｜千问发布 AI 眼镜、AI 耳机三款 Personal Agent 全新硬件",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0c034c9246cd8f02af85682dfe84&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%25A7%2586%25E9%25A2%2591-%25E5%258D%2583%25E9%2597%25AE%25E5%258F%2591%25E5%25B8%2583-ai-%25E7%259C%25BC%25E9%2595%259C-ai-%25E8%2580%25B3%25E6%259C%25BA%25E4%25B8%2589%25E6%25AC%25BE-personal-agent-%25E5%2585%25A8%25E6%2596%25B0%25E7%25A1%25AC%25E4%25BB%25B6%2far-AA2e984l&c=214897357904070344&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 12:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问三款AI硬件开售，眼镜、耳机“物理助攻”Personal Agent",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0c034c9246cd8f02af85682dfe84&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%258D%2583%25E9%2597%25AE%25E4%25B8%2589%25E6%25AC%25BEai%25E7%25A1%25AC%25E4%25BB%25B6%25E5%25BC%2580%25E5%2594%25AE-%25E7%259C%25BC%25E9%2595%259C-%25E8%2580%25B3%25E6%259C%25BA-%25E7%2589%25A9%25E7%2590%2586%25E5%258A%25A9%25E6%2594%25BB-personal-agent%2far-AA2e89wv&c=14499420242621867653&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-13 11:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "《ARC Raiders》自救成功！Steam在线暴涨10倍至18万人，腾讯国服看到希望",
+    "url": "http://www.gamelook.com.cn/2026/10/603736/",
+    "source": "GameLook",
+    "time": "10-13 09:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "消息称具身智能独角兽公司智元启动新一轮融资，估值约 500 亿元",
+    "url": "https://www.ithome.com/1/012/674.htm",
+    "source": "IT之家",
+    "time": "10-14 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游法务部：《原神》线下测试人员泄密至境外终被追责，被判赔偿 50 万",
+    "url": "https://www.ithome.com/1/012/799.htm",
+    "source": "IT之家",
+    "time": "10-14 12:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《糖果传奇》开发商打造的免费游戏引擎：Defold 正式支持微软 XBOX",
+    "url": "https://www.ithome.com/1/012/766.htm",
+    "source": "IT之家",
+    "time": "10-14 11:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Mihawk OS 登场：在破解 PS5 上运行“Win11”，已成功演示《哈迪斯》游戏",
+    "url": "https://www.ithome.com/1/012/752.htm",
+    "source": "IT之家",
+    "time": "10-14 10:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "豆包手机助手宣布陆续放开第三方应用屏幕自动化操作权限，阿里、腾讯系等 App 明确拒绝",
+    "url": "https://www.ithome.com/1/012/704.htm",
+    "source": "IT之家",
+    "time": "10-14 10:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《影之刃零》发售倒计时，对话梁其伟：游戏30小时，让世界记住“中国功夫朋克”",
+    "url": "http://www.gamelook.com.cn/2026/10/603856/",
+    "source": "GameLook",
+    "time": "10-14 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“打不过G胖就加入”？苹果AppStore迎独立游戏周，全面拥抱PC独游手游版？",
+    "url": "http://www.gamelook.com.cn/2026/10/603857/",
+    "source": "GameLook",
+    "time": "10-14 10:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩国游戏大厂“主播充值3亿韩元，游戏干到畅销榜冠军”，被议员批斗“操纵榜单”！",
+    "url": "http://www.gamelook.com.cn/2026/10/603834/",
+    "source": "GameLook",
+    "time": "10-14 09:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "版署印发《出版业发展“十五五”规划》：网游首次纳入国家五年规划，游戏业迎新风口",
+    "url": "http://www.gamelook.com.cn/2026/10/603835/",
+    "source": "GameLook",
+    "time": "10-14 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "苹果慌了？拉反垄断专家“写中国报告邀功”，米哈游网易成“官网充值”案例",
+    "url": "http://www.gamelook.com.cn/2026/10/603704/",
+    "source": "GameLook",
+    "time": "10-13 10:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "分析：三消游戏的成功秘诀是“不创新”，创新关卡反而让玩家离开？",
+    "url": "http://www.gamelook.com.cn/2026/10/603693/",
+    "source": "GameLook",
+    "time": "10-13 10:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(6)",
+   "Bing新闻(10)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
