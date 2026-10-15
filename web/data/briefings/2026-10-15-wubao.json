@@ -2,10 +2,21 @@
  "id": "2026-10-15-wubao",
  "title": "线口监测午报 · 2026年10月15日(周四)",
  "shift": "午报",
- "date": "2026-10-15 20:36",
+ "date": "2026-10-15 21:20",
  "docx": "../briefings/线口监测午报-2026-10-15.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OPPO Enco Air4s 无线耳机发布：32dB 主动降噪 + 43 小时续航，首发 179 元",
+    "url": "https://www.ithome.com/1/013/636.htm",
+    "source": "IT之家",
+    "time": "10-15 20:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "极米记得 AI 眼镜 MemoMind One 预售：无摄像头，首发 2699 元",
@@ -63,30 +74,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "库克：苹果智能 Apple Intelligence 月底在华发布测试版本，但不包括 Siri AI",
-    "url": "https://www.ithome.com/1/013/478.htm",
-    "source": "IT之家",
-    "time": "10-15 16:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文",
-    "url": "https://www.ithome.com/1/013/475.htm",
-    "source": "IT之家",
-    "time": "10-15 16:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI智能眼镜的芯片突围战",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0c8d2db2448a7bd37a40f49838d6e&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14563.html&c=13655519181694012480&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0d314a82a4bd2877df7a8ba7aec0e&url=https%3a%2f%2fwww.esmchina.com%2fnews%2f14563.html&c=13655519181694012480&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 11:53",
     "summary": "",
@@ -97,20 +86,9 @@
    {
     "beat": "AI/大模型",
     "title": "千问把AI装进眼镜和耳机：N1 Pro加入眼动交互，耳机支持任务交办",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0c8d2db2448a7bd37a40f49838d6e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261015A04ZHB00&c=2611741572395217100&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0d314a82a4bd2877df7a8ba7aec0e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261015A04ZHB00&c=2611741572395217100&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 11:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "极米记得 AI 显示眼镜 MemoMind One 10 月 15 日预售开启：从一副好眼镜，到一副真正有用的专业AI 眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0c8d2db2448a7bd37a40f49838d6e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1087951986_256352&c=4220892564932454556&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-15 11:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,8 +129,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "极米记得 AI 显示眼镜 MemoMind One 10 月 15 日预售开启：从一副好眼镜，到一副真正有用的专业AI 眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0d314a82a4bd2877df7a8ba7aec0e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088241086_120112797&c=12619537739600839116&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 07:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "颜值党狂喜！Nothing 也要推 AI 眼镜!",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0c8d2db2448a7bd37a40f49838d6e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261015A0BLA700&c=4200389186249198765&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0d314a82a4bd2877df7a8ba7aec0e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261015A0BLA700&c=4200389186249198765&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 05:31",
     "summary": "",
@@ -162,19 +151,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "大眼橙×钉钉联合定义：可弯折AI听记眼镜Q1发布，售价1299元",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0c8d2db2448a7bd37a40f49838d6e&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-10-15%2fdoc-inivhpnp8149346.shtml&c=7889134418867747192&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-15 05:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "开启AI办公新纪元！大眼橙联合钉钉发布可弯折AI听记眼镜Q1",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0c8d2db2448a7bd37a40f49838d6e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-15%2fdoc-inivhtus1421894.shtml&c=8608612520578595556&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0d314a82a4bd2877df7a8ba7aec0e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-15%2fdoc-inivhtus1421894.shtml&c=8608612520578595556&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 01:47",
     "summary": "",
@@ -184,10 +162,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "source": "Hacker News",
-    "time": "10-15 01:45",
+    "title": "极米科技旗下AI眼镜MemoMind One开启预售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0d314a82a4bd2877df7a8ba7aec0e&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610153897092157.html&c=14453726957026303888&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -195,10 +173,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "极米科技旗下AI眼镜MemoMind One开启预售",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0c8d2db2448a7bd37a40f49838d6e&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610153897092157.html&c=14453726957026303888&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-15 01:00",
+    "title": "Epic与迪士尼IP大作延期：“要求员工只能用AI写代码、搞美术”，引爆全球玩家非议",
+    "url": "http://www.gamelook.com.cn/2026/10/603886/",
+    "source": "GameLook",
+    "time": "10-14 09:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -238,17 +216,6 @@
     "url": "https://www.ithome.com/1/013/574.htm",
     "source": "IT之家",
     "time": "10-15 18:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "任天堂公布《火焰之纹章万缕千丝》游戏首款 DLC，219 港元含 3 组内容",
-    "url": "https://www.ithome.com/1/013/474.htm",
-    "source": "IT之家",
-    "time": "10-15 16:39",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -297,12 +264,45 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《影之刃零》发售倒计时，对话梁其伟：游戏30小时，让世界记住“中国功夫朋克”",
+    "url": "http://www.gamelook.com.cn/2026/10/603856/",
+    "source": "GameLook",
+    "time": "10-14 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“打不过G胖就加入”？苹果AppStore迎独立游戏周，全面拥抱PC独游手游版？",
+    "url": "http://www.gamelook.com.cn/2026/10/603857/",
+    "source": "GameLook",
+    "time": "10-14 10:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩国游戏大厂“主播充值3亿韩元，游戏干到畅销榜冠军”，被议员批斗“操纵榜单”！",
+    "url": "http://www.gamelook.com.cn/2026/10/603834/",
+    "source": "GameLook",
+    "time": "10-14 09:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "9999 → 8999 元：苹果 iPhone 18 Pro 国补立减千元 + 国家贴息 12 期免息",
+    "title": "【已结束】9999 → 8999 元：苹果 iPhone 18 Pro 国补立减千元 + 国家贴息 12 期免息",
     "url": "https://www.ithome.com/1/013/626.htm",
     "source": "IT之家",
     "time": "10-15 20:19",
@@ -351,8 +351,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(3)",
-   "Bing新闻(10)"
+   "HackerNews(1)",
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
