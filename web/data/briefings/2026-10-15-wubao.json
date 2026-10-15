@@ -2,10 +2,54 @@
  "id": "2026-10-15-wubao",
  "title": "线口监测午报 · 2026年10月15日(周四)",
  "shift": "午报",
- "date": "2026-10-15 12:46",
+ "date": "2026-10-15 13:55",
  "docx": "../briefings/线口监测午报-2026-10-15.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软办公 AI 智能体技术突破：不换模型响应提速 400%，词元消耗减 30%",
+    "url": "https://www.ithome.com/1/013/357.htm",
+    "source": "IT之家",
+    "time": "10-15 13:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 网页 / API 服务恢复正常，中断近 5 个小时",
+    "url": "https://www.ithome.com/1/013/352.htm",
+    "source": "IT之家",
+    "time": "10-15 13:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "比尔 · 盖茨认为 AI 比核武器更危险、比核能更有用，与 PC、互联网等创新都不同",
+    "url": "https://www.ithome.com/1/013/350.htm",
+    "source": "IT之家",
+    "time": "10-15 13:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 国际业务负责人普兰森：开放式 AI 模型比我们的模型风险更高",
+    "url": "https://www.ithome.com/1/013/337.htm",
+    "source": "IT之家",
+    "time": "10-15 12:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星",
@@ -173,21 +217,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "DeepSeek 网页 / API 服务今日出现部分中断，提示“服务器暂时不可用”",
-    "url": "https://www.ithome.com/1/013/179.htm",
-    "source": "IT之家",
-    "time": "10-15 09:06",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-    "source": "Hacker News",
-    "time": "10-15 02:32",
+    "title": "极米MemoMind One AI显示眼镜开启预售 光学音频记忆三大功能适配日常场景",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad06ad3903e4cfd992d7977264e25f6&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E6%259E%2581%25E7%25B1%25B3memomind-one-ai%25E6%2598%25BE%25E7%25A4%25BA%25E7%259C%25BC%25E9%2595%259C%25E5%25BC%2580%25E5%2590%25AF%25E9%25A2%2584%25E5%2594%25AE-%25E5%2585%2589%25E5%25AD%25A6%25E9%259F%25B3%25E9%25A2%2591%25E8%25AE%25B0%25E5%25BF%2586%25E4%25B8%2589%25E5%25A4%25A7%25E5%258A%259F%25E8%2583%25BD%25E9%2580%2582%25E9%2585%258D%25E6%2597%25A5%25E5%25B8%25B8%25E5%259C%25BA%25E6%2599%25AF%2far-AA2ehm0G&c=4074050686958500953&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 06:18",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -206,32 +239,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Has AI tells",
-    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+    "url": "https://clova.email/",
     "source": "Hacker News",
-    "time": "10-15 00:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "1小时搞定AI眼镜定制“深圳周期”惊艳外国游客",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad05a960ec0465caf688a0efc969146&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f1%25E5%25B0%258F%25E6%2597%25B6%25E6%2590%259E%25E5%25AE%259Aai%25E7%259C%25BC%25E9%2595%259C%25E5%25AE%259A%25E5%2588%25B6-%25E6%25B7%25B1%25E5%259C%25B3%25E5%2591%25A8%25E6%259C%259F-%25E6%2583%258A%25E8%2589%25B3%25E5%25A4%2596%25E5%259B%25BD%25E6%25B8%25B8%25E5%25AE%25A2%2far-AA2eg4NJ&c=3443177872949993746&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-15 00:40",
-    "summary": "",
-    "grade": "C",
-    "local": true,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "强化使用提示，明确各方责任！欧盟发布AI眼镜隐私保护声明",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad05a960ec0465caf688a0efc969146&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610143895755388.html&c=8603284513208325486&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-14 22:34",
+    "time": "10-15 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -329,17 +340,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "新一期 ID@XBOX 活动将于当地时间 10 月 20 日举行，涉及 18 款游戏",
-    "url": "https://www.ithome.com/1/013/185.htm",
-    "source": "IT之家",
-    "time": "10-15 09:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -349,8 +349,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(7)",
-   "Bing新闻(10)"
+   "HackerNews(6)",
+   "Bing新闻(9)"
   ],
   "fail": [
    "36氪(no entries)"
