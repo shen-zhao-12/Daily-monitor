@@ -1,0 +1,359 @@
+{
+ "id": "2026-10-15-wubao",
+ "title": "线口监测午报 · 2026年10月15日(周四)",
+ "shift": "午报",
+ "date": "2026-10-15 12:46",
+ "docx": "../briefings/线口监测午报-2026-10-15.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星",
+    "url": "https://www.ithome.com/1/013/331.htm",
+    "source": "IT之家",
+    "time": "10-15 12:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "瑞典一综艺节目整季制作文件疑被 AI 智能体删除，团队只能从头重剪",
+    "url": "https://www.ithome.com/1/013/288.htm",
+    "source": "IT之家",
+    "time": "10-15 12:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "算力不够：苹果确认初代 HomePod mini 无缘全新 Siri AI",
+    "url": "https://www.ithome.com/1/013/285.htm",
+    "source": "IT之家",
+    "time": "10-15 12:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "昆仑万维发布世界首款消费级显卡视频大模型游戏，同步开源",
+    "url": "https://www.ithome.com/1/013/283.htm",
+    "source": "IT之家",
+    "time": "10-15 12:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称字节跳动洽谈采购联发科 AI 芯片用于数据中心，或成其 ASIC 业务第二大客户",
+    "url": "https://www.ithome.com/1/013/279.htm",
+    "source": "IT之家",
+    "time": "10-15 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中国科学家首次用中国大模型攻克世界级数学难题，曾困扰学界 30 余年",
+    "url": "https://www.ithome.com/1/013/269.htm",
+    "source": "IT之家",
+    "time": "10-15 11:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口",
+    "url": "https://www.ithome.com/1/013/268.htm",
+    "source": "IT之家",
+    "time": "10-15 11:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI聊天独角兽怎么死的？2000万月活Character.AI巨亏申请破产，28家金主拒收购",
+    "url": "http://www.gamelook.com.cn/2026/10/603906/",
+    "source": "GameLook",
+    "time": "10-15 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华硕发布 ExpertBook A7 (14\" AMD) 商务轻薄本：锐龙 AI 300 + OLED",
+    "url": "https://www.ithome.com/1/013/264.htm",
+    "source": "IT之家",
+    "time": "10-15 11:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 AI 国内供应商浮出水面：阿里、百度，消息称 12 月 iOS 27.3 上线",
+    "url": "https://www.ithome.com/1/013/257.htm",
+    "source": "IT之家",
+    "time": "10-15 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "库洛首次投资AI公司，整个中国游戏圈都在加注AI？",
+    "url": "http://www.gamelook.com.cn/2026/10/603946/",
+    "source": "GameLook",
+    "time": "10-15 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美联储官员：AI 投资激增加剧了美国通胀压力",
+    "url": "https://www.ithome.com/1/013/208.htm",
+    "source": "IT之家",
+    "time": "10-15 10:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 OpenAI 洽谈收购开源安全厂商 Trail of Bits，为应对 AI 风险铺路",
+    "url": "https://www.ithome.com/1/013/204.htm",
+    "source": "IT之家",
+    "time": "10-15 10:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美股三大指数齐跌、AI 科技股几乎“全军覆没”，韩国首尔综合指数一度触发熔断",
+    "url": "https://www.ithome.com/1/013/197.htm",
+    "source": "IT之家",
+    "time": "10-15 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“烧十亿token救妹妹”！国内玩家用AI把停服二游“奶”回来了？",
+    "url": "http://www.gamelook.com.cn/2026/10/603934/",
+    "source": "GameLook",
+    "time": "10-15 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 网页 / API 服务今日出现部分中断，提示“服务器暂时不可用”",
+    "url": "https://www.ithome.com/1/013/179.htm",
+    "source": "IT之家",
+    "time": "10-15 09:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "source": "Hacker News",
+    "time": "10-15 02:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "source": "Hacker News",
+    "time": "10-15 01:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Has AI tells",
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "source": "Hacker News",
+    "time": "10-15 00:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "1小时搞定AI眼镜定制“深圳周期”惊艳外国游客",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad05a960ec0465caf688a0efc969146&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f1%25E5%25B0%258F%25E6%2597%25B6%25E6%2590%259E%25E5%25AE%259Aai%25E7%259C%25BC%25E9%2595%259C%25E5%25AE%259A%25E5%2588%25B6-%25E6%25B7%25B1%25E5%259C%25B3%25E5%2591%25A8%25E6%259C%259F-%25E6%2583%258A%25E8%2589%25B3%25E5%25A4%2596%25E5%259B%25BD%25E6%25B8%25B8%25E5%25AE%25A2%2far-AA2eg4NJ&c=3443177872949993746&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 00:40",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "强化使用提示，明确各方责任！欧盟发布AI眼镜隐私保护声明",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad05a960ec0465caf688a0efc969146&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610143895755388.html&c=8603284513208325486&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-14 22:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼公布《战神：劳菲》典藏礼盒：有手办、卡牌、画册，不含游戏本体",
+    "url": "https://www.ithome.com/1/013/274.htm",
+    "source": "IT之家",
+    "time": "10-15 11:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "开发者吐槽：“游戏刚发售、一大群Steam鉴赏家来要Key”，同行：90%是骗子！",
+    "url": "http://www.gamelook.com.cn/2026/10/603904/",
+    "source": "GameLook",
+    "time": "10-15 11:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“硬件杀手”续作《奇点灰烬 2》游戏官宣 11 月 10 日发行，挑战多核渲染极限",
+    "url": "https://www.ithome.com/1/013/259.htm",
+    "source": "IT之家",
+    "time": "10-15 11:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "灵犀入局“多人微恐游戏”！《Project63》海外测试，会是下个爆款么？",
+    "url": "http://www.gamelook.com.cn/2026/10/603962/",
+    "source": "GameLook",
+    "time": "10-15 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《微软模拟飞行 2024》游戏推出竞速赛：P-51D 等 40 款传奇赛机付费上线，新增发动机磨损机制",
+    "url": "https://www.ithome.com/1/013/238.htm",
+    "source": "IT之家",
+    "time": "10-15 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "大快人心！“用DEI祸害游戏”的Sweet Baby裁员80%、清空厂商合作",
+    "url": "http://www.gamelook.com.cn/2026/10/603907/",
+    "source": "GameLook",
+    "time": "10-15 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“审查游戏有多苦”？韩国监管“自曝悲催账单”：103人一年要审45万款游戏",
+    "url": "http://www.gamelook.com.cn/2026/10/603905/",
+    "source": "GameLook",
+    "time": "10-15 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯视频官方 11.11 预售：VIP 会员年卡 138 元、SVIP 会员年卡 238 元",
+    "url": "https://www.ithome.com/1/013/194.htm",
+    "source": "IT之家",
+    "time": "10-15 09:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "新一期 ID@XBOX 活动将于当地时间 10 月 20 日举行，涉及 18 款游戏",
+    "url": "https://www.ithome.com/1/013/185.htm",
+    "source": "IT之家",
+    "time": "10-15 09:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(7)",
+   "Bing新闻(10)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
