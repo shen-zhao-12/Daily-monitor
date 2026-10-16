@@ -2,10 +2,32 @@
  "id": "2026-10-16-wubao",
  "title": "线口监测午报 · 2026年10月16日(周五)",
  "shift": "午报",
- "date": "2026-10-16 12:37",
+ "date": "2026-10-16 13:53",
  "docx": "../briefings/线口监测午报-2026-10-16.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Ternary Bonsai 2 系列 AI 模型登场：苹果 iPhone 18 Pro Max 上本地吞吐最高每秒 120 个词元",
+    "url": "https://www.ithome.com/1/013/894.htm",
+    "source": "IT之家",
+    "time": "10-16 13:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯 WorkBuddy 和 CodeBuddy 宣布 DeepSeek 服务故障用户 7 天内积分全额返还，额外送 500 积分",
+    "url": "https://www.ithome.com/1/013/848.htm",
+    "source": "IT之家",
+    "time": "10-16 12:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "本季度上市：比亚迪第三代唐将首搭全新巨幕 UI 交互系统，还有 AI 萌宠桌面",
@@ -140,19 +162,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
-    "url": "https://www.ithome.com/1/013/730.htm",
-    "source": "IT之家",
-    "time": "10-16 09:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜催化密集！13股获融资客抢筹(名单)",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202610163898108439.html&c=2721831173052578893&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202610163898108439.html&c=2721831173052578893&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-16 01:01",
     "summary": "",
@@ -163,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜助力出行 科技助盲温暖上线",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.qzwb.com%2fgb%2fcontent%2f2026-10%2f16%2fcontent_9257057.htm&c=9943163917124441357&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2fwww.qzwb.com%2fgb%2fcontent%2f2026-10%2f16%2fcontent_9257057.htm&c=9943163917124441357&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-16 01:01",
     "summary": "",
@@ -184,19 +195,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "华强北发布AI八骏国际必买榜 迎接全球来客",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261016A05TKC00&c=12462422678283538380&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-15 22:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "极刻觅镜 | AI眼镜日报｜千问N1系列开售、TDK九轴传感全球供货",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088261952_123023378&c=10642617015290907422&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088261952_123023378&c=10642617015290907422&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 22:27",
     "summary": "",
@@ -207,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "极米记得 AI 眼镜 MemoMind One 预售：无摄像头，首发 2699 元",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-15%2fdoc-iniviksc7979616.shtml&c=7138896341020719540&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-15%2fdoc-iniviksc7979616.shtml&c=7138896341020719540&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 21:05",
     "summary": "",
@@ -217,10 +217,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "极米记得 AI 显示眼镜 MemoMind One 10 月 15 日预售开启：从一副好眼镜，到一副真正有用的专业AI 眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088241086_120112797&c=12619537739600839116&mkt=en-us",
+    "title": "颜值党狂喜！Nothing 也要推 AI 眼镜!",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261015A0BLA700&c=4200389186249198765&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-15 21:05",
+    "time": "10-15 19:31",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -229,7 +229,7 @@
    {
     "beat": "AI/大模型",
     "title": "“继智能手机之后的下一件必备单品就是它”……AI眼镜的定位更偏向补充而非取代",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.mk.co.kr%2fcn%2fbusiness%2f12177113&c=2773942026479024685&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2fwww.mk.co.kr%2fcn%2fbusiness%2f12177113&c=2773942026479024685&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 19:14",
     "summary": "",
@@ -239,8 +239,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "国泰海通：Meta扩充可穿戴产品矩阵 全球AI眼镜进入快速放量阶段",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261016A02NEY00&c=16268525772390705893&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 17:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "全球首家 AI 眼镜无人自助体验店登陆中国香港，乐奇 Rokid 打造",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%2585%25A8%25E7%2590%2583%25E9%25A6%2596%25E5%25AE%25B6-ai-%25E7%259C%25BC%25E9%2595%259C%25E6%2597%25A0%25E4%25BA%25BA%25E8%2587%25AA%25E5%258A%25A9%25E4%25BD%2593%25E9%25AA%258C%25E5%25BA%2597%25E7%2599%25BB%25E9%2599%2586%25E4%25B8%25AD%25E5%259B%25BD%25E9%25A6%2599%25E6%25B8%25AF-%25E4%25B9%2590%25E5%25A5%2587-rokid-%25E6%2589%2593%25E9%2580%25A0%2far-AA2ejI0p&c=4091082873763298274&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%2585%25A8%25E7%2590%2583%25E9%25A6%2596%25E5%25AE%25B6-ai-%25E7%259C%25BC%25E9%2595%259C%25E6%2597%25A0%25E4%25BA%25BA%25E8%2587%25AA%25E5%258A%25A9%25E4%25BD%2593%25E9%25AA%258C%25E5%25BA%2597%25E7%2599%25BB%25E9%2599%2586%25E4%25B8%25AD%25E5%259B%25BD%25E9%25A6%2599%25E6%25B8%25AF-%25E4%25B9%2590%25E5%25A5%2587-rokid-%25E6%2589%2593%25E9%2580%25A0%2far-AA2ejI0p&c=17099460916882024100&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 16:38",
     "summary": "",
@@ -251,27 +262,28 @@
    {
     "beat": "AI/大模型",
     "title": "开启AI办公新纪元！大眼橙联合钉钉发布可弯折AI听记眼镜Q1",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-15%2fdoc-inivhtus1421894.shtml&c=8608612520578595556&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bbd12cc74abd8d54f2ddb77e7a04&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-15%2fdoc-inivhtus1421894.shtml&c=8608612520578595556&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 15:46",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "机器人/AI硬件": [
    {
-    "beat": "AI/大模型",
-    "title": "AI聊天独角兽怎么死的？2000万月活Character.AI巨亏申请破产，28家金主拒收购",
-    "url": "http://www.gamelook.com.cn/2026/10/603906/",
-    "source": "GameLook",
-    "time": "10-15 11:18",
+    "beat": "机器人/AI硬件",
+    "title": "智元宣布与首批 20+ 高校合作，投入超 2 亿元建设具身智能人才生态",
+    "url": "https://www.ithome.com/1/013/864.htm",
+    "source": "IT之家",
+    "time": "10-16 12:53",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -319,17 +331,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "开发者吐槽：“游戏刚发售、一大群Steam鉴赏家来要Key”，同行：90%是骗子！",
-    "url": "http://www.gamelook.com.cn/2026/10/603904/",
-    "source": "GameLook",
-    "time": "10-15 11:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -352,7 +353,7 @@
    "IT之家(60)",
    "GameLook(14)",
    "HackerNews(4)",
-   "Bing新闻(10)"
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
