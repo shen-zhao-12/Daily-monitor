@@ -1,0 +1,361 @@
+{
+ "id": "2026-10-16-wubao",
+ "title": "线口监测午报 · 2026年10月16日(周五)",
+ "shift": "午报",
+ "date": "2026-10-16 12:37",
+ "docx": "../briefings/线口监测午报-2026-10-16.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "本季度上市：比亚迪第三代唐将首搭全新巨幕 UI 交互系统，还有 AI 萌宠桌面",
+    "url": "https://www.ithome.com/1/013/844.htm",
+    "source": "IT之家",
+    "time": "10-16 12:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软完成 SOTA 基模 MAI-Base-2 预训练，性能强于所有参测开源权重模型",
+    "url": "https://www.ithome.com/1/013/835.htm",
+    "source": "IT之家",
+    "time": "10-16 11:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "魅族 Flyme 12.7 超级 Aicy 个人事务 AI 智能体开放首批内测名额，今日 14:00 开始招募",
+    "url": "https://www.ithome.com/1/013/811.htm",
+    "source": "IT之家",
+    "time": "10-16 11:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达黄仁勋公开反驳 OpenAI 奥尔特曼观点：对 AI 网络安全必须“零容忍”",
+    "url": "https://www.ithome.com/1/013/808.htm",
+    "source": "IT之家",
+    "time": "10-16 11:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "TypeSafe AI 发布 Jev 1.14 决策模型仅一天， Liquid AI 便以 d1-ultra 全面超车",
+    "url": "https://www.ithome.com/1/013/794.htm",
+    "source": "IT之家",
+    "time": "10-16 11:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国推动全球“AI”改口“SI”，谋求写入国际货币基金组织声明",
+    "url": "https://www.ithome.com/1/013/788.htm",
+    "source": "IT之家",
+    "time": "10-16 11:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "在 OpenAI 擅长的领域打败 OpenAI：微软称自研模型仅凭对方 1/4 算力就超越同类产品",
+    "url": "https://www.ithome.com/1/013/761.htm",
+    "source": "IT之家",
+    "time": "10-16 10:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "修复“假满载”：OpenAI 优化系统 / 增加算力，减少“AI 容量上限”报错",
+    "url": "https://www.ithome.com/1/013/753.htm",
+    "source": "IT之家",
+    "time": "10-16 10:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果库克：AI 应用正迎来爆发式增长，在多个方面对供应链产生深远影响",
+    "url": "https://www.ithome.com/1/013/743.htm",
+    "source": "IT之家",
+    "time": "10-16 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Epic CEO豪言“全公司AI加速到极致”：AI编程重造EGS商店，“性能锤爆Steam”",
+    "url": "http://www.gamelook.com.cn/2026/10/603991/",
+    "source": "GameLook",
+    "time": "10-16 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "给大模型装上“一双耳朵”：小米开源空间音频理解大模型 MiDashengLM-Spatial",
+    "url": "https://www.ithome.com/1/013/739.htm",
+    "source": "IT之家",
+    "time": "10-16 09:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 首席 AI 官汪滔：不会开源最强模型，但会继续发布优秀开源模型",
+    "url": "https://www.ithome.com/1/013/736.htm",
+    "source": "IT之家",
+    "time": "10-16 09:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
+    "url": "https://www.ithome.com/1/013/730.htm",
+    "source": "IT之家",
+    "time": "10-16 09:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜催化密集！13股获融资客抢筹(名单)",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202610163898108439.html&c=2721831173052578893&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-16 01:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜助力出行 科技助盲温暖上线",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.qzwb.com%2fgb%2fcontent%2f2026-10%2f16%2fcontent_9257057.htm&c=9943163917124441357&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-16 01:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Using AI to reverse engineer hardware",
+    "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "source": "Hacker News",
+    "time": "10-15 22:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华强北发布AI八骏国际必买榜 迎接全球来客",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261016A05TKC00&c=12462422678283538380&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 22:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极刻觅镜 | AI眼镜日报｜千问N1系列开售、TDK九轴传感全球供货",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088261952_123023378&c=10642617015290907422&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 22:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极米记得 AI 眼镜 MemoMind One 预售：无摄像头，首发 2699 元",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-15%2fdoc-iniviksc7979616.shtml&c=7138896341020719540&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 21:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极米记得 AI 显示眼镜 MemoMind One 10 月 15 日预售开启：从一副好眼镜，到一副真正有用的专业AI 眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088241086_120112797&c=12619537739600839116&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 21:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“继智能手机之后的下一件必备单品就是它”……AI眼镜的定位更偏向补充而非取代",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.mk.co.kr%2fcn%2fbusiness%2f12177113&c=2773942026479024685&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 19:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球首家 AI 眼镜无人自助体验店登陆中国香港，乐奇 Rokid 打造",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%2585%25A8%25E7%2590%2583%25E9%25A6%2596%25E5%25AE%25B6-ai-%25E7%259C%25BC%25E9%2595%259C%25E6%2597%25A0%25E4%25BA%25BA%25E8%2587%25AA%25E5%258A%25A9%25E4%25BD%2593%25E9%25AA%258C%25E5%25BA%2597%25E7%2599%25BB%25E9%2599%2586%25E4%25B8%25AD%25E5%259B%25BD%25E9%25A6%2599%25E6%25B8%25AF-%25E4%25B9%2590%25E5%25A5%2587-rokid-%25E6%2589%2593%25E9%2580%25A0%2far-AA2ejI0p&c=4091082873763298274&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 16:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开启AI办公新纪元！大眼橙联合钉钉发布可弯折AI听记眼镜Q1",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1a9f7f33b46ce8d3730e478cafbd8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-15%2fdoc-inivhtus1421894.shtml&c=8608612520578595556&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-15 15:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI聊天独角兽怎么死的？2000万月活Character.AI巨亏申请破产，28家金主拒收购",
+    "url": "http://www.gamelook.com.cn/2026/10/603906/",
+    "source": "GameLook",
+    "time": "10-15 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "可穿戴“无人机哨兵”问世：单兵最远 6 公里发现空中威胁",
+    "url": "https://www.ithome.com/1/013/757.htm",
+    "source": "IT之家",
+    "time": "10-16 10:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“年薪百万电竞选手集体逃税”？韩国电竞圈大地震！",
+    "url": "http://www.gamelook.com.cn/2026/10/604113/",
+    "source": "GameLook",
+    "time": "10-16 11:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "联想拯救者 R9 68 键磁轴电竞键盘开售：8KHz 轮询率，999 元",
+    "url": "https://www.ithome.com/1/013/740.htm",
+    "source": "IT之家",
+    "time": "10-16 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏的“长期主义风”，从游戏厂商吹到了手机厂商？",
+    "url": "http://www.gamelook.com.cn/2026/10/604092/",
+    "source": "GameLook",
+    "time": "10-16 08:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "开发者吐槽：“游戏刚发售、一大群Steam鉴赏家来要Key”，同行：90%是骗子！",
+    "url": "http://www.gamelook.com.cn/2026/10/603904/",
+    "source": "GameLook",
+    "time": "10-15 11:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "3299 → 1982 元：石头洗地机 A30 Pro Steam 3.0 国补新低，32000Pa 吸力 + 蒸汽热水混洗",
+    "url": "https://www.ithome.com/1/013/800.htm",
+    "source": "IT之家",
+    "time": "10-16 11:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(4)",
+   "Bing新闻(10)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
