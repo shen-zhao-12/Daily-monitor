@@ -2,7 +2,7 @@
  "id": "2026-10-16-wubao",
  "title": "线口监测午报 · 2026年10月16日(周五)",
  "shift": "午报",
- "date": "2026-10-16 20:18",
+ "date": "2026-10-16 21:11",
  "docx": "../briefings/线口监测午报-2026-10-16.docx",
  "sections": {
   "AI/大模型": [
@@ -74,10 +74,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "赛力斯赛豆科技 AIVA 首款车型 ME7 通过工信部申报，推出单 / 双电机纯电版本",
-    "url": "https://www.ithome.com/1/014/015.htm",
-    "source": "IT之家",
-    "time": "10-16 17:00",
+    "title": "从智能眼镜到个人AI智能体，可穿戴设备正在重塑个人计算",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25BB%258E%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E4%25B8%25AA%25E4%25BA%25BAai%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%2593-%25E5%258F%25AF%25E7%25A9%25BF%25E6%2588%25B4%25E8%25AE%25BE%25E5%25A4%2587%25E6%25AD%25A3%25E5%259C%25A8%25E9%2587%258D%25E5%25A1%2591%25E4%25B8%25AA%25E4%25BA%25BA%25E8%25AE%25A1%25E7%25AE%2597%2far-AA2elq6l&c=7887290487567374939&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-16 14:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "乐奇Rokid与腾讯出行服务合作上线AI眼镜打车",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E4%25B9%2590%25E5%25A5%2587rokid%25E4%25B8%258E%25E8%2585%25BE%25E8%25AE%25AF%25E5%2587%25BA%25E8%25A1%258C%25E6%259C%258D%25E5%258A%25A1%25E5%2590%2588%25E4%25BD%259C%25E4%25B8%258A%25E7%25BA%25BFai%25E7%259C%25BC%25E9%2595%259C%25E6%2589%2593%25E8%25BD%25A6%2far-AA2enzRi&c=10985728513280796623&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-16 13:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -86,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜催化密集！13股获融资客抢筹",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-10-16%2fdoc-inivksmu1577566.shtml&c=8375205405766783297&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-10-16%2fdoc-inivksmu1577566.shtml&c=8375205405766783297&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-16 12:24",
     "summary": "",
@@ -97,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "韩国将严惩高考中AI眼镜作弊行为",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xGTZvBtoOd&c=16997818128440374363&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xGTZvBtoOd&c=16997818128440374363&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-16 11:09",
     "summary": "",
@@ -118,10 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "从智能眼镜到个人AI智能体，可穿戴设备正在重塑个人计算",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E4%25BB%258E%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E4%25B8%25AA%25E4%25BA%25BAai%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%2593-%25E5%258F%25AF%25E7%25A9%25BF%25E6%2588%25B4%25E8%25AE%25BE%25E5%25A4%2587%25E6%25AD%25A3%25E5%259C%25A8%25E9%2587%258D%25E5%25A1%2591%25E4%25B8%25AA%25E4%25BA%25BA%25E8%25AE%25A1%25E7%25AE%2597%2far-AA2elq6l&c=12330239408209797395&mkt=en-us",
+    "title": "全球首家AI眼镜无人自助体验店登陆香港",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261016A0CWLK00&c=16890675940448129621&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-16 08:24",
+    "time": "10-16 06:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -130,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "乐奇Rokid携手腾讯出行上线AI眼镜打车服务",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261016A09QLI00&c=13435524932327203623&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261016A09QLI00&c=13435524932327203623&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-16 03:23",
     "summary": "",
@@ -141,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "乐奇、腾讯上线首个AI眼镜原生打车：无需动手 一句话就能打车",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-16%2fdoc-inivmazf7035150.shtml&c=2218491031822252671&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-16%2fdoc-inivmazf7035150.shtml&c=2218491031822252671&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-16 02:46",
     "summary": "",
@@ -152,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜助力出行 科技助盲温暖上线",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2fwww.qzwb.com%2fgb%2fcontent%2f2026-10%2f16%2fcontent_9257057.htm&c=9943163917124441357&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2fwww.qzwb.com%2fgb%2fcontent%2f2026-10%2f16%2fcontent_9257057.htm&c=9943163917124441357&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-16 01:01",
     "summary": "",
@@ -163,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "全球首家AI眼镜无人自助体验店登陆中国香港，乐奇Rokid打造",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xFjID7Y7G0&c=584062306900388992&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xFjID7Y7G0&c=584062306900388992&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-16 00:40",
     "summary": "",
@@ -185,31 +196,9 @@
    {
     "beat": "AI/大模型",
     "title": "极刻觅镜 | AI眼镜日报｜千问N1系列开售、TDK九轴传感全球供货",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088261952_123023378&c=10642617015290907422&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad222975e1b4b0880e9fcdfdf421ab5&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088261952_123023378&c=10642617015290907422&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-15 22:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "极米记得 AI 显示眼镜 MemoMind One 10 月 15 日预售开启：从一副好眼镜，到一副真正有用的专业AI 眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2161885594c9791d316e49a69a3b3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1088241086_120112797&c=12619537739600839116&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-15 21:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI聊天独角兽怎么死的？2000万月活Character.AI巨亏申请破产，28家金主拒收购",
-    "url": "http://www.gamelook.com.cn/2026/10/603906/",
-    "source": "GameLook",
-    "time": "10-15 11:18",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -232,6 +221,28 @@
    }
   ],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "七彩虹橘宝 R16 游戏本新增 AMD R7 H 255 + 16G + 512G + RTX 5060 配置，9999 元（国补 8499.15 元）",
+    "url": "https://www.ithome.com/1/014/156.htm",
+    "source": "IT之家",
+    "time": "10-16 20:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "V 社《Deadlock》Steam 同时在线人数创新高：突破 25 万人、跻身 Valve 游戏历史前三",
+    "url": "https://www.ithome.com/1/014/154.htm",
+    "source": "IT之家",
+    "time": "10-16 20:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "CDPR 确认《赛博朋克 2077》真人电影不会照搬游戏剧情，与动画一样讲述原创故事",
@@ -319,17 +330,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "开发者吐槽：“游戏刚发售、一大群Steam鉴赏家来要Key”，同行：90%是骗子！",
-    "url": "http://www.gamelook.com.cn/2026/10/603904/",
-    "source": "GameLook",
-    "time": "10-15 11:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -352,7 +352,7 @@
    "IT之家(60)",
    "GameLook(14)",
    "HackerNews(3)",
-   "Bing新闻(9)"
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
