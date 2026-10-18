@@ -1,0 +1,340 @@
+{
+ "id": "2026-10-18-wubao",
+ "title": "线口监测午报 · 2026年10月18日(周日)",
+ "shift": "午报",
+ "date": "2026-10-18 12:39",
+ "docx": "../briefings/线口监测午报-2026-10-18.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 联合创始人：到 2030 年 AI 有望推动美国 GDP 增长近 50%",
+    "url": "https://www.ithome.com/1/014/483.htm",
+    "source": "IT之家",
+    "time": "10-18 12:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
+    "url": "https://www.ithome.com/1/014/477.htm",
+    "source": "IT之家",
+    "time": "10-18 11:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
+    "url": "https://www.ithome.com/1/014/456.htm",
+    "source": "IT之家",
+    "time": "10-18 10:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 报告：AI 重塑公司用工结构，初级技术岗招聘明显收缩",
+    "url": "https://www.ithome.com/1/014/450.htm",
+    "source": "IT之家",
+    "time": "10-18 09:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极夜公布 AI 双卡工作站 DeskOne A1，基于英特尔酷睿 Ultra 9 处理器 275HX",
+    "url": "https://www.ithome.com/1/014/440.htm",
+    "source": "IT之家",
+    "time": "10-18 08:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
+    "url": "https://www.ithome.com/1/014/439.htm",
+    "source": "IT之家",
+    "time": "10-18 08:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "魅族 22 手机推送 Flyme AIOS 12.7.0.0A 稳定版升级，更新「超级 Aicy」助手等功能",
+    "url": "https://www.ithome.com/1/014/438.htm",
+    "source": "IT之家",
+    "time": "10-18 08:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
+    "url": "https://www.ithome.com/1/014/436.htm",
+    "source": "IT之家",
+    "time": "10-18 08:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenCode 遭攻击：部分用户 OpenAI、Anthropic 等 API 密钥外泄",
+    "url": "https://www.ithome.com/1/014/434.htm",
+    "source": "IT之家",
+    "time": "10-18 08:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 将研发人形机器人，奥尔特曼称核心是打造“大脑”",
+    "url": "https://www.ithome.com/1/014/433.htm",
+    "source": "IT之家",
+    "time": "10-18 08:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "联想 ThinkBook X AI 2027 轻薄商务本上架，基于第 3 代英特尔酷睿处理器",
+    "url": "https://www.ithome.com/1/014/432.htm",
+    "source": "IT之家",
+    "time": "10-18 08:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
+    "url": "https://www.ithome.com/1/014/429.htm",
+    "source": "IT之家",
+    "time": "10-18 08:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IT早报 1018：曝华为全新子品牌星芒手机主攻线上性价比；消息称奇瑞智界将获批独立造车资质；DeepSeek V4.1 Flash-1017 新版本发布；英伟达否认 RTX 5090 停产传闻...",
+    "url": "https://www.ithome.com/1/014/427.htm",
+    "source": "IT之家",
+    "time": "10-18 07:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国半导体工程师指控特斯拉：施压三星压低 AI 芯片报价、索要敏感信息并挖角其人才",
+    "url": "https://www.ithome.com/1/014/422.htm",
+    "source": "IT之家",
+    "time": "10-18 07:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "WPS 官宣「抢鲜」适配 iPhone Duo，支持伴随式 AI 全新布局",
+    "url": "https://www.ithome.com/1/014/421.htm",
+    "source": "IT之家",
+    "time": "10-18 07:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "布局物理 AI：美光研发边缘推理内存 EIM，降低数据处理延迟并提高带宽",
+    "url": "https://www.ithome.com/1/014/419.htm",
+    "source": "IT之家",
+    "time": "10-18 07:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "url": "https://pele.run/",
+    "source": "Hacker News",
+    "time": "10-17 23:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "20余家厂商40多款眼镜；AI眼镜的入口混战提前打响",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d9040a44dc7bbc9b1210a19737b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1089106703_116365&c=8014466899222884231&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-17 20:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从“极客玩具”到大众消费品，AI眼镜距离实用还有多远？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d9040a44dc7bbc9b1210a19737b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261017A0BNPL00&c=11057460765189710685&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-17 20:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "乐奇Rokid联手腾讯！AI眼镜原生打车服务来了，一句话就能叫车",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d9040a44dc7bbc9b1210a19737b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261016A0EH5B00&c=3045405001872813243&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-17 00:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "乐奇、腾讯上线首个AI眼镜原生打车：无需动手 一句话就能打车",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d9040a44dc7bbc9b1210a19737b&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-16%2fdoc-inivmazf7035150.shtml&c=2218491031822252671&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-16 16:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从智能眼镜到个人AI智能体，可穿戴设备正在重塑个人计算",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d9040a44dc7bbc9b1210a19737b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25BB%258E%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%2588%25B0%25E4%25B8%25AA%25E4%25BA%25BAai%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%2593-%25E5%258F%25AF%25E7%25A9%25BF%25E6%2588%25B4%25E8%25AE%25BE%25E5%25A4%2587%25E6%25AD%25A3%25E5%259C%25A8%25E9%2587%258D%25E5%25A1%2591%25E4%25B8%25AA%25E4%25BA%25BA%25E8%25AE%25A1%25E7%25AE%2597%2far-AA2elq6l&c=7887290487567374939&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-16 16:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "充电 9 分钟可工作 90 分钟，Agility Robotics 为 Digit 5 人形机器人搭载 Nyobolt 快充电池",
+    "url": "https://www.ithome.com/1/014/454.htm",
+    "source": "IT之家",
+    "time": "10-18 09:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "特斯拉延长奥斯汀 Robotaxi 运营时间至午夜，FSD v15 将支持全天候运营",
+    "url": "https://www.ithome.com/1/014/444.htm",
+    "source": "IT之家",
+    "time": "10-18 08:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "外卖 3000 元榴莲实付 20 多元：商家空单交易骗取平台补贴 110 多万元，14 人落网",
+    "url": "https://www.ithome.com/1/014/452.htm",
+    "source": "IT之家",
+    "time": "10-18 09:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "荣耀 WIN2 手机搭载电竞 WIN 键：3 档可调震动、响应灵敏度，支持游戏内自由映射键位",
+    "url": "https://www.ithome.com/1/014/449.htm",
+    "source": "IT之家",
+    "time": "10-18 09:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易《逆水寒：新世界》首个大型资料片【苗疆蛊事】官宣，首次采用双线更新框架",
+    "url": "https://www.ithome.com/1/014/409.htm",
+    "source": "IT之家",
+    "time": "10-17 22:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "消息称苹果要求零售店员工劝退无预约顾客：iPhone Duo 首发日基本不卖现货",
+    "url": "https://www.ithome.com/1/014/437.htm",
+    "source": "IT之家",
+    "time": "10-18 08:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(2)",
+   "Bing新闻(6)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
