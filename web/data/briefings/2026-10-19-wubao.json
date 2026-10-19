@@ -2,10 +2,21 @@
  "id": "2026-10-19-wubao",
  "title": "线口监测午报 · 2026年10月19日(周一)",
  "shift": "午报",
- "date": "2026-10-19 22:36",
+ "date": "2026-10-19 23:31",
  "docx": "../briefings/线口监测午报-2026-10-19.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "四个谷歌 Gemini 4 Argon 智能体成功击败末影龙通关《我的世界》，耗时 27 小时",
+    "url": "https://www.ithome.com/1/015/048.htm",
+    "source": "IT之家",
+    "time": "10-19 23:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "古尔曼：苹果正研发室内摄像头，依靠 AI 分析环境",
@@ -19,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-    "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "url": "https://100toolkit.com/blog/deslop-model/",
     "source": "Hacker News",
-    "time": "10-19 20:07",
+    "time": "10-19 21:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -74,19 +85,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "奇瑞将于 10 月 20 日举办全球创新大会，发布首个行业垂域大模型、人形机器人“墨宝”",
-    "url": "https://www.ithome.com/1/014/887.htm",
-    "source": "IT之家",
-    "time": "10-19 16:39",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "广交会的开箱时刻：AI眼镜成刚需，机器人给人类开“外挂”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad62af4ce55435da0ef56e66671e0b2&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25B9%25BF%25E4%25BA%25A4%25E4%25BC%259A%25E7%259A%2584%25E5%25BC%2580%25E7%25AE%25B1%25E6%2597%25B6%25E5%2588%25BB-ai%25E7%259C%25BC%25E9%2595%259C%25E6%2588%2590%25E5%2588%259A%25E9%259C%2580-%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E7%25BB%2599%25E4%25BA%25BA%25E7%25B1%25BB%25E5%25BC%2580-%25E5%25A4%2596%25E6%258C%2582%2far-AA2fzvHB&c=1091566650985535902&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad637c7624a4f1295cb0b41c0aa6582&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25B9%25BF%25E4%25BA%25A4%25E4%25BC%259A%25E7%259A%2584%25E5%25BC%2580%25E7%25AE%25B1%25E6%2597%25B6%25E5%2588%25BB-ai%25E7%259C%25BC%25E9%2595%259C%25E6%2588%2590%25E5%2588%259A%25E9%259C%2580-%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E7%25BB%2599%25E4%25BA%25BA%25E7%25B1%25BB%25E5%25BC%2580-%25E5%25A4%2596%25E6%258C%2582%2far-AA2fzvHB&c=1091566650985535902&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-19 11:39",
     "summary": "",
@@ -107,30 +107,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "艾为电子：多款自研芯片应用于Meta系列产品，艾为方案已覆盖超90%的AI眼镜主流品牌",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad62af4ce55435da0ef56e66671e0b2&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261019A09DD300&c=8618698726861893047&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-19 03:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "戴AI眼镜的人越来越多，不戴的人开始有意见了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad62af4ce55435da0ef56e66671e0b2&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34276920&c=15534393061035274829&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-19 03:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "阿里AI战事升级：智能眼镜、录音卡密集登场，“AI员工”批量上线打工",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad62af4ce55435da0ef56e66671e0b2&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261018A0BXH600%3fadChannelId%3dtech&c=17328593015561016419&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad637c7624a4f1295cb0b41c0aa6582&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261018A0BXH600%3fadChannelId%3dtech&c=17328593015561016419&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-18 23:51",
     "summary": "",
@@ -141,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad62af4ce55435da0ef56e66671e0b2&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-18%2fdoc-inivrkxi6694410.shtml&c=2366199076831209033&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad637c7624a4f1295cb0b41c0aa6582&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-18%2fdoc-inivrkxi6694410.shtml&c=2366199076831209033&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-18 12:43",
     "summary": "",
@@ -152,9 +130,20 @@
    {
     "beat": "AI/大模型",
     "title": "20余家厂商40多款眼镜；AI眼镜的入口混战提前打响",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad62af4ce55435da0ef56e66671e0b2&url=https%3a%2f%2fwww.sohu.com%2fa%2f1089106703_116365&c=8014466899222884231&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad637c7624a4f1295cb0b41c0aa6582&url=https%3a%2f%2fwww.sohu.com%2fa%2f1089106703_116365&c=8014466899222884231&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-18 10:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问华南首店落地白鹅潭 多场景体验引发打卡热潮 瞄准全龄刚需 AI眼镜加速走进日常",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad637c7624a4f1295cb0b41c0aa6582&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610183899088835.html&c=7239846593555912670&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-18 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -174,19 +163,7 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "坚决反对无人机被违规用于非和平目的，商务部回应相关出口管制措施调整",
-    "url": "https://www.ithome.com/1/014/891.htm",
-    "source": "IT之家",
-    "time": "10-19 16:43",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
@@ -239,17 +216,6 @@
     "url": "https://www.ithome.com/1/014/971.htm",
     "source": "IT之家",
     "time": "10-19 17:56",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "卡普空 3 款作品获金摇杆奖“年度主机游戏”提名：含《鬼武者：剑之道》《识质存在》《生化危机：安魂曲》",
-    "url": "https://www.ithome.com/1/014/877.htm",
-    "source": "IT之家",
-    "time": "10-19 16:28",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -319,8 +285,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(7)",
-   "Bing新闻(8)"
+   "HackerNews(6)",
+   "Bing新闻(6)"
   ],
   "fail": [
    "36氪(no entries)"
