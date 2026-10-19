@@ -1,0 +1,362 @@
+{
+ "id": "2026-10-19-wubao",
+ "title": "线口监测午报 · 2026年10月19日(周一)",
+ "shift": "午报",
+ "date": "2026-10-19 12:46",
+ "docx": "../briefings/线口监测午报-2026-10-19.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "AI 公司 HUMXN 免费上门修水电、通管道，只为录像收集数据训练 AI 机器人",
+    "url": "https://www.ithome.com/1/014/758.htm",
+    "source": "IT之家",
+    "time": "10-19 12:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "山姆投诉举报恶意攻击及 AI 虚假营销信息：部分账号编造“山姆下架好物”引流牟利",
+    "url": "https://www.ithome.com/1/014/754.htm",
+    "source": "IT之家",
+    "time": "10-19 11:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "六小龄童谈孙悟空、林黛玉 AI 魔改“圣黛 CP”：创意很好玩，但改编不能逾越政策法规和观众红线",
+    "url": "https://www.ithome.com/1/014/753.htm",
+    "source": "IT之家",
+    "time": "10-19 11:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "研究人员开发 AI 系统：可通过 Wi‑Fi 信号识别隐藏手枪",
+    "url": "https://www.ithome.com/1/014/738.htm",
+    "source": "IT之家",
+    "time": "10-19 11:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "豆包刘星回应“国内超一半算力在造爽剧”：字节总算力中，只有约 10% 用于视频生成模型的训练和推理",
+    "url": "https://www.ithome.com/1/014/729.htm",
+    "source": "IT之家",
+    "time": "10-19 11:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游戏厂商抓狂：软件被AI干免费后，”AI光速反编译”大量3A老游戏了！",
+    "url": "http://www.gamelook.com.cn/2026/10/604149/",
+    "source": "GameLook",
+    "time": "10-19 10:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "饭山 PC 推出 AMD 锐龙 AI 7 450 迷你主机：提供指纹识别、SD 读卡器",
+    "url": "https://www.ithome.com/1/014/667.htm",
+    "source": "IT之家",
+    "time": "10-19 09:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“货轮在霍尔木兹海峡起火沉没，海面漂满 iPhone”视频系 AI 编造",
+    "url": "https://www.ithome.com/1/014/665.htm",
+    "source": "IT之家",
+    "time": "10-19 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "应对 AI 风险，Anthropic 向外部 AI 监督机构开放类员工访问权限",
+    "url": "https://www.ithome.com/1/014/651.htm",
+    "source": "IT之家",
+    "time": "10-19 09:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "王腾官宣 ISHO 首场发布会：今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日",
+    "url": "https://www.ithome.com/1/014/650.htm",
+    "source": "IT之家",
+    "time": "10-19 09:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Namecheap just seized and disabled all my domains",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "source": "Hacker News",
+    "time": "10-19 00:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里AI战事升级：智能眼镜、录音卡密集登场，“AI员工”批量上线打工",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a0be0c4a494eaf0958b50afb8368&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261018A0BXH600%3fadChannelId%3dtech&c=17328593015561016419&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-18 23:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a0be0c4a494eaf0958b50afb8368&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-18%2fdoc-inivrkxi6694410.shtml&c=2366199076831209033&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-18 12:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "20余家厂商40多款眼镜；AI眼镜的入口混战提前打响",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a0be0c4a494eaf0958b50afb8368&url=https%3a%2f%2fwww.sohu.com%2fa%2f1089106703_116365&c=8014466899222884231&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-18 10:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问华南首店落地白鹅潭 多场景体验引发打卡热潮 瞄准全龄刚需 AI眼镜加速走进日常",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a0be0c4a494eaf0958b50afb8368&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610183899088835.html&c=7239846593555912670&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-18 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "九部门要求加快推进科技兴商：丰富智能手机、电脑、家居、穿戴设备、机器人等供给，加速脑机接口、具身智能等向市场转化",
+    "url": "https://www.ithome.com/1/014/709.htm",
+    "source": "IT之家",
+    "time": "10-19 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "今年前三季度国内生产总值同比增长 4.6%，工业机器人产量同比增长 29.1%",
+    "url": "https://www.ithome.com/1/014/685.htm",
+    "source": "IT之家",
+    "time": "10-19 10:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "马斯克：Optimus 人形机器人和 Cybercab 将构成特斯拉绝大部分价值",
+    "url": "https://www.ithome.com/1/014/663.htm",
+    "source": "IT之家",
+    "time": "10-19 09:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "三部门组织开展 2026 年“孝老爱老购物季”活动，引导电商平台搭建线上适老产品虚拟展厅、加快智能护理机器人迭代升级",
+    "url": "https://www.ithome.com/1/014/659.htm",
+    "source": "IT之家",
+    "time": "10-19 09:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "杭州具身大脑创企格物通智融资近亿元，多家国资出手投资",
+    "url": "https://www.ithome.com/1/014/652.htm",
+    "source": "IT之家",
+    "time": "10-19 09:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "张雪本人在广交会现场拉赞助，长江存储有望对接冠名合作",
+    "url": "https://www.ithome.com/1/014/694.htm",
+    "source": "IT之家",
+    "time": "10-19 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯 WorkBuddy 教育公益版上线：全国教师每人每月可领 2000 积分，能连续领 1 年",
+    "url": "https://www.ithome.com/1/014/752.htm",
+    "source": "IT之家",
+    "time": "10-19 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "MIT 研发柔性形状感知薄片，可用于 VR、游戏和康复治疗",
+    "url": "https://www.ithome.com/1/014/725.htm",
+    "source": "IT之家",
+    "time": "10-19 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "育碧新加坡工作室大裁员！腾讯取消研发“3A大秦刺客信条”意外曝光",
+    "url": "http://www.gamelook.com.cn/2026/10/604212/",
+    "source": "GameLook",
+    "time": "10-19 11:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "标准版首次搭载游戏独显 D2：小米 REDMI K100 手机性能配置公布，还有 165Hz 高刷电竞屏",
+    "url": "https://www.ithome.com/1/014/711.htm",
+    "source": "IT之家",
+    "time": "10-19 10:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "马斯克新超跑“腾空飞行”，玩家：“我玩过的离谱游戏居然成真了”？",
+    "url": "http://www.gamelook.com.cn/2026/10/604171/",
+    "source": "GameLook",
+    "time": "10-19 10:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“欧盟最强游戏防沉迷要来”？《儿童法案》草案公示，全球游戏公司慌了！",
+    "url": "http://www.gamelook.com.cn/2026/10/604206/",
+    "source": "GameLook",
+    "time": "10-19 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯游戏安全ACE携手《鹅鸭杀》，守护玩家每一场真诚推理",
+    "url": "http://www.gamelook.com.cn/2026/10/604197/",
+    "source": "GameLook",
+    "time": "10-19 08:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "理想李想：汽车主机厂深入研究电池核心技术，是有利于行业发展和消费者利益的",
+    "url": "https://www.ithome.com/1/014/719.htm",
+    "source": "IT之家",
+    "time": "10-19 10:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "京东自营联通补贴购：iPhone 17 手机国补后 5170 元近期好价",
+    "url": "https://www.ithome.com/1/014/703.htm",
+    "source": "IT之家",
+    "time": "10-19 10:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(7)",
+   "HackerNews(6)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
