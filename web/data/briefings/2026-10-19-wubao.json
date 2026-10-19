@@ -2,10 +2,21 @@
  "id": "2026-10-19-wubao",
  "title": "线口监测午报 · 2026年10月19日(周一)",
  "shift": "午报",
- "date": "2026-10-19 12:46",
+ "date": "2026-10-19 14:14",
  "docx": "../briefings/线口监测午报-2026-10-19.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "研究发现：AI 可篡改人类记忆，植入从未发生的虚假事件",
+    "url": "https://www.ithome.com/1/014/768.htm",
+    "source": "IT之家",
+    "time": "10-19 13:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "AI 公司 HUMXN 免费上门修水电、通管道，只为录像收集数据训练 AI 机器人",
@@ -96,28 +107,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "应对 AI 风险，Anthropic 向外部 AI 监督机构开放类员工访问权限",
-    "url": "https://www.ithome.com/1/014/651.htm",
-    "source": "IT之家",
-    "time": "10-19 09:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "王腾官宣 ISHO 首场发布会：今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日",
-    "url": "https://www.ithome.com/1/014/650.htm",
-    "source": "IT之家",
-    "time": "10-19 09:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Namecheap just seized and disabled all my domains",
     "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
     "source": "Hacker News",
@@ -130,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "阿里AI战事升级：智能眼镜、录音卡密集登场，“AI员工”批量上线打工",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a0be0c4a494eaf0958b50afb8368&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261018A0BXH600%3fadChannelId%3dtech&c=17328593015561016419&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5b5642c2e4186bce6a36e015d602e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261018A0BXH600%3fadChannelId%3dtech&c=17328593015561016419&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-18 23:51",
     "summary": "",
@@ -141,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a0be0c4a494eaf0958b50afb8368&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-18%2fdoc-inivrkxi6694410.shtml&c=2366199076831209033&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5b5642c2e4186bce6a36e015d602e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-18%2fdoc-inivrkxi6694410.shtml&c=2366199076831209033&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-18 12:43",
     "summary": "",
@@ -152,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "20余家厂商40多款眼镜；AI眼镜的入口混战提前打响",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a0be0c4a494eaf0958b50afb8368&url=https%3a%2f%2fwww.sohu.com%2fa%2f1089106703_116365&c=8014466899222884231&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5b5642c2e4186bce6a36e015d602e&url=https%3a%2f%2fwww.sohu.com%2fa%2f1089106703_116365&c=8014466899222884231&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-18 10:32",
     "summary": "",
@@ -163,9 +152,20 @@
    {
     "beat": "AI/大模型",
     "title": "千问华南首店落地白鹅潭 多场景体验引发打卡热潮 瞄准全龄刚需 AI眼镜加速走进日常",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a0be0c4a494eaf0958b50afb8368&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610183899088835.html&c=7239846593555912670&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5b5642c2e4186bce6a36e015d602e&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610183899088835.html&c=7239846593555912670&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-18 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从“极客玩具”到大众消费品，AI眼镜距离实用还有多远？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5b5642c2e4186bce6a36e015d602e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261017A0BNPL00%3fadChannelId%3dtech&c=11272075583665074340&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-17 20:01",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -173,6 +173,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "因阻拦配送机器人，美国费城一女子被警方逮捕",
+    "url": "https://www.ithome.com/1/014/764.htm",
+    "source": "IT之家",
+    "time": "10-19 12:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "九部门要求加快推进科技兴商：丰富智能手机、电脑、家居、穿戴设备、机器人等供给，加速脑机接口、具身智能等向市场转化",
@@ -205,28 +216,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "三部门组织开展 2026 年“孝老爱老购物季”活动，引导电商平台搭建线上适老产品虚拟展厅、加快智能护理机器人迭代升级",
-    "url": "https://www.ithome.com/1/014/659.htm",
-    "source": "IT之家",
-    "time": "10-19 09:32",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "杭州具身大脑创企格物通智融资近亿元，多家国资出手投资",
-    "url": "https://www.ithome.com/1/014/652.htm",
-    "source": "IT之家",
-    "time": "10-19 09:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "无人驾驶/低空/智慧出行": [],
@@ -244,6 +233,17 @@
    }
   ],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Secretlab 推出 2026《英雄联盟》全球总决赛主舞台同款 TITAN Evo 电竞椅",
+    "url": "https://www.ithome.com/1/014/771.htm",
+    "source": "IT之家",
+    "time": "10-19 13:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "腾讯 WorkBuddy 教育公益版上线：全国教师每人每月可领 2000 积分，能连续领 1 年",
@@ -325,7 +325,7 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "理想李想：汽车主机厂深入研究电池核心技术，是有利于行业发展和消费者利益的",
+    "title": "Power Day 理想汽车电动技术发布会定档，李想称深入研究电池核心技术有利于行业发展和消费者",
     "url": "https://www.ithome.com/1/014/719.htm",
     "source": "IT之家",
     "time": "10-19 10:49",
@@ -352,7 +352,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(6)",
+   "HackerNews(5)",
    "Bing新闻(5)"
   ],
   "fail": [
