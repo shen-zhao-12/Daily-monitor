@@ -1,0 +1,361 @@
+{
+ "id": "2026-10-20-wubao",
+ "title": "线口监测午报 · 2026年10月20日(周二)",
+ "shift": "午报",
+ "date": "2026-10-20 12:55",
+ "docx": "../briefings/线口监测午报-2026-10-20.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧",
+    "url": "https://www.ithome.com/1/015/250.htm",
+    "source": "IT之家",
+    "time": "10-20 12:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达 Vera CPU 获 AI 初创公司 Modal 订单，杀入英特尔、AMD 主场",
+    "url": "https://www.ithome.com/1/015/228.htm",
+    "source": "IT之家",
+    "time": "10-20 11:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奇瑞全新一代 AI 座舱产品“超能小奇”亮相：超懂你、超能干、超安心",
+    "url": "https://www.ithome.com/1/015/226.htm",
+    "source": "IT之家",
+    "time": "10-20 11:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奇瑞 CheryMind 垂域基础大模型亮相，为物理 AI 而生",
+    "url": "https://www.ithome.com/1/015/219.htm",
+    "source": "IT之家",
+    "time": "10-20 11:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果收紧 App Store 开发者准则，严打 AI 不良内容与换皮“脱衣”应用",
+    "url": "https://www.ithome.com/1/015/212.htm",
+    "source": "IT之家",
+    "time": "10-20 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "独立游戏被AI抄袭吓破胆！取消Demo测试，同行吐槽：独游用AI就是原罪？",
+    "url": "http://www.gamelook.com.cn/2026/10/604272/",
+    "source": "GameLook",
+    "time": "10-20 10:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游戏美术哭了：AI大模型操作Blender 3D建模，Tripo和Meshy都有危险？",
+    "url": "http://www.gamelook.com.cn/2026/10/604232/",
+    "source": "GameLook",
+    "time": "10-20 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "尹同跃：奇瑞是一家“披着车企马甲”的 AI 科技公司，未来不敢用 AI 重构自己的企业将被淘汰",
+    "url": "https://www.ithome.com/1/015/199.htm",
+    "source": "IT之家",
+    "time": "10-20 10:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为路由 X2 系列预售：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起",
+    "url": "https://www.ithome.com/1/015/187.htm",
+    "source": "IT之家",
+    "time": "10-20 10:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达黄仁勋：AI 发展不能急刹车，但必须装“安全带”",
+    "url": "https://www.ithome.com/1/015/127.htm",
+    "source": "IT之家",
+    "time": "10-20 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 降低克隆游戏门槛，独立开发者开始谨慎公开创作内容",
+    "url": "https://www.ithome.com/1/015/126.htm",
+    "source": "IT之家",
+    "time": "10-20 09:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "深度分析：AI反编译对游戏圈意味着什么？",
+    "url": "http://www.gamelook.com.cn/2026/10/604252/",
+    "source": "GameLook",
+    "time": "10-20 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "联想 ThinkBook X AI 2027 轻薄商务本发售，到手价 7,999 元起",
+    "url": "https://www.ithome.com/1/015/119.htm",
+    "source": "IT之家",
+    "time": "10-20 09:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 按钮回归：微软修复 Win10/Win11 经典版 Outlook 的 Copilot 入口消失问题",
+    "url": "https://www.ithome.com/1/015/118.htm",
+    "source": "IT之家",
+    "time": "10-20 09:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Ukraine claims first drone evacuation of wounded soldier",
+    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+    "source": "Hacker News",
+    "time": "10-19 23:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "url": "https://news.ycombinator.com/item?id=50151036",
+    "source": "Hacker News",
+    "time": "10-19 19:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游戏厂商抓狂：软件被AI干免费后，”AI光速反编译”大量3A老游戏了！",
+    "url": "http://www.gamelook.com.cn/2026/10/604149/",
+    "source": "GameLook",
+    "time": "10-19 10:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "吉利汽车与曹操出行等联合打造，中国首款原生开发 Robotaxi 首台工程样车下线",
+    "url": "https://www.ithome.com/1/015/225.htm",
+    "source": "IT之家",
+    "time": "10-20 11:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小米米家扫拖机器人 7 Max 开售：50℃ 热水喷淋定点拖地，首销到手价 4999 元起",
+    "url": "https://www.ithome.com/1/015/182.htm",
+    "source": "IT之家",
+    "time": "10-20 10:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "英特尔向 FCC 申请禁令豁免：美国芯片工厂离不开外国 AGV 机器人",
+    "url": "https://www.ithome.com/1/015/106.htm",
+    "source": "IT之家",
+    "time": "10-20 09:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "奇瑞凌霄 eVTOL 亮相：首发两款机型，最大航程超 1000km",
+    "url": "https://www.ithome.com/1/015/224.htm",
+    "source": "IT之家",
+    "time": "10-20 11:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "消息称 Waymo 计划明年年底前将自动驾驶车队规模扩至目前 5 倍，达 2 万辆",
+    "url": "https://www.ithome.com/1/015/218.htm",
+    "source": "IT之家",
+    "time": "10-20 11:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "今年国内自动驾驶领域最大单笔融资：新石器完成近 4 亿美元 E 轮融资，消息称国家人工智能产业投资基金领投",
+    "url": "https://www.ithome.com/1/015/217.htm",
+    "source": "IT之家",
+    "time": "10-20 11:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "玩家将索尼 PlayStation 游戏机独占《神秘海域：内森德雷克合集》三部曲游戏搬上 PC 平台",
+    "url": "https://www.ithome.com/1/015/249.htm",
+    "source": "IT之家",
+    "time": "10-20 12:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 喜加一：第一人称 3D 跑酷游戏《GetHigh.EXE》免费领",
+    "url": "https://www.ithome.com/1/015/243.htm",
+    "source": "IT之家",
+    "time": "10-20 12:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏业明星制作人时代落幕！姐夫破防：”离开暴雪，邮件都没人回”",
+    "url": "http://www.gamelook.com.cn/2026/10/604262/",
+    "source": "GameLook",
+    "time": "10-20 09:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "育碧新加坡工作室大裁员！腾讯取消研发“3A大秦刺客信条”意外曝光",
+    "url": "http://www.gamelook.com.cn/2026/10/604212/",
+    "source": "GameLook",
+    "time": "10-19 11:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "马斯克新超跑“腾空飞行”，玩家：“我玩过的离谱游戏居然成真了”？",
+    "url": "http://www.gamelook.com.cn/2026/10/604171/",
+    "source": "GameLook",
+    "time": "10-19 10:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“欧盟最强游戏防沉迷要来”？《儿童法案》草案公示，全球游戏公司慌了！",
+    "url": "http://www.gamelook.com.cn/2026/10/604206/",
+    "source": "GameLook",
+    "time": "10-19 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯游戏安全ACE携手《鹅鸭杀》，守护玩家每一场真诚推理",
+    "url": "http://www.gamelook.com.cn/2026/10/604197/",
+    "source": "GameLook",
+    "time": "10-19 08:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(13)",
+   "HackerNews(4)"
+  ],
+  "fail": [
+   "36氪(no entries)",
+   "Bing新闻(无结果)"
+  ]
+ }
+}
