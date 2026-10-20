@@ -2,10 +2,21 @@
  "id": "2026-10-20-wubao",
  "title": "线口监测午报 · 2026年10月20日(周二)",
  "shift": "午报",
- "date": "2026-10-20 12:55",
+ "date": "2026-10-20 14:03",
  "docx": "../briefings/线口监测午报-2026-10-20.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "漫步者 Comfo Clip Ultra 耳夹式蓝牙耳机发售：支持心率检测、内置 AI 教练，国补后 899 元",
+    "url": "https://www.ithome.com/1/015/265.htm",
+    "source": "IT之家",
+    "time": "10-20 13:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧",
@@ -118,17 +129,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 降低克隆游戏门槛，独立开发者开始谨慎公开创作内容",
-    "url": "https://www.ithome.com/1/015/126.htm",
-    "source": "IT之家",
-    "time": "10-20 09:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "深度分析：AI反编译对游戏圈意味着什么？",
     "url": "http://www.gamelook.com.cn/2026/10/604252/",
     "source": "GameLook",
@@ -140,21 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "联想 ThinkBook X AI 2027 轻薄商务本发售，到手价 7,999 元起",
-    "url": "https://www.ithome.com/1/015/119.htm",
-    "source": "IT之家",
-    "time": "10-20 09:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI 按钮回归：微软修复 Win10/Win11 经典版 Outlook 的 Copilot 入口消失问题",
-    "url": "https://www.ithome.com/1/015/118.htm",
-    "source": "IT之家",
-    "time": "10-20 09:41",
+    "title": "集人形机器人+AI眼镜+储能于一身，300115底部涨停！AI眼镜潜在市场巨大，多只概念股“超跌”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad704398ee74b3d89ae5e363a13941c&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202610203901147152.html&c=3223079511582197228&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-20 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -173,10 +162,32 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "广交会的开箱时刻：AI眼镜成刚需，机器人给人类开“外挂”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad704398ee74b3d89ae5e363a13941c&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25B9%25BF%25E4%25BA%25A4%25E4%25BC%259A%25E7%259A%2584%25E5%25BC%2580%25E7%25AE%25B1%25E6%2597%25B6%25E5%2588%25BB-ai%25E7%259C%25BC%25E9%2595%259C%25E6%2588%2590%25E5%2588%259A%25E9%259C%2580-%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E7%25BB%2599%25E4%25BA%25BA%25E7%25B1%25BB%25E5%25BC%2580-%25E5%25A4%2596%25E6%258C%2582%2far-AA2fzvHB&c=1091566650985535902&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-19 19:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
     "url": "https://news.ycombinator.com/item?id=50151036",
     "source": "Hacker News",
     "time": "10-19 19:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大厂争霸AI办公：个人Agent和AI硬件哪个才是答案？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad704398ee74b3d89ae5e363a13941c&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34279339&c=12679131467771934191&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-19 15:55",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -197,6 +208,17 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
+    "title": "萨维、赵家驹和闪电机器人首次同框赛跑",
+    "url": "https://www.ithome.com/1/015/266.htm",
+    "source": "IT之家",
+    "time": "10-20 13:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
     "title": "吉利汽车与曹操出行等联合打造，中国首款原生开发 Robotaxi 首台工程样车下线",
     "url": "https://www.ithome.com/1/015/225.htm",
     "source": "IT之家",
@@ -212,17 +234,6 @@
     "url": "https://www.ithome.com/1/015/182.htm",
     "source": "IT之家",
     "time": "10-20 10:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "英特尔向 FCC 申请禁令豁免：美国芯片工厂离不开外国 AGV 机器人",
-    "url": "https://www.ithome.com/1/015/106.htm",
-    "source": "IT之家",
-    "time": "10-20 09:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -301,6 +312,17 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "不止于游戏上线：从 Funtap Games 看越南本土发行商的角色转变",
+    "url": "http://www.gamelook.com.cn/2026/10/604324/",
+    "source": "GameLook",
+    "time": "10-20 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "育碧新加坡工作室大裁员！腾讯取消研发“3A大秦刺客信条”意外曝光",
     "url": "http://www.gamelook.com.cn/2026/10/604212/",
     "source": "GameLook",
@@ -320,28 +342,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "“欧盟最强游戏防沉迷要来”？《儿童法案》草案公示，全球游戏公司慌了！",
-    "url": "http://www.gamelook.com.cn/2026/10/604206/",
-    "source": "GameLook",
-    "time": "10-19 10:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯游戏安全ACE携手《鹅鸭杀》，守护玩家每一场真诚推理",
-    "url": "http://www.gamelook.com.cn/2026/10/604197/",
-    "source": "GameLook",
-    "time": "10-19 08:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -350,12 +350,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(13)",
-   "HackerNews(4)"
+   "GameLook(14)",
+   "HackerNews(6)",
+   "Bing新闻(5)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "Bing新闻(无结果)"
+   "36氪(no entries)"
   ]
  }
 }
