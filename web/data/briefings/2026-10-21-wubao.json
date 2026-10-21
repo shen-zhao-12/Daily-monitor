@@ -2,7 +2,7 @@
  "id": "2026-10-21-wubao",
  "title": "线口监测午报 · 2026年10月21日(周三)",
  "shift": "午报",
- "date": "2026-10-21 20:52",
+ "date": "2026-10-21 21:41",
  "docx": "../briefings/线口监测午报-2026-10-21.docx",
  "sections": {
   "AI/大模型": [
@@ -41,17 +41,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "IDC 首份汽车 AI 座舱市场跟踪报告发布，2026 上半年火山引擎份额第一、阿里第二",
-    "url": "https://www.ithome.com/1/015/980.htm",
-    "source": "IT之家",
-    "time": "10-21 16:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低",
     "url": "https://www.ithome.com/1/015/827.htm",
     "source": "IT之家",
@@ -64,7 +53,7 @@
    {
     "beat": "AI/大模型",
     "title": "端侧AI爆发前夜，巨头们把“赌注”押在智能眼镜上",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8b59c9fc044f38e3959c5ad20bdc5&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%25AB%25AF%25E4%25BE%25A7ai%25E7%2588%2586%25E5%258F%2591%25E5%2589%258D%25E5%25A4%259C-%25E5%25B7%25A8%25E5%25A4%25B4%25E4%25BB%25AC%25E6%258A%258A-%25E8%25B5%258C%25E6%25B3%25A8-%25E6%258A%25BC%25E5%259C%25A8%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E4%25B8%258A%2far-AA2fJZY4&c=15524202471202154861&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8c1272bee473e896f051d79a28387&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%25AB%25AF%25E4%25BE%25A7ai%25E7%2588%2586%25E5%258F%2591%25E5%2589%258D%25E5%25A4%259C-%25E5%25B7%25A8%25E5%25A4%25B4%25E4%25BB%25AC%25E6%258A%258A-%25E8%25B5%258C%25E6%25B3%25A8-%25E6%258A%25BC%25E5%259C%25A8%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E4%25B8%258A%2far-AA2fJZY4&c=15524202471202154861&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-21 13:03",
     "summary": "",
@@ -85,10 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "“AI垃圾横行”？8200款游戏冲爆Steam新品节，“玩家不满、开发者担忧”",
-    "url": "http://www.gamelook.com.cn/2026/10/604344/",
-    "source": "GameLook",
-    "time": "10-21 09:39",
+    "title": "AI眼镜行业迎来爆发期：18只概念股被机构热捧！",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8c1272bee473e896f051d79a28387&url=https%3a%2f%2fwww.sohu.com%2fa%2f1090446566_122004016&c=13348384084122272657&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-21 08:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -96,10 +85,76 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜行业迎来爆发期：18只概念股被机构热捧！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8b59c9fc044f38e3959c5ad20bdc5&url=https%3a%2f%2fwww.sohu.com%2fa%2f1090446566_122004016&c=13348384084122272657&mkt=en-us",
+    "title": "AI眼镜行业迈向成长期 18只概念股获机构密集调研",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8c1272bee473e896f051d79a28387&url=https%3a%2f%2fstock.stockstar.com%2fIG2026102100003561.shtml&c=8718521302710799343&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-21 08:42",
+    "time": "10-21 04:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "戴着中国AI眼镜逛广交会 外国客商体验中医按摩直呼放松｜广交有医思",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8c1272bee473e896f051d79a28387&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261020A0FD8200&c=8805147353281205551&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-20 23:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "source": "Hacker News",
+    "time": "10-20 17:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "「钱」流向了哪？ 2026 AI/AR 眼镜融资变化",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8c1272bee473e896f051d79a28387&url=https%3a%2f%2foptics.ofweek.com%2f2026-10%2fART-250003-12003-30707968.html&c=7041389383811003186&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-20 15:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "观察 | 极米、大眼橙挺进AI眼镜赛道，投影厂商的眼前战场从厅卧延伸到脸上",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8c1272bee473e896f051d79a28387&url=https%3a%2f%2foptics.ofweek.com%2f2026-10%2fART-250003-8420-30707958.html&c=2031391560005895826&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-20 15:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "xMEMS 开始量产用于 AI 眼镜和数据中心硬件的固态散热芯片",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8c1272bee473e896f051d79a28387&url=https%3a%2f%2fwww.unite.ai%2fzh-cn%2fxmems-mass-production-solid-state-micro-cooling-ai-hardware%2f&c=9171206279051382642&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-20 14:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "集人形机器人+AI眼镜+储能于一身，300115底部涨停！AI眼镜潜在市场巨大，多只概念股“超跌”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8c1272bee473e896f051d79a28387&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2frelnews%2fcn%2f2026-10-20%2fdoc-inivvxcp7626968.shtml&c=11971662471108221683&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-20 12:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -185,32 +240,32 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "华为靳玉志谈自动驾驶进入“下半场”",
-    "url": "https://www.ithome.com/1/015/994.htm",
-    "source": "IT之家",
-    "time": "10-21 17:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "比亚迪杨冬生：L3 级别有条件自动驾驶有希望在 2028 年落地",
-    "url": "https://www.ithome.com/1/015/988.htm",
-    "source": "IT之家",
-    "time": "10-21 17:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "欧洲 PEGI 整顿开箱机制游戏评级，《宝可梦 Go》《EA Sports FC》上调至 16+",
+    "url": "https://www.ithome.com/1/016/117.htm",
+    "source": "IT之家",
+    "time": "10-21 21:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《我的世界》游戏官方整活，与达美乐推出方形披萨",
+    "url": "https://www.ithome.com/1/016/112.htm",
+    "source": "IT之家",
+    "time": "10-21 20:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "英伟达 621.01 Game Ready 驱动发布：针对《影之刃零》《使命召唤：现代战争 4》等新游戏提供优化，修复《鸣潮》DLSS Bug",
@@ -254,86 +309,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯股价跌破 400 港元：创近一年新低，市值缩水近四成",
-    "url": "https://www.ithome.com/1/015/985.htm",
-    "source": "IT之家",
-    "time": "10-21 17:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "黑鲨凤鸣 BE32 电竞耳机、风神笔记本散热器亮相，10 月 30 日发布",
-    "url": "https://www.ithome.com/1/015/984.htm",
-    "source": "IT之家",
-    "time": "10-21 17:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "网易参投瑞典游戏公司Liquid Swords破产，《正当防卫》前总监创业失败",
-    "url": "http://www.gamelook.com.cn/2026/10/604392/",
-    "source": "GameLook",
-    "time": "10-21 10:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯子公司Key社发公告，麻枝准确诊咽癌：放弃积极治疗、继续做游戏",
-    "url": "http://www.gamelook.com.cn/2026/10/604412/",
-    "source": "GameLook",
-    "time": "10-21 09:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "惨不忍睹！过去四年，游戏人工资下降13%，美国薪资购买力暴减23%",
-    "url": "http://www.gamelook.com.cn/2026/10/604338/",
-    "source": "GameLook",
-    "time": "10-21 09:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "欧盟向“开宝箱抽卡游戏”挥出重拳，10月底前一律改为16+分级！",
-    "url": "http://www.gamelook.com.cn/2026/10/604334/",
-    "source": "GameLook",
-    "time": "10-21 09:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "“年度T0电竞夯机”荣耀WIN2、荣耀WIN RT2正式发布，国补到手价3149元起",
-    "url": "http://www.gamelook.com.cn/2026/10/604423/",
-    "source": "GameLook",
-    "time": "10-21 01:43",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "雷军：小米已经构建全球最大规模消费级 IoT 平台，截至二季度末设备连接数超 11 亿台",
+    "url": "https://www.ithome.com/1/016/114.htm",
+    "source": "IT之家",
+    "time": "10-21 20:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "法国两家苹果零售店遭洗劫：里尔门店一度暂停营业，波尔多门店曾在 2018 年遇袭",
@@ -351,12 +340,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(16)",
-   "HackerNews(2)",
+   "HackerNews(3)",
    "Bing新闻(8)"
   ],
   "fail": [
-   "36氪(no entries)"
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
   ]
  }
 }
