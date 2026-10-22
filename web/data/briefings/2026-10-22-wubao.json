@@ -1,0 +1,362 @@
+{
+ "id": "2026-10-22-wubao",
+ "title": "线口监测午报 · 2026年10月22日(周四)",
+ "shift": "午报",
+ "date": "2026-10-22 12:55",
+ "docx": "../briefings/线口监测午报-2026-10-22.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌 CEO 皮查伊：AI 智能体的优势，是每周 7 天、每天 24 小时不间断工作",
+    "url": "https://www.ithome.com/1/016/338.htm",
+    "source": "IT之家",
+    "time": "10-22 12:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "宇树科技王兴兴：目前物理 AI 已经看到被击穿的苗头",
+    "url": "https://www.ithome.com/1/016/326.htm",
+    "source": "IT之家",
+    "time": "10-22 11:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "王腾详解今日宜休 ISHO iFlow AI 温控系统：无感监测、智能控温、双区独立",
+    "url": "https://www.ithome.com/1/016/324.htm",
+    "source": "IT之家",
+    "time": "10-22 11:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达黄仁勋：GPU 寿命可达 8 年以上，AI 正在改写硬件折旧规则",
+    "url": "https://www.ithome.com/1/016/322.htm",
+    "source": "IT之家",
+    "time": "10-22 11:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "曾暴涨 7 倍，大模型企业 MiniMax 股价跌破 IPO 发行价",
+    "url": "https://www.ithome.com/1/016/269.htm",
+    "source": "IT之家",
+    "time": "10-22 11:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "向硅谷巨头发起挑战，消息称 DeepSeek 最新一轮融资筹集近千亿元",
+    "url": "https://www.ithome.com/1/016/263.htm",
+    "source": "IT之家",
+    "time": "10-22 11:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "特朗普给 AI 数据中心“开药方”：想落地，先给社区分红",
+    "url": "https://www.ithome.com/1/016/257.htm",
+    "source": "IT之家",
+    "time": "10-22 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 的力量：SpaceX、Anthropic、英伟达助力科技股摆脱低迷",
+    "url": "https://www.ithome.com/1/016/251.htm",
+    "source": "IT之家",
+    "time": "10-22 10:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "路透社：特斯拉 AI 转型承压，2026 全年支出目标降幅约 20%",
+    "url": "https://www.ithome.com/1/016/215.htm",
+    "source": "IT之家",
+    "time": "10-22 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游戏人道心破碎：“三年的活、AI一天干完”，全球最大游戏反编译平台关站！",
+    "url": "http://www.gamelook.com.cn/2026/10/604479/",
+    "source": "GameLook",
+    "time": "10-22 09:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗",
+    "url": "https://www.ithome.com/1/016/206.htm",
+    "source": "IT之家",
+    "time": "10-22 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Hey OnStar 登场：通用汽车推出 OnStar AI，能看懂车辆、听懂车主表述",
+    "url": "https://www.ithome.com/1/016/200.htm",
+    "source": "IT之家",
+    "time": "10-22 09:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智能眼镜的时尚化转向：AI技术正学会“隐形”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9973a88d142e88a2a6bd1b601b145&url=https%3a%2f%2fwww.sohu.com%2fa%2f1090863823_447547&c=16311286050328089509&mkt=en-ca",
+    "source": "Bing新闻",
+    "time": "10-22 01:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极米一周“三连击”：AURA 3众筹23小时破1500万美元，AI眼镜开售、入股机器人公司",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9973a88d142e88a2a6bd1b601b145&url=http%3a%2f%2fwww.pjtime.com%2f2026%2f10%2f322038149959.shtml&c=7053534414801075424&mkt=en-ca",
+    "source": "Bing新闻",
+    "time": "10-22 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "source": "Hacker News",
+    "time": "10-21 20:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "王兴兴：宇树 G1 已累计生产下线约 1-2 万台，是全球最畅销的人形机器人",
+    "url": "https://www.ithome.com/1/016/258.htm",
+    "source": "IT之家",
+    "time": "10-22 10:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "马斯克：计划建造 Optimus 人形机器人学校，Terafab 经济价值可跻身全球前 20 经济体",
+    "url": "https://www.ithome.com/1/016/249.htm",
+    "source": "IT之家",
+    "time": "10-22 10:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "特斯拉开始生产 Optimus 人形机器人，马斯克称达周产 2 万台仍需约一年甚至更久",
+    "url": "https://www.ithome.com/1/016/218.htm",
+    "source": "IT之家",
+    "time": "10-22 09:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "工信部郭守刚：L3 级自动驾驶产品第二批准入试点工作正在进行",
+    "url": "https://www.ithome.com/1/016/347.htm",
+    "source": "IT之家",
+    "time": "10-22 12:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "特斯拉：预计明年二季度让车主车辆接入自动驾驶出租车车队",
+    "url": "https://www.ithome.com/1/016/209.htm",
+    "source": "IT之家",
+    "time": "10-22 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《无畏契约》冠军夜刀光落定，电竞之都上海带来别样秋日周末",
+    "url": "http://www.gamelook.com.cn/2026/10/604572/",
+    "source": "GameLook",
+    "time": "10-22 12:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国产 3A 游戏《影之刃零》最终预告发布，10 月 29 日正式发售",
+    "url": "https://www.ithome.com/1/016/288.htm",
+    "source": "IT之家",
+    "time": "10-22 11:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软 XBOX Labs“复活” XBOX 360 经典 Blades 游戏界面",
+    "url": "https://www.ithome.com/1/016/255.htm",
+    "source": "IT之家",
+    "time": "10-22 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软 XBOX 启动云游戏单独付费预览体验，优惠价 50 小时 11.99 美元",
+    "url": "https://www.ithome.com/1/016/253.htm",
+    "source": "IT之家",
+    "time": "10-22 10:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称私募巨头曾盯上微软 XBOX 游戏业务，报价估值超 1000 亿美元",
+    "url": "https://www.ithome.com/1/016/250.htm",
+    "source": "IT之家",
+    "time": "10-22 10:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "不是二游！腾讯轻怪谈都市开放世界亮相，制作人来自网易？",
+    "url": "http://www.gamelook.com.cn/2026/10/604492/",
+    "source": "GameLook",
+    "time": "10-22 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "吹哥亲述“疯狂十年”！自研语言、自研引擎、烧光2亿，“下款游戏会容易点”",
+    "url": "http://www.gamelook.com.cn/2026/10/604485/",
+    "source": "GameLook",
+    "time": "10-22 09:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "拳头游戏虚拟女团 K/DA 回归，《FIRESTARTER》（燃）迷你专辑上线",
+    "url": "https://www.ithome.com/1/016/210.htm",
+    "source": "IT之家",
+    "time": "10-22 09:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "大厂参投瑞典游戏公司Liquid Swords破产，《正当防卫》前总监创业失败",
+    "url": "http://www.gamelook.com.cn/2026/10/604392/",
+    "source": "GameLook",
+    "time": "10-21 10:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "Bose 收购“骷髅头”Skullcandy：瞄准年轻消费群体，拥抱街头潮流文化",
+    "url": "https://www.ithome.com/1/016/207.htm",
+    "source": "IT之家",
+    "time": "10-22 09:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(17)",
+   "HackerNews(3)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
