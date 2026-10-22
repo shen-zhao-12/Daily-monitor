@@ -2,7 +2,7 @@
  "id": "2026-10-22-wubao",
  "title": "线口监测午报 · 2026年10月22日(周四)",
  "shift": "午报",
- "date": "2026-10-22 20:54",
+ "date": "2026-10-22 21:43",
  "docx": "../briefings/线口监测午报-2026-10-22.docx",
  "sections": {
   "AI/大模型": [
@@ -52,32 +52,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "华硕破晓 Air 轻薄商务本图赏：第三代英特尔酷睿 +CNC 一体化机身，颜值和质感兼备",
-    "url": "https://www.ithome.com/1/016/557.htm",
-    "source": "IT之家",
-    "time": "10-22 17:15",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "王兴兴明确宇树未来三大布局方向，将每年投入数千万元举办世界物理 AI 大赛",
-    "url": "https://www.ithome.com/1/016/514.htm",
-    "source": "IT之家",
-    "time": "10-22 16:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Jailbreaking the Switch 2",
     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
     "source": "Hacker News",
     "time": "10-22 16:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "端侧AI爆发前夜，巨头们把“赌注”押在智能眼镜上",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada12f8f95f4d2d86953efda184d377&url=https%3a%2f%2ffinance.china.com%2fTMT%2f13004688%2f20261022%2f49810089.html&c=3462060690283116558&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-22 14:13",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -97,7 +86,7 @@
    {
     "beat": "AI/大模型",
     "title": "极米一周“三连击”：AURA 3众筹23小时破1500万美元，AI眼镜开售、入股机器人公司",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada07afb3714a538062e8f4009ef63c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-22%2fdoc-iniwaezt5991128.shtml&c=17808202345752228284&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada12f8f95f4d2d86953efda184d377&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-22%2fdoc-iniwaezt5991128.shtml&c=17808202345752228284&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-22 12:02",
     "summary": "",
@@ -130,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada07afb3714a538062e8f4009ef63c&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%258D%2583%25E9%2597%25AEai%25E7%25A1%25AC%25E4%25BB%25B6-%25E4%25B8%2580%25E5%2589%25AF%25E7%259C%25BC%25E9%2595%259C%25E7%259A%2584-%25E8%25B6%258A%25E7%2595%258C-%25E4%25B8%258E%25E4%25B8%2580%25E4%25B8%25AAagent%25E7%259A%2584%25E9%2587%258E%25E5%25BF%2583%2far-AA2fOhaG&c=5594838549114372778&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada12f8f95f4d2d86953efda184d377&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%258D%2583%25E9%2597%25AEai%25E7%25A1%25AC%25E4%25BB%25B6-%25E4%25B8%2580%25E5%2589%25AF%25E7%259C%25BC%25E9%2595%259C%25E7%259A%2584-%25E8%25B6%258A%25E7%2595%258C-%25E4%25B8%258E%25E4%25B8%2580%25E4%25B8%25AAagent%25E7%259A%2584%25E9%2587%258E%25E5%25BF%2583%2far-AA2fOhaG&c=5594838549114372778&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-22 09:14",
     "summary": "",
@@ -141,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "华为 AI 眼镜获 HarmonyOS 6.0.0.159 SP5 升级：新增头动支付等功能，连续录像时长提升至 5 分钟",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada07afb3714a538062e8f4009ef63c&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%258D%258E%25E4%25B8%25BA-ai-%25E7%259C%25BC%25E9%2595%259C%25E8%258E%25B7-harmonyos-6-0-0-159-sp5-%25E5%258D%2587%25E7%25BA%25A7-%25E6%2596%25B0%25E5%25A2%259E%25E5%25A4%25B4%25E5%258A%25A8%25E6%2594%25AF%25E4%25BB%2598%25E7%25AD%2589%25E5%258A%259F%25E8%2583%25BD-%25E8%25BF%259E%25E7%25BB%25AD%25E5%25BD%2595%25E5%2583%258F%25E6%2597%25B6%25E9%2595%25BF%25E6%258F%2590%25E5%258D%2587%25E8%2587%25B3-5-%25E5%2588%2586%25E9%2592%259F%2far-AA2fMOX0&c=14793182207922170974&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada12f8f95f4d2d86953efda184d377&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%258D%258E%25E4%25B8%25BA-ai-%25E7%259C%25BC%25E9%2595%259C%25E8%258E%25B7-harmonyos-6-0-0-159-sp5-%25E5%258D%2587%25E7%25BA%25A7-%25E6%2596%25B0%25E5%25A2%259E%25E5%25A4%25B4%25E5%258A%25A8%25E6%2594%25AF%25E4%25BB%2598%25E7%25AD%2589%25E5%258A%259F%25E8%2583%25BD-%25E8%25BF%259E%25E7%25BB%25AD%25E5%25BD%2595%25E5%2583%258F%25E6%2597%25B6%25E9%2595%25BF%25E6%258F%2590%25E5%258D%2587%25E8%2587%25B3-5-%25E5%2588%2586%25E9%2592%259F%2far-AA2fMOX0&c=14793182207922170974&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-22 08:03",
     "summary": "",
@@ -152,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "撬开万亿 AI 硬件市场，一副普通眼镜刚刚好",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada07afb3714a538062e8f4009ef63c&url=https%3a%2f%2fwww.huxiu.com%2farticle%2f4899533.html&c=2799853722866125763&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada12f8f95f4d2d86953efda184d377&url=https%3a%2f%2fwww.huxiu.com%2farticle%2f4899533.html&c=2799853722866125763&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-22 06:52",
     "summary": "",
@@ -163,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "智能眼镜的时尚化转向：AI技术正学会“隐形”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada07afb3714a538062e8f4009ef63c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1090863823_447547&c=16311286050328089509&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada12f8f95f4d2d86953efda184d377&url=https%3a%2f%2fwww.sohu.com%2fa%2f1090863823_447547&c=16311286050328089509&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-22 01:17",
     "summary": "",
@@ -173,10 +162,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "端侧AI爆发前夜，巨头们把“赌注”押在智能眼镜上",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada07afb3714a538062e8f4009ef63c&url=https%3a%2f%2ffinance.china.com%2fTMT%2f13004688%2f20261022%2f49810089.html&c=3462060690283116558&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-22 00:13",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "source": "Hacker News",
+    "time": "10-21 20:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“AI垃圾横行”？8200款游戏冲爆Steam新品节，“玩家不满、开发者担忧”",
+    "url": "http://www.gamelook.com.cn/2026/10/604344/",
+    "source": "GameLook",
+    "time": "10-21 09:39",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -218,33 +218,20 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "特斯拉无人驾驶网约车首份安全报告发布：累计行驶 499 万公里无人受伤",
-    "url": "https://www.ithome.com/1/016/530.htm",
-    "source": "IT之家",
-    "time": "10-22 17:06",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
-  "电商/直播/即时零售": [
-   {
-    "beat": "电商/直播/即时零售",
-    "title": "美团 / 淘宝闪购 / 顺丰 / 中通 / 曹操专车 / T3 / 滴滴等倡议：推进新就业形态人员参加基本医保",
-    "url": "https://www.ithome.com/1/016/543.htm",
-    "source": "IT之家",
-    "time": "10-22 17:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯张军：已有超过 10 万名老师申领 WorkBuddy 教育公益版，覆盖全国 1467 个城市 4.5 万所学校",
+    "url": "https://www.ithome.com/1/016/690.htm",
+    "source": "IT之家",
+    "time": "10-22 21:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "《战狗》为打击作弊限制跨区匹配：游戏延迟超 175ms 则受限制，部分玩家威胁退款",
@@ -273,28 +260,6 @@
     "url": "https://www.ithome.com/1/016/618.htm",
     "source": "IT之家",
     "time": "10-22 17:43",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "米哈游联合清华北大等高校发布开源 GameScaling 游戏模型，覆盖 0.8B 至 27B 参数规模",
-    "url": "https://www.ithome.com/1/016/575.htm",
-    "source": "IT之家",
-    "time": "10-22 17:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯客服称微信目前已适配 iPhone Duo，后续还会推出相关更新并持续提升使用体验",
-    "url": "https://www.ithome.com/1/016/512.htm",
-    "source": "IT之家",
-    "time": "10-22 16:50",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -332,6 +297,39 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "大厂参投瑞典游戏公司Liquid Swords破产，《正当防卫》前总监创业失败",
+    "url": "http://www.gamelook.com.cn/2026/10/604392/",
+    "source": "GameLook",
+    "time": "10-21 10:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯子公司Key社发公告，麻枝准确诊咽癌：放弃积极治疗、继续做游戏",
+    "url": "http://www.gamelook.com.cn/2026/10/604412/",
+    "source": "GameLook",
+    "time": "10-21 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "惨不忍睹！过去四年，游戏人工资下降13%，美国薪资购买力暴减23%",
+    "url": "http://www.gamelook.com.cn/2026/10/604338/",
+    "source": "GameLook",
+    "time": "10-21 09:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -354,7 +352,7 @@
    "IT之家(60)",
    "GameLook(17)",
    "HackerNews(7)",
-   "Bing新闻(7)"
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
