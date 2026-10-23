@@ -1,0 +1,361 @@
+{
+ "id": "2026-10-23-wubao",
+ "title": "线口监测午报 · 2026年10月23日(周五)",
+ "shift": "午报",
+ "date": "2026-10-23 12:57",
+ "docx": "../briefings/线口监测午报-2026-10-23.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Counterpoint：2026 年 Q3 印度智能手机出货量跌至十年来最低水平，印度国产品牌 Ai+ 异军突起销量飙升 306%",
+    "url": "https://www.ithome.com/1/016/961.htm",
+    "source": "IT之家",
+    "time": "10-23 12:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "要帮车企跟上中国同行进度，日本创企 EpicAI 拟用 AI 加速车辆设计评审",
+    "url": "https://www.ithome.com/1/016/895.htm",
+    "source": "IT之家",
+    "time": "10-23 12:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "报告称 2026 年国内大模型均价翻倍，每秒吞吐量也翻倍",
+    "url": "https://www.ithome.com/1/016/876.htm",
+    "source": "IT之家",
+    "time": "10-23 11:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 完成千亿元人民币新一轮融资，消息称“联想系”投资者入局",
+    "url": "https://www.ithome.com/1/016/875.htm",
+    "source": "IT之家",
+    "time": "10-23 11:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不录屏的 Recall：微软测试 Pantheon 新 AI 应用，定位 Win11 的“第二大脑”",
+    "url": "https://www.ithome.com/1/016/873.htm",
+    "source": "IT之家",
+    "time": "10-23 11:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌推出 ACE 服务：为 AI 智能体配“独立工位”，空闲时自动下班 / 唤醒不到 500 毫秒",
+    "url": "https://www.ithome.com/1/016/853.htm",
+    "source": "IT之家",
+    "time": "10-23 10:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "1人4小时开发，“AI投胎人生模拟游戏”火了！",
+    "url": "http://www.gamelook.com.cn/2026/10/604620/",
+    "source": "GameLook",
+    "time": "10-23 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 智能体的“说明书”转为社区共治：Anthropic 捐赠 Agent Skills 开放标准",
+    "url": "https://www.ithome.com/1/016/811.htm",
+    "source": "IT之家",
+    "time": "10-23 09:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "94%游戏工作室表态：“都在用AI，但都没用深”",
+    "url": "http://www.gamelook.com.cn/2026/10/604625/",
+    "source": "GameLook",
+    "time": "10-23 07:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "source": "Hacker News",
+    "time": "10-23 02:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "source": "Hacker News",
+    "time": "10-23 01:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "source": "Hacker News",
+    "time": "10-23 00:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极米记得AI记忆眼镜G1上架：轻至17.9g，自动整理纪要",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae92dd56c4394a63969b950de2513&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xRIRbGSzT7&c=8013756787185946644&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-22 23:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae92dd56c4394a63969b950de2513&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091545934_114778&c=9644259139456534644&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-22 21:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae92dd56c4394a63969b950de2513&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-22%2fdoc-iniwavxm5882564.shtml&c=4198850677609335916&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-22 17:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Jailbreaking the Switch 2",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "source": "Hacker News",
+    "time": "10-22 16:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为AI眼镜功能升级：支持停车场扫码支付、头动控制支付",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae92dd56c4394a63969b950de2513&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdiscovery%2f2026-10-22%2fdoc-iniwarrm5198849.shtml&c=12018994622353301171&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-22 15:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "端侧AI爆发前夜，巨头们把“赌注”押在智能眼镜上",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae92dd56c4394a63969b950de2513&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%25AB%25AF%25E4%25BE%25A7ai%25E7%2588%2586%25E5%258F%2591%25E5%2589%258D%25E5%25A4%259C-%25E5%25B7%25A8%25E5%25A4%25B4%25E4%25BB%25AC%25E6%258A%258A-%25E8%25B5%258C%25E6%25B3%25A8-%25E6%258A%25BC%25E5%259C%25A8%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E4%25B8%258A%2far-AA2fJZY4&c=15524202471202154861&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-22 14:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "叠纸不画饼：姚润昊机器人公司来了，纸片人老公真要“走出屏幕”？",
+    "url": "http://www.gamelook.com.cn/2026/10/604651/",
+    "source": "GameLook",
+    "time": "10-23 10:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "商务部：前三季度重点平台外骨骼助力器销售额增长 46.4%，具身智能机器人增长 22.6%",
+    "url": "https://www.ithome.com/1/016/821.htm",
+    "source": "IT之家",
+    "time": "10-23 09:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "PHP 高危漏洞波及多款游戏：《最终幻想 14》暂停登录，《赛马娘 Pretty Derby》紧急停机",
+    "url": "https://www.ithome.com/1/016/935.htm",
+    "source": "IT之家",
+    "time": "10-23 12:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏人诉苦：游戏收入56万美元，到手仅7.3万，“等于5年月薪8000”",
+    "url": "http://www.gamelook.com.cn/2026/10/604664/",
+    "source": "GameLook",
+    "time": "10-23 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“没故事可讲”的游戏股，跌了一整年！",
+    "url": "http://www.gamelook.com.cn/2026/10/604599/",
+    "source": "GameLook",
+    "time": "10-23 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "RTX 4070 测试帧率翻 7 倍：非官方 PC 移植《血源诅咒》游戏 1080P 突破 220 FPS",
+    "url": "https://www.ithome.com/1/016/850.htm",
+    "source": "IT之家",
+    "time": "10-23 10:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "情怀投资到期，米哈游不做脑机接口了？退出上海零唯一思",
+    "url": "http://www.gamelook.com.cn/2026/10/604656/",
+    "source": "GameLook",
+    "time": "10-23 08:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《无畏契约》冠军夜刀光落定，电竞之都上海带来别样秋日周末",
+    "url": "http://www.gamelook.com.cn/2026/10/604572/",
+    "source": "GameLook",
+    "time": "10-22 12:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "不是二游！腾讯轻怪谈都市开放世界亮相，制作人来自网易？",
+    "url": "http://www.gamelook.com.cn/2026/10/604492/",
+    "source": "GameLook",
+    "time": "10-22 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "荣耀平板 X10 Mini 开售：9.7 英寸屏、8000mAh 电池，国补到手价 934.15 元起",
+    "url": "https://www.ithome.com/1/016/845.htm",
+    "source": "IT之家",
+    "time": "10-23 10:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "总台中国之声提醒：网传“家电国补正在退场”是假的",
+    "url": "https://www.ithome.com/1/016/833.htm",
+    "source": "IT之家",
+    "time": "10-23 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "32kPa 大吸力 + 110℃ 烘干：石头 A30 Pro 3.0 洗地机 1492 元国补新低",
+    "url": "https://www.ithome.com/1/016/810.htm",
+    "source": "IT之家",
+    "time": "10-23 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(6)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
