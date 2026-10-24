@@ -2,7 +2,7 @@
  "id": "2026-10-24-wubao",
  "title": "线口监测午报 · 2026年10月24日(周六)",
  "shift": "午报",
- "date": "2026-10-24 19:57",
+ "date": "2026-10-24 20:37",
  "docx": "../briefings/线口监测午报-2026-10-24.docx",
  "sections": {
   "AI/大模型": [
@@ -85,10 +85,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "线上转战线下，AI 眼镜开打「巷战」",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9d37fde24c7a81b98661b6f0111c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
+    "title": "华为AI眼镜新升级：停车场扫码支付与头动控制来袭！",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adca686e7944fa8b88429e5f03b70c1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091909858_122004016&c=2153642380987326949&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-23 17:42",
+    "time": "10-24 01:26",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -96,10 +96,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9d37fde24c7a81b98661b6f0111c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091545934_114778&c=9644259139456534644&mkt=en-us",
+    "title": "AI眼镜欧美市场旺 香港成内地品牌出海跳台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adca686e7944fa8b88429e5f03b70c1&url=https%3a%2f%2fwww.hkcna.hk%2fcn%2fcontent%2fs6adb51cee4b00c3428c7f6a4.html&c=17927411544065846822&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-23 11:41",
+    "time": "10-23 21:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "线上转战线下，AI 眼镜开打「巷战」",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adca686e7944fa8b88429e5f03b70c1&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-23 17:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -119,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "华为AI眼镜升级：停车场扫码支付来了，头一歪就能付钱",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9d37fde24c7a81b98661b6f0111c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091500171_106013&c=15619807395938249251&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adca686e7944fa8b88429e5f03b70c1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091500171_106013&c=15619807395938249251&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-23 10:39",
     "summary": "",
@@ -141,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "极米记得AI记忆眼镜G1上架：轻至17.9g，自动整理纪要",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9d37fde24c7a81b98661b6f0111c&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xRIRbGSzT7&c=8013756787185946644&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adca686e7944fa8b88429e5f03b70c1&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xRIRbGSzT7&c=8013756787185946644&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-22 23:36",
     "summary": "",
@@ -258,17 +269,6 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "游戏接近完工，工作室却要关门？《漫威：刀锋战士》遭遇最残酷倒计时",
-    "url": "https://www.ithome.com/1/017/384.htm",
-    "source": "IT之家",
-    "time": "10-24 14:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "游戏人诉苦：游戏收入56万美元，到手仅7.3万，“等于5年月薪8000”",
     "url": "http://www.gamelook.com.cn/2026/10/604664/",
     "source": "GameLook",
@@ -321,7 +321,7 @@
    "IT之家(60)",
    "GameLook(8)",
    "HackerNews(4)",
-   "Bing新闻(4)"
+   "Bing新闻(5)"
   ],
   "fail": [
    "36氪(no entries)"
