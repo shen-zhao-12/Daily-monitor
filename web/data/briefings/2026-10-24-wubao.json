@@ -2,10 +2,32 @@
  "id": "2026-10-24-wubao",
  "title": "线口监测午报 · 2026年10月24日(周六)",
  "shift": "午报",
- "date": "2026-10-24 12:42",
+ "date": "2026-10-24 13:56",
  "docx": "../briefings/线口监测午报-2026-10-24.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软“邮件革命”仅一年就退场：Outlook 收件箱 AI 整理 Prioritize My Inbox 功能下周起停用",
+    "url": "https://www.ithome.com/1/017/362.htm",
+    "source": "IT之家",
+    "time": "10-24 13:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "亿万富翁投资人马克 · 库班：抵御失控智能体就像防蟑螂，可以用 AI“喷药”",
+    "url": "https://www.ithome.com/1/017/347.htm",
+    "source": "IT之家",
+    "time": "10-24 12:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "宫本茂：即使 AI 最终什么都能做，人类设计师也始终会有用武之地",
@@ -129,17 +151,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Securing our frontier model training environment",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-    "source": "Hacker News",
-    "time": "10-24 03:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Dessa: Conversation Model trained only on speech",
     "url": "https://block.xyz/dessa",
     "source": "Hacker News",
@@ -163,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "华为AI眼镜新升级：停车场扫码支付与头动控制来袭！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc3727fa204b4795d76016869e1835&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091909858_122004016&c=2153642380987326949&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091909858_122004016&c=2153642380987326949&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-24 01:26",
     "summary": "",
@@ -173,8 +184,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI眼镜欧美市场旺 香港成内地品牌出海跳台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2fwww.hkcna.hk%2fcn%2fcontent%2fs6adb51cee4b00c3428c7f6a4.html&c=17927411544065846822&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-23 21:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "线上转战线下，AI 眼镜开打「巷战」",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc3727fa204b4795d76016869e1835&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-23 17:42",
     "summary": "",
@@ -185,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc3727fa204b4795d76016869e1835&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091545934_114778&c=9644259139456534644&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091545934_114778&c=9644259139456534644&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-23 11:41",
     "summary": "",
@@ -195,62 +217,17 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "1人4小时开发，“AI投胎人生模拟游戏”火了！",
-    "url": "http://www.gamelook.com.cn/2026/10/604620/",
-    "source": "GameLook",
-    "time": "10-23 10:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "94%游戏工作室表态：“都在用AI，但都没用深”",
-    "url": "http://www.gamelook.com.cn/2026/10/604625/",
-    "source": "GameLook",
-    "time": "10-23 07:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "极米记得AI记忆眼镜G1上架：轻至17.9g，自动整理纪要",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc3727fa204b4795d76016869e1835&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xRIRbGSzT7&c=8013756787185946644&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xRIRbGSzT7&c=8013756787185946644&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-22 23:36",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc3727fa204b4795d76016869e1835&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-22%2fdoc-iniwavxm5882564.shtml&c=4198850677609335916&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-22 17:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "机器人/AI硬件": [
-   {
-    "beat": "机器人/AI硬件",
-    "title": "叠纸不画饼：姚润昊机器人公司来了，纸片人老公真要“走出屏幕”？",
-    "url": "http://www.gamelook.com.cn/2026/10/604651/",
-    "source": "GameLook",
-    "time": "10-23 10:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -298,39 +275,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "游戏人诉苦：游戏收入56万美元，到手仅7.3万，“等于5年月薪8000”",
-    "url": "http://www.gamelook.com.cn/2026/10/604664/",
-    "source": "GameLook",
-    "time": "10-23 11:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "“没故事可讲”的游戏股，跌了一整年！",
-    "url": "http://www.gamelook.com.cn/2026/10/604599/",
-    "source": "GameLook",
-    "time": "10-23 10:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "情怀投资到期，米哈游不做脑机接口了？退出上海零唯一思",
-    "url": "http://www.gamelook.com.cn/2026/10/604656/",
-    "source": "GameLook",
-    "time": "10-23 08:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -351,12 +295,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(9)",
-   "HackerNews(4)",
-   "Bing新闻(7)"
+   "HackerNews(3)",
+   "Bing新闻(5)"
   ],
   "fail": [
-   "36氪(no entries)"
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
   ]
  }
 }
