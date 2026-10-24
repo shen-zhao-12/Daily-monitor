@@ -2,16 +2,16 @@
  "id": "2026-10-24-wubao",
  "title": "线口监测午报 · 2026年10月24日(周六)",
  "shift": "午报",
- "date": "2026-10-24 13:56",
+ "date": "2026-10-24 19:57",
  "docx": "../briefings/线口监测午报-2026-10-24.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "微软“邮件革命”仅一年就退场：Outlook 收件箱 AI 整理 Prioritize My Inbox 功能下周起停用",
-    "url": "https://www.ithome.com/1/017/362.htm",
+    "title": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元",
+    "url": "https://www.ithome.com/1/017/492.htm",
     "source": "IT之家",
-    "time": "10-24 13:07",
+    "time": "10-24 19:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "亿万富翁投资人马克 · 库班：抵御失控智能体就像防蟑螂，可以用 AI“喷药”",
-    "url": "https://www.ithome.com/1/017/347.htm",
+    "title": "消息称字节跳动 AI 短剧产品内部整合：小云雀并入即梦，仍保留独立入口",
+    "url": "https://www.ithome.com/1/017/480.htm",
     "source": "IT之家",
-    "time": "10-24 12:56",
+    "time": "10-24 18:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -30,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "宫本茂：即使 AI 最终什么都能做，人类设计师也始终会有用武之地",
-    "url": "https://www.ithome.com/1/017/344.htm",
+    "title": "腾讯 WorkBuddy 接入模型 Kimi-K3.1-Pro，支持 100 万上下文",
+    "url": "https://www.ithome.com/1/017/412.htm",
     "source": "IT之家",
-    "time": "10-24 12:34",
+    "time": "10-24 15:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,10 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "英伟达黄仁勋开炮：“AI 毁灭人类”纯属捏造，是博眼球的廉价炒作",
-    "url": "https://www.ithome.com/1/017/326.htm",
+    "title": "父亲突发脑梗后儿子用豆包 AI 抢出救命时间，话题登顶微博热搜",
+    "url": "https://www.ithome.com/1/017/394.htm",
     "source": "IT之家",
-    "time": "10-24 10:56",
+    "time": "10-24 15:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -52,98 +52,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "亚马逊 CEO 贾西：要让 AI 广泛应用于企业软件，成本需降至目前十分之一",
-    "url": "https://www.ithome.com/1/017/313.htm",
-    "source": "IT之家",
-    "time": "10-24 09:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室",
-    "url": "https://www.ithome.com/1/017/304.htm",
-    "source": "IT之家",
-    "time": "10-24 08:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能",
-    "url": "https://www.ithome.com/1/017/295.htm",
-    "source": "IT之家",
-    "time": "10-24 08:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单",
-    "url": "https://www.ithome.com/1/017/294.htm",
-    "source": "IT之家",
-    "time": "10-24 08:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "IT早报 1024：月之暗面发布 Kimi K3.1 Pro；诋毁嘲讽尊界 S800 自媒体博主向尊界道歉；华为 Pura90 Plus 开启预订；iPhone Duo 内屏膜撕下秒变亮面屏...",
-    "url": "https://www.ithome.com/1/017/291.htm",
-    "source": "IT之家",
-    "time": "10-24 07:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
-    "url": "https://www.ithome.com/1/017/290.htm",
-    "source": "IT之家",
-    "time": "10-24 07:37",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
-    "url": "https://www.ithome.com/1/017/289.htm",
-    "source": "IT之家",
-    "time": "10-24 07:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型",
-    "url": "https://www.ithome.com/1/017/287.htm",
-    "source": "IT之家",
-    "time": "10-24 07:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Kimi K3.1 Pro 正式发布：月之暗面最强 3 万亿级模型，编程智能体测评超 GPT-6",
-    "url": "https://www.ithome.com/1/017/284.htm",
-    "source": "IT之家",
-    "time": "10-24 07:08",
+    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "source": "Hacker News",
+    "time": "10-24 13:49",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -173,30 +85,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "华为AI眼镜新升级：停车场扫码支付与头动控制来袭！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091909858_122004016&c=2153642380987326949&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-24 01:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜欧美市场旺 香港成内地品牌出海跳台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2fwww.hkcna.hk%2fcn%2fcontent%2fs6adb51cee4b00c3428c7f6a4.html&c=17927411544065846822&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-23 21:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "线上转战线下，AI 眼镜开打「巷战」",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9d37fde24c7a81b98661b6f0111c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-23 17:42",
     "summary": "",
@@ -207,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091545934_114778&c=9644259139456534644&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9d37fde24c7a81b98661b6f0111c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091545934_114778&c=9644259139456534644&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-23 11:41",
     "summary": "",
@@ -217,8 +107,41 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "1人4小时开发，“AI投胎人生模拟游戏”火了！",
+    "url": "http://www.gamelook.com.cn/2026/10/604620/",
+    "source": "GameLook",
+    "time": "10-23 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为AI眼镜升级：停车场扫码支付来了，头一歪就能付钱",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9d37fde24c7a81b98661b6f0111c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091500171_106013&c=15619807395938249251&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-23 10:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "94%游戏工作室表态：“都在用AI，但都没用深”",
+    "url": "http://www.gamelook.com.cn/2026/10/604625/",
+    "source": "GameLook",
+    "time": "10-23 07:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "极米记得AI记忆眼镜G1上架：轻至17.9g，自动整理纪要",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc4886d1634f77a6d99b645a6cc8f3&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xRIRbGSzT7&c=8013756787185946644&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc9d37fde24c7a81b98661b6f0111c&url=https%3a%2f%2ftech.ifeng.com%2fc%2f8xRIRbGSzT7&c=8013756787185946644&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-22 23:36",
     "summary": "",
@@ -227,39 +150,52 @@
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [
+  "机器人/AI硬件": [
    {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”",
-    "url": "https://www.ithome.com/1/017/334.htm",
-    "source": "IT之家",
-    "time": "10-24 11:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "第二届华为乾崑智驾公开赛官宣 10 月 31 日正式开赛，26 日开启报名",
-    "url": "https://www.ithome.com/1/017/324.htm",
-    "source": "IT之家",
-    "time": "10-24 10:46",
+    "beat": "机器人/AI硬件",
+    "title": "叠纸不画饼：姚润昊机器人公司来了，纸片人老公真要“走出屏幕”？",
+    "url": "http://www.gamelook.com.cn/2026/10/604651/",
+    "source": "GameLook",
+    "time": "10-23 10:40",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "电商/直播/即时零售": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "14.99 万元起，捷途山海 L7 PLUS 1.5L C-DM 智驾版新增“智享精英版”“激光雷达豪华版”上市",
+    "url": "https://www.ithome.com/1/017/431.htm",
+    "source": "IT之家",
+    "time": "10-24 17:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "北京警方打掉多个虚假“名画销售直播间”，诈骗团伙将成本仅几元的打印画包装成价值几十万元的名家真迹",
+    "url": "https://www.ithome.com/1/017/401.htm",
+    "source": "IT之家",
+    "time": "10-24 15:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "网络安全“隐形基石”升级：OpenSSL 4.1 发布，实时音 / 视频和游戏传输更安全",
-    "url": "https://www.ithome.com/1/017/323.htm",
+    "title": "致敬《GTA6》：游戏《僵尸世界大战》将于 11 月 12 日推出“Viral State”更新，带来迈阿密地图",
+    "url": "https://www.ithome.com/1/017/444.htm",
     "source": "IT之家",
-    "time": "10-24 10:42",
+    "time": "10-24 18:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -267,10 +203,98 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "曝微软曾向 Netflix 开价 8 亿美元，寻求 XBOX 游戏 7 年独家影视改编权",
-    "url": "https://www.ithome.com/1/017/293.htm",
+    "title": "《赛博朋克：边缘行者 2》设计师：动画时间线设定在 2078 年，即游戏剧情一年以后",
+    "url": "https://www.ithome.com/1/017/441.htm",
     "source": "IT之家",
-    "time": "10-24 07:58",
+    "time": "10-24 18:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 喜加一：2D 平台冒险游戏《Depths Unseen》转付费前限时免费领",
+    "url": "https://www.ithome.com/1/017/435.htm",
+    "source": "IT之家",
+    "time": "10-24 17:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称 R 星将于本月底至下月初为媒体机构发放《GTA6》评测版本，游戏评分将于 11 月 18 日解禁",
+    "url": "https://www.ithome.com/1/017/428.htm",
+    "source": "IT之家",
+    "time": "10-24 17:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "V 社正式为 Steam 推出“个人日历”功能：可智能推荐即将发售游戏、支持个性化定制",
+    "url": "https://www.ithome.com/1/017/410.htm",
+    "source": "IT之家",
+    "time": "10-24 15:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英伟达发布 RTX Remix 1.6:《我的世界》Java 版游戏迎来路径追踪，A 卡性能提升约 20%",
+    "url": "https://www.ithome.com/1/017/403.htm",
+    "source": "IT之家",
+    "time": "10-24 15:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏接近完工，工作室却要关门？《漫威：刀锋战士》遭遇最残酷倒计时",
+    "url": "https://www.ithome.com/1/017/384.htm",
+    "source": "IT之家",
+    "time": "10-24 14:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏人诉苦：游戏收入56万美元，到手仅7.3万，“等于5年月薪8000”",
+    "url": "http://www.gamelook.com.cn/2026/10/604664/",
+    "source": "GameLook",
+    "time": "10-23 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“没故事可讲”的游戏股，跌了一整年！",
+    "url": "http://www.gamelook.com.cn/2026/10/604599/",
+    "source": "GameLook",
+    "time": "10-23 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "情怀投资到期，米哈游不做脑机接口了？退出上海零唯一思",
+    "url": "http://www.gamelook.com.cn/2026/10/604656/",
+    "source": "GameLook",
+    "time": "10-23 08:44",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -280,10 +304,10 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "华为 Mate 90 标准版 / Pro Max 等机型开放 24 期免息分期活动，国补价 5499 元起",
-    "url": "https://www.ithome.com/1/017/303.htm",
+    "title": "32 英寸 AOC OLED 雾面 4K 120Hz 显示器 U32U4D 发售，国补价 5249 元",
+    "url": "https://www.ithome.com/1/017/427.htm",
     "source": "IT之家",
-    "time": "10-24 08:56",
+    "time": "10-24 16:57",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -295,12 +319,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "HackerNews(3)",
-   "Bing新闻(5)"
+   "GameLook(8)",
+   "HackerNews(4)",
+   "Bing新闻(4)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "GameLook(HTTP 502)"
+   "36氪(no entries)"
   ]
  }
 }
