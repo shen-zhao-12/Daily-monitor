@@ -2,16 +2,16 @@
  "id": "2026-10-25-wubao",
  "title": "线口监测午报 · 2026年10月25日(周日)",
  "shift": "午报",
- "date": "2026-10-25 14:10",
+ "date": "2026-10-25 20:31",
  "docx": "../briefings/线口监测午报-2026-10-25.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "网络安全专家：AI 发现的漏洞，很快或将引发新的安全隐患",
-    "url": "https://www.ithome.com/1/017/592.htm",
+    "title": "谷歌 DeepMind 高管：终身学习者将在 AI 职场中占据优势",
+    "url": "https://www.ithome.com/1/017/681.htm",
     "source": "IT之家",
-    "time": "10-25 14:06",
+    "time": "10-25 19:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "雷神 ZERO Air 15 双十一大促：12499 元起，轻至 1.54kg 兼顾便携与性能释放",
-    "url": "https://www.ithome.com/1/017/591.htm",
+    "title": "网络安全研究员称三星电视利用 AI 录制音频、截屏投放广告",
+    "url": "https://www.ithome.com/1/017/670.htm",
     "source": "IT之家",
-    "time": "10-25 14:04",
+    "time": "10-25 18:49",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -30,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对",
-    "url": "https://www.ithome.com/1/017/563.htm",
+    "title": "阿里千问蒋冠军谈个人 AI 智能体技术框架：需要模型、记忆与生态协同推进",
+    "url": "https://www.ithome.com/1/017/669.htm",
     "source": "IT之家",
-    "time": "10-25 11:28",
+    "time": "10-25 18:38",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,10 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 智能体闯进银行，美国大行开始准备“灾后预案”",
-    "url": "https://www.ithome.com/1/017/562.htm",
+    "title": "软银孙正义计划在马来西亚投资 500 亿美元，押注 AI、数据中心",
+    "url": "https://www.ithome.com/1/017/637.htm",
     "source": "IT之家",
-    "time": "10-25 11:06",
+    "time": "10-25 17:17",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -52,10 +52,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
-    "url": "https://www.ithome.com/1/017/557.htm",
+    "title": "阿里 AI 智能体“千问 Go！”上线“我的应用”功能：可帮助用户搭建长期、可分享的专属应用",
+    "url": "https://www.ithome.com/1/017/625.htm",
     "source": "IT之家",
-    "time": "10-25 10:29",
+    "time": "10-25 16:05",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -63,10 +63,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年",
-    "url": "https://www.ithome.com/1/017/549.htm",
+    "title": "野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧",
+    "url": "https://www.ithome.com/1/017/622.htm",
     "source": "IT之家",
-    "time": "10-25 09:37",
+    "time": "10-25 15:57",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -74,10 +74,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化",
-    "url": "https://www.ithome.com/1/017/542.htm",
+    "title": "星闪 3.0 标准成果发布：华为、中国移动、联想等共建，面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+    "url": "https://www.ithome.com/1/017/620.htm",
     "source": "IT之家",
-    "time": "10-25 08:42",
+    "time": "10-25 15:53",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -85,10 +85,54 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
-    "url": "https://www.ithome.com/1/017/527.htm",
+    "title": "AI 云厂商 Nscale“摊上事了”，被前工程师指控报复性解雇、违法使用分包人员",
+    "url": "https://www.ithome.com/1/017/618.htm",
     "source": "IT之家",
-    "time": "10-25 07:19",
+    "time": "10-25 15:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯《王者荣耀》暂未开放 iPhone Duo 机型 120 帧模式，Air 用户苦等一年也仍未解锁",
+    "url": "https://www.ithome.com/1/017/609.htm",
+    "source": "IT之家",
+    "time": "10-25 15:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "source": "Hacker News",
+    "time": "10-25 09:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜作弊现形记！韩国2026年首推电波检测黑科技，考场秒变‘电磁天眼’",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addf6a5b3164366a4c0c720dbb69daa&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092352263_122066679&c=1838410396401547366&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-25 09:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "创在瓯海丨改图不到一分钟，AI正把眼镜设计推向“人人可用”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addf6a5b3164366a4c0c720dbb69daa&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-25%2fdoc-iniwmhux6570564.shtml&c=8464704818840905385&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-25 07:16",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -107,17 +151,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
-    "url": "https://www.ithome.com/1/017/525.htm",
-    "source": "IT之家",
-    "time": "10-25 07:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Neural chip decodes interactions between brain regions",
     "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
     "source": "Hacker News",
@@ -129,21 +162,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜作弊现形记！韩国2026年首推电波检测黑科技，考场秒变‘电磁天眼’",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add9d4dca1845edbc6dd39c38d8acff&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092352263_122066679&c=1838410396401547366&mkt=en-us",
+    "title": "AI眼镜欧美市场旺 香港成内地品牌出海跳台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addf6a5b3164366a4c0c720dbb69daa&url=https%3a%2f%2fwww.hkcna.hk%2fcn%2fcontent%2fs6adb51cee4b00c3428c7f6a4.html&c=17927411544065846822&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-24 19:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "线上转战线下，AI 眼镜开打「巷战」",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add9d4dca1845edbc6dd39c38d8acff&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-23 17:42",
+    "time": "10-23 21:23",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -153,25 +175,59 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
-    "title": "软银投资的农业无人机创企极飞科技：希望让每个农民都有自己的机器人",
-    "url": "https://www.ithome.com/1/017/552.htm",
+    "title": "启元机器人第 5000 台个人机器人下线，日产能提升至 200 余台",
+    "url": "https://www.ithome.com/1/017/672.htm",
     "source": "IT之家",
-    "time": "10-25 09:58",
+    "time": "10-25 19:18",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "香港网约车平台牌照最快 11 月推出，司机笔试合格率超六成",
+    "url": "https://www.ithome.com/1/017/685.htm",
+    "source": "IT之家",
+    "time": "10-25 20:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "GEEKCON 2026 上海站闭幕：黑客展示“隔空劫持无人机”“一条链接控制头部 App”等安全漏洞",
+    "url": "https://www.ithome.com/1/017/678.htm",
+    "source": "IT之家",
+    "time": "10-25 19:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "东风猛士 X700 上市：华为乾崑智驾 ADS 5 + 鸿蒙座舱 HarmonySpace 6，限时焕新价 20.98 万元起",
+    "url": "https://www.ithome.com/1/017/629.htm",
+    "source": "IT之家",
+    "time": "10-25 16:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "张雪时隔 17 年再战“水上漂”：将亲自上阵类比为打游戏，称“不可能自己的号让别人去玩”",
-    "url": "https://www.ithome.com/1/017/558.htm",
+    "title": "发售日临近，任天堂将 Switch 版《塞尔达传说：时之笛重制版》游戏体积缩减至 24.54GB",
+    "url": "https://www.ithome.com/1/017/671.htm",
     "source": "IT之家",
-    "time": "10-25 10:40",
+    "time": "10-25 18:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -179,10 +235,65 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "索尼 PS5 破解新进展：已可直接运行 Steam 游戏库中的 Windows 游戏",
-    "url": "https://www.ithome.com/1/017/540.htm",
+    "title": "因日活量不佳，VRMMO 游戏《Zenith》将于 12 月正式关闭服务器",
+    "url": "https://www.ithome.com/1/017/636.htm",
     "source": "IT之家",
-    "time": "10-25 08:33",
+    "time": "10-25 17:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《幕府将军 2》完全版游戏差评如潮后，开发商 Creative Assembly 称本作为外包开发",
+    "url": "https://www.ithome.com/1/017/630.htm",
+    "source": "IT之家",
+    "time": "10-25 16:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Alinea Analytics：《博德之门 3》游戏销售额达 12 亿美元，销量预计达 2300 万份",
+    "url": "https://www.ithome.com/1/017/628.htm",
+    "source": "IT之家",
+    "time": "10-25 16:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游《原神》首家官方常设咖啡厅将落地日本东京，明年 1 月开幕",
+    "url": "https://www.ithome.com/1/017/619.htm",
+    "source": "IT之家",
+    "time": "10-25 15:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "飞傲 JD1 GAMING 游戏耳机开售，109 元",
+    "url": "https://www.ithome.com/1/017/610.htm",
+    "source": "IT之家",
+    "time": "10-25 15:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "迈从 GT 75 机能风全铝电竞磁轴键盘官宣，10 月 30 日开启预订",
+    "url": "https://www.ithome.com/1/017/605.htm",
+    "source": "IT之家",
+    "time": "10-25 15:09",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -195,12 +306,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(1)",
-   "HackerNews(5)",
-   "Bing新闻(2)"
+   "HackerNews(4)",
+   "Bing新闻(3)"
   ],
   "fail": [
-   "36氪(no entries)"
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
   ]
  }
 }
