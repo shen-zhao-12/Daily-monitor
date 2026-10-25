@@ -2,10 +2,32 @@
  "id": "2026-10-25-wubao",
  "title": "线口监测午报 · 2026年10月25日(周日)",
  "shift": "午报",
- "date": "2026-10-25 12:48",
+ "date": "2026-10-25 14:10",
  "docx": "../briefings/线口监测午报-2026-10-25.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "网络安全专家：AI 发现的漏洞，很快或将引发新的安全隐患",
+    "url": "https://www.ithome.com/1/017/592.htm",
+    "source": "IT之家",
+    "time": "10-25 14:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷神 ZERO Air 15 双十一大促：12499 元起，轻至 1.54kg 兼顾便携与性能释放",
+    "url": "https://www.ithome.com/1/017/591.htm",
+    "source": "IT之家",
+    "time": "10-25 14:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对",
@@ -107,30 +129,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元",
-    "url": "https://www.ithome.com/1/017/510.htm",
-    "source": "IT之家",
-    "time": "10-24 22:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元",
-    "url": "https://www.ithome.com/1/017/509.htm",
-    "source": "IT之家",
-    "time": "10-24 21:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜作弊现形记！韩国2026年首推电波检测黑科技，考场秒变‘电磁天眼’",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add8a0c5a284142b8d00511a5fc544d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092352263_122066679&c=1838410396401547366&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add9d4dca1845edbc6dd39c38d8acff&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092352263_122066679&c=1838410396401547366&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-24 19:31",
     "summary": "",
@@ -140,19 +140,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜欧美市场旺 香港成内地品牌出海跳台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add8a0c5a284142b8d00511a5fc544d&url=https%3a%2f%2fwww.hkcna.hk%2fcn%2fcontent%2fs6adb51cee4b00c3428c7f6a4.html&c=17927411544065846822&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-23 21:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "线上转战线下，AI 眼镜开打「巷战」",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add8a0c5a284142b8d00511a5fc544d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add9d4dca1845edbc6dd39c38d8acff&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261023A0AGKE00&c=15210570947949901313&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-23 17:42",
     "summary": "",
@@ -207,8 +196,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(1)",
-   "HackerNews(4)",
-   "Bing新闻(3)"
+   "HackerNews(5)",
+   "Bing新闻(2)"
   ],
   "fail": [
    "36氪(no entries)"
