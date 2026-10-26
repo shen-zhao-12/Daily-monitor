@@ -2,10 +2,43 @@
  "id": "2026-10-26-wubao",
  "title": "线口监测午报 · 2026年10月26日(周一)",
  "shift": "午报",
- "date": "2026-10-26 22:08",
+ "date": "2026-10-26 23:06",
  "docx": "../briefings/线口监测午报-2026-10-26.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "网易《逆水寒：新世界》将推“自拍模式”，可自定义动作、邀请 AI 门客 NPC 合照",
+    "url": "https://www.ithome.com/1/018/172.htm",
+    "source": "IT之家",
+    "time": "10-26 22:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IPO 文件阐述 Anthropic 的野心：AI 有望解决过去几代人未能攻克的难题",
+    "url": "https://www.ithome.com/1/018/171.htm",
+    "source": "IT之家",
+    "time": "10-26 22:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯混元同声传译大模型 Hy-SimulMT 开源，响应时间仅 3 秒超人类译员",
+    "url": "https://www.ithome.com/1/018/168.htm",
+    "source": "IT之家",
+    "time": "10-26 22:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "支持苹果 15W 无线闪充：安克 Air 磁吸充电宝 5000mAh 329 → 248 元直降",
@@ -75,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜乱战，风口上过着苦日子｜钛媒体深度",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf5f08fc484ac18268935849ec7f07&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E7%259C%25BC%25E9%2595%259C%25E4%25B9%25B1%25E6%2588%2598-%25E9%25A3%258E%25E5%258F%25A3%25E4%25B8%258A%25E8%25BF%2587%25E7%259D%2580%25E8%258B%25A6%25E6%2597%25A5%25E5%25AD%2590-%25E9%2592%259B%25E5%25AA%2592%25E4%25BD%2593%25E6%25B7%25B1%25E5%25BA%25A6%2far-AA2g3VAR&c=7169438407749988470&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf6c89edb2492da8cb164e3ded31c0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E7%259C%25BC%25E9%2595%259C%25E4%25B9%25B1%25E6%2588%2598-%25E9%25A3%258E%25E5%258F%25A3%25E4%25B8%258A%25E8%25BF%2587%25E7%259D%2580%25E8%258B%25A6%25E6%2597%25A5%25E5%25AD%2590-%25E9%2592%259B%25E5%25AA%2592%25E4%25BD%2593%25E6%25B7%25B1%25E5%25BA%25A6%2far-AA2g3VAR&c=7169438407749988470&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-26 13:43",
     "summary": "",
@@ -85,19 +118,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "简牍垂域大模型简问正式发布 残简智能缀合助冷门绝学破圈",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf5f07b4d048ce802b97a1da154ea5&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092976388_122949423&c=7843336683885591236&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-26 06:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "【视频】阶跃STEPX Neo：大模型原生智能体手机体验如何？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf5f07b4d048ce802b97a1da154ea5&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092974679_359616&c=4091434852152484330&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf6c8734364050bcf3bd96c6f40178&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092974679_359616&c=4091434852152484330&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-26 05:13",
     "summary": "",
@@ -108,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "欧洲关注、澳洲调查，AI眼镜全球化面临合规新考验",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf5f08fc484ac18268935849ec7f07&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092951371_549351&c=4920992389562176333&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf6c89edb2492da8cb164e3ded31c0&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092951371_549351&c=4920992389562176333&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-26 04:41",
     "summary": "",
@@ -119,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "讯飞星火医疗大模型V3.7升级，AI患者管理3.0发布并启动行业标准共建",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf5f07b4d048ce802b97a1da154ea5&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2f2026-10-26%2fdoc-iniwpwir9278829.shtml&c=13266641517666778749&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf6c8734364050bcf3bd96c6f40178&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2f2026-10-26%2fdoc-iniwpwir9278829.shtml&c=13266641517666778749&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-26 04:06",
     "summary": "",
@@ -158,6 +180,17 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "《影之刃零》游戏入围金摇杆奖",
+    "url": "https://www.ithome.com/1/018/174.htm",
+    "source": "IT之家",
+    "time": "10-26 22:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "宏碁掠夺者 · 战斧 9 Neo 游戏本新增 14650HX + 5070 配置，标价 14499 元",
     "url": "https://www.ithome.com/1/018/132.htm",
     "source": "IT之家",
@@ -184,17 +217,6 @@
     "url": "https://www.ithome.com/1/018/112.htm",
     "source": "IT之家",
     "time": "10-26 18:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "游戏《莎木 3：增强版》跳票至明年初发售，登陆 PS5/XBOX Series / Switch 2 平台",
-    "url": "https://www.ithome.com/1/018/001.htm",
-    "source": "IT之家",
-    "time": "10-26 16:55",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -234,17 +256,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "汇丰推出第二款港元稳定币 RedCoin，聚焦零售支付及交易",
-    "url": "https://www.ithome.com/1/017/952.htm",
-    "source": "IT之家",
-    "time": "10-26 16:32",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ]
  },
@@ -253,7 +264,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(8)",
-   "HackerNews(2)",
+   "HackerNews(0)",
    "Bing新闻(5)"
   ],
   "fail": [
