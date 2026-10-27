@@ -2,7 +2,7 @@
  "id": "2026-10-27-wubao",
  "title": "线口监测午报 · 2026年10月27日(周二)",
  "shift": "午报",
- "date": "2026-10-27 13:11",
+ "date": "2026-10-27 14:18",
  "docx": "../briefings/线口监测午报-2026-10-27.docx",
  "sections": {
   "AI/大模型": [
@@ -74,17 +74,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "获日本文化勋章，宫本茂采访：“游戏变成三代人娱乐”，“创意是1、AI是0”",
-    "url": "http://www.gamelook.com.cn/2026/10/604844/",
-    "source": "GameLook",
-    "time": "10-27 10:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "蚂蚁灵光 2.0 发布：全新升级“能管事的 AI 助理”，突破单次对话限制",
     "url": "https://www.ithome.com/1/018/252.htm",
     "source": "IT之家",
@@ -107,54 +96,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 造富：Anthropic 七位联合创始人身家均超 130 亿美元",
-    "url": "https://www.ithome.com/1/018/231.htm",
-    "source": "IT之家",
-    "time": "10-27 09:17",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏",
-    "url": "https://www.ithome.com/1/018/230.htm",
-    "source": "IT之家",
-    "time": "10-27 09:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
-    "url": "https://www.ithome.com/1/018/229.htm",
-    "source": "IT之家",
-    "time": "10-27 09:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
-    "url": "https://www.ithome.com/1/018/228.htm",
-    "source": "IT之家",
-    "time": "10-27 09:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "老干妈否认“用 AI 把 600 名工人裁到 48 人”，回应称相关 AI 裁员传闻为不实信息",
-    "url": "https://www.ithome.com/1/018/227.htm",
-    "source": "IT之家",
-    "time": "10-27 08:55",
+    "title": "AI眼镜这么火，歌尔Q3却少卖24亿，224亿库存等什么 ？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424ea20940bc91f1f4fc05386a19&url=https%3a%2f%2foptics.ofweek.com%2f2026-10%2fART-250003-12003-30708916.html&c=10817424979667380138&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 07:18",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -173,30 +118,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜这么火，歌尔Q3却少卖24亿，224亿库存等什么 ？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae03289bf664d76a0f258a8c71e9bd5&url=https%3a%2f%2foptics.ofweek.com%2f2026-10%2fART-250003-12003-30708916.html&c=10817424979667380138&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-27 06:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "雷鸟创新发布第四代双目全彩AI眼镜iO+",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae03289bf664d76a0f258a8c71e9bd5&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f8%2f6755000.html&c=5456754501046394294&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-27 06:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "雷鸟iO+官宣!蒋奇明抢先体验第四代双目全彩AI眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae03289bf664d76a0f258a8c71e9bd5&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%259B%25B7%25E9%25B8%259Fio-%25E5%25AE%2598%25E5%25AE%25A3-%25E8%2592%258B%25E5%25A5%2587%25E6%2598%258E%25E6%258A%25A2%25E5%2585%2588%25E4%25BD%2593%25E9%25AA%258C%25E7%25AC%25AC%25E5%259B%259B%25E4%25BB%25A3%25E5%258F%258C%25E7%259B%25AE%25E5%2585%25A8%25E5%25BD%25A9ai%25E7%259C%25BC%25E9%2595%259C%2far-AA2g8PhV&c=622956797170557007&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424ea20940bc91f1f4fc05386a19&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%259B%25B7%25E9%25B8%259Fio-%25E5%25AE%2598%25E5%25AE%25A3-%25E8%2592%258B%25E5%25A5%2587%25E6%2598%258E%25E6%258A%25A2%25E5%2585%2588%25E4%25BD%2593%25E9%25AA%258C%25E7%25AC%25AC%25E5%259B%259B%25E4%25BB%25A3%25E5%258F%258C%25E7%259B%25AE%25E5%2585%25A8%25E5%25BD%25A9ai%25E7%259C%25BC%25E9%2595%259C%2far-AA2g8PhV&c=622956797170557007&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-27 04:29",
     "summary": "",
@@ -207,28 +130,104 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜市场热度走高，未来会被手机整合还是成为下一代个人数字入口？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae03289bf664d76a0f258a8c71e9bd5&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610273909439227.html&c=11488951148353782336&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424ea20940bc91f1f4fc05386a19&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610273909439227.html&c=11488951148353782336&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-27 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "机器人/AI硬件": [
+   },
    {
-    "beat": "机器人/AI硬件",
-    "title": "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍",
-    "url": "https://www.ithome.com/1/018/226.htm",
-    "source": "IT之家",
-    "time": "10-27 08:54",
+    "beat": "AI/大模型",
+    "title": "雷鸟第四代双目全彩AI眼镜iO+即将发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424ea20940bc91f1f4fc05386a19&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610273909574884.html&c=14870542495899524223&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟创新发布第四代双目全彩AI眼镜iO+",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424ea20940bc91f1f4fc05386a19&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f8%2f6755000.html&c=5456754501046394294&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-26 23:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "《通用大模型人气周榜TOP20》NO.6：DeepSeek 智谱等国产模型占据前四 尾部高流动性持续",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424d049546999dc3a65dc5ef8613&url=https%3a%2f%2fwww.sohu.com%2fa%2f1093247454_120491808&c=12931335362957237418&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-26 22:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟 iO+首次曝光：第四代双目全彩AI眼镜即将登场",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424ea20940bc91f1f4fc05386a19&url=https%3a%2f%2fwww.sohu.com%2fa%2f1093278629_447547&c=13128960999944456234&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-26 22:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "简牍垂域大模型简问正式发布 残简智能缀合助冷门绝学破圈",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424d049546999dc3a65dc5ef8613&url=https%3a%2f%2fwww.sohu.com%2fa%2f1092976388_122949423&c=7843336683885591236&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-26 20:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "讯飞星火医疗大模型V3.7升级，AI患者管理3.0发布并启动行业标准共建",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424d049546999dc3a65dc5ef8613&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2f2026-10-26%2fdoc-iniwpwir9278829.shtml&c=13266641517666778749&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-26 18:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "抛弃反向传播也能预训练大模型，Q Labs 发布 Dust 零阶优化算法",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424d049546999dc3a65dc5ef8613&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f1%2f6754505.html&c=9925460581490550367&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-26 17:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜乱战，风口上过着苦日子｜钛媒体深度",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0424ea20940bc91f1f4fc05386a19&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fai%25E7%259C%25BC%25E9%2595%259C%25E4%25B9%25B1%25E6%2588%2598-%25E9%25A3%258E%25E5%258F%25A3%25E4%25B8%258A%25E8%25BF%2587%25E7%259D%2580%25E8%258B%25A6%25E6%2597%25A5%25E5%25AD%2590-%25E9%2592%259B%25E5%25AA%2592%25E4%25BD%2593%25E6%25B7%25B1%25E5%25BA%25A6%2far-AA2g3VAR&c=7169438407749988470&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-26 15:32",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
+  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -302,32 +301,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "王老菊做游戏真成功了？七年打造《再再启程》获“特别好评”，玩家给足面子",
-    "url": "http://www.gamelook.com.cn/2026/10/604843/",
-    "source": "GameLook",
-    "time": "10-27 10:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "“拯救《质量效应》”请愿书签名人数突破 20 万，粉丝请求延续系列游戏生命",
     "url": "https://www.ithome.com/1/018/239.htm",
     "source": "IT之家",
     "time": "10-27 09:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "微博评最有影响力游戏制作人：冯骥、梁其伟名副其实，金亨泰帕鲁FF7制作人在列",
-    "url": "http://www.gamelook.com.cn/2026/10/604827/",
-    "source": "GameLook",
-    "time": "10-27 09:29",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -351,12 +328,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(15)",
    "HackerNews(3)",
-   "Bing新闻(11)"
+   "Bing新闻(13)"
   ],
   "fail": [
-   "36氪(no entries)"
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
   ]
  }
 }
