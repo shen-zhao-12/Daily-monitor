@@ -1,0 +1,362 @@
+{
+ "id": "2026-10-27-wubao",
+ "title": "线口监测午报 · 2026年10月27日(周二)",
+ "shift": "午报",
+ "date": "2026-10-27 13:11",
+ "docx": "../briefings/线口监测午报-2026-10-27.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟 iO+ 正式官宣：第四代双目全彩 AI 眼镜，搭载超小型全彩光机",
+    "url": "https://www.ithome.com/1/018/346.htm",
+    "source": "IT之家",
+    "time": "10-27 12:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "知情人士：DeepSeek 大举扩充团队，梁文锋长期在北京租房",
+    "url": "https://www.ithome.com/1/018/339.htm",
+    "source": "IT之家",
+    "time": "10-27 12:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "剑指美股人形和仿生机器人第一股，FFR 完成对 FFAI 的合并交易并挂牌上市",
+    "url": "https://www.ithome.com/1/018/301.htm",
+    "source": "IT之家",
+    "time": "10-27 11:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
+    "url": "https://www.ithome.com/1/018/270.htm",
+    "source": "IT之家",
+    "time": "10-27 11:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录、DeepSeek 梁文锋首次上榜位列第七",
+    "url": "https://www.ithome.com/1/018/268.htm",
+    "source": "IT之家",
+    "time": "10-27 11:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "黑客借助 AI 发现 PS5 高危漏洞，获索尼 5 万美元奖励",
+    "url": "https://www.ithome.com/1/018/266.htm",
+    "source": "IT之家",
+    "time": "10-27 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "获日本文化勋章，宫本茂采访：“游戏变成三代人娱乐”，“创意是1、AI是0”",
+    "url": "http://www.gamelook.com.cn/2026/10/604844/",
+    "source": "GameLook",
+    "time": "10-27 10:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蚂蚁灵光 2.0 发布：全新升级“能管事的 AI 助理”，突破单次对话限制",
+    "url": "https://www.ithome.com/1/018/252.htm",
+    "source": "IT之家",
+    "time": "10-27 10:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心",
+    "url": "https://www.ithome.com/1/018/246.htm",
+    "source": "IT之家",
+    "time": "10-27 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 造富：Anthropic 七位联合创始人身家均超 130 亿美元",
+    "url": "https://www.ithome.com/1/018/231.htm",
+    "source": "IT之家",
+    "time": "10-27 09:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏",
+    "url": "https://www.ithome.com/1/018/230.htm",
+    "source": "IT之家",
+    "time": "10-27 09:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
+    "url": "https://www.ithome.com/1/018/229.htm",
+    "source": "IT之家",
+    "time": "10-27 09:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
+    "url": "https://www.ithome.com/1/018/228.htm",
+    "source": "IT之家",
+    "time": "10-27 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "老干妈否认“用 AI 把 600 名工人裁到 48 人”，回应称相关 AI 裁员传闻为不实信息",
+    "url": "https://www.ithome.com/1/018/227.htm",
+    "source": "IT之家",
+    "time": "10-27 08:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "source": "Hacker News",
+    "time": "10-27 06:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜这么火，歌尔Q3却少卖24亿，224亿库存等什么 ？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae03289bf664d76a0f258a8c71e9bd5&url=https%3a%2f%2foptics.ofweek.com%2f2026-10%2fART-250003-12003-30708916.html&c=10817424979667380138&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 06:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟创新发布第四代双目全彩AI眼镜iO+",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae03289bf664d76a0f258a8c71e9bd5&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f8%2f6755000.html&c=5456754501046394294&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 06:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟iO+官宣!蒋奇明抢先体验第四代双目全彩AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae03289bf664d76a0f258a8c71e9bd5&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E9%259B%25B7%25E9%25B8%259Fio-%25E5%25AE%2598%25E5%25AE%25A3-%25E8%2592%258B%25E5%25A5%2587%25E6%2598%258E%25E6%258A%25A2%25E5%2585%2588%25E4%25BD%2593%25E9%25AA%258C%25E7%25AC%25AC%25E5%259B%259B%25E4%25BB%25A3%25E5%258F%258C%25E7%259B%25AE%25E5%2585%25A8%25E5%25BD%25A9ai%25E7%259C%25BC%25E9%2595%259C%2far-AA2g8PhV&c=622956797170557007&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 04:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜市场热度走高，未来会被手机整合还是成为下一代个人数字入口？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae03289bf664d76a0f258a8c71e9bd5&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610273909439227.html&c=11488951148353782336&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍",
+    "url": "https://www.ithome.com/1/018/226.htm",
+    "source": "IT之家",
+    "time": "10-27 08:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "佛罗里达理工大学喜提“飞行警车”：极速 102km/h 的 eVTOL 飞行器",
+    "url": "https://www.ithome.com/1/018/338.htm",
+    "source": "IT之家",
+    "time": "10-27 12:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "国家广电总局：交互式网络电视 IPTV 应实现开机看全屏直播功能，不得播放开机广告",
+    "url": "https://www.ithome.com/1/018/350.htm",
+    "source": "IT之家",
+    "time": "10-27 13:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "解决外卖进不了医院问题，顺丰速运、顺丰同城、美团共推骑手“接力送”方案",
+    "url": "https://www.ithome.com/1/018/328.htm",
+    "source": "IT之家",
+    "time": "10-27 11:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "华为 Mate 80 系列、Pura X 等机型游戏助手上新，实装弹幕通知、防误触范围自定义等功能",
+    "url": "https://www.ithome.com/1/018/342.htm",
+    "source": "IT之家",
+    "time": "10-27 12:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《仙剑奇侠传四：重制》游戏官宣 12 月 5 日公布定价、发售时间等信息",
+    "url": "https://www.ithome.com/1/018/340.htm",
+    "source": "IT之家",
+    "time": "10-27 12:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国产武侠游戏《影之刃零》开启预下载，PC 需留足 300GB 空间",
+    "url": "https://www.ithome.com/1/018/260.htm",
+    "source": "IT之家",
+    "time": "10-27 10:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "王老菊做游戏真成功了？七年打造《再再启程》获“特别好评”，玩家给足面子",
+    "url": "http://www.gamelook.com.cn/2026/10/604843/",
+    "source": "GameLook",
+    "time": "10-27 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“拯救《质量效应》”请愿书签名人数突破 20 万，粉丝请求延续系列游戏生命",
+    "url": "https://www.ithome.com/1/018/239.htm",
+    "source": "IT之家",
+    "time": "10-27 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微博评最有影响力游戏制作人：冯骥、梁其伟名副其实，金亨泰帕鲁FF7制作人在列",
+    "url": "http://www.gamelook.com.cn/2026/10/604827/",
+    "source": "GameLook",
+    "time": "10-27 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "任天堂英国推出新指南，帮助家长“科学指导”子女玩游戏",
+    "url": "https://www.ithome.com/1/018/235.htm",
+    "source": "IT之家",
+    "time": "10-27 09:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(3)",
+   "Bing新闻(11)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
