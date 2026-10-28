@@ -2,10 +2,21 @@
  "id": "2026-10-28-wubao",
  "title": "线口监测午报 · 2026年10月28日(周三)",
  "shift": "午报",
- "date": "2026-10-28 13:47",
+ "date": "2026-10-28 14:52",
  "docx": "../briefings/线口监测午报-2026-10-28.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 上市文件披露多平台算力布局，英伟达定价权或承压",
+    "url": "https://www.ithome.com/1/018/906.htm",
+    "source": "IT之家",
+    "time": "10-28 14:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "奥斯卡定调：AI 只是工具，人类才是主角",
@@ -118,54 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenAI 公示 GPT-6.1 Terra 安全测试：整体风险下降，破坏性行为上升",
-    "url": "https://www.ithome.com/1/018/755.htm",
-    "source": "IT之家",
-    "time": "10-28 10:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称 OpenAI 计划正式导入谷歌 TPU：已在招募领导模型适配优化的工程师",
-    "url": "https://www.ithome.com/1/018/754.htm",
-    "source": "IT之家",
-    "time": "10-28 09:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "菲尔兹奖得主博尔彻兹取消计分家庭作业：AI 作弊泛滥，仅线下考试可行",
-    "url": "https://www.ithome.com/1/018/752.htm",
-    "source": "IT之家",
-    "time": "10-28 09:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "支持大部分地区：苹果 AirPods Pro 3 京东国补后 1163 元近期好价",
-    "url": "https://www.ithome.com/1/018/745.htm",
-    "source": "IT之家",
-    "time": "10-28 09:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Oracle 打造多样化 AI 算力组合，引入 SambaNova SN50 RDU",
-    "url": "https://www.ithome.com/1/018/744.htm",
-    "source": "IT之家",
-    "time": "10-28 09:25",
+    "title": "互动影游《三体：审判前夜》明年发售，超300分钟动画全部AI制作！",
+    "url": "http://www.gamelook.com.cn/2026/10/605029/",
+    "source": "GameLook",
+    "time": "10-28 10:06",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -174,9 +141,20 @@
    {
     "beat": "AI/大模型",
     "title": "乐奇Rokid发布三款新品：用AI眼镜+戒指诠释行业“iPhone时刻”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-28%2fdoc-iniwttsa6679204.shtml&c=16633127347735348367&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae19bb4a98445039f68b5852ca0fd0d&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-28%2fdoc-iniwttsa6679204.shtml&c=16633127347735348367&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-28 06:48",
+    "time": "10-28 07:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌发布新一代世界模型Genie 4，加强物理AI技术布局",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae19bb2dc5048598ab08c199d512043&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%25B0%25B7%25E6%25AD%258C%25E5%258F%2591%25E5%25B8%2583%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3%25E4%25B8%2596%25E7%2595%258C%25E6%25A8%25A1%25E5%259E%258Bgenie-4-%25E5%258A%25A0%25E5%25BC%25BA%25E7%2589%25A9%25E7%2590%2586ai%25E6%258A%2580%25E6%259C%25AF%25E5%25B8%2583%25E5%25B1%2580%2far-AA2gd04h&c=738605820282048259&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-28 04:31",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -207,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "乐奇发布全彩AI眼镜：开启AI眼镜新时代",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2fwww.sohu.com%2fa%2f1093550708_100117260&c=6223713787317174944&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae19bb4a98445039f68b5852ca0fd0d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1093550708_100117260&c=6223713787317174944&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-28 01:18",
     "summary": "",
@@ -217,43 +195,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "下一波果然是大的 DeepSeek V5大模型已现身官方代码库",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c94dfd844be89ca948c6847327e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-28%2fdoc-iniwuefz9566173.shtml&c=3515101091140788817&mkt=en-us",
+    "title": "打响指能拍照，眼镜里刷短视频！Rokid发布AI全彩眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae19bb4a98445039f68b5852ca0fd0d&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610283911735987.html&c=6467154137364254019&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-28 00:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜圈的重头戏来了！杭州企业乐奇推出全彩显示眼镜",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2fori.hangzhou.com.cn%2fornews%2fcontent%2f2026-10%2f28%2fcontent_9357819.htm&c=3628974205567497920&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-27 22:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Brilliant Labs 推出售价 399 美元的 Halo AI 眼镜，具备记忆功能与自适应游戏体验",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2fwww.unite.ai%2fzh-cn%2fbrilliant-labs-halo-ai-glasses-memory-adaptive-gaming%2f&c=7536564825059227515&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-27 21:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "乐奇Rokid发布全彩AI眼镜Rokid Color与交互戒指Rokid Ring",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261027A0CX6I00&c=16090651356711784697&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-27 20:59",
+    "time": "10-28 01:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -263,32 +208,21 @@
   "机器人/AI硬件": [
    {
     "beat": "机器人/AI硬件",
+    "title": "每秒走 0.4 个体长，步行型生物机器人速度纪录被刷新",
+    "url": "https://www.ithome.com/1/018/903.htm",
+    "source": "IT之家",
+    "time": "10-28 14:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
     "title": "小鹏集团副总裁顾捷：IRON 机器人固态电池已小批量量产",
     "url": "https://www.ithome.com/1/018/884.htm",
     "source": "IT之家",
     "time": "10-28 12:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "马斯克坚定看好内存需求，称机器人所需内存将超过其他任何领域",
-    "url": "https://www.ithome.com/1/018/748.htm",
-    "source": "IT之家",
-    "time": "10-28 09:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "特斯拉计划用 Optimus 人形机器人给 Robotaxi 插拔充电枪，终极目标是无线充电",
-    "url": "https://www.ithome.com/1/018/743.htm",
-    "source": "IT之家",
-    "time": "10-28 09:21",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -310,6 +244,17 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《天国：拯救》系列游戏开发方 Warhorse Studios 遭遇网络攻击",
+    "url": "https://www.ithome.com/1/018/910.htm",
+    "source": "IT之家",
+    "time": "10-28 14:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "腾讯 WorkBuddy 手机远程控制电脑功能上线，实时显示屏幕内容",
@@ -342,6 +287,61 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2亿下载的《宝可梦大集结》官宣全球停运，腾讯与任天堂合作正在“换道”？",
+    "url": "http://www.gamelook.com.cn/2026/10/605090/",
+    "source": "GameLook",
+    "time": "10-28 12:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“不想给TGA年度游戏就直说”！《影之刃零》M站媒体评分88，比《悟空》高7分",
+    "url": "http://www.gamelook.com.cn/2026/10/605036/",
+    "source": "GameLook",
+    "time": "10-28 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "西山居的小游戏成了？《剑网1》微信畅销榜第12，新游《工匠小能手》第19",
+    "url": "http://www.gamelook.com.cn/2026/10/605068/",
+    "source": "GameLook",
+    "time": "10-28 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2026胡润百富榜：张一鸣夺冠，马化腾第4、丁磊第8，米哈游三巨头身价大涨60%",
+    "url": "http://www.gamelook.com.cn/2026/10/605005/",
+    "source": "GameLook",
+    "time": "10-28 09:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic好伤，开发者吐槽：“游戏全平台卖了2万份、EGS商店5天才卖1份！”",
+    "url": "http://www.gamelook.com.cn/2026/10/605084/",
+    "source": "GameLook",
+    "time": "10-28 09:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -350,12 +350,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "HackerNews(6)",
-   "Bing新闻(14)"
+   "GameLook(17)",
+   "HackerNews(5)",
+   "Bing新闻(15)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "GameLook(HTTP 502)"
+   "36氪(no entries)"
   ]
  }
 }
