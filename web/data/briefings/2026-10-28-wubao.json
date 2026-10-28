@@ -1,0 +1,361 @@
+{
+ "id": "2026-10-28-wubao",
+ "title": "线口监测午报 · 2026年10月28日(周三)",
+ "shift": "午报",
+ "date": "2026-10-28 13:47",
+ "docx": "../briefings/线口监测午报-2026-10-28.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "奥斯卡定调：AI 只是工具，人类才是主角",
+    "url": "https://www.ithome.com/1/018/892.htm",
+    "source": "IT之家",
+    "time": "10-28 13:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样",
+    "url": "https://www.ithome.com/1/018/887.htm",
+    "source": "IT之家",
+    "time": "10-28 13:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "总靠 AI 干活，你的专业能力可能正在悄悄退化",
+    "url": "https://www.ithome.com/1/018/877.htm",
+    "source": "IT之家",
+    "time": "10-28 12:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“编程面试已死”：Anthropic 称 AI 时代编程题已无法筛选程序员",
+    "url": "https://www.ithome.com/1/018/876.htm",
+    "source": "IT之家",
+    "time": "10-28 12:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国总统特朗普称将在相关文件中“正式禁用”AI 人工智能一词，改称为“SI 超级智能”",
+    "url": "https://www.ithome.com/1/018/819.htm",
+    "source": "IT之家",
+    "time": "10-28 11:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 宣布三项重大科学突破，科研界却不满其成果发布方式",
+    "url": "https://www.ithome.com/1/018/818.htm",
+    "source": "IT之家",
+    "time": "10-28 11:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "酷冷至尊龙影二代 Pro 处理器 AIO 液冷散热器上市：360 规格，999 元",
+    "url": "https://www.ithome.com/1/018/817.htm",
+    "source": "IT之家",
+    "time": "10-28 11:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 推高元器件成本，消息称惠普、华硕、宏碁将部分 PC 产能迁回中国",
+    "url": "https://www.ithome.com/1/018/779.htm",
+    "source": "IT之家",
+    "time": "10-28 11:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "亚马逊：在 AI 时代考核一名工程师，应看业务价值而非 AI 使用量",
+    "url": "https://www.ithome.com/1/018/774.htm",
+    "source": "IT之家",
+    "time": "10-28 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“全球第二图像编辑 AI 模型”：微软 MAI-Image-2.7-Preview 登场，力压谷歌、Meta、xAI",
+    "url": "https://www.ithome.com/1/018/772.htm",
+    "source": "IT之家",
+    "time": "10-28 10:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 公示 GPT-6.1 Terra 安全测试：整体风险下降，破坏性行为上升",
+    "url": "https://www.ithome.com/1/018/755.htm",
+    "source": "IT之家",
+    "time": "10-28 10:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 OpenAI 计划正式导入谷歌 TPU：已在招募领导模型适配优化的工程师",
+    "url": "https://www.ithome.com/1/018/754.htm",
+    "source": "IT之家",
+    "time": "10-28 09:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "菲尔兹奖得主博尔彻兹取消计分家庭作业：AI 作弊泛滥，仅线下考试可行",
+    "url": "https://www.ithome.com/1/018/752.htm",
+    "source": "IT之家",
+    "time": "10-28 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "支持大部分地区：苹果 AirPods Pro 3 京东国补后 1163 元近期好价",
+    "url": "https://www.ithome.com/1/018/745.htm",
+    "source": "IT之家",
+    "time": "10-28 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Oracle 打造多样化 AI 算力组合，引入 SambaNova SN50 RDU",
+    "url": "https://www.ithome.com/1/018/744.htm",
+    "source": "IT之家",
+    "time": "10-28 09:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "乐奇Rokid发布三款新品：用AI眼镜+戒指诠释行业“iPhone时刻”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-28%2fdoc-iniwttsa6679204.shtml&c=16633127347735348367&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-28 06:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "source": "Hacker News",
+    "time": "10-28 03:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "source": "Hacker News",
+    "time": "10-28 03:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "乐奇发布全彩AI眼镜：开启AI眼镜新时代",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2fwww.sohu.com%2fa%2f1093550708_100117260&c=6223713787317174944&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-28 01:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "下一波果然是大的 DeepSeek V5大模型已现身官方代码库",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c94dfd844be89ca948c6847327e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-28%2fdoc-iniwuefz9566173.shtml&c=3515101091140788817&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-28 00:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜圈的重头戏来了！杭州企业乐奇推出全彩显示眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2fori.hangzhou.com.cn%2fornews%2fcontent%2f2026-10%2f28%2fcontent_9357819.htm&c=3628974205567497920&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 22:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Brilliant Labs 推出售价 399 美元的 Halo AI 眼镜，具备记忆功能与自适应游戏体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2fwww.unite.ai%2fzh-cn%2fbrilliant-labs-halo-ai-glasses-memory-adaptive-gaming%2f&c=7536564825059227515&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 21:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "乐奇Rokid发布全彩AI眼镜Rokid Color与交互戒指Rokid Ring",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c9618c74ddd91d569332dd34cc7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261027A0CX6I00&c=16090651356711784697&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-27 20:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小鹏集团副总裁顾捷：IRON 机器人固态电池已小批量量产",
+    "url": "https://www.ithome.com/1/018/884.htm",
+    "source": "IT之家",
+    "time": "10-28 12:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "马斯克坚定看好内存需求，称机器人所需内存将超过其他任何领域",
+    "url": "https://www.ithome.com/1/018/748.htm",
+    "source": "IT之家",
+    "time": "10-28 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "特斯拉计划用 Optimus 人形机器人给 Robotaxi 插拔充电枪，终极目标是无线充电",
+    "url": "https://www.ithome.com/1/018/743.htm",
+    "source": "IT之家",
+    "time": "10-28 09:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "消息称百度近期披露世界模型研发进展，有望率先用于自动驾驶",
+    "url": "https://www.ithome.com/1/018/815.htm",
+    "source": "IT之家",
+    "time": "10-28 11:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯 WorkBuddy 手机远程控制电脑功能上线，实时显示屏幕内容",
+    "url": "https://www.ithome.com/1/018/882.htm",
+    "source": "IT之家",
+    "time": "10-28 12:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "跻身最赚钱游戏之列：微软 XBOX 确认《使命召唤》系列累计营收突破 400 亿美元",
+    "url": "https://www.ithome.com/1/018/880.htm",
+    "source": "IT之家",
+    "time": "10-28 12:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "因非法获取并破解《崩坏：星穹铁道》测试版本内容，泄密人员被判赔偿米哈游 100 万元",
+    "url": "https://www.ithome.com/1/018/879.htm",
+    "source": "IT之家",
+    "time": "10-28 12:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "HackerNews(6)",
+   "Bing新闻(14)"
+  ],
+  "fail": [
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
+  ]
+ }
+}
