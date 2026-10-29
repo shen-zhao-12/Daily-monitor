@@ -2,10 +2,87 @@
  "id": "2026-10-29-wubao",
  "title": "线口监测午报 · 2026年10月29日(周四)",
  "shift": "午报",
- "date": "2026-10-29 13:53",
+ "date": "2026-10-29 15:08",
  "docx": "../briefings/线口监测午报-2026-10-29.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "AI 冲击初级编程岗位需求，美高校计算机专业入学人数大幅下滑",
+    "url": "https://www.ithome.com/1/019/516.htm",
+    "source": "IT之家",
+    "time": "10-29 14:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米 MiMo Desktop 会员权益升级：额度加量不加价、新增 DeepSeek 等第三方模型",
+    "url": "https://www.ithome.com/1/019/502.htm",
+    "source": "IT之家",
+    "time": "10-29 14:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Instagram 负责人莫塞里承认公众普遍反感 AI，预计未来情况还将继续恶化",
+    "url": "https://www.ithome.com/1/019/481.htm",
+    "source": "IT之家",
+    "time": "10-29 14:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Claude Code 2.1.311 上线新环境变量，AI 智能体删文件可以不再问你",
+    "url": "https://www.ithome.com/1/019/476.htm",
+    "source": "IT之家",
+    "time": "10-29 14:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "钞能力？应对数据中心周边扰民投诉，SpaceXAI 直接买下当地住宅",
+    "url": "https://www.ithome.com/1/019/442.htm",
+    "source": "IT之家",
+    "time": "10-29 14:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Altera 公布 Agilex 2X 系列 FPGA，支持边缘物理 AI 应用",
+    "url": "https://www.ithome.com/1/019/438.htm",
+    "source": "IT之家",
+    "time": "10-29 14:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "给 AI 芯片“退烧”：国内首款 12 英寸多晶碳化硅衬底在长沙问世，通过台积电认证测试、并给三星送样",
+    "url": "https://www.ithome.com/1/019/437.htm",
+    "source": "IT之家",
+    "time": "10-29 14:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "腾讯与 Visa 宣布战略合作，包含跨境支付、企业级 AI、智能体支付等领域",
@@ -74,57 +151,24 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "韩芯片创企 FuriosaAI 挑战英伟达：新一轮融资后估值翻两番至 29 亿美元",
-    "url": "https://www.ithome.com/1/019/329.htm",
-    "source": "IT之家",
-    "time": "10-29 10:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "首次引入视觉理解，腾讯混元 Hy4 、Hy4 flash AI 模型即将发布",
-    "url": "https://www.ithome.com/1/019/328.htm",
-    "source": "IT之家",
-    "time": "10-29 10:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "努比亚星云 AIOS 3.0 版本升级计划公布，12 月推送 Z80 Ultra 手机",
-    "url": "https://www.ithome.com/1/019/326.htm",
-    "source": "IT之家",
-    "time": "10-29 10:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Valve 回应“Steam 平台低质量 AI 游戏泛滥”：正持续优化作品推荐机制",
-    "url": "https://www.ithome.com/1/019/309.htm",
-    "source": "IT之家",
-    "time": "10-29 09:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌发布新一代大模型Gemini 4 Carbon，网络安全能力实现显著提升",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2df553586464db7158a3896262afc&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%25B0%25B7%25E6%25AD%258C%25E5%258F%2591%25E5%25B8%2583%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Bgemini-4-carbon-%25E7%25BD%2591%25E7%25BB%259C%25E5%25AE%2589%25E5%2585%25A8%25E8%2583%25BD%25E5%258A%259B%25E5%25AE%259E%25E7%258E%25B0%25E6%2598%25BE%25E8%2591%2597%25E6%258F%2590%25E5%258D%2587%2far-AA2giEoF&c=8311736442695309286&mkt=en-us",
+    "title": "极米记得AI记忆眼镜G1、记忆手环L1上线开售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f10b8e9d412c93f87745043b8b7a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-29%2fdoc-iniwwpnw2778013.shtml&c=1220666098844519412&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-29 03:51",
+    "time": "10-29 01:17",
     "summary": "",
     "grade": "C",
     "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "跳出逐字生成！深圳跑出大模型黑马，不走ChatGPT老路",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f10a703f41a39100742099fda97f&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610293913947225.html&c=14669134736235869147&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": true,
     "angle": ""
    },
    {
@@ -141,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "全彩AI眼镜来了，千万级出货还会远吗？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2df566b604880a6ffb0e61d97b215&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261028A0D13M00&c=8554386017157447361&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f10b8e9d412c93f87745043b8b7a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261028A0D13M00&c=8554386017157447361&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-28 21:28",
     "summary": "",
@@ -152,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "谷歌发布Gemini 4 Carbon：59分重回全球大模型榜首",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2df553586464db7158a3896262afc&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094203305_122440928&c=1623876248594957007&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f10a703f41a39100742099fda97f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094203305_122440928&c=1623876248594957007&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-28 21:13",
     "summary": "",
@@ -163,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "百镜大战杀出全彩新变量 AI 眼镜能否迎来 iPhone 时刻",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2df566b604880a6ffb0e61d97b215&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-28%2fdoc-iniwuqvu3317130.shtml&c=3936203829692960100&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f10b8e9d412c93f87745043b8b7a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-28%2fdoc-iniwuqvu3317130.shtml&c=3936203829692960100&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-28 18:48",
     "summary": "",
@@ -173,8 +217,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "智能眼镜行业周报(10.20 - 10.27) : AI眼镜新品发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f10b8e9d412c93f87745043b8b7a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1093930657_115035&c=10743773628866772741&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-28 17:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "AI眼镜、具身智能等新型终端催生网络需求，华为预计2030年移动网络上行流量将达当前约13倍",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2df566b604880a6ffb0e61d97b215&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fai%25E7%259C%25BC%25E9%2595%259C-%25E5%2585%25B7%25E8%25BA%25AB%25E6%2599%25BA%25E8%2583%25BD%25E7%25AD%2589%25E6%2596%25B0%25E5%259E%258B%25E7%25BB%2588%25E7%25AB%25AF%25E5%2582%25AC%25E7%2594%259F%25E7%25BD%2591%25E7%25BB%259C%25E9%259C%2580%25E6%25B1%2582-%25E5%258D%258E%25E4%25B8%25BA%25E9%25A2%2584%25E8%25AE%25A12030%25E5%25B9%25B4%25E7%25A7%25BB%25E5%258A%25A8%25E7%25BD%2591%25E7%25BB%259C%25E4%25B8%258A%25E8%25A1%258C%25E6%25B5%2581%25E9%2587%258F%25E5%25B0%2586%25E8%25BE%25BE%25E5%25BD%2593%25E5%2589%258D%25E7%25BA%25A613%25E5%2580%258D%2far-AA2gfKJV&c=14141729820550852685&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f10b8e9d412c93f87745043b8b7a&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fai%25E7%259C%25BC%25E9%2595%259C-%25E5%2585%25B7%25E8%25BA%25AB%25E6%2599%25BA%25E8%2583%25BD%25E7%25AD%2589%25E6%2596%25B0%25E5%259E%258B%25E7%25BB%2588%25E7%25AB%25AF%25E5%2582%25AC%25E7%2594%259F%25E7%25BD%2591%25E7%25BB%259C%25E9%259C%2580%25E6%25B1%2582-%25E5%258D%258E%25E4%25B8%25BA%25E9%25A2%2584%25E8%25AE%25A12030%25E5%25B9%25B4%25E7%25A7%25BB%25E5%258A%25A8%25E7%25BD%2591%25E7%25BB%259C%25E4%25B8%258A%25E8%25A1%258C%25E6%25B5%2581%25E9%2587%258F%25E5%25B0%2586%25E8%25BE%25BE%25E5%25BD%2593%25E5%2589%258D%25E7%25BA%25A613%25E5%2580%258D%2far-AA2gfKJV&c=14141729820550852685&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-28 14:39",
     "summary": "",
@@ -184,32 +239,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "乐奇Rokid首发全彩显示，AI眼镜迎来“初代iPhone”时刻",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2df566b604880a6ffb0e61d97b215&url=https%3a%2f%2fwww.sohu.com%2fa%2f1093782715_114778&c=14174705189845656490&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-28 12:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "乐奇Rokid发布三款新品：用AI眼镜+戒指诠释行业“iPhone时刻”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2df566b604880a6ffb0e61d97b215&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-28%2fdoc-iniwttsa6679204.shtml&c=16633127347735348367&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-28 11:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "乐奇发布全彩AI眼镜Rokid Color，祝铭明称行业迎来“iPhone 1时刻”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2df566b604880a6ffb0e61d97b215&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261028A03H2200&c=2118083948771504738&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2f10b8e9d412c93f87745043b8b7a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261028A03H2200&c=2118083948771504738&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-28 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "互动影游《三体：审判前夜》明年发售，超300分钟动画全部AI制作！",
+    "url": "http://www.gamelook.com.cn/2026/10/605029/",
+    "source": "GameLook",
+    "time": "10-28 10:06",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -217,19 +261,7 @@
    }
   ],
   "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
-    "url": "https://www.ithome.com/1/019/319.htm",
-    "source": "IT之家",
-    "time": "10-29 10:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [
    {
     "beat": "电商/直播/即时零售",
@@ -290,54 +322,21 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "2026 年 11 月索尼 PS Plus 会免游戏公布：含《死亡岛 2》《古墓丽影 IV–VI：复刻版》等",
-    "url": "https://www.ithome.com/1/019/330.htm",
-    "source": "IT之家",
-    "time": "10-29 10:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "联想《影之刃零》联名定制款拯救者游戏本开启预售，14798 元起",
-    "url": "https://www.ithome.com/1/019/327.htm",
-    "source": "IT之家",
-    "time": "10-29 10:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "国产 3A 游戏《影之刃零》发售，Steam 国区 268 元起",
-    "url": "https://www.ithome.com/1/019/318.htm",
-    "source": "IT之家",
-    "time": "10-29 09:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "华硕 ROG 幻世神电竞机箱 · 影之刃零版发售，2399 元",
-    "url": "https://www.ithome.com/1/019/317.htm",
-    "source": "IT之家",
-    "time": "10-29 09:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "2亿下载的《宝可梦大集结》官宣全球停运，腾讯与任天堂合作正在“换道”？",
     "url": "http://www.gamelook.com.cn/2026/10/605090/",
     "source": "GameLook",
     "time": "10-28 12:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“不想给TGA年度游戏就直说”！《影之刃零》M站媒体评分88，比《悟空》高7分",
+    "url": "http://www.gamelook.com.cn/2026/10/605036/",
+    "source": "GameLook",
+    "time": "10-28 09:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,7 +351,7 @@
    "IT之家(60)",
    "GameLook(9)",
    "HackerNews(2)",
-   "Bing新闻(12)"
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
