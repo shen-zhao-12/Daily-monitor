@@ -2,10 +2,65 @@
  "id": "2026-10-30-wubao",
  "title": "线口监测午报 · 2026年10月30日(周五)",
  "shift": "午报",
- "date": "2026-10-30 13:54",
+ "date": "2026-10-30 15:10",
  "docx": "../briefings/线口监测午报-2026-10-30.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "曝 DeepSeek 第二轮融资 1055 亿元：估值 6155 亿元，腾讯、宁德时代、长鑫存储、中芯国际、美团、vivo 等参与",
+    "url": "https://www.ithome.com/1/020/121.htm",
+    "source": "IT之家",
+    "time": "10-30 14:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "海信大圣“G5 PRO AI 款”27 英寸显示器上架：2K 200Hz，1299 元",
+    "url": "https://www.ithome.com/1/020/115.htm",
+    "source": "IT之家",
+    "time": "10-30 14:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "村田制作所计划五年投入 1 万亿日元，将 MLCC 电容销售额翻倍以满足 AI 需求",
+    "url": "https://www.ithome.com/1/020/096.htm",
+    "source": "IT之家",
+    "time": "10-30 14:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 悄悄“带偏”专家：研究显示人类可能把机器观点误认为自己的判断",
+    "url": "https://www.ithome.com/1/020/083.htm",
+    "source": "IT之家",
+    "time": "10-30 14:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Qwenputer 问世：把 RISC-V CPU 指令集塞进模型，AI 算数不再靠外部工具",
+    "url": "https://www.ithome.com/1/020/059.htm",
+    "source": "IT之家",
+    "time": "10-30 14:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "告别知识截止日：谷歌让 AI 学会“睡觉”，边用边学还不忘旧知识",
@@ -85,43 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "推出不到两年，谷歌 AI 编程助手 Jules 将逐步停止服务",
-    "url": "https://www.ithome.com/1/019/963.htm",
-    "source": "IT之家",
-    "time": "10-30 11:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "豪掷 7500 亿美元押注 AI 遇挑战，美国科技巨头核心业务增速放缓",
-    "url": "https://www.ithome.com/1/019/958.htm",
-    "source": "IT之家",
-    "time": "10-30 10:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI 推理引爆全球 NAND 需求：闪迪称“客户低估闪存容量需求”，长单排至 2030 年",
-    "url": "https://www.ithome.com/1/019/924.htm",
-    "source": "IT之家",
-    "time": "10-30 10:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 更新 AI 模型规范，将忠于人类意图作为核心准则",
-    "url": "https://www.ithome.com/1/019/898.htm",
-    "source": "IT之家",
-    "time": "10-30 10:16",
+    "title": "Valve答疑Steam宣发和独游困境，“不打算删除AI垃圾游戏”！",
+    "url": "http://www.gamelook.com.cn/2026/10/605183/",
+    "source": "GameLook",
+    "time": "10-30 10:47",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -133,6 +155,17 @@
     "url": "https://github.com/picocss/pico/discussions/754",
     "source": "Hacker News",
     "time": "10-30 09:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大模型开始“定义”芯片：国产车规AI算力的竞争标尺变了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae442d81cc446749d3fa4403ea8bd12&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%25BC%2580%25E5%25A7%258B-%25E5%25AE%259A%25E4%25B9%2589-%25E8%258A%25AF%25E7%2589%2587-%25E5%259B%25BD%25E4%25BA%25A7%25E8%25BD%25A6%25E8%25A7%2584ai%25E7%25AE%2597%25E5%258A%259B%25E7%259A%2584%25E7%25AB%259E%25E4%25BA%2589%25E6%25A0%2587%25E5%25B0%25BA%25E5%258F%2598%25E4%25BA%2586%2far-AA2gozwp&c=14271901572279476247&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 07:42",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -162,19 +195,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "XHEART大模型芯片X7 Ultra交出亮眼答卷，累计出货超 20 万颗",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2fxheart%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E8%258A%25AF%25E7%2589%2587x7-ultra%25E4%25BA%25A4%25E5%2587%25BA%25E4%25BA%25AE%25E7%259C%25BC%25E7%25AD%2594%25E5%258D%25B7-%25E7%25B4%25AF%25E8%25AE%25A1%25E5%2587%25BA%25E8%25B4%25A7%25E8%25B6%2585-20-%25E4%25B8%2587%25E9%25A2%2597%2far-AA2gnSiT&c=14454248577326083386&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-30 05:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311f36ef497ab5b8d326c0eb1d24&url=https%3a%2f%2fwww.36kr.com%2fp%2f4047556524292358&c=821187451201655089&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae442d9a0e346df86fbd889336b9ad0&url=https%3a%2f%2fwww.36kr.com%2fp%2f4047556524292358&c=821187451201655089&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 01:01",
     "summary": "",
@@ -185,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "新芯航途发布大模型芯片X7 Ultra，释放10倍模型参数",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fnews.sina.cn%2f2026-10-29%2fdetail-iniwxekn5985518.d.html%3fvt%3d4&c=12674180636557498999&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae442d81cc446749d3fa4403ea8bd12&url=https%3a%2f%2fnews.sina.cn%2f2026-10-29%2fdetail-iniwxekn5985518.d.html%3fvt%3d4&c=12674180636557498999&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 00:18",
     "summary": "",
@@ -196,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "2026年AI眼镜分化，双11买智能眼镜该看什么？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311f36ef497ab5b8d326c0eb1d24&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094592179_116157&c=1136979995760365570&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae442d9a0e346df86fbd889336b9ad0&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094592179_116157&c=1136979995760365570&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-29 23:19",
     "summary": "",
@@ -206,76 +228,21 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "硬件、大模型、OS齐发布，智元开启具身智能规模化部署新周期_Worken_机器人_行业",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae442d81cc446749d3fa4403ea8bd12&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094837897_380891&c=18022363554462153626&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 22:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094818721_122010910&c=8753202256541524470&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae442d81cc446749d3fa4403ea8bd12&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094779166_116667&c=18419148272237988362&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-29 22:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "XHEART新芯航途发布X7 Ultra大模型芯片：700 TOPS算力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-29%2fdoc-iniwwyat8762342.shtml&c=6285834835409805850&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-29 20:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "XHEART新芯航途正式发布大模型芯片X7 Ultra 算力达700 TOPS",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261029A0BLCD00&c=13191543850443089137&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-29 19:35",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "韩国严惩AI眼镜高考作弊：最高禁考三年，或将追究刑责",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311f36ef497ab5b8d326c0eb1d24&url=https%3a%2f%2fwww.eet-china.com%2fnews%2f202610298227.html&c=17438264292311153342&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-29 18:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "What we know so far about Spain train crash",
-    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-    "source": "Hacker News",
-    "time": "10-29 16:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "极米记得AI记忆眼镜G1、记忆手环L1上线开售",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311f36ef497ab5b8d326c0eb1d24&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-29%2fdoc-iniwwpnw2778013.shtml&c=1220666098844519412&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-29 15:17",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "XHEART发布全新大模型芯片X7 Ultra：从适配走向定义，重构智驾算力底座",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2fxheart%25E5%258F%2591%25E5%25B8%2583%25E5%2585%25A8%25E6%2596%25B0%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E8%258A%25AF%25E7%2589%2587x7-ultra-%25E4%25BB%258E%25E9%2580%2582%25E9%2585%258D%25E8%25B5%25B0%25E5%2590%2591%25E5%25AE%259A%25E4%25B9%2589-%25E9%2587%258D%25E6%259E%2584%25E6%2599%25BA%25E9%25A9%25BE%25E7%25AE%2597%25E5%258A%259B%25E5%25BA%2595%25E5%25BA%25A7%2far-AA2gl9v4&c=17154896562245513&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-29 12:00",
+    "time": "10-29 21:21",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -283,15 +250,27 @@
    }
   ],
   "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "鸿蒙智行问界新 M8 选配公开：华为乾崑智驾 ADS 5、全系 L3 级架构，预售 38.98 万元起",
+    "url": "https://www.ithome.com/1/020/113.htm",
+    "source": "IT之家",
+    "time": "10-30 14:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "米哈游生活模拟游戏《星布谷地》公测定档 12 月 4 日",
-    "url": "https://www.ithome.com/1/019/965.htm",
+    "title": "《红色沙漠》游戏首个 DLC《未知征途》发售，Steam 国区 108 元",
+    "url": "https://www.ithome.com/1/020/076.htm",
     "source": "IT之家",
-    "time": "10-30 11:14",
+    "time": "10-30 14:27",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -299,10 +278,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "腾讯云：全球已部署超 200 万台服务器",
-    "url": "https://www.ithome.com/1/019/896.htm",
-    "source": "IT之家",
-    "time": "10-30 10:16",
+    "title": "微信小游戏月活榜洗牌：元梦之星6718万登顶，畅销第一《向僵尸开炮》排名第五",
+    "url": "http://www.gamelook.com.cn/2026/10/605221/",
+    "source": "GameLook",
+    "time": "10-30 12:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -310,10 +289,32 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "机械革命带来酷睿 5 205H + RTX 3050 (4GB) 旷世 16 游戏本，11 月 5 日发售",
-    "url": "https://www.ithome.com/1/019/881.htm",
-    "source": "IT之家",
-    "time": "10-30 09:46",
+    "title": "腾讯《怪物猎人：旅人》海外发布，19国免费榜夺冠！",
+    "url": "http://www.gamelook.com.cn/2026/10/605203/",
+    "source": "GameLook",
+    "time": "10-30 12:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中国3A游戏狂热熄火！《影之刃零》Steam夺冠PS全球TOP10，就是手感有点飘？",
+    "url": "http://www.gamelook.com.cn/2026/10/605121/",
+    "source": "GameLook",
+    "time": "10-30 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "183款国产12款进口游戏获版号：散爆《少前:蓝蝶契约》乐元素《他予回声》过审",
+    "url": "http://www.gamelook.com.cn/2026/10/605160/",
+    "source": "GameLook",
+    "time": "10-30 09:44",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -321,6 +322,17 @@
    }
   ],
   "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "市场监管总局提醒消费者：新能源汽车外放电插座产品需注意“选、用、护”",
+    "url": "https://www.ithome.com/1/020/077.htm",
+    "source": "IT之家",
+    "time": "10-30 14:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "vivo Y600 手机开售：10000mAh 大电池加持，国补到手价 1699 元起",
@@ -331,30 +343,19 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "小体积恒定光圈：适马 18-50mm F2.8 DC DN 半画幅镜头 2099 元国补新低",
-    "url": "https://www.ithome.com/1/019/964.htm",
-    "source": "IT之家",
-    "time": "10-30 11:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ]
  },
  "flash": [],
  "stats": {
   "ok": [
-   "IT之家(58)",
+   "IT之家(60)",
+   "GameLook(6)",
    "HackerNews(7)",
-   "Bing新闻(14)"
+   "Bing新闻(13)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "GameLook(HTTP 502)"
+   "36氪(no entries)"
   ]
  }
 }
