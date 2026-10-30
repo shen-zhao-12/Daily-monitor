@@ -1,0 +1,360 @@
+{
+ "id": "2026-10-30-wubao",
+ "title": "线口监测午报 · 2026年10月30日(周五)",
+ "shift": "午报",
+ "date": "2026-10-30 13:54",
+ "docx": "../briefings/线口监测午报-2026-10-30.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "告别知识截止日：谷歌让 AI 学会“睡觉”，边用边学还不忘旧知识",
+    "url": "https://www.ithome.com/1/020/044.htm",
+    "source": "IT之家",
+    "time": "10-30 13:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美媒曝五角大楼安全事故：被禁用的 AI，在美军网络里运行了两个月",
+    "url": "https://www.ithome.com/1/020/039.htm",
+    "source": "IT之家",
+    "time": "10-30 13:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板开启预约",
+    "url": "https://www.ithome.com/1/020/030.htm",
+    "source": "IT之家",
+    "time": "10-30 12:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 悄悄推出穿搭应用 Style Sketch：AI 帮你搭衣服，还能虚拟试穿",
+    "url": "https://www.ithome.com/1/020/029.htm",
+    "source": "IT之家",
+    "time": "10-30 12:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新研究称 AI 模型使用成本受不同语种影响，Token 消耗量最高可相差 17 倍",
+    "url": "https://www.ithome.com/1/020/026.htm",
+    "source": "IT之家",
+    "time": "10-30 12:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Reddit 大调整：浏览内容需先登录，以防范 AI 爬虫",
+    "url": "https://www.ithome.com/1/019/988.htm",
+    "source": "IT之家",
+    "time": "10-30 11:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 CarPlay 现接入 Claude，用户开车也能语音问 AI",
+    "url": "https://www.ithome.com/1/019/966.htm",
+    "source": "IT之家",
+    "time": "10-30 11:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "推出不到两年，谷歌 AI 编程助手 Jules 将逐步停止服务",
+    "url": "https://www.ithome.com/1/019/963.htm",
+    "source": "IT之家",
+    "time": "10-30 11:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "豪掷 7500 亿美元押注 AI 遇挑战，美国科技巨头核心业务增速放缓",
+    "url": "https://www.ithome.com/1/019/958.htm",
+    "source": "IT之家",
+    "time": "10-30 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 推理引爆全球 NAND 需求：闪迪称“客户低估闪存容量需求”，长单排至 2030 年",
+    "url": "https://www.ithome.com/1/019/924.htm",
+    "source": "IT之家",
+    "time": "10-30 10:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 更新 AI 模型规范，将忠于人类意图作为核心准则",
+    "url": "https://www.ithome.com/1/019/898.htm",
+    "source": "IT之家",
+    "time": "10-30 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Pico CSS is no longer maintained",
+    "url": "https://github.com/picocss/pico/discussions/754",
+    "source": "Hacker News",
+    "time": "10-30 09:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+    "url": "https://journal.animationstudies.org/article/id/66/",
+    "source": "Hacker News",
+    "time": "10-30 06:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "source": "Hacker News",
+    "time": "10-30 05:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "XHEART大模型芯片X7 Ultra交出亮眼答卷，累计出货超 20 万颗",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2fxheart%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E8%258A%25AF%25E7%2589%2587x7-ultra%25E4%25BA%25A4%25E5%2587%25BA%25E4%25BA%25AE%25E7%259C%25BC%25E7%25AD%2594%25E5%258D%25B7-%25E7%25B4%25AF%25E8%25AE%25A1%25E5%2587%25BA%25E8%25B4%25A7%25E8%25B6%2585-20-%25E4%25B8%2587%25E9%25A2%2597%2far-AA2gnSiT&c=14454248577326083386&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 05:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311f36ef497ab5b8d326c0eb1d24&url=https%3a%2f%2fwww.36kr.com%2fp%2f4047556524292358&c=821187451201655089&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 01:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新芯航途发布大模型芯片X7 Ultra，释放10倍模型参数",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fnews.sina.cn%2f2026-10-29%2fdetail-iniwxekn5985518.d.html%3fvt%3d4&c=12674180636557498999&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 00:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026年AI眼镜分化，双11买智能眼镜该看什么？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311f36ef497ab5b8d326c0eb1d24&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094592179_116157&c=1136979995760365570&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 23:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094818721_122010910&c=8753202256541524470&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 22:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "XHEART新芯航途发布X7 Ultra大模型芯片：700 TOPS算力",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-29%2fdoc-iniwwyat8762342.shtml&c=6285834835409805850&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 20:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "XHEART新芯航途正式发布大模型芯片X7 Ultra 算力达700 TOPS",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261029A0BLCD00&c=13191543850443089137&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 19:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国严惩AI眼镜高考作弊：最高禁考三年，或将追究刑责",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311f36ef497ab5b8d326c0eb1d24&url=https%3a%2f%2fwww.eet-china.com%2fnews%2f202610298227.html&c=17438264292311153342&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 18:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "What we know so far about Spain train crash",
+    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+    "source": "Hacker News",
+    "time": "10-29 16:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极米记得AI记忆眼镜G1、记忆手环L1上线开售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311f36ef497ab5b8d326c0eb1d24&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-29%2fdoc-iniwwpnw2778013.shtml&c=1220666098844519412&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 15:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "XHEART发布全新大模型芯片X7 Ultra：从适配走向定义，重构智驾算力底座",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311d9539461083dcea24ba875a1b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2fxheart%25E5%258F%2591%25E5%25B8%2583%25E5%2585%25A8%25E6%2596%25B0%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E8%258A%25AF%25E7%2589%2587x7-ultra-%25E4%25BB%258E%25E9%2580%2582%25E9%2585%258D%25E8%25B5%25B0%25E5%2590%2591%25E5%25AE%259A%25E4%25B9%2589-%25E9%2587%258D%25E6%259E%2584%25E6%2599%25BA%25E9%25A9%25BE%25E7%25AE%2597%25E5%258A%259B%25E5%25BA%2595%25E5%25BA%25A7%2far-AA2gl9v4&c=17154896562245513&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 12:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游生活模拟游戏《星布谷地》公测定档 12 月 4 日",
+    "url": "https://www.ithome.com/1/019/965.htm",
+    "source": "IT之家",
+    "time": "10-30 11:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯云：全球已部署超 200 万台服务器",
+    "url": "https://www.ithome.com/1/019/896.htm",
+    "source": "IT之家",
+    "time": "10-30 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "机械革命带来酷睿 5 205H + RTX 3050 (4GB) 旷世 16 游戏本，11 月 5 日发售",
+    "url": "https://www.ithome.com/1/019/881.htm",
+    "source": "IT之家",
+    "time": "10-30 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "vivo Y600 手机开售：10000mAh 大电池加持，国补到手价 1699 元起",
+    "url": "https://www.ithome.com/1/019/972.htm",
+    "source": "IT之家",
+    "time": "10-30 11:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小体积恒定光圈：适马 18-50mm F2.8 DC DN 半画幅镜头 2099 元国补新低",
+    "url": "https://www.ithome.com/1/019/964.htm",
+    "source": "IT之家",
+    "time": "10-30 11:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(58)",
+   "HackerNews(7)",
+   "Bing新闻(14)"
+  ],
+  "fail": [
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
+  ]
+ }
+}
