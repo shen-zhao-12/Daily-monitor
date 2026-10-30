@@ -2,10 +2,21 @@
  "id": "2026-10-30-wubao",
  "title": "线口监测午报 · 2026年10月30日(周五)",
  "shift": "午报",
- "date": "2026-10-30 22:01",
+ "date": "2026-10-30 22:59",
  "docx": "../briefings/线口监测午报-2026-10-30.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "梦想不灭：开发者拒绝 Windows Phone 死亡，利用 AI 辅助为微软 Lumia 640 开发新应用",
+    "url": "https://www.ithome.com/1/020/366.htm",
+    "source": "IT之家",
+    "time": "10-30 22:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "奥尔特曼回应 AI 冲击：理解数学家的处境，但 OpenAI 不会停止研究",
@@ -71,42 +82,21 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "机器人/AI硬件": [
    {
-    "beat": "AI/大模型",
-    "title": "iPhone 18 Pro / Max 20:00 至高补贴 1600 元， AirPods Pro 3 京东自营破冰新低",
-    "url": "https://www.ithome.com/1/020/270.htm",
+    "beat": "机器人/AI硬件",
+    "title": "丰田携手 Waymo，2027 年在日本启动 bZ4X Robotaxi 车队测试",
+    "url": "https://www.ithome.com/1/020/375.htm",
     "source": "IT之家",
-    "time": "10-30 18:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "出货20万颗之后，XHEART的“大模型定义芯片”路线走到哪了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4a33f54874aea8188a567296e4cac&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261030A0DICB00&c=6503923838927033291&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-30 07:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Mistral开源发布Large 4大模型，提供主权级AI控制能力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4a33f54874aea8188a567296e4cac&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fmistral%25E5%25BC%2580%25E6%25BA%2590%25E5%258F%2591%25E5%25B8%2583large-4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-%25E6%258F%2590%25E4%25BE%259B%25E4%25B8%25BB%25E6%259D%2583%25E7%25BA%25A7ai%25E6%258E%25A7%25E5%2588%25B6%25E8%2583%25BD%25E5%258A%259B%2far-AA2goEh1&c=12313530951488100508&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-30 07:45",
+    "time": "10-30 22:50",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -122,6 +112,28 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "黑鲨 HGK 04 分体式电竞手游肩键发布：物理触发方案、导电硅胶触点，首发 49 元",
+    "url": "https://www.ithome.com/1/020/376.htm",
+    "source": "IT之家",
+    "time": "10-30 22:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "HKC“天启”27U240B 电竞显示器 4799 → 3805 元：4K 240Hz 三星四代 QD-OLED、配 DP 2.1 + 90W USB-C",
+    "url": "https://www.ithome.com/1/020/365.htm",
+    "source": "IT之家",
+    "time": "10-30 22:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "黑鲨凤鸣 BE32 蓝牙耳机电竞版发布：2.4G + 蓝牙双模连接、-45dB ANC 混合式降噪，首发价 249 元",
@@ -209,20 +221,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
    {
-    "beat": "游戏/电竞/平台公司",
-    "title": "机械革命 13645HX + 4050 游戏本极光 16 Pro 发售，到手价低至 7224.15 元",
-    "url": "https://www.ithome.com/1/020/302.htm",
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "7000mAh 大电池：小米 17 手机 16GB+512GB 国补后 4999 → 3836 元新低",
+    "url": "https://www.ithome.com/1/020/367.htm",
     "source": "IT之家",
-    "time": "10-30 18:59",
+    "time": "10-30 22:19",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "消费/以旧换新/新餐饮": [
+   },
    {
     "beat": "消费/以旧换新/新餐饮",
     "title": "12mm 动圈 + 36 小时续航：森海塞尔 ACCENTUM Clip 耳夹式耳机 1499 → 1091 元国补新低",
@@ -332,17 +344,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "4899 → 3299 元：海信 3A 原画显示器 GX 27 款国补直降，2304 背光分区",
-    "url": "https://www.ithome.com/1/020/296.htm",
-    "source": "IT之家",
-    "time": "10-30 18:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ]
  },
@@ -350,12 +351,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
+   "GameLook(6)",
    "HackerNews(4)",
    "Bing新闻(14)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "GameLook(HTTP 502)"
+   "36氪(no entries)"
   ]
  }
 }
