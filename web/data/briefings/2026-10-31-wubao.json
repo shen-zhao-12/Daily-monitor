@@ -2,16 +2,16 @@
  "id": "2026-10-31-wubao",
  "title": "线口监测午报 · 2026年10月31日(周六)",
  "shift": "午报",
- "date": "2026-10-31 15:00",
+ "date": "2026-10-31 21:35",
  "docx": "../briefings/线口监测午报-2026-10-31.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "AI 热潮降温？消息称 OpenAI 最新融资目标缩水 100 亿美元，降幅 33%",
-    "url": "https://www.ithome.com/1/020/478.htm",
+    "title": "存储芯片短缺加剧之际，OpenAI 奥尔特曼赴韩与约 50 名三星高管会面",
+    "url": "https://www.ithome.com/1/020/597.htm",
     "source": "IT之家",
-    "time": "10-31 14:54",
+    "time": "10-31 20:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度",
-    "url": "https://www.ithome.com/1/020/474.htm",
+    "title": "号称全球首创：香港公司 Arrowmax 推出 AI 电动螺丝刀 S1，能用摄像头识别螺丝类型",
+    "url": "https://www.ithome.com/1/020/593.htm",
     "source": "IT之家",
-    "time": "10-31 14:40",
+    "time": "10-31 19:57",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -30,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Anthropic 出手：Claude Opus 5.5 不再帮你“AI 复刻游戏”",
-    "url": "https://www.ithome.com/1/020/471.htm",
+    "title": "宏碁非凡 Go Air 新增 16+512GB 存储版本：酷睿 Ultra 5 125H 售 6999 元，999g 轻薄设计",
+    "url": "https://www.ithome.com/1/020/586.htm",
     "source": "IT之家",
-    "time": "10-31 14:26",
+    "time": "10-31 18:50",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,43 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "不用反复退登了：ChatGPT 支持多账号切换，AI 工作号 / 生活号不再打架",
-    "url": "https://www.ithome.com/1/020/470.htm",
-    "source": "IT之家",
-    "time": "10-31 14:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "11 小时影响约 5000 开发者：AI 编程工具 Cursor 官方商城出现恶意 Claude Code 插件",
-    "url": "https://www.ithome.com/1/020/466.htm",
-    "source": "IT之家",
-    "time": "10-31 13:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "揭露“女版乔布斯”骗局的人警告：AI 热潮或催生下一个 Theranos",
-    "url": "https://www.ithome.com/1/020/415.htm",
-    "source": "IT之家",
-    "time": "10-31 08:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "title": "Serbia just elected the world's brainiest parliament",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
     "source": "Hacker News",
-    "time": "10-31 04:23",
+    "time": "10-31 18:21",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -85,10 +52,32 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI isn't replacing SREs, it's deskilling them",
-    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-    "source": "Hacker News",
-    "time": "10-30 23:52",
+    "title": "理想 AI 眼镜 Livis 10 月 OTA 升级，个人 Agent 新增接入 Hermes",
+    "url": "https://www.ithome.com/1/020/553.htm",
+    "source": "IT之家",
+    "time": "10-31 17:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克 SpaceXAI 收购 Cursor 后，Grok 已支持中国银联和支付宝付款",
+    "url": "https://www.ithome.com/1/020/504.htm",
+    "source": "IT之家",
+    "time": "10-31 15:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球首富马斯克预言：2029 年太空 AI 算力将远超地面算力",
+    "url": "https://www.ithome.com/1/020/499.htm",
+    "source": "IT之家",
+    "time": "10-31 15:32",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -108,7 +97,7 @@
    {
     "beat": "AI/大模型",
     "title": "Rokid把全彩AI眼镜，卖到了4999元",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922ddb424ac59f54828d8fbd6392&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261030A0A8BS00%3fadChannelId%3dtech&c=13381964091521312095&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8eda8d464b8026308777c746c9&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261030A0A8BS00%3fadChannelId%3dtech&c=13381964091521312095&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 17:50",
     "summary": "",
@@ -118,19 +107,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "对话Rokid祝铭明：线下反超线上，AI眼镜撕掉“玩具”标签",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922ddb424ac59f54828d8fbd6392&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094997573_639898&c=13640929489704665292&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "10-30 17:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "大模型定义芯片！XHEART发布X7 Ultra，2028年成L4引爆点",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922b210c432585bf730076d01ea9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094915760_116157&c=14545439950317279017&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8c1d8e404d9f709f02fe85c34c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094915760_116157&c=14545439950317279017&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 15:41",
     "summary": "",
@@ -141,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922b210c432585bf730076d01ea9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094779166_116667&c=18419148272237988362&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8c1d8e404d9f709f02fe85c34c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094779166_116667&c=18419148272237988362&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 11:21",
     "summary": "",
@@ -162,8 +140,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "大模型开始“定义”芯片：国产车规AI算力的竞争标尺变了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8c1d8e404d9f709f02fe85c34c&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fautos%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%25BC%2580%25E5%25A7%258B-%25E5%25AE%259A%25E4%25B9%2589-%25E8%258A%25AF%25E7%2589%2587-%25E5%259B%25BD%25E4%25BA%25A7%25E8%25BD%25A6%25E8%25A7%2584ai%25E7%25AE%2597%25E5%258A%259B%25E7%259A%2584%25E7%25AB%259E%25E4%25BA%2589%25E6%25A0%2587%25E5%25B0%25BA%25E5%258F%2598%25E4%25BA%2586%2far-AA2gozwp&c=11010720611290911778&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 07:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "“大模型定义芯片”落地：新芯航途发布X7 Ultra，加速规模量产",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922b210c432585bf730076d01ea9&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-30%2fdoc-iniwysmu5538046.shtml&c=9206265781816893323&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8c1d8e404d9f709f02fe85c34c&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-30%2fdoc-iniwysmu5538046.shtml&c=9206265781816893323&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 07:05",
     "summary": "",
@@ -173,10 +162,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Building an AI-native engineering org",
-    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-    "source": "Hacker News",
-    "time": "10-30 05:58",
+    "title": "巨头云集展台，这家成立三年的公司发布大模型智驾芯片",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8c1d8e404d9f709f02fe85c34c&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-10-30%2fdoc-iniwynec4731778.shtml&c=3236353509384379000&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 04:07",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -185,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922ddb424ac59f54828d8fbd6392&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-30%2fdoc-iniwyncw5556866.shtml&c=12796543254449179158&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8eda8d464b8026308777c746c9&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-30%2fdoc-iniwyncw5556866.shtml&c=12796543254449179158&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 04:04",
     "summary": "",
@@ -196,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "新芯航途发布大模型芯片X7 Ultra，释放10倍模型参数",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922b210c432585bf730076d01ea9&url=https%3a%2f%2fnews.sina.cn%2f2026-10-29%2fdetail-iniwxekn5985518.d.html%3fvt%3d4&c=12674180636557498999&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8c1d8e404d9f709f02fe85c34c&url=https%3a%2f%2fnews.sina.cn%2f2026-10-29%2fdetail-iniwxekn5985518.d.html%3fvt%3d4&c=12674180636557498999&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 00:18",
     "summary": "",
@@ -206,8 +195,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "source": "Hacker News",
+    "time": "10-29 23:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "2026年AI眼镜分化，双11买智能眼镜该看什么？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922ddb424ac59f54828d8fbd6392&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094592179_116157&c=1136979995760365570&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5ee8eda8d464b8026308777c746c9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094592179_116157&c=1136979995760365570&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-29 23:19",
     "summary": "",
@@ -216,16 +216,40 @@
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "无界动力与京东达成战略合作，机器人 K15 上岗七鲜咖啡",
+    "url": "https://www.ithome.com/1/020/598.htm",
+    "source": "IT之家",
+    "time": "10-31 20:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "Waymo 无人驾驶出租车长期霸占充电桩，美国电车车主不胜其扰",
+    "url": "https://www.ithome.com/1/020/585.htm",
+    "source": "IT之家",
+    "time": "10-31 18:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "腾讯地图公布 Agent 能力全景图，元宝、微信小微、OPPO 小布助手等已接入",
-    "url": "https://www.ithome.com/1/020/457.htm",
+    "title": "米哈游《原神》菲林斯 · 诡灯陌影磁轴键盘开售，728 元",
+    "url": "https://www.ithome.com/1/020/601.htm",
     "source": "IT之家",
-    "time": "10-31 12:41",
+    "time": "10-31 20:39",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -233,10 +257,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "罗技 MX 系列首个特别版鼠标、MX KEYPAD 国行发售，买就送腾讯 WorkBuddy 积分",
-    "url": "https://www.ithome.com/1/020/453.htm",
+    "title": "机械革命推出 JG02M 与 JG03M 电竞鼠标：54g 轻量化，79.9 元起",
+    "url": "https://www.ithome.com/1/020/578.htm",
     "source": "IT之家",
-    "time": "10-31 12:07",
+    "time": "10-31 18:23",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -244,10 +268,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "微软更新 Win11 26H2 26340.9843 预览版：重构搜索体验，增强 XBOX 游戏模式",
-    "url": "https://www.ithome.com/1/020/448.htm",
+    "title": "《使命召唤：现代战争 4》游戏使用梨泰院踩踏事故素材，动视致歉并承诺删除",
+    "url": "https://www.ithome.com/1/020/542.htm",
     "source": "IT之家",
-    "time": "10-31 11:38",
+    "time": "10-31 17:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -301,10 +325,10 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "荣耀 WIN 平板首销：8.4 英寸 240Hz OLED 屏幕、第五代骁龙 8 至尊版，国补到手价 3699 元起",
-    "url": "https://www.ithome.com/1/020/425.htm",
+    "title": "75 英寸 5799 → 3333 元：华为 Vision 智慧屏 6 SE RGB 国补探新低",
+    "url": "https://www.ithome.com/1/020/596.htm",
     "source": "IT之家",
-    "time": "10-31 09:29",
+    "time": "10-31 19:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -312,32 +336,10 @@
    },
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "定制全光谱灯珠：小米米家风扇灯 36 英寸国补后 366 元（初次免费安装）",
-    "url": "https://www.ithome.com/1/020/424.htm",
+    "title": "12G+256G 首发 3199 → 2188 元：联想小新 Pro GT 13 平板电脑国补 6 期免息",
+    "url": "https://www.ithome.com/1/020/547.htm",
     "source": "IT之家",
-    "time": "10-31 09:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低",
-    "url": "https://www.ithome.com/1/020/418.htm",
-    "source": "IT之家",
-    "time": "10-31 09:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "1499 → 773 元国补直降：小米米家净水器 2 破冰新低，1200G 大通量 + 7 年 RO 滤芯",
-    "url": "https://www.ithome.com/1/020/336.htm",
-    "source": "IT之家",
-    "time": "10-30 20:44",
+    "time": "10-31 17:27",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -350,8 +352,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(6)",
-   "HackerNews(4)",
-   "Bing新闻(11)"
+   "HackerNews(3)",
+   "Bing新闻(12)"
   ],
   "fail": [
    "36氪(no entries)"
