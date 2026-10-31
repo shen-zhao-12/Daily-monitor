@@ -2,10 +2,54 @@
  "id": "2026-10-31-wubao",
  "title": "线口监测午报 · 2026年10月31日(周六)",
  "shift": "午报",
- "date": "2026-10-31 13:50",
+ "date": "2026-10-31 15:00",
  "docx": "../briefings/线口监测午报-2026-10-31.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "AI 热潮降温？消息称 OpenAI 最新融资目标缩水 100 亿美元，降幅 33%",
+    "url": "https://www.ithome.com/1/020/478.htm",
+    "source": "IT之家",
+    "time": "10-31 14:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度",
+    "url": "https://www.ithome.com/1/020/474.htm",
+    "source": "IT之家",
+    "time": "10-31 14:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 出手：Claude Opus 5.5 不再帮你“AI 复刻游戏”",
+    "url": "https://www.ithome.com/1/020/471.htm",
+    "source": "IT之家",
+    "time": "10-31 14:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不用反复退登了：ChatGPT 支持多账号切换，AI 工作号 / 生活号不再打架",
+    "url": "https://www.ithome.com/1/020/470.htm",
+    "source": "IT之家",
+    "time": "10-31 14:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "11 小时影响约 5000 开发者：AI 编程工具 Cursor 官方商城出现恶意 Claude Code 插件",
@@ -19,76 +63,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "OpenAI raises less than half of $30B target",
-    "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-    "source": "Hacker News",
-    "time": "10-31 11:22",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "揭露“女版乔布斯”骗局的人警告：AI 热潮或催生下一个 Theranos",
     "url": "https://www.ithome.com/1/020/415.htm",
     "source": "IT之家",
     "time": "10-31 08:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "绝不为了 AI 而做 AI：苹果 CEO 特努斯产品宣言，AI 应隐身于体验",
-    "url": "https://www.ithome.com/1/020/409.htm",
-    "source": "IT之家",
-    "time": "10-31 08:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称字节 Seed 核心负责人周畅离职创业，方向为物理 AI",
-    "url": "https://www.ithome.com/1/020/408.htm",
-    "source": "IT之家",
-    "time": "10-31 08:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "快手旗下可灵 AI 完成约 198 亿元增资",
-    "url": "https://www.ithome.com/1/020/406.htm",
-    "source": "IT之家",
-    "time": "10-31 08:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌宣布达成“Hello World”里程碑：在轨运行的数据中心级 TPU 首次给出 AI 响应，生成了一首俳句",
-    "url": "https://www.ithome.com/1/020/402.htm",
-    "source": "IT之家",
-    "time": "10-31 07:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "不是字节跳动：联发科拿下第二家 AI 芯片大客户，2028 年量产",
-    "url": "https://www.ithome.com/1/020/400.htm",
-    "source": "IT之家",
-    "time": "10-31 07:35",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -130,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "Rokid把全彩AI眼镜，卖到了4999元",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58198e46c4bcab4ab5a474719a4c7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261030A0A8BS00%3fadChannelId%3dtech&c=13381964091521312095&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922ddb424ac59f54828d8fbd6392&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261030A0A8BS00%3fadChannelId%3dtech&c=13381964091521312095&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 17:50",
     "summary": "",
@@ -140,8 +118,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "对话Rokid祝铭明：线下反超线上，AI眼镜撕掉“玩具”标签",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922ddb424ac59f54828d8fbd6392&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094997573_639898&c=13640929489704665292&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 17:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "大模型定义芯片！XHEART发布X7 Ultra，2028年成L4引爆点",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58196e26a4a6b87bf19897b2f3d63&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094915760_116157&c=14545439950317279017&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922b210c432585bf730076d01ea9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094915760_116157&c=14545439950317279017&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 15:41",
     "summary": "",
@@ -152,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58196e26a4a6b87bf19897b2f3d63&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094779166_116667&c=18419148272237988362&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922b210c432585bf730076d01ea9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094779166_116667&c=18419148272237988362&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 11:21",
     "summary": "",
@@ -174,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "“大模型定义芯片”落地：新芯航途发布X7 Ultra，加速规模量产",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58196e26a4a6b87bf19897b2f3d63&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-30%2fdoc-iniwysmu5538046.shtml&c=9206265781816893323&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922b210c432585bf730076d01ea9&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-30%2fdoc-iniwysmu5538046.shtml&c=9206265781816893323&mkt=en-us",
     "source": "Bing新闻",
     "time": "10-30 07:05",
     "summary": "",
@@ -196,9 +185,31 @@
    {
     "beat": "AI/大模型",
     "title": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58198e46c4bcab4ab5a474719a4c7&url=https%3a%2f%2fwww.36kr.com%2fp%2f4047556524292358&c=821187451201655089&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922ddb424ac59f54828d8fbd6392&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-30%2fdoc-iniwyncw5556866.shtml&c=12796543254449179158&mkt=en-us",
     "source": "Bing新闻",
-    "time": "10-30 01:01",
+    "time": "10-30 04:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新芯航途发布大模型芯片X7 Ultra，释放10倍模型参数",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922b210c432585bf730076d01ea9&url=https%3a%2f%2fnews.sina.cn%2f2026-10-29%2fdetail-iniwxekn5985518.d.html%3fvt%3d4&c=12674180636557498999&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 00:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026年AI眼镜分化，双11买智能眼镜该看什么？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5922ddb424ac59f54828d8fbd6392&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094592179_116157&c=1136979995760365570&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-29 23:19",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -237,28 +248,6 @@
     "url": "https://www.ithome.com/1/020/448.htm",
     "source": "IT之家",
     "time": "10-31 11:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "宏碁掠夺者 · 战斧 9 Neo 游戏本 14650HX + 5070 12GB 配置发售，12999 元",
-    "url": "https://www.ithome.com/1/020/410.htm",
-    "source": "IT之家",
-    "time": "10-31 08:39",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "开源兼容层 Wine 11.21 发布：Linux 上玩《上古卷轴 5：天际》等游戏更流畅",
-    "url": "https://www.ithome.com/1/020/405.htm",
-    "source": "IT之家",
-    "time": "10-31 08:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -342,6 +331,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "1499 → 773 元国补直降：小米米家净水器 2 破冰新低，1200G 大通量 + 7 年 RO 滤芯",
+    "url": "https://www.ithome.com/1/020/336.htm",
+    "source": "IT之家",
+    "time": "10-30 20:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ]
  },
@@ -350,8 +350,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(6)",
-   "HackerNews(5)",
-   "Bing新闻(9)"
+   "HackerNews(4)",
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
