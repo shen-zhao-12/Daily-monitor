@@ -1,0 +1,360 @@
+{
+ "id": "2026-10-31-wubao",
+ "title": "线口监测午报 · 2026年10月31日(周六)",
+ "shift": "午报",
+ "date": "2026-10-31 13:50",
+ "docx": "../briefings/线口监测午报-2026-10-31.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "11 小时影响约 5000 开发者：AI 编程工具 Cursor 官方商城出现恶意 Claude Code 插件",
+    "url": "https://www.ithome.com/1/020/466.htm",
+    "source": "IT之家",
+    "time": "10-31 13:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI raises less than half of $30B target",
+    "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+    "source": "Hacker News",
+    "time": "10-31 11:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "揭露“女版乔布斯”骗局的人警告：AI 热潮或催生下一个 Theranos",
+    "url": "https://www.ithome.com/1/020/415.htm",
+    "source": "IT之家",
+    "time": "10-31 08:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "绝不为了 AI 而做 AI：苹果 CEO 特努斯产品宣言，AI 应隐身于体验",
+    "url": "https://www.ithome.com/1/020/409.htm",
+    "source": "IT之家",
+    "time": "10-31 08:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称字节 Seed 核心负责人周畅离职创业，方向为物理 AI",
+    "url": "https://www.ithome.com/1/020/408.htm",
+    "source": "IT之家",
+    "time": "10-31 08:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "快手旗下可灵 AI 完成约 198 亿元增资",
+    "url": "https://www.ithome.com/1/020/406.htm",
+    "source": "IT之家",
+    "time": "10-31 08:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌宣布达成“Hello World”里程碑：在轨运行的数据中心级 TPU 首次给出 AI 响应，生成了一首俳句",
+    "url": "https://www.ithome.com/1/020/402.htm",
+    "source": "IT之家",
+    "time": "10-31 07:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不是字节跳动：联发科拿下第二家 AI 芯片大客户，2028 年量产",
+    "url": "https://www.ithome.com/1/020/400.htm",
+    "source": "IT之家",
+    "time": "10-31 07:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "source": "Hacker News",
+    "time": "10-31 04:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "source": "Hacker News",
+    "time": "10-30 23:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "source": "Hacker News",
+    "time": "10-30 22:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Rokid把全彩AI眼镜，卖到了4999元",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58198e46c4bcab4ab5a474719a4c7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261030A0A8BS00%3fadChannelId%3dtech&c=13381964091521312095&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 17:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大模型定义芯片！XHEART发布X7 Ultra，2028年成L4引爆点",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58196e26a4a6b87bf19897b2f3d63&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094915760_116157&c=14545439950317279017&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 15:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58196e26a4a6b87bf19897b2f3d63&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094779166_116667&c=18419148272237988362&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 11:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Valve答疑Steam宣发和独游困境，“不打算删除AI垃圾游戏”！",
+    "url": "http://www.gamelook.com.cn/2026/10/605183/",
+    "source": "GameLook",
+    "time": "10-30 10:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“大模型定义芯片”落地：新芯航途发布X7 Ultra，加速规模量产",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58196e26a4a6b87bf19897b2f3d63&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-30%2fdoc-iniwysmu5538046.shtml&c=9206265781816893323&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 07:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Building an AI-native engineering org",
+    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+    "source": "Hacker News",
+    "time": "10-30 05:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae58198e46c4bcab4ab5a474719a4c7&url=https%3a%2f%2fwww.36kr.com%2fp%2f4047556524292358&c=821187451201655089&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 01:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯地图公布 Agent 能力全景图，元宝、微信小微、OPPO 小布助手等已接入",
+    "url": "https://www.ithome.com/1/020/457.htm",
+    "source": "IT之家",
+    "time": "10-31 12:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "罗技 MX 系列首个特别版鼠标、MX KEYPAD 国行发售，买就送腾讯 WorkBuddy 积分",
+    "url": "https://www.ithome.com/1/020/453.htm",
+    "source": "IT之家",
+    "time": "10-31 12:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软更新 Win11 26H2 26340.9843 预览版：重构搜索体验，增强 XBOX 游戏模式",
+    "url": "https://www.ithome.com/1/020/448.htm",
+    "source": "IT之家",
+    "time": "10-31 11:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "宏碁掠夺者 · 战斧 9 Neo 游戏本 14650HX + 5070 12GB 配置发售，12999 元",
+    "url": "https://www.ithome.com/1/020/410.htm",
+    "source": "IT之家",
+    "time": "10-31 08:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "开源兼容层 Wine 11.21 发布：Linux 上玩《上古卷轴 5：天际》等游戏更流畅",
+    "url": "https://www.ithome.com/1/020/405.htm",
+    "source": "IT之家",
+    "time": "10-31 08:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微信小游戏月活榜洗牌：元梦之星6718万登顶，畅销第一《向僵尸开炮》排名第五",
+    "url": "http://www.gamelook.com.cn/2026/10/605221/",
+    "source": "GameLook",
+    "time": "10-30 12:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯《怪物猎人：旅人》海外发布，19国免费榜夺冠！",
+    "url": "http://www.gamelook.com.cn/2026/10/605203/",
+    "source": "GameLook",
+    "time": "10-30 12:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中国3A游戏狂热熄火！《影之刃零》Steam夺冠PS全球TOP10，就是手感有点飘？",
+    "url": "http://www.gamelook.com.cn/2026/10/605121/",
+    "source": "GameLook",
+    "time": "10-30 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "183款国产12款进口游戏获版号：散爆《少前:蓝蝶契约》乐元素《他予回声》过审",
+    "url": "http://www.gamelook.com.cn/2026/10/605160/",
+    "source": "GameLook",
+    "time": "10-30 09:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "荣耀 WIN 平板首销：8.4 英寸 240Hz OLED 屏幕、第五代骁龙 8 至尊版，国补到手价 3699 元起",
+    "url": "https://www.ithome.com/1/020/425.htm",
+    "source": "IT之家",
+    "time": "10-31 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "定制全光谱灯珠：小米米家风扇灯 36 英寸国补后 366 元（初次免费安装）",
+    "url": "https://www.ithome.com/1/020/424.htm",
+    "source": "IT之家",
+    "time": "10-31 09:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低",
+    "url": "https://www.ithome.com/1/020/418.htm",
+    "source": "IT之家",
+    "time": "10-31 09:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(6)",
+   "HackerNews(5)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
