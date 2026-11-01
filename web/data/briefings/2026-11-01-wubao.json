@@ -1,0 +1,262 @@
+{
+ "id": "2026-11-01-wubao",
+ "title": "线口监测午报 · 2026年11月01日(周日)",
+ "shift": "午报",
+ "date": "2026-11-01 14:14",
+ "docx": "../briefings/线口监测午报-2026-11-01.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "响应欧盟 AI 法案，Grok 模型生成的文本将添加隐形水印",
+    "url": "https://www.ithome.com/1/020/721.htm",
+    "source": "IT之家",
+    "time": "11-01 14:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Roblox 平台 AI 游戏突破 7 万款，排名前 100 作品超 80% 使用 AI 辅助开发",
+    "url": "https://www.ithome.com/1/020/651.htm",
+    "source": "IT之家",
+    "time": "11-01 08:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
+    "url": "https://www.ithome.com/1/020/649.htm",
+    "source": "IT之家",
+    "time": "11-01 08:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
+    "url": "https://www.ithome.com/1/020/647.htm",
+    "source": "IT之家",
+    "time": "11-01 08:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+    "url": "https://www.ithome.com/1/020/645.htm",
+    "source": "IT之家",
+    "time": "11-01 07:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+    "source": "Hacker News",
+    "time": "11-01 03:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "XHEART发布X7 Ultra，大模型定义芯片该咋看？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6d8bb9eb94c74bf9e376be04823f1&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-10-31%2fdoc-inixcwwk1421995.shtml&c=4360089162445699043&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-01 00:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜行业深度：发展历程、硬件架构、产业链拆解及相关公司深度梳理",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6d8bdde4f40a696a3dfac17379787&url=https%3a%2f%2fwww.sohu.com%2fa%2f1095481956_121872248&c=11769763420741393578&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-31 22:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "理想 AI 眼镜 Livis 10 月 OTA 升级，个人 Agent 新增接入 Hermes",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6d8bdde4f40a696a3dfac17379787&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-10-31%2fdoc-inixcfys1623197.shtml&c=3218621241546216037&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-31 18:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新芯航途发布大模型芯片X7 Ultra，首款芯片X7累计出货超20万颗",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6d8bb9eb94c74bf9e376be04823f1&url=https%3a%2f%2fauto.gasgoo.com%2fnews%2f202610%2f31I70476474C601.shtml&c=17688692602934589878&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-31 18:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Rokid把全彩AI眼镜，卖到了4999元",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6d8bdde4f40a696a3dfac17379787&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261030A0A8BS00%3fadChannelId%3dtech&c=13381964091521312095&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 17:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "闪电快讯｜XHEART发布大模型芯片X7 Ultra， 公布X9下一代研发目标",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6d8bb9eb94c74bf9e376be04823f1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1094966433_121429370&c=13562332357068335901&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "10-30 16:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "一地叫停网约车“只送货不载人”，回应称并非一刀切禁止“四轮小件”货运",
+    "url": "https://www.ithome.com/1/020/702.htm",
+    "source": "IT之家",
+    "time": "11-01 12:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为乾崑智驾累计辅助驾驶里程突破 170 亿公里",
+    "url": "https://www.ithome.com/1/020/693.htm",
+    "source": "IT之家",
+    "time": "11-01 11:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "GOG 平台希望复兴 PC 实体游戏，面临两重障碍",
+    "url": "https://www.ithome.com/1/020/705.htm",
+    "source": "IT之家",
+    "time": "11-01 12:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "动视又要炒冷饭？《使命召唤：现代战争 2》原版游戏重新获得分级",
+    "url": "https://www.ithome.com/1/020/687.htm",
+    "source": "IT之家",
+    "time": "11-01 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《影之刃零》Steam 峰值在线玩家数超 77 万，创今年单人游戏新高",
+    "url": "https://www.ithome.com/1/020/678.htm",
+    "source": "IT之家",
+    "time": "11-01 10:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "词牌社宣布接管游戏《物华弥新》运营，B站称龙渊网络单方面违约并将维权",
+    "url": "https://www.ithome.com/1/020/674.htm",
+    "source": "IT之家",
+    "time": "11-01 10:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "高通发布骁龙 X 系列 PC 处理器 Windows 显卡驱动，改进多款游戏体验",
+    "url": "https://www.ithome.com/1/020/667.htm",
+    "source": "IT之家",
+    "time": "11-01 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称《往日不再》开发商 Bend 打造全新第三人称合作游戏，计划 2027 年公布",
+    "url": "https://www.ithome.com/1/020/655.htm",
+    "source": "IT之家",
+    "time": "11-01 09:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "9 月首发 4499 元起 → 11 月国补 3675 元起，雷鸟鹤 6 Ultra 27 款 QD-Mini LED 电视京东 11.11 组合购",
+    "url": "https://www.ithome.com/1/020/659.htm",
+    "source": "IT之家",
+    "time": "11-01 09:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(0)",
+   "HackerNews(3)",
+   "Bing新闻(7)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
