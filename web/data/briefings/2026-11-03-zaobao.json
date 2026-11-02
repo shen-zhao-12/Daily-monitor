@@ -1,0 +1,360 @@
+{
+ "id": "2026-11-03-zaobao",
+ "title": "线口监测早报 · 2026年11月03日(周二)",
+ "shift": "早报",
+ "date": "2026-11-03 00:59",
+ "docx": "../briefings/线口监测早报-2026-11-03.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀",
+    "url": "https://www.ithome.com/1/021/274.htm",
+    "source": "IT之家",
+    "time": "11-02 22:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "亿咖通科技与 Arm 签署合作备忘录，共同开发面向出行领域及跨行业场景的下一代高性能 AI 计算平台",
+    "url": "https://www.ithome.com/1/021/268.htm",
+    "source": "IT之家",
+    "time": "11-02 21:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Marvell 宣布将以全股票交易收购 Lumentum，拓展 AI 光互连版图",
+    "url": "https://www.ithome.com/1/021/255.htm",
+    "source": "IT之家",
+    "time": "11-02 20:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Never Complain, Never Explain",
+    "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+    "source": "Hacker News",
+    "time": "11-02 19:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "黑客研发新型恶意木马 VOLTA，用 AI 分析受害者是否值得入侵",
+    "url": "https://www.ithome.com/1/021/249.htm",
+    "source": "IT之家",
+    "time": "11-02 19:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "沃顿教授：转行技工难以抵御 AI 冲击，四类核心能力才是破局关键",
+    "url": "https://www.ithome.com/1/021/246.htm",
+    "source": "IT之家",
+    "time": "11-02 19:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元",
+    "url": "https://www.ithome.com/1/021/245.htm",
+    "source": "IT之家",
+    "time": "11-02 19:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级",
+    "url": "https://www.ithome.com/1/021/231.htm",
+    "source": "IT之家",
+    "time": "11-02 18:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌母公司 Alphabet 年内第二次发行欧元债券，检验市场对其 AI 投入信心",
+    "url": "https://www.ithome.com/1/021/230.htm",
+    "source": "IT之家",
+    "time": "11-02 18:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜成为观展新搭子：从前海博物馆看新馆智慧导览新趋势",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-02%2fdetail-inixiuez9299725.d.html%3fvt%3d4&c=5724983936369069973&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 16:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IDC 预测：企业到 2028 年将在开源模型上运行 60% 的 AI 工作负载",
+    "url": "https://www.ithome.com/1/021/116.htm",
+    "source": "IT之家",
+    "time": "11-02 16:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+    "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+    "source": "Hacker News",
+    "time": "11-02 15:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%258D%25E5%2588%25B010%25E5%2585%2583-ai%25E7%259C%25BC%25E9%2595%259C%25E7%25A7%2592%25E5%258F%2598-%25E5%2581%25B7%25E6%258B%258D%25E7%25A5%259E%25E5%2599%25A8-%25E4%25B8%2580%25E5%25BC%25A0%25E9%2581%25AE%25E5%2585%2589%25E8%25B4%25B4%25E5%25B0%25B1%25E8%2583%25BD%25E6%2592%2595%25E5%25BC%2580%25E9%259A%2590%25E7%25A7%2581%25E7%25BA%25A2%25E7%25BA%25BF%2far-AA2gybhn&c=15171183266599642036&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 14:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜概念震荡反弹 明月镜片等多股涨超10%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xilt9XPsEu&c=12028876688114765763&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 11:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "支付大佬Xsolla下场做游戏？收购游戏平台Gamepix、押注 AI 造游戏！",
+    "url": "http://www.gamelook.com.cn/2026/11/605275/",
+    "source": "GameLook",
+    "time": "11-02 10:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "几块钱的贴纸让AI眼镜变“偷拍神器” 隐私风险引担忧",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261102%2f49832271_all.html&c=11740755349364274312&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三星首款AI眼镜12月中旬登陆韩美",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261102A03R7D00&c=15876373728054335965&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银",
+    "url": "https://www.ithome.com/1/021/250.htm",
+    "source": "IT之家",
+    "time": "11-02 19:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山",
+    "url": "https://www.ithome.com/1/021/222.htm",
+    "source": "IT之家",
+    "time": "11-02 18:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯混元发布 Hyra 2.0：为模型研发打造可复用工具",
+    "url": "https://www.ithome.com/1/021/266.htm",
+    "source": "IT之家",
+    "time": "11-02 21:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "世嘉介绍 VR 街机游戏《死亡之屋：重生》：支持双人游玩、机台预计 2027 年上市",
+    "url": "https://www.ithome.com/1/021/253.htm",
+    "source": "IT之家",
+    "time": "11-02 20:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游民星空发行的经营游戏《二手游戏店模拟器》发售，国区首发特惠 33.75 元",
+    "url": "https://www.ithome.com/1/021/248.htm",
+    "source": "IT之家",
+    "time": "11-02 19:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "RPCS3 模拟器里程碑：几乎所有 PS3 单机游戏均已可在电脑上运行",
+    "url": "https://www.ithome.com/1/021/233.htm",
+    "source": "IT之家",
+    "time": "11-02 18:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "开发者将任天堂经典游戏《超级马力欧 64》移植至 Pico 头显：可将马力欧“抓出屏幕”",
+    "url": "https://www.ithome.com/1/021/229.htm",
+    "source": "IT之家",
+    "time": "11-02 18:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "桌面战棋游戏《辐射：战争》将于本月推出 XR 版本，登陆 XREAL Aura 平台",
+    "url": "https://www.ithome.com/1/021/221.htm",
+    "source": "IT之家",
+    "time": "11-02 18:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "荣耀 WIN 游戏手柄开售：四键位自由映射，399 元",
+    "url": "https://www.ithome.com/1/021/138.htm",
+    "source": "IT之家",
+    "time": "11-02 17:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《怪物猎人:旅人》海外发布，腾讯天美总监采访：“向真正的前辈学习”！",
+    "url": "http://www.gamelook.com.cn/2026/11/605310/",
+    "source": "GameLook",
+    "time": "11-02 13:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《2026年韩国游戏市场洞察》：本土手游内购收入达50亿美元",
+    "url": "http://www.gamelook.com.cn/2026/11/605295/",
+    "source": "GameLook",
+    "time": "11-02 11:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏圈地震！买量龙头三七互娱“由盈转亏”，怎么回事？",
+    "url": "http://www.gamelook.com.cn/2026/11/605258/",
+    "source": "GameLook",
+    "time": "11-02 10:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“路飞成了厨子”！开罗游戏做了款《海贼王》干饭手游，全球玩家乐了",
+    "url": "http://www.gamelook.com.cn/2026/11/605233/",
+    "source": "GameLook",
+    "time": "11-02 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(9)",
+   "HackerNews(4)",
+   "Bing新闻(11)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
