@@ -2,10 +2,21 @@
  "id": "2026-11-03-zaobao",
  "title": "线口监测早报 · 2026年11月03日(周二)",
  "shift": "早报",
- "date": "2026-11-03 00:59",
+ "date": "2026-11-03 02:12",
  "docx": "../briefings/线口监测早报-2026-11-03.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "source": "Hacker News",
+    "time": "11-03 00:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀",
@@ -30,10 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Marvell 宣布将以全股票交易收购 Lumentum，拓展 AI 光互连版图",
-    "url": "https://www.ithome.com/1/021/255.htm",
-    "source": "IT之家",
-    "time": "11-02 20:16",
+    "title": "Last night an AI agent performed brain surgery on a mouse",
+    "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+    "source": "Hacker News",
+    "time": "11-02 20:50",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,10 +52,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Never Complain, Never Explain",
-    "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
-    "source": "Hacker News",
-    "time": "11-02 19:55",
+    "title": "Marvell 宣布将以全股票交易收购 Lumentum，拓展 AI 光互连版图",
+    "url": "https://www.ithome.com/1/021/255.htm",
+    "source": "IT之家",
+    "time": "11-02 20:16",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -107,8 +118,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI眼镜最大赢家是售价50的华强北 平替产品销量领先",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261102%2f49834544.html&c=8617072598159242513&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 17:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "AI眼镜成为观展新搭子：从前海博物馆看新馆智慧导览新趋势",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-02%2fdetail-inixiuez9299725.d.html%3fvt%3d4&c=5724983936369069973&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-02%2fdetail-inixiuez9299725.d.html%3fvt%3d4&c=5724983936369069973&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-02 16:42",
     "summary": "",
@@ -129,19 +151,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-    "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-    "source": "Hacker News",
-    "time": "11-02 15:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%258D%25E5%2588%25B010%25E5%2585%2583-ai%25E7%259C%25BC%25E9%2595%259C%25E7%25A7%2592%25E5%258F%2598-%25E5%2581%25B7%25E6%258B%258D%25E7%25A5%259E%25E5%2599%25A8-%25E4%25B8%2580%25E5%25BC%25A0%25E9%2581%25AE%25E5%2585%2589%25E8%25B4%25B4%25E5%25B0%25B1%25E8%2583%25BD%25E6%2592%2595%25E5%25BC%2580%25E9%259A%2590%25E7%25A7%2581%25E7%25BA%25A2%25E7%25BA%25BF%2far-AA2gybhn&c=15171183266599642036&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%258D%25E5%2588%25B010%25E5%2585%2583-ai%25E7%259C%25BC%25E9%2595%259C%25E7%25A7%2592%25E5%258F%2598-%25E5%2581%25B7%25E6%258B%258D%25E7%25A5%259E%25E5%2599%25A8-%25E4%25B8%2580%25E5%25BC%25A0%25E9%2581%25AE%25E5%2585%2589%25E8%25B4%25B4%25E5%25B0%25B1%25E8%2583%25BD%25E6%2592%2595%25E5%25BC%2580%25E9%259A%2590%25E7%25A7%2581%25E7%25BA%25A2%25E7%25BA%25BF%2far-AA2gybhn&c=15171183266599642036&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-02 14:05",
     "summary": "",
@@ -152,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜概念震荡反弹 明月镜片等多股涨超10%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xilt9XPsEu&c=12028876688114765763&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xilt9XPsEu&c=12028876688114765763&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-02 11:17",
     "summary": "",
@@ -162,19 +173,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "支付大佬Xsolla下场做游戏？收购游戏平台Gamepix、押注 AI 造游戏！",
-    "url": "http://www.gamelook.com.cn/2026/11/605275/",
-    "source": "GameLook",
-    "time": "11-02 10:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "几块钱的贴纸让AI眼镜变“偷拍神器” 隐私风险引担忧",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261102%2f49832271_all.html&c=11740755349364274312&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261102%2f49832271_all.html&c=11740755349364274312&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-02 09:51",
     "summary": "",
@@ -185,9 +185,53 @@
    {
     "beat": "AI/大模型",
     "title": "三星首款AI眼镜12月中旬登陆韩美",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c166e39d4c23825c3418274bd28f&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261102A03R7D00&c=15876373728054335965&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261102A03R7D00&c=15876373728054335965&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-02 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称三星首款 AI 眼镜 12 月中旬登陆韩国、美国，要和 Meta 抢市场？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-11-02%2fdoc-inixicie7225149.shtml&c=12933310354804916059&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 09:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜最大赢家是售价50元的华强北：太贵的卖不动",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-02%2fdoc-inixiynt0420807.shtml&c=1451120767929906350&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 05:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美团发布LongCat-2.5大模型，延续“国芯国模”研发路线，强化商业分析等能力",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a107124954b2f161484ffddf6a&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E7%25BE%258E%25E5%259B%25A2%25E5%258F%2591%25E5%25B8%2583longcat-2-5%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-%25E5%25BB%25B6%25E7%25BB%25AD-%25E5%259B%25BD%25E8%258A%25AF%25E5%259B%25BD%25E6%25A8%25A1-%25E7%25A0%2594%25E5%258F%2591%25E8%25B7%25AF%25E7%25BA%25BF-%25E5%25BC%25BA%25E5%258C%2596%25E5%2595%2586%25E4%25B8%259A%25E5%2588%2586%25E6%259E%2590%25E7%25AD%2589%25E8%2583%25BD%25E5%258A%259B%2far-AA2gzfZC&c=15087168393920510705&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 05:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "问诊机器人、AI眼镜，智能应用落地开花! 科技创新打造消费新场景新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d2a3b8564509ac70824106b18732&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2597%25AE%25E8%25AF%258A%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA-ai%25E7%259C%25BC%25E9%2595%259C-%25E6%2599%25BA%25E8%2583%25BD%25E5%25BA%2594%25E7%2594%25A8%25E8%2590%25BD%25E5%259C%25B0%25E5%25BC%2580%25E8%258A%25B1-%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259B%25E6%2596%25B0%25E6%2589%2593%25E9%2580%25A0%25E6%25B6%2588%25E8%25B4%25B9%25E6%2596%25B0%25E5%259C%25BA%25E6%2599%25AF%25E6%2596%25B0%25E4%25BD%2593%25E9%25AA%258C%2far-AA2gwkgo&c=15310053316855634232&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-01 09:55",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -297,50 +341,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《怪物猎人:旅人》海外发布，腾讯天美总监采访：“向真正的前辈学习”！",
-    "url": "http://www.gamelook.com.cn/2026/11/605310/",
-    "source": "GameLook",
-    "time": "11-02 13:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《2026年韩国游戏市场洞察》：本土手游内购收入达50亿美元",
-    "url": "http://www.gamelook.com.cn/2026/11/605295/",
-    "source": "GameLook",
-    "time": "11-02 11:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "游戏圈地震！买量龙头三七互娱“由盈转亏”，怎么回事？",
-    "url": "http://www.gamelook.com.cn/2026/11/605258/",
-    "source": "GameLook",
-    "time": "11-02 10:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "“路飞成了厨子”！开罗游戏做了款《海贼王》干饭手游，全球玩家乐了",
-    "url": "http://www.gamelook.com.cn/2026/11/605233/",
-    "source": "GameLook",
-    "time": "11-02 09:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -349,12 +349,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(9)",
-   "HackerNews(4)",
+   "HackerNews(3)",
    "Bing新闻(11)"
   ],
   "fail": [
-   "36氪(no entries)"
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
   ]
  }
 }
