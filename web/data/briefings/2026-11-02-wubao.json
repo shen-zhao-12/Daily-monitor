@@ -2,10 +2,43 @@
  "id": "2026-11-02-wubao",
  "title": "线口监测午报 · 2026年11月02日(周一)",
  "shift": "午报",
- "date": "2026-11-02 14:14",
+ "date": "2026-11-02 15:41",
  "docx": "../briefings/线口监测午报-2026-11-02.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "阿布扎比与 OpenAI 签署四项协议，在政府、能源及投资领域进行合作",
+    "url": "https://www.ithome.com/1/021/066.htm",
+    "source": "IT之家",
+    "time": "11-02 15:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI CEO 奥尔特曼密访韩国，深化与三星、SK 集团 AI 芯片与数据中心合作",
+    "url": "https://www.ithome.com/1/021/058.htm",
+    "source": "IT之家",
+    "time": "11-02 15:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国第 6 代国家超级计算机“汉江”投运，算力可跻身 TOP500 前十",
+    "url": "https://www.ithome.com/1/021/047.htm",
+    "source": "IT之家",
+    "time": "11-02 15:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "曾毓群全英文发言：宁德时代也在用 AI 进行技术创新，可在短时间筛选千种化合物",
@@ -41,32 +74,76 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "支付大佬Xsolla下场做游戏？收购游戏平台Gamepix、押注 AI 造游戏！",
-    "url": "http://www.gamelook.com.cn/2026/11/605275/",
-    "source": "GameLook",
-    "time": "11-02 10:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "美团龙猫发布 LongCat-2.5 原生多模态 AI 模型：1.6T 参数，面向长程智能体任务",
-    "url": "https://www.ithome.com/1/020/873.htm",
-    "source": "IT之家",
-    "time": "11-02 09:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "美团发布LongCat-2.5大模型，延续“国芯国模”研发路线，强化商业分析等能力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a641656474f9cc8dd2a447d2787&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%25BE%258E%25E5%259B%25A2%25E5%258F%2591%25E5%25B8%2583longcat-25%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-%25E5%25BB%25B6%25E7%25BB%25AD-%25E5%259B%25BD%25E8%258A%25AF%25E5%259B%25BD%25E6%25A8%25A1-%25E7%25A0%2594%25E5%258F%2591%25E8%25B7%25AF%25E7%25BA%25BF-%25E5%25BC%25BA%25E5%258C%2596%25E5%2595%2586%25E4%25B8%259A%25E5%2588%2586%25E6%259E%2590%25E7%25AD%2589%25E8%2583%25BD%25E5%258A%259B%2far-AA2gzfZC&c=16923044580229774373&mkt=en-us",
+    "title": "美团发布LongCat-2.5大模型，“国芯国模”实现新突破",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec085a24efcbde360b0dc2df6b2&url=https%3a%2f%2fwww.leiphone.com%2fcategory%2findustrynews%2fmUPVr3RF0MHNmn3t.html&c=1005832377451897053&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-02 05:04",
+    "time": "11-02 07:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美团发布LongCat-2.5大模型 总参数量1.6万亿",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec085a24efcbde360b0dc2df6b2&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E7%25BE%258E%25E5%259B%25A2%25E5%258F%2591%25E5%25B8%2583longcat-2-5%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-%25E6%2580%25BB%25E5%258F%2582%25E6%2595%25B0%25E9%2587%258F1-6%25E4%25B8%2587%25E4%25BA%25BF%2far-AA2gz6Lp&c=5546107409025482338&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 06:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称三星首款AI眼镜12月中旬登陆韩国、美国，要和Meta抢市场?",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec2ca1340779fa40a4d3300eed8&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E6%25B6%2588%25E6%2581%25AF%25E7%25A7%25B0%25E4%25B8%2589%25E6%2598%259F%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C12%25E6%259C%2588%25E4%25B8%25AD%25E6%2597%25AC%25E7%2599%25BB%25E9%2599%2586%25E9%259F%25A9%25E5%259B%25BD-%25E7%25BE%258E%25E5%259B%25BD-%25E8%25A6%2581%25E5%2592%258Cmeta%25E6%258A%25A2%25E5%25B8%2582%25E5%259C%25BA%2far-AA2gxMJu&c=441941699151875832&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 01:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "度小满与香港科技大学联合发布轩辕4.5金融大模型",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec085a24efcbde360b0dc2df6b2&url=https%3a%2f%2fwww.chinanews.com%2fcj%2f2026%2f11-02%2f10724736.shtml&c=15280373594915923122&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 00:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不到10元，AI眼镜秒变“偷拍美女帅哥的神器”，一张遮光贴就能撕开隐私红线？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec2ca1340779fa40a4d3300eed8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1096075027_122938117&c=8117349259828149756&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 00:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec085a24efcbde360b0dc2df6b2&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f32013.shtml&c=13204045094562711638&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-01 23:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美团发布LongCat-2.5大模型 延续“国芯国模”研发路线",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec085a24efcbde360b0dc2df6b2&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2f2026-11-02%2fdoc-inixiire2975162.shtml&c=6965445559553911194&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-01 22:09",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -75,31 +152,9 @@
    {
     "beat": "AI/大模型",
     "title": "美团发布LongCat-2.5大模型",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a641656474f9cc8dd2a447d2787&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%25BE%258E%25E5%259B%25A2%25E5%258F%2591%25E5%25B8%2583longcat-25%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2gymx7&c=14996912679108117871&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec085a24efcbde360b0dc2df6b2&url=https%3a%2f%2fwww.sohu.com%2fa%2f1096002359_122014422&c=12728970833415472766&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-02 03:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a66d6d743bd89151e37a93c608e&url=https%3a%2f%2fwww.dzwww.com%2fnews%2fsddc%2f202611%2ft20261102_18261655.htm&c=15903032273054693285&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-02 00:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Hugging Face 开源 Carbon‑X：14B 参数 DNA‑语言混合大模型",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a641656474f9cc8dd2a447d2787&url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f1%2f6761904.html&c=13584794037564420329&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-01 23:43",
+    "time": "11-01 21:19",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -108,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜概念震荡反弹 明月镜片等多股涨超10%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a66d6d743bd89151e37a93c608e&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xilt9XPsEu&c=12028876688114765763&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec2ca1340779fa40a4d3300eed8&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xilt9XPsEu&c=12028876688114765763&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-01 21:17",
     "summary": "",
@@ -118,19 +173,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Mistral开源大模型：能力越强，越可能成为网络攻击新变量",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a641656474f9cc8dd2a447d2787&url=https%3a%2f%2fwww.sohu.com%2fa%2f1095988831_120174320&c=6016879638392670654&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-01 20:56",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "几块钱的贴纸让AI眼镜变“偷拍神器” 隐私风险引担忧",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a66d6d743bd89151e37a93c608e&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261102%2f49832271_all.html&c=11740755349364274312&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec2ca1340779fa40a4d3300eed8&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261102%2f49832271_all.html&c=11740755349364274312&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-01 19:52",
     "summary": "",
@@ -140,10 +184,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "消息称三星首款 AI 眼镜 12 月中旬登陆韩国、美国，要和 Meta 抢市场？",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a66d6d743bd89151e37a93c608e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-11-02%2fdoc-inixicie7225149.shtml&c=12933310354804916059&mkt=en-us",
+    "title": "阿里千问 AI 眼镜 OTA 升级：新增通话翻译、媒体翻译等",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec2ca1340779fa40a4d3300eed8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-11-01%2fdoc-inixfrfr6460255.shtml&c=5703637496623942222&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-01 19:00",
+    "time": "11-01 17:03",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,10 +195,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "阿里千问 AI 眼镜 OTA 升级：新增通话翻译、媒体翻译等",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae82a66d6d743bd89151e37a93c608e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-11-01%2fdoc-inixfrfr6460255.shtml&c=5703637496623942222&mkt=en-us",
+    "title": "The AI cost of JavaScript frameworks",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "source": "Hacker News",
+    "time": "11-01 14:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "问诊机器人、AI眼镜，智能应用落地开花! 科技创新打造消费新场景新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae83ec2ca1340779fa40a4d3300eed8&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2597%25AE%25E8%25AF%258A%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA-ai%25E7%259C%25BC%25E9%2595%259C-%25E6%2599%25BA%25E8%2583%25BD%25E5%25BA%2594%25E7%2594%25A8%25E8%2590%25BD%25E5%259C%25B0%25E5%25BC%2580%25E8%258A%25B1-%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259B%25E6%2596%25B0%25E6%2589%2593%25E9%2580%25A0%25E6%25B6%2588%25E8%25B4%25B9%25E6%2596%25B0%25E5%259C%25BA%25E6%2599%25AF%25E6%2596%25B0%25E4%25BD%2593%25E9%25AA%258C%2far-AA2gwkgo&c=15310053316855634232&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-01 17:03",
+    "time": "11-01 09:55",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -162,6 +217,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "Meta 与中国企业合作开发人形机器人？傅利叶：暂不方便回复",
+    "url": "https://www.ithome.com/1/021/004.htm",
+    "source": "IT之家",
+    "time": "11-02 14:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "43 分 41 秒，首届 CMG 世界机器人登泰山大赛足式竞速冠军产生",
@@ -172,73 +238,39 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "贾跃亭：FFR 机器人 10 月销量超 351 台，累计首次破千台",
-    "url": "https://www.ithome.com/1/020/894.htm",
-    "source": "IT之家",
-    "time": "11-02 10:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "首届 CMG 世界机器人登泰山大赛今日开赛，记者一路小跑跟不上",
-    "url": "https://www.ithome.com/1/020/890.htm",
-    "source": "IT之家",
-    "time": "11-02 10:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "优必选 Thinker-Sim 具身智能仿真平台发布，为机器人能力评测提供一站式体系",
-    "url": "https://www.ithome.com/1/020/888.htm",
-    "source": "IT之家",
-    "time": "11-02 10:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "无人驾驶/低空/智慧出行": [],
-  "电商/直播/即时零售": [
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
    {
-    "beat": "电商/直播/即时零售",
-    "title": "15 元以下订单减半，美团薛冰称外卖行业迎来拐点、低价泡沫在消退",
-    "url": "https://www.ithome.com/1/020/885.htm",
+    "beat": "游戏/电竞/平台公司",
+    "title": "开发者成功在任天堂 Switch 游戏机上运行苹果 iPadOS 17",
+    "url": "https://www.ithome.com/1/021/046.htm",
     "source": "IT之家",
-    "time": "11-02 09:51",
+    "time": "11-02 15:03",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "游戏/电竞/平台公司": [
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 喜加一：横版动作冒险游戏《Epic World - Hunt For Quest》免费领",
+    "url": "https://www.ithome.com/1/021/009.htm",
+    "source": "IT之家",
+    "time": "11-02 14:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "冯骥发文祝贺《影之刃零》销量破 400 万：游戏归根到底，是热爱者做给热爱者的事物",
     "url": "https://www.ithome.com/1/020/993.htm",
     "source": "IT之家",
     "time": "11-02 14:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《怪物猎人:旅人》海外发布，腾讯天美总监采访：“向真正的前辈学习”！",
-    "url": "http://www.gamelook.com.cn/2026/11/605310/",
-    "source": "GameLook",
-    "time": "11-02 13:29",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -254,92 +286,26 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《2026年韩国游戏市场洞察》：本土手游内购收入达50亿美元",
-    "url": "http://www.gamelook.com.cn/2026/11/605295/",
-    "source": "GameLook",
-    "time": "11-02 11:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《CS2》电竞赛事 IEM 北京 2026 开幕，TYLOO 等 16 队参与角逐",
-    "url": "https://www.ithome.com/1/020/906.htm",
-    "source": "IT之家",
-    "time": "11-02 11:04",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "游戏圈地震！买量龙头三七互娱“由盈转亏”，怎么回事？",
-    "url": "http://www.gamelook.com.cn/2026/11/605258/",
-    "source": "GameLook",
-    "time": "11-02 10:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "拜雅 MMX 130 wireless 头戴式游戏耳机上市：开放声学，到手价 1098.37 元",
-    "url": "https://www.ithome.com/1/020/902.htm",
-    "source": "IT之家",
-    "time": "11-02 10:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "铃空游戏 CEO 罗翔宇称《昭和米国物语》开发完成，主线剧情约 25 小时",
-    "url": "https://www.ithome.com/1/020/901.htm",
-    "source": "IT之家",
-    "time": "11-02 10:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "国产武侠游戏《影之刃零》72 小时销量突破 400 万",
-    "url": "https://www.ithome.com/1/020/891.htm",
-    "source": "IT之家",
-    "time": "11-02 10:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "“路飞成了厨子”！开罗游戏做了款《海贼王》干饭手游，全球玩家乐了",
-    "url": "http://www.gamelook.com.cn/2026/11/605233/",
-    "source": "GameLook",
-    "time": "11-02 09:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "千分位甲醛数显：小米米家全效空气净化器 Ultra 国补后 2041 元新低",
-    "url": "https://www.ithome.com/1/020/874.htm",
+    "title": "传音全球首家旗舰概念店落地印度尼西亚巴厘岛，号称融合咖啡、数码零售与艺术体验",
+    "url": "https://www.ithome.com/1/021/061.htm",
     "source": "IT之家",
-    "time": "11-02 09:19",
+    "time": "11-02 15:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "青岛发布 2026 年 11 月汽车以旧换新补贴公告：配额 2.5 亿元先到先得",
+    "url": "https://www.ithome.com/1/021/033.htm",
+    "source": "IT之家",
+    "time": "11-02 14:44",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -351,12 +317,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(9)",
    "HackerNews(1)",
    "Bing新闻(13)"
   ],
   "fail": [
-   "36氪(no entries)"
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
   ]
  }
 }
