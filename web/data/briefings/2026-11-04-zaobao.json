@@ -1,0 +1,360 @@
+{
+ "id": "2026-11-04-zaobao",
+ "title": "线口监测早报 · 2026年11月04日(周三)",
+ "shift": "早报",
+ "date": "2026-11-04 00:07",
+ "docx": "../briefings/线口监测早报-2026-11-04.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "广汽埃安 AION V 纯电 SUV 新车申报：自带“鼻孔”，165kW + 磷酸铁锂电池",
+    "url": "https://www.ithome.com/1/021/853.htm",
+    "source": "IT之家",
+    "time": "11-03 23:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Just a little AI resistance, as a treat",
+    "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+    "source": "Hacker News",
+    "time": "11-03 22:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Itch.io 出手整治低质量 AI 游戏，数 TB 内容被删除",
+    "url": "https://www.ithome.com/1/021/824.htm",
+    "source": "IT之家",
+    "time": "11-03 21:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称英特尔可能停产 Arc B580 显卡，未来聚焦 Arc Pro B50 等高利润 AI 产品",
+    "url": "https://www.ithome.com/1/021/813.htm",
+    "source": "IT之家",
+    "time": "11-03 21:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "ATK RS8 Air / Neo 电竞键盘首销：87 配列，到手价 299 元起",
+    "url": "https://www.ithome.com/1/021/810.htm",
+    "source": "IT之家",
+    "time": "11-03 21:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "用 AI 教 AI 开车，百度 Apollo World 世界模型亮相",
+    "url": "https://www.ithome.com/1/021/808.htm",
+    "source": "IT之家",
+    "time": "11-03 20:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Embark 工作室：从没想到《ARC Raiders》游戏会如此成功",
+    "url": "https://www.ithome.com/1/021/805.htm",
+    "source": "IT之家",
+    "time": "11-03 20:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "九州风神曲面屏 AIO 液冷 S360 上市：320W TDP 设定，1499 元",
+    "url": "https://www.ithome.com/1/021/802.htm",
+    "source": "IT之家",
+    "time": "11-03 20:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "TrendForce：AI 网络与互连持续接近翻倍增长，2027 年产值 2798 亿美元",
+    "url": "https://www.ithome.com/1/021/796.htm",
+    "source": "IT之家",
+    "time": "11-03 20:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为鸿蒙电脑应用数突破 2.1 万款，覆盖办公、AI、娱乐、创作等核心场景",
+    "url": "https://www.ithome.com/1/021/782.htm",
+    "source": "IT之家",
+    "time": "11-03 19:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里千问AI眼镜OTA升级：新增通话翻译、媒体翻译等",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06b0c4e84689953261687fc38343&url=https%3a%2f%2fwww.sohu.com%2fa%2f1096559105_112831&c=18369222425350824150&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-03 14:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全彩AI眼镜提速 康耐特光学卡位核心供应链",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06b0c4e84689953261687fc38343&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-03%2fdoc-inixmnqf8810167.shtml&c=7949061266138935432&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-03 11:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "度小满发布行业首个自进化金融增强大模型",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06aed5584ad6b29d54cbf38b0af4&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-03%2fdoc-inixmhhc0046647.shtml&c=88219879170253782&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-03 09:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Claude,ChatGPT叫停“AI反编译游戏”！OpenAI老板：“个人电脑不该装内存”",
+    "url": "http://www.gamelook.com.cn/2026/11/605329/",
+    "source": "GameLook",
+    "time": "11-03 09:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美团发布新一代大模型LongCat-2.5：国模国芯 多指标登顶第一",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06aed5584ad6b29d54cbf38b0af4&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-03%2fdoc-inixkzyh6814098.shtml&c=13988074536402093480&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-03 07:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球首创！鹰瞳Airdoc发布无创光学脑机接口PBM大模型，同时发布PBM-LED®近视防控6个月临床数据",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06aed5584ad6b29d54cbf38b0af4&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2585%25A8%25E7%2590%2583%25E9%25A6%2596%25E5%2588%259B-%25E9%25B9%25B0%25E7%259E%25B3airdoc%25E5%258F%2591%25E5%25B8%2583%25E6%2597%25A0%25E5%2588%259B%25E5%2585%2589%25E5%25AD%25A6%25E8%2584%2591%25E6%259C%25BA%25E6%258E%25A5%25E5%258F%25A3pbm%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-%25E5%2590%258C%25E6%2597%25B6%25E5%258F%2591%25E5%25B8%2583pbm-led-%25E8%25BF%2591%25E8%25A7%2586%25E9%2598%25B2%25E6%258E%25A76%25E4%25B8%25AA%25E6%259C%2588%25E4%25B8%25B4%25E5%25BA%258A%25E6%2595%25B0%25E6%258D%25AE%2far-AA2gE0fd&c=17947227851769838510&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-03 05:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06aed5584ad6b29d54cbf38b0af4&url=https%3a%2f%2fwww.chinanews.com%2fcul%2f2026%2f11-03%2f10725516.shtml&c=5908912202106320132&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-03 05:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI智能体或将重塑AI眼镜的价值主张",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06b0c4e84689953261687fc38343&url=https%3a%2f%2fwww.esmchina.com%2fmarketnews%2f60191.html&c=12963580607114056649&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-03 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "source": "Hacker News",
+    "time": "11-02 22:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球首个生物活性肽人工智能大语言模型PepNova-AI发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06aed5584ad6b29d54cbf38b0af4&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%2585%25A8%25E7%2590%2583%25E9%25A6%2596%25E4%25B8%25AA%25E7%2594%259F%25E7%2589%25A9%25E6%25B4%25BB%25E6%2580%25A7%25E8%2582%25BD%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%25E5%25A4%25A7%25E8%25AF%25AD%25E8%25A8%2580%25E6%25A8%25A1%25E5%259E%258Bpepnova-ai%25E5%258F%2591%25E5%25B8%2583%2far-AA2gCCJz&c=11996025420156164714&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 21:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜最大赢家是售价50元的华强北：太贵的卖不动",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea06b0c4e84689953261687fc38343&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-02%2fdoc-inixiynt0420807.shtml&c=1451120767929906350&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-02 19:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "R 星：《GTA6》游戏 11 月 10 日开始预载，最高占用 212GB 空间",
+    "url": "https://www.ithome.com/1/021/850.htm",
+    "source": "IT之家",
+    "time": "11-03 23:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《霍格沃茨之遗》后天起支持英伟达 DLSS 5，《战争雷霆》《燕云十六声》等游戏后续跟进",
+    "url": "https://www.ithome.com/1/021/822.htm",
+    "source": "IT之家",
+    "time": "11-03 21:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 新一周游戏销量榜公布：《影之刃零》反超《COD：MW4》登顶双榜",
+    "url": "https://www.ithome.com/1/021/820.htm",
+    "source": "IT之家",
+    "time": "11-03 21:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏粉丝声称愿意出资 500 万欧元，希望协助育碧恢复开发《波斯王子：时之砂重制版》",
+    "url": "https://www.ithome.com/1/021/790.htm",
+    "source": "IT之家",
+    "time": "11-03 19:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "外媒公布《GTA6》一批新截图：地图面积、NPC 互动、游戏载具系统大升级",
+    "url": "https://www.ithome.com/1/021/786.htm",
+    "source": "IT之家",
+    "time": "11-03 19:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼 PlayStation 宣布“中国之星计划”第四期入选名单近期公布，入选游戏可获百万美元扶持",
+    "url": "https://www.ithome.com/1/021/783.htm",
+    "source": "IT之家",
+    "time": "11-03 19:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易旗下名越工作室清算解散，“如龙之父”五年冒险画上句号",
+    "url": "http://www.gamelook.com.cn/2026/11/605371/",
+    "source": "GameLook",
+    "time": "11-03 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "沐瞳科技：协助警方侦破游戏私服侵权案，多名嫌疑人落网",
+    "url": "http://www.gamelook.com.cn/2026/11/605415/",
+    "source": "GameLook",
+    "time": "11-03 06:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米智能门锁 5 上架：支持实时监测锁体状态、配备应急启动键，1176 元（国补后 999.6 元）",
+    "url": "https://www.ithome.com/1/021/800.htm",
+    "source": "IT之家",
+    "time": "11-03 20:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(16)",
+   "HackerNews(2)",
+   "Bing新闻(15)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
