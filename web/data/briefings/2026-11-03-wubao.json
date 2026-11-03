@@ -2,10 +2,87 @@
  "id": "2026-11-03-wubao",
  "title": "线口监测午报 · 2026年11月03日(周二)",
  "shift": "午报",
- "date": "2026-11-03 14:53",
+ "date": "2026-11-03 15:56",
  "docx": "../briefings/线口监测午报-2026-11-03.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "苹果服务业务承压：App Store 佣金下滑，拟借第三方 AI 应用拓宽收入来源",
+    "url": "https://www.ithome.com/1/021/618.htm",
+    "source": "IT之家",
+    "time": "11-03 15:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "摩根士丹利 CEO：未来十年 AI 领域资本支出或达 10 万亿-15 万亿美元",
+    "url": "https://www.ithome.com/1/021/616.htm",
+    "source": "IT之家",
+    "time": "11-03 15:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 将合并 ChatGPT 对话与工作台标签页，Codex 仍保持独立",
+    "url": "https://www.ithome.com/1/021/615.htm",
+    "source": "IT之家",
+    "time": "11-03 15:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全汉推出双卡 AI 工作站机箱 U661，配备 3 颗前置 16030 风扇",
+    "url": "https://www.ithome.com/1/021/614.htm",
+    "source": "IT之家",
+    "time": "11-03 15:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称高盛限制交易员与银行家使用部分 AI 工具，引发员工不满",
+    "url": "https://www.ithome.com/1/021/597.htm",
+    "source": "IT之家",
+    "time": "11-03 15:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI：极端天气下旗下美国数据中心可削减用电负荷",
+    "url": "https://www.ithome.com/1/021/588.htm",
+    "source": "IT之家",
+    "time": "11-03 14:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 App Store 将推新规：约会、AI 伴侣类应用分级必须为 18+",
+    "url": "https://www.ithome.com/1/021/586.htm",
+    "source": "IT之家",
+    "time": "11-03 14:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "月之暗面 Kimi 发布游戏开发与创意工作解决方案：AI 可直接操作 Unity、虚幻引擎等",
@@ -74,94 +151,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "男子用 AI 破解 AI 平台接口：400 多万个账号薅积分、偷算力卖钱，被判刑 3 年缓刑 3 年",
-    "url": "https://www.ithome.com/1/021/484.htm",
-    "source": "IT之家",
-    "time": "11-03 11:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI 制药公司“同构实验室”总裁贾德伯格大胆预测：未来所有药物都将由 AI 设计",
-    "url": "https://www.ithome.com/1/021/477.htm",
-    "source": "IT之家",
-    "time": "11-03 11:28",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "国家发改委：强化对 AI 就业替代风险监测预警，做好兜底性、普惠性社会保障",
-    "url": "https://www.ithome.com/1/021/475.htm",
-    "source": "IT之家",
-    "time": "11-03 11:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "高通：高通 AI Hub 现已面向中国开发者开放",
-    "url": "https://www.ithome.com/1/021/453.htm",
-    "source": "IT之家",
-    "time": "11-03 11:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苹果 CEO 特努斯：Siri 每日处理超过 25 亿次请求，部分高级 AI 功能将收费",
-    "url": "https://www.ithome.com/1/021/400.htm",
-    "source": "IT之家",
-    "time": "11-03 11:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "美国“最年轻”前陆军部长德里斯科尔加入 OpenAI，出任国家安全与现代化事务高级顾问",
-    "url": "https://www.ithome.com/1/021/382.htm",
-    "source": "IT之家",
-    "time": "11-03 10:57",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 下一代 GPT-6.2 Astra 正灰度测试，Codex 用量统计中已单独列出",
-    "url": "https://www.ithome.com/1/021/352.htm",
-    "source": "IT之家",
-    "time": "11-03 10:32",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "豪掷 457.65 亿美元：苹果 2026 财年研发费用同比增 32% 创历史新高，加码 AI 投入",
-    "url": "https://www.ithome.com/1/021/351.htm",
-    "source": "IT之家",
-    "time": "11-03 10:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Claude,ChatGPT叫停“AI反编译游戏”！OpenAI老板：“个人电脑不该装内存”",
     "url": "http://www.gamelook.com.cn/2026/11/605329/",
     "source": "GameLook",
@@ -196,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "美团发布LongCat-2.5大模型，强化长程任务、多模态、商业分析等能力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae9850ce7ee426bab4e000e9cef7b21&url=https%3a%2f%2fwww.xinhuanet.com%2ftech%2f20261103%2f41b545db19f348038365821485069a8b%2fc.html&c=1703950553425268999&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae993c7506543efad7010e54ced7c78&url=https%3a%2f%2fwww.xinhuanet.com%2ftech%2f20261103%2f41b545db19f348038365821485069a8b%2fc.html&c=1703950553425268999&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-03 00:00",
     "summary": "",
@@ -207,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI智能体或将重塑AI眼镜的价值主张",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae9850e3f344ea3b7fb2e9829594679&url=https%3a%2f%2fwww.esmchina.com%2fmarketnews%2f60191.html&c=12963580607114056649&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae993c923f04a99bae970abe7670c9d&url=https%3a%2f%2fwww.esmchina.com%2fmarketnews%2f60191.html&c=12963580607114056649&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-03 00:00",
     "summary": "",
@@ -218,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "全球首个生物活性肽人工智能大语言模型PepNova-AI发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae9850ce7ee426bab4e000e9cef7b21&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%2585%25A8%25E7%2590%2583%25E9%25A6%2596%25E4%25B8%25AA%25E7%2594%259F%25E7%2589%25A9%25E6%25B4%25BB%25E6%2580%25A7%25E8%2582%25BD%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%25E5%25A4%25A7%25E8%25AF%25AD%25E8%25A8%2580%25E6%25A8%25A1%25E5%259E%258Bpepnova-ai%25E5%258F%2591%25E5%25B8%2583%2far-AA2gCCJz&c=11996025420156164714&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae993c7506543efad7010e54ced7c78&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%2585%25A8%25E7%2590%2583%25E9%25A6%2596%25E4%25B8%25AA%25E7%2594%259F%25E7%2589%25A9%25E6%25B4%25BB%25E6%2580%25A7%25E8%2582%25BD%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%25E5%25A4%25A7%25E8%25AF%25AD%25E8%25A8%2580%25E6%25A8%25A1%25E5%259E%258Bpepnova-ai%25E5%258F%2591%25E5%25B8%2583%2far-AA2gCCJz&c=11996025420156164714&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-02 21:44",
     "summary": "",
@@ -228,6 +217,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "Xiaomi-Robotics-1 具身基座模型在小米青年公寓启动“试运营”，可自主规划并完成桌面整理、垃圾清扫等任务",
+    "url": "https://www.ithome.com/1/021/602.htm",
+    "source": "IT之家",
+    "time": "11-03 15:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "特斯拉 Robotaxi 又下一城：沃斯堡突袭上线",
@@ -274,20 +274,31 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "游戏/电竞/平台公司": [
    {
-    "beat": "电商/直播/即时零售",
-    "title": "消息称 Meta 拟通过跨境投资级债券发行筹集至少 200 亿美元",
-    "url": "https://www.ithome.com/1/021/481.htm",
+    "beat": "游戏/电竞/平台公司",
+    "title": "开发者成功在第三方掌机上原生运行任天堂 Switch 游戏机专有系统 Horizon OS",
+    "url": "https://www.ithome.com/1/021/600.htm",
     "source": "IT之家",
-    "time": "11-03 11:33",
+    "time": "11-03 15:20",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "游戏/电竞/平台公司": [
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "17 年卖出超 1 亿份，《无主之地》系列游戏迈入新里程碑",
+    "url": "https://www.ithome.com/1/021/593.htm",
+    "source": "IT之家",
+    "time": "11-03 15:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "平均每天上新 7 款：微软 XBOX 十月发行 208 款游戏创年内新高，约 45% 支持 XPA",
@@ -333,27 +344,15 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": [
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "小米 REDMI Book 2027 今日开售：6799 元起，国补价 5779.15 元起",
-    "url": "https://www.ithome.com/1/021/448.htm",
-    "source": "IT之家",
-    "time": "11-03 11:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ]
+  "消费/以旧换新/新餐饮": []
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(16)",
-   "HackerNews(4)",
-   "Bing新闻(17)"
+   "HackerNews(3)",
+   "Bing新闻(12)"
   ],
   "fail": [
    "36氪(no entries)"
