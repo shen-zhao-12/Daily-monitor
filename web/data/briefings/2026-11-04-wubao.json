@@ -2,10 +2,76 @@
  "id": "2026-11-04-wubao",
  "title": "线口监测午报 · 2026年11月04日(周三)",
  "shift": "午报",
- "date": "2026-11-04 14:31",
+ "date": "2026-11-04 15:30",
  "docx": "../briefings/线口监测午报-2026-11-04.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "周活全球第一：OpenAI 称印度反超美国，成 ChatGPT 最大消费者市场",
+    "url": "https://www.ithome.com/1/022/166.htm",
+    "source": "IT之家",
+    "time": "11-04 15:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "世嘉通报公司服务器遭黑客非法访问：日服街机游戏认证服务 Aime、SEGA ID 注册功能受影响",
+    "url": "https://www.ithome.com/1/022/164.htm",
+    "source": "IT之家",
+    "time": "11-04 15:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 时代下 Steam 游戏提交量显著增加，Valve 近期审核最长需 12 个工作日",
+    "url": "https://www.ithome.com/1/022/163.htm",
+    "source": "IT之家",
+    "time": "11-04 14:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "借助 AI 铺路：开发者成功在微软 Win10 Mobile 15063 及更高版本运行 Android 应用，无需子系统",
+    "url": "https://www.ithome.com/1/022/161.htm",
+    "source": "IT之家",
+    "time": "11-04 14:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同起草发布《智能体发展自律公约》，抵制利用智能体实施算法压榨、黑灰产等行为",
+    "url": "https://www.ithome.com/1/022/142.htm",
+    "source": "IT之家",
+    "time": "11-04 14:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果警告：AI 智能体行为或难以预测，恐引发诉讼、损害公司声誉",
+    "url": "https://www.ithome.com/1/022/137.htm",
+    "source": "IT之家",
+    "time": "11-04 14:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "CrowdStrike 造出“终止开关”，宣称能立即阻止失控 AI 智能体",
@@ -52,6 +118,17 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "讯飞AI眼镜OTA3升级：翻译、AI视界、生活服务全面进化，“唇动识别降噪”后续更新引期待",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeadf3aa8d0400da86ed2097609e07c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1096563087_122993980&c=17330615789130912822&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-04 07:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "url": "https://arxiv.org/abs/2605.29713",
     "source": "Hacker News",
@@ -75,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "腾讯混元发布Hy4大模型",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15ba9f24dd2a81a97501693e1fc&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%2585%25BE%25E8%25AE%25AF%25E6%25B7%25B7%25E5%2585%2583%25E5%258F%2591%25E5%25B8%2583hy4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2gIHqY&c=12057842404926530060&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeadf3809a94a56a049810142fd7202&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%2585%25BE%25E8%25AE%25AF%25E6%25B7%25B7%25E5%2585%2583%25E5%258F%2591%25E5%25B8%2583hy4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2gIHqY&c=397669230848438577&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-04 04:59",
     "summary": "",
@@ -107,10 +184,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Oculosense推出Drishti Vision Live AI眼镜：单次连续实时AI达30分钟，开放SDK",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15d67574473b0d2aa3ec9ca3490&url=https%3a%2f%2fwww.sohu.com%2fa%2f1096777167_447547&c=12992350251221242677&mkt=en-us",
+    "title": "国产大模型再上新：混元Hy4正式发布，腾讯称首次进入最强开源模型梯队",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeadf3809a94a56a049810142fd7202&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34403267&c=758030982833694201&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-04 00:56",
+    "time": "11-04 00:27",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -118,43 +195,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "三晋文化大模型“晋问AI”发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15ba9f24dd2a81a97501693e1fc&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25B8%2589%25E6%2599%258B%25E6%2596%2587%25E5%258C%2596%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-%25E6%2599%258B%25E9%2597%25AEai-%25E5%258F%2591%25E5%25B8%2583%2far-AA2gH0Q4&c=16574641195838184842&mkt=en-us",
+    "title": "AI眼镜厂商主动“做减法” 用户体验成为关键",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeadf3aa8d0400da86ed2097609e07c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-04%2fdoc-inixprpa6182732.shtml&c=4786251981623965041&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-03 23:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15ba9f24dd2a81a97501693e1fc&url=https%3a%2f%2fwww.chinanews.com%2fcul%2f2026%2f11-03%2f10725516.shtml&c=5908912202106320132&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-03 19:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "讯飞AI眼镜OTA3升级：翻译、AI视界、生活服务全面进化，“唇动识别降噪”后续更新引期待",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15d67574473b0d2aa3ec9ca3490&url=https%3a%2f%2fwww.sohu.com%2fa%2f1096563087_122993980&c=17330615789130912822&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-03 17:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15ba9f24dd2a81a97501693e1fc&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261103A08IN600&c=8929858312570270436&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-03 14:25",
+    "time": "11-03 18:57",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -163,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "全彩AI眼镜提速 康耐特光学卡位核心供应链",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15d67574473b0d2aa3ec9ca3490&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-03%2fdoc-inixmnqf8810167.shtml&c=7949061266138935432&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeadf3aa8d0400da86ed2097609e07c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-03%2fdoc-inixmnqf8810167.shtml&c=7949061266138935432&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-03 11:04",
     "summary": "",
@@ -173,8 +217,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "美团发布新一代大模型LongCat-2.5：国模国芯 多指标登顶第一",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeadf3809a94a56a049810142fd7202&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-03%2fdoc-inixkzyh6814098.shtml&c=13988074536402093480&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-03 07:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "30+AI眼镜品牌集结!华强北未来视听实验室开业迎客",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15d67574473b0d2aa3ec9ca3490&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f30-ai%25E7%259C%25BC%25E9%2595%259C%25E5%2593%2581%25E7%2589%258C%25E9%259B%2586%25E7%25BB%2593-%25E5%258D%258E%25E5%25BC%25BA%25E5%258C%2597%25E6%259C%25AA%25E6%259D%25A5%25E8%25A7%2586%25E5%2590%25AC%25E5%25AE%259E%25E9%25AA%258C%25E5%25AE%25A4%25E5%25BC%2580%25E4%25B8%259A%25E8%25BF%258E%25E5%25AE%25A2%2far-AA2gDBIr&c=10971412340739983380&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeadf3aa8d0400da86ed2097609e07c&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f30-ai%25E7%259C%25BC%25E9%2595%259C%25E5%2593%2581%25E7%2589%258C%25E9%259B%2586%25E7%25BB%2593-%25E5%258D%258E%25E5%25BC%25BA%25E5%258C%2597%25E6%259C%25AA%25E6%259D%25A5%25E8%25A7%2586%25E5%2590%25AC%25E5%25AE%259E%25E9%25AA%258C%25E5%25AE%25A4%25E5%25BC%2580%25E4%25B8%259A%25E8%25BF%258E%25E5%25AE%25A2%2far-AA2gDBIr&c=10971412340739983380&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-03 06:44",
     "summary": "",
@@ -199,28 +254,6 @@
     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
     "source": "Hacker News",
     "time": "11-02 22:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜最大赢家是售价50元的华强北：太贵的卖不动",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15d67574473b0d2aa3ec9ca3490&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-02%2fdoc-inixiynt0420807.shtml&c=1451120767929906350&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-02 19:37",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜最大赢家是售价50的华强北 平替产品销量领先",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15d67574473b0d2aa3ec9ca3490&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261102%2f49834544_all.html&c=18099802631813965107&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-02 17:04",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -267,6 +300,17 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "Steam 喜加一：策略棋盘游戏《Last Gambit》转付费前免费领",
+    "url": "https://www.ithome.com/1/022/130.htm",
+    "source": "IT之家",
+    "time": "11-04 14:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "腾讯混元 Hy4 正式版发布，号称首次跻身最强开源模型之列、为真实生产力而生",
     "url": "https://www.ithome.com/1/022/035.htm",
     "source": "IT之家",
@@ -278,30 +322,8 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "国内首款：网易《燕云十六声》官宣 11 月 24 日实装英伟达 DLSS 5",
-    "url": "https://www.ithome.com/1/021/935.htm",
-    "source": "IT之家",
-    "time": "11-04 09:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯混元Hy4正式发布!首次跻身最强开源模型行列",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15ba9f24dd2a81a97501693e1fc&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%2585%25BE%25E8%25AE%25AF%25E6%25B7%25B7%25E5%2585%2583hy4%25E6%25AD%25A3%25E5%25BC%258F%25E5%258F%2591%25E5%25B8%2583-%25E9%25A6%2596%25E6%25AC%25A1%25E8%25B7%25BB%25E8%25BA%25AB%25E6%259C%2580%25E5%25BC%25BA%25E5%25BC%2580%25E6%25BA%2590%25E6%25A8%25A1%25E5%259E%258B%25E8%25A1%258C%25E5%2588%2597%2far-AA2gIHMH&c=3248673726638235215&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-04 05:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "腾讯混元发布最新一代大语言模型 Hy4",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aead15ba9f24dd2a81a97501693e1fc&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fshenji%2f2026-11-04%2fdoc-inixpvuw9459767.shtml&c=3237642555147629845&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeadf3809a94a56a049810142fd7202&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fshenji%2f2026-11-04%2fdoc-inixpvuw9459767.shtml&c=3237642555147629845&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-03 23:00",
     "summary": "",
@@ -328,8 +350,8 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "HackerNews(8)",
-   "Bing新闻(12)"
+   "HackerNews(9)",
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)",
