@@ -1,0 +1,363 @@
+{
+ "id": "2026-11-06-zaobao",
+ "title": "线口监测早报 · 2026年11月06日(周五)",
+ "shift": "早报",
+ "date": "2026-11-06 00:24",
+ "docx": "../briefings/线口监测早报-2026-11-06.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek Harness：日活跃用户达 154 万、日消耗 Token 约 92 万亿，将建设官方插件市场",
+    "url": "https://www.ithome.com/1/023/011.htm",
+    "source": "IT之家",
+    "time": "11-05 22:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "云存储服务提供商 Dropbox 计划收购 Tigris Data，拓展企业开发者 AI 存储服务",
+    "url": "https://www.ithome.com/1/023/004.htm",
+    "source": "IT之家",
+    "time": "11-05 22:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "MCP Explained",
+    "url": "https://mcp-explained.com/",
+    "source": "Hacker News",
+    "time": "11-05 22:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 iOS 27.3 代码暗示，HomeView 有望支持 ChatGPT、Claude 等第三方 AI 应用",
+    "url": "https://www.ithome.com/1/022/984.htm",
+    "source": "IT之家",
+    "time": "11-05 21:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OPPO 面向 6G 时代重要技术布局，全球首个端网智能体意图通信白皮书发布",
+    "url": "https://www.ithome.com/1/022/983.htm",
+    "source": "IT之家",
+    "time": "11-05 21:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "嫌不够大气？消息称 Meta 不再使用水果命名 AI 模型",
+    "url": "https://www.ithome.com/1/022/963.htm",
+    "source": "IT之家",
+    "time": "11-05 19:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "反对声浪下 OpenAI 重申将承担数据中心供电成本，承诺征求社区意见、公开建设规划",
+    "url": "https://www.ithome.com/1/022/958.htm",
+    "source": "IT之家",
+    "time": "11-05 19:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Baidu released ERNIE 5.5 Flash Base",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "source": "Hacker News",
+    "time": "11-05 17:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "京东3C数码11.11走进酷派AI眼镜研发生产基地 探访智能眼镜背后的创新技术",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecadad8fca4c7da2684df1e6fbc2b4&url=https%3a%2f%2fwww.sohu.com%2fa%2f1097593985_632083&c=8501785218828931604&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-05 16:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecadac6fe442b3ab01607a1b473266&url=https%3a%2f%2fwww.chinaz.com%2fainews%2f32114.shtml&c=15062518582608721764&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-05 13:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "科研大模型 LabOpen v1 开源发布 以可验证能力服务科研创新",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecadac6fe442b3ab01607a1b473266&url=https%3a%2f%2fwww.sohu.com%2fa%2f1097510875_117302&c=15425248239368544298&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-05 13:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Sand.ai年内已融资3亿美元、跻身「独角兽」：更大参数MoE架构视频生成基础模型发布在即",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecadac6fe442b3ab01607a1b473266&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261105A05BXT00&c=2150640845598988684&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-05 10:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游族要花42.25亿巨款买GPU、相当于3年收入：哪个AI大佬在作妖？",
+    "url": "http://www.gamelook.com.cn/2026/11/605631/",
+    "source": "GameLook",
+    "time": "11-05 09:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "等径八齿嵌合设计边刷：科沃斯擦窗机器人 W2S PLUS 基站款 1553 元国补新低",
+    "url": "https://www.ithome.com/1/022/987.htm",
+    "source": "IT之家",
+    "time": "11-05 21:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资",
+    "url": "https://www.ithome.com/1/022/978.htm",
+    "source": "IT之家",
+    "time": "11-05 20:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "大疆发布 Matrice 5T 无人机：标配激光雷达、毫米波雷达、全彩全向视觉感知系统，57488 元",
+    "url": "https://www.ithome.com/1/022/976.htm",
+    "source": "IT之家",
+    "time": "11-05 20:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "为加强高阶智驾技术研发能力，上汽集团拟与延电科技、Momenta 设立合资公司",
+    "url": "https://www.ithome.com/1/022/964.htm",
+    "source": "IT之家",
+    "time": "11-05 19:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "华为擎云 HM650 / HM650g 面向政企客户，确认不在电商及线下体验门店出售",
+    "url": "https://www.ithome.com/1/023/001.htm",
+    "source": "IT之家",
+    "time": "11-05 22:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 喜加一：《浮游世界》游戏免费领取",
+    "url": "https://www.ithome.com/1/023/023.htm",
+    "source": "IT之家",
+    "time": "11-06 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英伟达庆祝首款支持 CUDA 显卡 GeForce 8800 GTX 诞生 20 周年，同步推出纪念游戏带 PC 玩家重返 2006 年",
+    "url": "https://www.ithome.com/1/023/017.htm",
+    "source": "IT之家",
+    "time": "11-05 23:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "首发 399 元：达音科推出 DTC500X 电竞声卡，双 CS43198 旗舰 DAC",
+    "url": "https://www.ithome.com/1/023/012.htm",
+    "source": "IT之家",
+    "time": "11-05 22:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易 UU 远程宣布适配鸿蒙 HarmonyOS 系统，移动端 Beta 版内测预约开启",
+    "url": "https://www.ithome.com/1/023/003.htm",
+    "source": "IT之家",
+    "time": "11-05 22:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "任天堂社长古川俊太郎称 Switch 2 游戏机暂无进一步涨价计划",
+    "url": "https://www.ithome.com/1/022/985.htm",
+    "source": "IT之家",
+    "time": "11-05 21:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "任天堂 Switch 2 出货量同比下降 41%，但游戏软件销量同比增长 26%",
+    "url": "https://www.ithome.com/1/022/960.htm",
+    "source": "IT之家",
+    "time": "11-05 19:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游“账面潜能”恐怖如斯！原神自称“同时开发十几个版本”，惊呆同行",
+    "url": "http://www.gamelook.com.cn/2026/11/605556/",
+    "source": "GameLook",
+    "time": "11-05 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "中国厂商弃赛，韩国MMO游戏狂拿版号、真要“大举反扑”？",
+    "url": "http://www.gamelook.com.cn/2026/11/605572/",
+    "source": "GameLook",
+    "time": "11-05 09:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "10月微信小游戏畅销榜Top 100：换血近三成、《三冰》登顶《地宫大爆破》第11",
+    "url": "http://www.gamelook.com.cn/2026/11/605538/",
+    "source": "GameLook",
+    "time": "11-05 09:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）",
+    "url": "https://www.ithome.com/1/023/021.htm",
+    "source": "IT之家",
+    "time": "11-06 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "河南：加力促进汽车消费，开展新能源汽车下乡活动",
+    "url": "https://www.ithome.com/1/022/968.htm",
+    "source": "IT之家",
+    "time": "11-05 19:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "安耐美：市面 AQUAFUSION II 240/360 液冷存在非正规货源，消费者购买时需核对序列号",
+    "url": "https://www.ithome.com/1/022/945.htm",
+    "source": "IT之家",
+    "time": "11-05 18:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(7)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
