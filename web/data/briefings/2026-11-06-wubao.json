@@ -2,10 +2,43 @@
  "id": "2026-11-06-wubao",
  "title": "线口监测午报 · 2026年11月06日(周五)",
  "shift": "午报",
- "date": "2026-11-06 14:53",
+ "date": "2026-11-06 15:56",
  "docx": "../briefings/线口监测午报-2026-11-06.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软回应称 Win11 安全未恶化，只是 AI 找出了更多漏洞",
+    "url": "https://www.ithome.com/1/023/374.htm",
+    "source": "IT之家",
+    "time": "11-06 15:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Perplexity 推出 Teammate 功能：可执行持续性复杂工作的智能体",
+    "url": "https://www.ithome.com/1/023/335.htm",
+    "source": "IT之家",
+    "time": "11-06 14:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小岛秀夫：AI 能提升游戏开发效率，但可能剥夺创作中最有价值的试错过程",
+    "url": "https://www.ithome.com/1/023/333.htm",
+    "source": "IT之家",
+    "time": "11-06 14:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "西门子医疗与阿里达摩院签约：加速普及 AI“一扫多筛”，一次 CT 扫描早期发现癌症等重大疾病",
@@ -118,39 +151,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "微星推出冒险家 15 AI+ 2026 全能本：X7 358H + 15.6\" 16:9 屏幕",
-    "url": "https://www.ithome.com/1/023/200.htm",
-    "source": "IT之家",
-    "time": "11-06 11:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "中国移动明年计划算力投资超 1000 亿元，未来两年智算能力连续翻番",
-    "url": "https://www.ithome.com/1/023/197.htm",
-    "source": "IT之家",
-    "time": "11-06 11:17",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "曹操出行成为中国移动首个打车生态合作伙伴，12580 一句话 AI 叫车",
-    "url": "https://www.ithome.com/1/023/172.htm",
-    "source": "IT之家",
-    "time": "11-06 11:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
     "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
     "source": "Hacker News",
@@ -185,7 +185,18 @@
    {
     "beat": "AI/大模型",
     "title": "百灵大模型 Ling 3.2 Flash 发布：蚂蚁自测超越 Claude Opus 5，前两周限时免费",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed7981c60d43ef86d92b461c5bae0b&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E7%2599%25BE%25E7%2581%25B5%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-ling-3-2-flash-%25E5%258F%2591%25E5%25B8%2583-%25E8%259A%2582%25E8%259A%2581%25E8%2587%25AA%25E6%25B5%258B%25E8%25B6%2585%25E8%25B6%258A-claude-opus-5-%25E5%2589%258D%25E4%25B8%25A4%25E5%2591%25A8%25E9%2599%2590%25E6%2597%25B6%25E5%2585%258D%25E8%25B4%25B9%2far-AA2gQoX7&c=11900597926792503042&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed884e4c7d455db835a8ab77dcd0da&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E7%2599%25BE%25E7%2581%25B5%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-ling-3-2-flash-%25E5%258F%2591%25E5%25B8%2583-%25E8%259A%2582%25E8%259A%2581%25E8%2587%25AA%25E6%25B5%258B%25E8%25B6%2585%25E8%25B6%258A-claude-opus-5-%25E5%2589%258D%25E4%25B8%25A4%25E5%2591%25A8%25E9%2599%2590%25E6%2597%25B6%25E5%2585%258D%25E8%25B4%25B9%2far-AA2gQoX7&c=11900597926792503042&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-06 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中国机会｜高通孟樸：从6G到AI终端，中国创新正在成为全球产业发展的重要力量",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed884f68904c429d0069fe8f512353&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611063924774811.html&c=17851845687165637717&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-06 00:00",
     "summary": "",
@@ -207,64 +218,9 @@
    {
     "beat": "AI/大模型",
     "title": "从生态亮相到热销榜前十，李未可X AI记忆眼镜跑通“记忆”路径",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed798265944eb38f98a32172999ee3&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-06%2fdoc-inixuiyw5071139.shtml&c=5778972849979437191&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed884f68904c429d0069fe8f512353&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-06%2fdoc-inixuiyw5071139.shtml&c=5778972849979437191&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-05 21:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "全彩竞逐开启“下半场” AI眼镜亟须闯过三道关",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed798265944eb38f98a32172999ee3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1097661592_482239&c=6104026112220430106&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-05 18:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜、机器狗、水下探测器……进博保障科技感十足！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed798265944eb38f98a32172999ee3&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34413819&c=14584867149873749373&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-05 18:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Baidu released ERNIE 5.5 Flash Base",
-    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-    "source": "Hacker News",
-    "time": "11-05 17:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "大朋AI太阳镜，先在海外火了一把",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed798265944eb38f98a32172999ee3&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%25A4%25A7%25E6%259C%258Bai%25E5%25A4%25AA%25E9%2598%25B3%25E9%2595%259C-%25E5%2585%2588%25E5%259C%25A8%25E6%25B5%25B7%25E5%25A4%2596%25E7%2581%25AB%25E4%25BA%2586%25E4%25B8%2580%25E6%258A%258A%2far-AA2gMDQq&c=12541673993565167537&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-05 04:03",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-    "url": "https://www.linum.ai/field-notes/pjit-21k",
-    "source": "Hacker News",
-    "time": "11-05 00:45",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -284,14 +240,26 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "国防部回应“攻击-21”隐身无人机首次在四川舰成功起降：中国军队新域新质作战力量建设取得的重要阶段性成果",
+    "url": "https://www.ithome.com/1/023/343.htm",
+    "source": "IT之家",
+    "time": "11-06 15:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [
    {
     "beat": "电商/直播/即时零售",
-    "title": "F1 CEO 放话：若有机会苹果将在更多市场竞标 F1 赛事直播权",
-    "url": "https://www.ithome.com/1/023/204.htm",
-    "source": "IT之家",
-    "time": "11-06 11:28",
+    "title": "《影之刃零》销售数据报告：国外卖的居然比中国好，太神奇！",
+    "url": "http://www.gamelook.com.cn/2026/11/605702/",
+    "source": "GameLook",
+    "time": "11-06 08:43",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -301,10 +269,10 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "Sensor Tower：上半年 PC 与主机买断制游戏收入约 138 亿美元同比增长 5%，动作类仍居首位且增速最快",
-    "url": "https://www.ithome.com/1/023/209.htm",
+    "title": "任天堂高管称新作与重制版同等重要，经典游戏有望继续重制",
+    "url": "https://www.ithome.com/1/023/390.htm",
     "source": "IT之家",
-    "time": "11-06 11:38",
+    "time": "11-06 15:54",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -312,10 +280,65 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "大语言模型竞争愈加激烈 腾讯混元发布Hy4",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed7981c60d43ef86d92b461c5bae0b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261105A03UF800&c=17547961195698052637&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-05 09:11",
+    "title": "网易 UU 远程 Linux 端内测预约开启，Ubuntu 18.04 及以上版本可参与",
+    "url": "https://www.ithome.com/1/023/345.htm",
+    "source": "IT之家",
+    "time": "11-06 15:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《影之刃零》之后，中国游戏要成为全球3A游戏的“XYZ”！",
+    "url": "http://www.gamelook.com.cn/2026/11/605642/",
+    "source": "GameLook",
+    "time": "11-06 10:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“离开大厂就不会讲故事了”？网易押注的大佬，首作Steam在线不足400人",
+    "url": "http://www.gamelook.com.cn/2026/11/605685/",
+    "source": "GameLook",
+    "time": "11-06 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“抽卡终于不歪”！米哈游《崩坏：因缘精灵》明年春天就要上",
+    "url": "http://www.gamelook.com.cn/2026/11/605644/",
+    "source": "GameLook",
+    "time": "11-06 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯投资公司Remedy营收飙升226%、利润仅60万欧：中国救了《控制:共振》",
+    "url": "http://www.gamelook.com.cn/2026/11/605709/",
+    "source": "GameLook",
+    "time": "11-06 08:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "最新数据：2026年游戏业裁员破万！海外大厂集体陷入低迷",
+    "url": "http://www.gamelook.com.cn/2026/11/605722/",
+    "source": "GameLook",
+    "time": "11-06 07:51",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -328,12 +351,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "HackerNews(9)",
-   "Bing新闻(6)"
+   "GameLook(15)",
+   "HackerNews(8)",
+   "Bing新闻(7)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "GameLook(HTTP 502)"
+   "36氪(no entries)"
   ]
  }
 }
