@@ -1,0 +1,362 @@
+{
+ "id": "2026-11-07-wubao",
+ "title": "线口监测午报 · 2026年11月07日(周六)",
+ "shift": "午报",
+ "date": "2026-11-07 14:04",
+ "docx": "../briefings/线口监测午报-2026-11-07.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 窃听案进入抗辩阶段：被告拒不认罪，若定罪最高监禁五年",
+    "url": "https://www.ithome.com/1/023/674.htm",
+    "source": "IT之家",
+    "time": "11-07 13:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "机械革命推出无界 15X 暴风雪电竞版：锐龙 AI 9 365、16GB + 1TB，首发 6499 元",
+    "url": "https://www.ithome.com/1/023/668.htm",
+    "source": "IT之家",
+    "time": "11-07 12:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "男子利用 AI 眼镜、智能戒指驾考作弊被成都交管查获：罚款 1900 元 + 禁考一年",
+    "url": "https://www.ithome.com/1/023/665.htm",
+    "source": "IT之家",
+    "time": "11-07 11:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "肉眼不可见：苹果 iOS 27.2 新增隐形水印，图像工具 AI 生图 / 修图均有迹可查",
+    "url": "https://www.ithome.com/1/023/663.htm",
+    "source": "IT之家",
+    "time": "11-07 11:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 热潮撞上资源争议，微软荷兰在建数据中心遭抗议",
+    "url": "https://www.ithome.com/1/023/650.htm",
+    "source": "IT之家",
+    "time": "11-07 10:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "刷新算力巅峰：IBM 在美国芝加哥揭幕其最强量子计算机",
+    "url": "https://www.ithome.com/1/023/635.htm",
+    "source": "IT之家",
+    "time": "11-07 09:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
+    "url": "https://www.ithome.com/1/023/614.htm",
+    "source": "IT之家",
+    "time": "11-07 07:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "source": "Hacker News",
+    "time": "11-07 04:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Restaurant Delivery Payment-Skimming Campaign",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "source": "Hacker News",
+    "time": "11-07 03:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜有望重塑全球可穿戴市场 舒适度、隐私等难题仍待破解",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf7cf4d44da9ad61145832054069&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098253315_447547&c=11407750386832565818&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-07 01:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "极刻觅镜 | AI眼镜日报｜RayNeo GT 评测披露规格与局限、深圳论坛披露 Rokid 与雷鸟新品",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf7cf4d44da9ad61145832054069&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098057720_123023378&c=6152430795584187751&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-06 15:21",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "source": "Hacker News",
+    "time": "11-06 12:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "5G-A+AI眼镜落地台州古城：文旅数字化入口，为何由运营商与设备商共同打开",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf7cf4d44da9ad61145832054069&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f5g-a-ai%25E7%259C%25BC%25E9%2595%259C%25E8%2590%25BD%25E5%259C%25B0%25E5%258F%25B0%25E5%25B7%259E%25E5%258F%25A4%25E5%259F%258E-%25E6%2596%2587%25E6%2597%2585%25E6%2595%25B0%25E5%25AD%2597%25E5%258C%2596%25E5%2585%25A5%25E5%258F%25A3-%25E4%25B8%25BA%25E4%25BD%2595%25E7%2594%25B1%25E8%25BF%2590%25E8%2590%25A5%25E5%2595%2586%25E4%25B8%258E%25E8%25AE%25BE%25E5%25A4%2587%25E5%2595%2586%25E5%2585%25B1%25E5%2590%258C%25E6%2589%2593%25E5%25BC%2580%2far-AA2gT73w&c=16903265313031751390&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-06 10:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "马斯克：特斯拉 Optimus 机器人考虑只租不卖，生产力是人类的 5 倍、初期造价约 3 万美元",
+    "url": "https://www.ithome.com/1/023/675.htm",
+    "source": "IT之家",
+    "time": "11-07 13:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "宇树科技联合巨星传奇发布首款消费级收藏机器狗 UNI-DOGGIE，首发价 43900 元",
+    "url": "https://www.ithome.com/1/023/636.htm",
+    "source": "IT之家",
+    "time": "11-07 09:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "工信部就机器人“身份证”暂行办法征求意见，全品类机器人“一机一码”",
+    "url": "https://www.ithome.com/1/023/625.htm",
+    "source": "IT之家",
+    "time": "11-07 08:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "国内首个科技法学院在雄安新区成立，聚焦人工智能、自动驾驶等",
+    "url": "https://www.ithome.com/1/023/680.htm",
+    "source": "IT之家",
+    "time": "11-07 14:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "最高爬升 1.45 万米高空：ApusNeo 太阳能无人机已翱翔 80 小时，正冲刺 100 小时续航",
+    "url": "https://www.ithome.com/1/023/653.htm",
+    "source": "IT之家",
+    "time": "11-07 10:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "美国“空中外卖”竞争白热化：谷歌系 Wing 投资 1.25 亿美元建无人机厂，瞄准 270 家沃尔玛门店",
+    "url": "https://www.ithome.com/1/023/629.htm",
+    "source": "IT之家",
+    "time": "11-07 08:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "《影之刃零》销售数据报告：国外卖的居然比中国好，太神奇！",
+    "url": "http://www.gamelook.com.cn/2026/11/605702/",
+    "source": "GameLook",
+    "time": "11-06 08:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》游戏预载倒计时，消息称 XBOX 版下载量比 PS5 版多约 15GB",
+    "url": "https://www.ithome.com/1/023/678.htm",
+    "source": "IT之家",
+    "time": "11-07 13:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "机械革命蛟龙 16 Pro 新增 RTX 5070 + 300Hz 电竞屏配置：R9 8945HX 处理器、16GB 内存 +1TB 固态，12999 元",
+    "url": "https://www.ithome.com/1/023/664.htm",
+    "source": "IT之家",
+    "time": "11-07 11:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《瑞奇与叮当》IP 移动端游戏《游侠乱斗》宣布停止开发",
+    "url": "https://www.ithome.com/1/023/661.htm",
+    "source": "IT之家",
+    "time": "11-07 11:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯旗下搜狗问问今日正式停运，曾拥有过亿用户",
+    "url": "https://www.ithome.com/1/023/654.htm",
+    "source": "IT之家",
+    "time": "11-07 10:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《PC与主机买断制游戏深度洞察》：买断制游戏收入同比增长5%",
+    "url": "http://www.gamelook.com.cn/2026/11/605760/",
+    "source": "GameLook",
+    "time": "11-06 17:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《影之刃零》之后，中国游戏要成为全球3A游戏的“XYZ”！",
+    "url": "http://www.gamelook.com.cn/2026/11/605642/",
+    "source": "GameLook",
+    "time": "11-06 10:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“离开大厂就不会讲故事了”？网易押注的大佬，首作Steam在线不足400人",
+    "url": "http://www.gamelook.com.cn/2026/11/605685/",
+    "source": "GameLook",
+    "time": "11-06 10:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“抽卡终于不歪”！米哈游《崩坏：因缘精灵》明年春天就要上",
+    "url": "http://www.gamelook.com.cn/2026/11/605644/",
+    "source": "GameLook",
+    "time": "11-06 09:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯投资公司Remedy营收飙升226%、利润仅60万欧：中国救了《控制:共振》",
+    "url": "http://www.gamelook.com.cn/2026/11/605709/",
+    "source": "GameLook",
+    "time": "11-06 08:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "最新数据：2026年游戏业裁员破万！海外大厂集体陷入低迷",
+    "url": "http://www.gamelook.com.cn/2026/11/605722/",
+    "source": "GameLook",
+    "time": "11-06 07:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(59)",
+   "GameLook(9)",
+   "HackerNews(5)",
+   "Bing新闻(5)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
