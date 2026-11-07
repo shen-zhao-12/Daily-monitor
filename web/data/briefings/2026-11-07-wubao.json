@@ -2,10 +2,32 @@
  "id": "2026-11-07-wubao",
  "title": "线口监测午报 · 2026年11月07日(周六)",
  "shift": "午报",
- "date": "2026-11-07 14:04",
+ "date": "2026-11-07 15:13",
  "docx": "../briefings/线口监测午报-2026-11-07.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "员工用 AI 辅助办公被开除，法院判决公司赔偿 4.6 万",
+    "url": "https://www.ithome.com/1/023/695.htm",
+    "source": "IT之家",
+    "time": "11-07 15:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI CFO 弗莱尔：今年美国中期选举不会影响公司的 IPO 计划",
+    "url": "https://www.ithome.com/1/023/690.htm",
+    "source": "IT之家",
+    "time": "11-07 15:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "OpenAI 窃听案进入抗辩阶段：被告拒不认罪，若定罪最高监禁五年",
@@ -74,17 +96,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
-    "url": "https://www.ithome.com/1/023/614.htm",
-    "source": "IT之家",
-    "time": "11-07 07:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI is dramatically accelerating AI research",
     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
     "source": "Hacker News",
@@ -107,10 +118,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜有望重塑全球可穿戴市场 舒适度、隐私等难题仍待破解",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf7cf4d44da9ad61145832054069&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098253315_447547&c=11407750386832565818&mkt=en-us",
+    "title": "极刻觅镜 | AI眼镜日报｜Warby Parker智能眼镜开启预订，苹果公开隐私专利",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeecf9139e242019bf72e7230fa9da8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098348868_123023378&c=10821352723608887724&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-07 01:16",
+    "time": "11-06 19:48",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -119,7 +130,7 @@
    {
     "beat": "AI/大模型",
     "title": "极刻觅镜 | AI眼镜日报｜RayNeo GT 评测披露规格与局限、深圳论坛披露 Rokid 与雷鸟新品",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf7cf4d44da9ad61145832054069&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098057720_123023378&c=6152430795584187751&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeecf9139e242019bf72e7230fa9da8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098057720_123023378&c=6152430795584187751&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-06 15:21",
     "summary": "",
@@ -141,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "5G-A+AI眼镜落地台州古城：文旅数字化入口，为何由运营商与设备商共同打开",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf7cf4d44da9ad61145832054069&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f5g-a-ai%25E7%259C%25BC%25E9%2595%259C%25E8%2590%25BD%25E5%259C%25B0%25E5%258F%25B0%25E5%25B7%259E%25E5%258F%25A4%25E5%259F%258E-%25E6%2596%2587%25E6%2597%2585%25E6%2595%25B0%25E5%25AD%2597%25E5%258C%2596%25E5%2585%25A5%25E5%258F%25A3-%25E4%25B8%25BA%25E4%25BD%2595%25E7%2594%25B1%25E8%25BF%2590%25E8%2590%25A5%25E5%2595%2586%25E4%25B8%258E%25E8%25AE%25BE%25E5%25A4%2587%25E5%2595%2586%25E5%2585%25B1%25E5%2590%258C%25E6%2589%2593%25E5%25BC%2580%2far-AA2gT73w&c=16903265313031751390&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeecf9139e242019bf72e7230fa9da8&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f5g-a-ai%25E7%259C%25BC%25E9%2595%259C%25E8%2590%25BD%25E5%259C%25B0%25E5%258F%25B0%25E5%25B7%259E%25E5%258F%25A4%25E5%259F%258E-%25E6%2596%2587%25E6%2597%2585%25E6%2595%25B0%25E5%25AD%2597%25E5%258C%2596%25E5%2585%25A5%25E5%258F%25A3-%25E4%25B8%25BA%25E4%25BD%2595%25E7%2594%25B1%25E8%25BF%2590%25E8%2590%25A5%25E5%2595%2586%25E4%25B8%258E%25E8%25AE%25BE%25E5%25A4%2587%25E5%2595%2586%25E5%2585%25B1%25E5%2590%258C%25E6%2589%2593%25E5%25BC%2580%2far-AA2gT73w&c=3405839709029205858&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-06 10:36",
     "summary": "",
@@ -172,20 +183,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
    {
-    "beat": "机器人/AI硬件",
-    "title": "工信部就机器人“身份证”暂行办法征求意见，全品类机器人“一机一码”",
-    "url": "https://www.ithome.com/1/023/625.htm",
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "特斯拉量产 Cybercab 无人驾驶电动车亚洲首秀：金色无方向盘、无踏板",
+    "url": "https://www.ithome.com/1/023/681.htm",
     "source": "IT之家",
-    "time": "11-07 08:29",
+    "time": "11-07 14:17",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "无人驾驶/低空/智慧出行": [
+   },
    {
     "beat": "无人驾驶/低空/智慧出行",
     "title": "国内首个科技法学院在雄安新区成立，聚焦人工智能、自动驾驶等",
@@ -236,7 +247,7 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "《GTA 6》游戏预载倒计时，消息称 XBOX 版下载量比 PS5 版多约 15GB",
+    "title": "《GTA 6》游戏预载倒计时，消息称 XBOX 版下载体积比 PS5 版多约 15GB",
     "url": "https://www.ithome.com/1/023/678.htm",
     "source": "IT之家",
     "time": "11-07 13:51",
@@ -332,17 +343,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "最新数据：2026年游戏业裁员破万！海外大厂集体陷入低迷",
-    "url": "http://www.gamelook.com.cn/2026/11/605722/",
-    "source": "GameLook",
-    "time": "11-06 07:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": []
@@ -353,7 +353,7 @@
    "IT之家(59)",
    "GameLook(9)",
    "HackerNews(5)",
-   "Bing新闻(5)"
+   "Bing新闻(4)"
   ],
   "fail": [
    "36氪(no entries)"
