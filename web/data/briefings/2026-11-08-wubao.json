@@ -2,10 +2,164 @@
  "id": "2026-11-08-wubao",
  "title": "线口监测午报 · 2026年11月08日(周日)",
  "shift": "午报",
- "date": "2026-11-08 15:24",
+ "date": "2026-11-08 22:14",
  "docx": "../briefings/线口监测午报-2026-11-08.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "保时捷多款车型车机性能升级：新一代通讯管理系统算力达前代 5 倍",
+    "url": "https://www.ithome.com/1/024/004.htm",
+    "source": "IT之家",
+    "time": "11-08 21:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "上海交大构建 AI 原生科学实验室 AutoDNA 装置：实现自主分子生物学实验操作，成果登《自然》",
+    "url": "https://www.ithome.com/1/024/001.htm",
+    "source": "IT之家",
+    "time": "11-08 21:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "日本富士电视台将在所有真人剧集制作中使用 AI，可省七至八成特效制作工序",
+    "url": "https://www.ithome.com/1/023/992.htm",
+    "source": "IT之家",
+    "time": "11-08 20:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯姚顺雨谈“AI 模型公司护城河”：更多存在于产品层，而不是模型层",
+    "url": "https://www.ithome.com/1/023/991.htm",
+    "source": "IT之家",
+    "time": "11-08 20:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 公司迄今最大发电设备采购订单：曝 Anthropic 砸 34 亿美元买燃气发电机",
+    "url": "https://www.ithome.com/1/023/989.htm",
+    "source": "IT之家",
+    "time": "11-08 19:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "24G+1T 版 12499 元，华硕灵耀 16 Air 骁龙版笔记本上架",
+    "url": "https://www.ithome.com/1/023/982.htm",
+    "source": "IT之家",
+    "time": "11-08 18:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "得物 App 宣布接入苹果国行 Apple 智能，利用 iPhone 拍摄商品即可 AI 快速查信息",
+    "url": "https://www.ithome.com/1/023/971.htm",
+    "source": "IT之家",
+    "time": "11-08 18:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中国移动云公司与智谱签署合作协议，围绕国产算力、大模型服务和 AI 商业化合作",
+    "url": "https://www.ithome.com/1/023/937.htm",
+    "source": "IT之家",
+    "time": "11-08 17:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池",
+    "url": "https://www.ithome.com/1/023/932.htm",
+    "source": "IT之家",
+    "time": "11-08 17:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "续航增强版京东破 800：苹果 AirPods 5 无线充电盒版 1149 → 793.8 元国补新低",
+    "url": "https://www.ithome.com/1/023/928.htm",
+    "source": "IT之家",
+    "time": "11-08 17:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三名男子涉嫌利用 AI 冒充企业高管和律师行骗，涉案金额超 1 亿美元",
+    "url": "https://www.ithome.com/1/023/925.htm",
+    "source": "IT之家",
+    "time": "11-08 16:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "物理智能开源平台 Hitch Open 在进博会发布，142 拍刷新 AI 机器人乒乓对打世界纪录",
+    "url": "https://www.ithome.com/1/023/920.htm",
+    "source": "IT之家",
+    "time": "11-08 16:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国家能源局：在算力等新兴产业带动下，我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量",
+    "url": "https://www.ithome.com/1/023/911.htm",
+    "source": "IT之家",
+    "time": "11-08 15:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "前 Rockstar 技术总监：爱好者“AI 移植游戏潮”或迫使官方加速发布《GTA6》PC 版",
+    "url": "https://www.ithome.com/1/023/908.htm",
+    "source": "IT之家",
+    "time": "11-08 15:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "伯恩斯坦：OpenAI 至 2030 年算力基础设施支出或达 6140 亿美元，低于此前 7500 亿美元传闻",
@@ -30,54 +184,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "先锋推出“米家 AI 智能石墨烯电热油汀”：接入小米米家 App，2500W 功率，499 元",
-    "url": "https://www.ithome.com/1/023/893.htm",
-    "source": "IT之家",
-    "time": "11-08 14:37",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三",
-    "url": "https://www.ithome.com/1/023/885.htm",
-    "source": "IT之家",
-    "time": "11-08 13:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍，Dojo D3 将面向太空部署",
-    "url": "https://www.ithome.com/1/023/876.htm",
-    "source": "IT之家",
-    "time": "11-08 11:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
-    "url": "https://www.ithome.com/1/023/859.htm",
-    "source": "IT之家",
-    "time": "11-08 09:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
-    "url": "https://www.ithome.com/1/023/845.htm",
-    "source": "IT之家",
-    "time": "11-08 07:51",
+    "title": "Consumer brain wave headsets threaten privacy",
+    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "source": "Hacker News",
+    "time": "11-08 10:02",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -104,31 +214,31 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "年轻人的第一副AI眼镜 被京东杀到百元级",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af023bc7003476cb58256afd2fe9353&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%25B9%25B4%25E8%25BD%25BB%25E4%25BA%25BA%25E7%259A%2584%25E7%25AC%25AC%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB%25E4%25BA%25AC%25E4%25B8%259C%25E6%259D%2580%25E5%2588%25B0%25E7%2599%25BE%25E5%2585%2583%25E7%25BA%25A7%2far-AA2gYsTW&c=15947030555783348251&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-07 23:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "极刻觅镜 | AI眼镜日报｜Warby Parker智能眼镜开启预订，苹果公开隐私专利",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af023bc7003476cb58256afd2fe9353&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098348868_123023378&c=10821352723608887724&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-07 09:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "支持米家：80°C 热水洗地 + 20000Pa 大吸力，友望 U280 扫拖机器人 1069 元新低",
+    "url": "https://www.ithome.com/1/023/995.htm",
+    "source": "IT之家",
+    "time": "11-08 20:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "上纬新材刘东方：当前启元机器人的月活超过 98%，平均每位用户每天交互 100 多次",
+    "url": "https://www.ithome.com/1/023/917.htm",
+    "source": "IT之家",
+    "time": "11-08 16:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "消息称广汽人形机器人预计 2029 年形成万台产能",
@@ -139,40 +249,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "量产一个月，上纬新材旗下启元机器人第 10000 台下线",
-    "url": "https://www.ithome.com/1/023/891.htm",
-    "source": "IT之家",
-    "time": "11-08 14:28",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "启境 GX7 累计交付量突破 4000 台，搭载华为乾崑智驾 ADS 5 与鸿蒙座舱 6",
-    "url": "https://www.ithome.com/1/023/875.htm",
-    "source": "IT之家",
-    "time": "11-08 11:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "美式汉堡快餐品牌 Wendy's 推出复古风格 RPG 手游，玩游戏可兑换餐食",
-    "url": "https://www.ithome.com/1/023/898.htm",
+    "title": "Epic 喜加一：游戏《GMH - Good Morning Human》免费领",
+    "url": "https://www.ithome.com/1/023/990.htm",
     "source": "IT之家",
-    "time": "11-08 15:04",
+    "time": "11-08 19:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -180,10 +267,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "《死亡搁浅》系列游戏发售 7 年，全球累计玩家数突破 2800 万",
-    "url": "https://www.ithome.com/1/023/895.htm",
+    "title": "游戏《007：初露锋芒》免费入门版上线，可体验冰岛开篇章节",
+    "url": "https://www.ithome.com/1/023/984.htm",
     "source": "IT之家",
-    "time": "11-08 14:49",
+    "time": "11-08 18:45",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -191,10 +278,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "消息称《GTA 6》游戏将有 55 个奖杯 / 成就，超越《GTA5》《荒野大镖客：救赎 2》首发时期",
-    "url": "https://www.ithome.com/1/023/873.htm",
+    "title": "艾湃电竞推出 WS2600C 全塔服务器工作站机箱：最多可安装 15 块硬盘、兼容 420mm 水冷，1199 元",
+    "url": "https://www.ithome.com/1/023/954.htm",
     "source": "IT之家",
-    "time": "11-08 11:12",
+    "time": "11-08 18:03",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -202,10 +289,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "蛮啾《蓝色星原：旅谣》游戏本月 26 日开启公测，全球预约玩家已达 2500 万",
-    "url": "https://www.ithome.com/1/023/867.htm",
+    "title": "经典游戏《黑道圣徒 3》登陆苹果 iOS / 谷歌安卓平台，售 19.99 美元",
+    "url": "https://www.ithome.com/1/023/935.htm",
     "source": "IT之家",
-    "time": "11-08 10:23",
+    "time": "11-08 17:39",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -213,10 +300,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "美国 17 岁女孩失踪 521 天后获救，《Among Us》游戏对话成关键线索",
-    "url": "https://www.ithome.com/1/023/850.htm",
+    "title": "玩游戏狂按 Shift 却召唤出“粘滞键”弹窗？微软已着手改进",
+    "url": "https://www.ithome.com/1/023/930.htm",
     "source": "IT之家",
-    "time": "11-08 08:14",
+    "time": "11-08 17:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -224,47 +311,48 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "尽管遭到恶意刷差评，《塞尔达传说：时之笛》重制版游戏仍创下 M 站用户评分新高",
-    "url": "https://www.ithome.com/1/023/848.htm",
+    "title": "Epic 公布《堡垒之夜》游戏海盗代币掉落概率，此前曾有玩家试图向美国 FTC 举报",
+    "url": "https://www.ithome.com/1/023/909.htm",
     "source": "IT之家",
-    "time": "11-08 08:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "PS5 版《GTA 6》实体版包装盒曝光：仅含兑换码，无游戏光盘",
-    "url": "https://www.ithome.com/1/023/840.htm",
-    "source": "IT之家",
-    "time": "11-08 07:29",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《PC与主机买断制游戏深度洞察》：买断制游戏收入同比增长5%",
-    "url": "http://www.gamelook.com.cn/2026/11/605760/",
-    "source": "GameLook",
-    "time": "11-06 17:58",
+    "time": "11-08 15:30",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "洛图科技：2026 年第三季度中国家用路由器线上主流市场量额齐跌 15%，零售均价 239 元",
+    "url": "https://www.ithome.com/1/023/981.htm",
+    "source": "IT之家",
+    "time": "11-08 18:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "再破五千大关：苹果 Mac mini M6 国补后京东 4799 元再降价",
+    "url": "https://www.ithome.com/1/023/979.htm",
+    "source": "IT之家",
+    "time": "11-08 18:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
-   "GameLook(3)",
+   "GameLook(1)",
    "HackerNews(7)",
-   "Bing新闻(2)"
+   "Bing新闻(1)"
   ],
   "fail": [
    "36氪(no entries)"
