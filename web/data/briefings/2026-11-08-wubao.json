@@ -2,10 +2,43 @@
  "id": "2026-11-08-wubao",
  "title": "线口监测午报 · 2026年11月08日(周日)",
  "shift": "午报",
- "date": "2026-11-08 14:08",
+ "date": "2026-11-08 15:24",
  "docx": "../briefings/线口监测午报-2026-11-08.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "伯恩斯坦：OpenAI 至 2030 年算力基础设施支出或达 6140 亿美元，低于此前 7500 亿美元传闻",
+    "url": "https://www.ithome.com/1/023/905.htm",
+    "source": "IT之家",
+    "time": "11-08 15:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI GPT-6.1 Sol 参与活体小鼠脑手术：连续操作三次，定位误差减半",
+    "url": "https://www.ithome.com/1/023/900.htm",
+    "source": "IT之家",
+    "time": "11-08 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "先锋推出“米家 AI 智能石墨烯电热油汀”：接入小米米家 App，2500W 功率，499 元",
+    "url": "https://www.ithome.com/1/023/893.htm",
+    "source": "IT之家",
+    "time": "11-08 14:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三",
@@ -75,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "年轻人的第一副AI眼镜 被京东杀到百元级",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af011e56c0a43cd86c832cd71dc9677&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%25B9%25B4%25E8%25BD%25BB%25E4%25BA%25BA%25E7%259A%2584%25E7%25AC%25AC%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB%25E4%25BA%25AC%25E4%25B8%259C%25E6%259D%2580%25E5%2588%25B0%25E7%2599%25BE%25E5%2585%2583%25E7%25BA%25A7%2far-AA2gYsTW&c=15947030555783348251&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af023bc7003476cb58256afd2fe9353&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E5%2593%2581%2f%25E5%25B9%25B4%25E8%25BD%25BB%25E4%25BA%25BA%25E7%259A%2584%25E7%25AC%25AC%25E4%25B8%2580%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB%25E4%25BA%25AC%25E4%25B8%259C%25E6%259D%2580%25E5%2588%25B0%25E7%2599%25BE%25E5%2585%2583%25E7%25BA%25A7%2far-AA2gYsTW&c=15947030555783348251&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-07 23:55",
     "summary": "",
@@ -85,28 +118,40 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "5G-A+AI眼镜落地台州古城：文旅数字化入口，为何由运营商与设备商共同打开",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af011e56c0a43cd86c832cd71dc9677&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f5g-a-ai%25E7%259C%25BC%25E9%2595%259C%25E8%2590%25BD%25E5%259C%25B0%25E5%258F%25B0%25E5%25B7%259E%25E5%258F%25A4%25E5%259F%258E-%25E6%2596%2587%25E6%2597%2585%25E6%2595%25B0%25E5%25AD%2597%25E5%258C%2596%25E5%2585%25A5%25E5%258F%25A3-%25E4%25B8%25BA%25E4%25BD%2595%25E7%2594%25B1%25E8%25BF%2590%25E8%2590%25A5%25E5%2595%2586%25E4%25B8%258E%25E8%25AE%25BE%25E5%25A4%2587%25E5%2595%2586%25E5%2585%25B1%25E5%2590%258C%25E6%2589%2593%25E5%25BC%2580%2far-AA2gT73w&c=15757572706004930806&mkt=en-us",
+    "title": "极刻觅镜 | AI眼镜日报｜Warby Parker智能眼镜开启预订，苹果公开隐私专利",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af023bc7003476cb58256afd2fe9353&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098348868_123023378&c=10821352723608887724&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-06 18:37",
+    "time": "11-07 09:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "消息称广汽人形机器人预计 2029 年形成万台产能",
+    "url": "https://www.ithome.com/1/023/902.htm",
+    "source": "IT之家",
+    "time": "11-08 15:11",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    },
    {
-    "beat": "AI/大模型",
-    "title": "极刻觅镜 | AI眼镜日报｜RayNeo GT 评测披露规格与局限、深圳论坛披露 Rokid 与雷鸟新品",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af011e56c0a43cd86c832cd71dc9677&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098057720_123023378&c=6152430795584187751&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-06 15:21",
+    "beat": "机器人/AI硬件",
+    "title": "量产一个月，上纬新材旗下启元机器人第 10000 台下线",
+    "url": "https://www.ithome.com/1/023/891.htm",
+    "source": "IT之家",
+    "time": "11-08 14:28",
     "summary": "",
     "grade": "C",
-    "local": true,
+    "local": false,
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -122,6 +167,28 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "美式汉堡快餐品牌 Wendy's 推出复古风格 RPG 手游，玩游戏可兑换餐食",
+    "url": "https://www.ithome.com/1/023/898.htm",
+    "source": "IT之家",
+    "time": "11-08 15:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《死亡搁浅》系列游戏发售 7 年，全球累计玩家数突破 2800 万",
+    "url": "https://www.ithome.com/1/023/895.htm",
+    "source": "IT之家",
+    "time": "11-08 14:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "消息称《GTA 6》游戏将有 55 个奖杯 / 成就，超越《GTA5》《荒野大镖客：救赎 2》首发时期",
@@ -197,7 +264,7 @@
    "IT之家(60)",
    "GameLook(3)",
    "HackerNews(7)",
-   "Bing新闻(3)"
+   "Bing新闻(2)"
   ],
   "fail": [
    "36氪(no entries)"
