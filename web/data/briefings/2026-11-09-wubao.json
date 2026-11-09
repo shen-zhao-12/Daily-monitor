@@ -1,0 +1,361 @@
+{
+ "id": "2026-11-09-wubao",
+ "title": "线口监测午报 · 2026年11月09日(周一)",
+ "shift": "午报",
+ "date": "2026-11-09 14:42",
+ "docx": "../briefings/线口监测午报-2026-11-09.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "澳大利亚拟推网络监管新规，谷歌警告未成年人或将无法使用 Gmail",
+    "url": "https://www.ithome.com/1/024/254.htm",
+    "source": "IT之家",
+    "time": "11-09 14:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "方飞：荣耀 700 全系搭载 AI 灵动背屏",
+    "url": "https://www.ithome.com/1/024/249.htm",
+    "source": "IT之家",
+    "time": "11-09 14:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软 CEO 纳德拉畅想：未来可能有 2000 万个 AI 智能体与 20 万名员工协同工作",
+    "url": "https://www.ithome.com/1/024/243.htm",
+    "source": "IT之家",
+    "time": "11-09 14:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "网约车平台曹操出行联合蚂蚁集团，在杭州厦门重庆三地落地司机之家 AI 驿站",
+    "url": "https://www.ithome.com/1/024/241.htm",
+    "source": "IT之家",
+    "time": "11-09 14:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达在韩举办 AI Day 活动，韩国政府、三星、LG 电子、现代汽车集团等排队合作",
+    "url": "https://www.ithome.com/1/024/217.htm",
+    "source": "IT之家",
+    "time": "11-09 13:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "日本人工智能独角兽 Sakana AI 正在开发其首款移动 App",
+    "url": "https://www.ithome.com/1/024/216.htm",
+    "source": "IT之家",
+    "time": "11-09 13:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OPPO Pad Air6 平板配置曝光：12.1 英寸 LCD 屏 + 天玑 7360 芯片， 11 月 16 日发布",
+    "url": "https://www.ithome.com/1/024/213.htm",
+    "source": "IT之家",
+    "time": "11-09 13:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OPPO Pad Air6 平板 11 月 16 日发布：10050mAh 大电池，2.8K 120Hz 屏幕",
+    "url": "https://www.ithome.com/1/024/139.htm",
+    "source": "IT之家",
+    "time": "11-09 12:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "特朗普称 AI 风险可控，但不介意设置监管护栏",
+    "url": "https://www.ithome.com/1/024/071.htm",
+    "source": "IT之家",
+    "time": "11-09 10:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API",
+    "url": "https://www.ithome.com/1/024/069.htm",
+    "source": "IT之家",
+    "time": "11-09 10:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "玩家集体叫好！itch.io加入“一键屏蔽AI内容”，Mod社区Nexus强制要求标注AI",
+    "url": "http://www.gamelook.com.cn/2026/11/605862/",
+    "source": "GameLook",
+    "time": "11-09 10:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "荒诞游戏圈：Unity想250亿美元卖身、Epic和Unity中国盼上市，AI大佬急着掀桌",
+    "url": "http://www.gamelook.com.cn/2026/11/605814/",
+    "source": "GameLook",
+    "time": "11-09 10:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "I'm not convinced the AI bubble exists",
+    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "source": "Hacker News",
+    "time": "11-09 07:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+    "source": "Hacker News",
+    "time": "11-09 06:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "How I Fight AI Brain Fry",
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "source": "Hacker News",
+    "time": "11-09 03:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Outlook.com is rejecting email from domains without DMARC",
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "source": "Hacker News",
+    "time": "11-09 03:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Homer好马AI助视眼镜G2即将首发，用端侧原生解答AI助视眼镜的“可用性”命题",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af16b51e12a4cf6993a247a20b0b6bb&url=https%3a%2f%2fwww.sohu.com%2fa%2f1099016457_122420666&c=6776631938456127619&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-08 20:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蔡司翎思镜片进博会首秀：以“无感迁移”开启AI显示眼镜屈光新体验",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af16b51e12a4cf6993a247a20b0b6bb&url=https%3a%2f%2fwww.sohu.com%2fa%2f1098985722_117302&c=16290232646931578027&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-08 19:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "source": "Hacker News",
+    "time": "11-08 18:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "source": "Hacker News",
+    "time": "11-08 04:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "【视频】18万车主参与，第二届华为乾崑智驾公开赛进行中",
+    "url": "https://www.ithome.com/1/024/113.htm",
+    "source": "IT之家",
+    "time": "11-09 11:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "人民空军“新家伙”来了，我国攻击-11 无尾飞翼布局无人机大大方方展示",
+    "url": "https://www.ithome.com/1/024/088.htm",
+    "source": "IT之家",
+    "time": "11-09 11:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 确认将为V社 Steam Deck 掌机 SteamOS 推出专属游戏启动器",
+    "url": "https://www.ithome.com/1/024/248.htm",
+    "source": "IT之家",
+    "time": "11-09 14:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "京东自营全球购 2296 元速度保价：索尼 PS5 Slim 游戏主机版日本版新低",
+    "url": "https://www.ithome.com/1/024/245.htm",
+    "source": "IT之家",
+    "time": "11-09 14:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "七彩虹隐星 P16 Pro 星风版游戏本配套水冷底座登场，套装最低价 12198 元",
+    "url": "https://www.ithome.com/1/024/107.htm",
+    "source": "IT之家",
+    "time": "11-09 11:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯投资战车又开始“全球扫货”！为何押宝休闲游戏？",
+    "url": "http://www.gamelook.com.cn/2026/11/605819/",
+    "source": "GameLook",
+    "time": "11-09 10:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "塔科夫之父新游戏实机首曝！单张地图大4倍、50人混战，玩家担忧饼太大",
+    "url": "http://www.gamelook.com.cn/2026/11/605815/",
+    "source": "GameLook",
+    "time": "11-09 10:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2271 元新低",
+    "url": "https://www.ithome.com/1/024/244.htm",
+    "source": "IT之家",
+    "time": "11-09 14:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "乘联分会：10 月全国乘用车市场零售 164.3 万辆，同比下降 27.1%",
+    "url": "https://www.ithome.com/1/024/211.htm",
+    "source": "IT之家",
+    "time": "11-09 13:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "深圳成为全球消费级 3D 打印第一城",
+    "url": "https://www.ithome.com/1/024/102.htm",
+    "source": "IT之家",
+    "time": "11-09 11:28",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(8)",
+   "HackerNews(6)",
+   "Bing新闻(3)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
