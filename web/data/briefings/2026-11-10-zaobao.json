@@ -1,0 +1,362 @@
+{
+ "id": "2026-11-10-zaobao",
+ "title": "线口监测早报 · 2026年11月10日(周二)",
+ "shift": "早报",
+ "date": "2026-11-10 01:23",
+ "docx": "../briefings/线口监测早报-2026-11-10.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "source": "Hacker News",
+    "time": "11-10 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”",
+    "url": "https://www.ithome.com/1/024/559.htm",
+    "source": "IT之家",
+    "time": "11-09 22:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "179 → 123 元：小米智能摄像机 3 国补新低，500 万像素、6 种 AI 灵敏检测",
+    "url": "https://www.ithome.com/1/024/554.htm",
+    "source": "IT之家",
+    "time": "11-09 22:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "青少年资料填“成年人”也没用，Meta 将在全球推广 AI 年龄估算技术",
+    "url": "https://www.ithome.com/1/024/546.htm",
+    "source": "IT之家",
+    "time": "11-09 21:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "研究显示 OpenAI ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑",
+    "url": "https://www.ithome.com/1/024/542.htm",
+    "source": "IT之家",
+    "time": "11-09 21:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Humans will never again create a project like Wikipedia",
+    "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+    "source": "Hacker News",
+    "time": "11-09 20:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Fold Epic Paper Airplanes",
+    "url": "https://www.foldableflight.com",
+    "source": "Hacker News",
+    "time": "11-09 20:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国一法学教授尝试利用 Anthropic 更新讲义页码，反被 AI 删除全年课堂笔记",
+    "url": "https://www.ithome.com/1/024/515.htm",
+    "source": "IT之家",
+    "time": "11-09 20:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国 2026 年高考开考在即：将有专人查 AI 眼镜，任何电子设备禁止进入考场",
+    "url": "https://www.ithome.com/1/024/502.htm",
+    "source": "IT之家",
+    "time": "11-09 19:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国行 iPad、MacBook 用上“Apple 智能”在望，相关生成式 AI 服务完成备案",
+    "url": "https://www.ithome.com/1/024/499.htm",
+    "source": "IT之家",
+    "time": "11-09 19:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜爆发前夜！亮亮视野开放LLVISION平台引爆青年开发潮",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af20190169f4f74aee122f87cb10a38&url=https%3a%2f%2fwww.sohu.com%2fa%2f1099147060_122066679&c=5317037274029597632&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-09 14:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "特斯拉 Robotaxi 无人驾驶出租车服务落地至圣安东尼奥，成迄今规模最大运营城市",
+    "url": "https://www.ithome.com/1/024/534.htm",
+    "source": "IT之家",
+    "time": "11-09 21:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "Waymo 自动驾驶车辆遇到校车“超车成性”，NHTSA 展开召回整改效果调查",
+    "url": "https://www.ithome.com/1/024/549.htm",
+    "source": "IT之家",
+    "time": "11-09 21:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软商店 Microsoft Store《我的世界》PC 版游戏涨价，国区 89 元起 → 110.99 元起",
+    "url": "https://www.ithome.com/1/024/558.htm",
+    "source": "IT之家",
+    "time": "11-09 22:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "硬核洞穴生存游戏《未知伤亡》登陆 Steam：支持简中界面字幕，首发 ¥66.30",
+    "url": "https://www.ithome.com/1/024/555.htm",
+    "source": "IT之家",
+    "time": "11-09 22:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "玩家分析《GTA6》PS5 版预载数据：游戏支持新版 PSSR 2 超分技术，但不支持 QSSR",
+    "url": "https://www.ithome.com/1/024/550.htm",
+    "source": "IT之家",
+    "time": "11-09 21:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "R 星确认《GTA6》标准版可随时购买游戏升级包解锁终极版，没有任何限制",
+    "url": "https://www.ithome.com/1/024/507.htm",
+    "source": "IT之家",
+    "time": "11-09 19:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "6999 元，红魔游戏平板 5 Pro 16GB+1TB 版本今晚开售",
+    "url": "https://www.ithome.com/1/024/504.htm",
+    "source": "IT之家",
+    "time": "11-09 19:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "千分位甲醛数显：小米米家全效空气净化器 Ultra 国补后 4799 → 1973 元",
+    "url": "https://www.ithome.com/1/024/548.htm",
+    "source": "IT之家",
+    "time": "11-09 21:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 1499 → 732 元：小米米家净水器 2 一降再降，1200G 大通量 + 7 年 RO 滤芯",
+    "url": "https://www.ithome.com/1/024/545.htm",
+    "source": "IT之家",
+    "time": "11-09 21:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 1899 → 1387 元：HKC 猎鹰“27U165A”27 英寸显示器新低，4K 165Hz/1080P 320Hz 双模",
+    "url": "https://www.ithome.com/1/024/544.htm",
+    "source": "IT之家",
+    "time": "11-09 21:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 599 → 405 元：漫步者 R1700BT+ 蓝牙音箱 11.11 探新低",
+    "url": "https://www.ithome.com/1/024/529.htm",
+    "source": "IT之家",
+    "time": "11-09 20:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 8449 → 4780 元：尼康 Z 6II 全画幅微单京东 11.11 破冰新低",
+    "url": "https://www.ithome.com/1/024/528.htm",
+    "source": "IT之家",
+    "time": "11-09 20:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "66W 大功率：漫步者 N300 有源桌面音箱 749 → 491 元国补探新低",
+    "url": "https://www.ithome.com/1/024/526.htm",
+    "source": "IT之家",
+    "time": "11-09 20:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "京东自营 499 → 309 元：漫步者 MR4 监听音箱 11.11 国补新低",
+    "url": "https://www.ithome.com/1/024/523.htm",
+    "source": "IT之家",
+    "time": "11-09 20:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "以旧换新后 1843 元：漫步者 S3000MKII 蓝牙音响 11.11 国补新低",
+    "url": "https://www.ithome.com/1/024/521.htm",
+    "source": "IT之家",
+    "time": "11-09 20:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "16GB+512GB 版 7999 → 6726 元：小米 17 Ultra 徕卡版国补直降",
+    "url": "https://www.ithome.com/1/024/517.htm",
+    "source": "IT之家",
+    "time": "11-09 20:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "1299 → 879~931 元：华为 FreeClip 2 耳夹耳机国补后京东 PLUS 新低",
+    "url": "https://www.ithome.com/1/024/516.htm",
+    "source": "IT之家",
+    "time": "11-09 20:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "LG“32G650B”31.5 英寸显示器发售：2K 300Hz，2499 元（国补后 2299 元）",
+    "url": "https://www.ithome.com/1/024/509.htm",
+    "source": "IT之家",
+    "time": "11-09 20:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "苹果官方配件 11.11 加码：20W 充电器 91.8 元国补破百、Apple Pencil Pro 702 元直降",
+    "url": "https://www.ithome.com/1/024/494.htm",
+    "source": "IT之家",
+    "time": "11-09 19:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "HackerNews(8)",
+   "Bing新闻(6)"
+  ],
+  "fail": [
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
+  ]
+ }
+}
