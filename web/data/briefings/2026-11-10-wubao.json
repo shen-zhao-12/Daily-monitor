@@ -2,10 +2,98 @@
  "id": "2026-11-10-wubao",
  "title": "线口监测午报 · 2026年11月10日(周二)",
  "shift": "午报",
- "date": "2026-11-10 15:24",
+ "date": "2026-11-10 16:26",
  "docx": "../briefings/线口监测午报-2026-11-10.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "日本肯德基用 AI 制作商品宣传图，引发网友质疑",
+    "url": "https://www.ithome.com/1/024/873.htm",
+    "source": "IT之家",
+    "time": "11-10 16:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "高通 1.2 万人洞察：AI 智能体将成可穿戴核心卖点，约 70% 期待协同管设备、办事情",
+    "url": "https://www.ithome.com/1/024/868.htm",
+    "source": "IT之家",
+    "time": "11-10 16:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "借助 AI 工具，安全研究员在英国政府公开代码中发现上百个高危漏洞",
+    "url": "https://www.ithome.com/1/024/865.htm",
+    "source": "IT之家",
+    "time": "11-10 16:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "欧洲芯片巨头 CEO 自信喊话：在机器人和物理 AI 领域，我们也有实力",
+    "url": "https://www.ithome.com/1/024/863.htm",
+    "source": "IT之家",
+    "time": "11-10 15:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟 iO AI 智能眼镜新增高德导航功能：支持语音唤醒、HUD 实时指引",
+    "url": "https://www.ithome.com/1/024/860.htm",
+    "source": "IT之家",
+    "time": "11-10 15:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "布局 AI 温冷存储产业：华为将于 11 月 12 日举办新型存储系统试用启动现场会",
+    "url": "https://www.ithome.com/1/024/858.htm",
+    "source": "IT之家",
+    "time": "11-10 15:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "快克智能透露“已参与苹果 AI 眼镜及新款智能耳机项目”，相应 Apple Glasses 新品有望 2027 年推出",
+    "url": "https://www.ithome.com/1/024/856.htm",
+    "source": "IT之家",
+    "time": "11-10 15:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "广汽埃安 Ray 7 将于 11 月 12 日正式上市：配备华为 192 线激光雷达、搭文远知行 L4 级 Robotaxi 同源大模型",
+    "url": "https://www.ithome.com/1/024/845.htm",
+    "source": "IT之家",
+    "time": "11-10 15:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "澳大利亚拟强制 AI 公司上报安全违规事件，并考虑修订刑事法律",
@@ -96,61 +184,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "全球最强 AI 模型：Claude Fable 5.2 登场，编程超 GPT-6 Astra、登顶多项基准",
-    "url": "https://www.ithome.com/1/024/796.htm",
-    "source": "IT之家",
-    "time": "11-10 13:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OPPO Pad Air6 平板两款配色公布：奇遇蓝、星光银，11 月 16 日发布",
-    "url": "https://www.ithome.com/1/024/795.htm",
-    "source": "IT之家",
-    "time": "11-10 13:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苹果 Siri AI 调度规则曝光：约 2% 英文请求走本地 AI 模型，覆盖定时等高频操作",
-    "url": "https://www.ithome.com/1/024/754.htm",
-    "source": "IT之家",
-    "time": "11-10 13:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "陈建斌谈 AI 替代：不好的演员在任何时代都会失业，好演员永远不会失业",
-    "url": "https://www.ithome.com/1/024/750.htm",
-    "source": "IT之家",
-    "time": "11-10 12:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业",
-    "url": "https://www.ithome.com/1/024/748.htm",
-    "source": "IT之家",
-    "time": "11-10 12:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
     "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
     "source": "Hacker News",
@@ -173,19 +206,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI眼镜概念午后异动拉升 两股直线涨停多股涨超10%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6aa25b44345a6d4c6ed31501c23&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2fai%25E7%259C%25BC%25E9%2595%259C%25E6%25A6%2582%25E5%25BF%25B5%25E5%258D%2588%25E5%2590%258E%25E5%25BC%2582%25E5%258A%25A8%25E6%258B%2589%25E5%258D%2587-%25E4%25B8%25A4%25E8%2582%25A1%25E7%259B%25B4%25E7%25BA%25BF%25E6%25B6%25A8%25E5%2581%259C%25E5%25A4%259A%25E8%2582%25A1%25E6%25B6%25A8%25E8%25B6%258510%2far-AA2h6udn&c=17543835353437620205&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-10 05:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "让大模型发布后继续成长：张牧涵团队用超网络把新知识写进参数，破解持续学习难题",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6a9a8e64ae497cc518f81ecf9fb&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%25AE%25A9%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%25E5%2590%258E%25E7%25BB%25A7%25E7%25BB%25AD%25E6%2588%2590%25E9%2595%25BF-%25E5%25BC%25A0%25E7%2589%25A7%25E6%25B6%25B5%25E5%259B%25A2%25E9%2598%259F%25E7%2594%25A8%25E8%25B6%2585%25E7%25BD%2591%25E7%25BB%259C%25E6%258A%258A%25E6%2596%25B0%25E7%259F%25A5%25E8%25AF%2586%25E5%2586%2599%25E8%25BF%259B%25E5%258F%2582%25E6%2595%25B0-%25E7%25A0%25B4%25E8%25A7%25A3%25E6%258C%2581%25E7%25BB%25AD%25E5%25AD%25A6%25E4%25B9%25A0%25E9%259A%25BE%25E9%25A2%2598%2far-AA2h7HQB&c=5257202029613735228&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2d54a08464940ba4c2d3385c67e1d&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%25AE%25A9%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%25E5%2590%258E%25E7%25BB%25A7%25E7%25BB%25AD%25E6%2588%2590%25E9%2595%25BF-%25E5%25BC%25A0%25E7%2589%25A7%25E6%25B6%25B5%25E5%259B%25A2%25E9%2598%259F%25E7%2594%25A8%25E8%25B6%2585%25E7%25BD%2591%25E7%25BB%259C%25E6%258A%258A%25E6%2596%25B0%25E7%259F%25A5%25E8%25AF%2586%25E5%2586%2599%25E8%25BF%259B%25E5%258F%2582%25E6%2595%25B0-%25E7%25A0%25B4%25E8%25A7%25A3%25E6%258C%2581%25E7%25BB%25AD%25E5%25AD%25A6%25E4%25B9%25A0%25E9%259A%25BE%25E9%25A2%2598%2far-AA2h7HQB&c=6865983460321040774&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-10 04:59",
     "summary": "",
@@ -196,42 +218,9 @@
    {
     "beat": "AI/大模型",
     "title": "前三季度智能眼镜销售额翻倍，AI终端需求释放推动消费电子产量高增",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6aa25b44345a6d4c6ed31501c23&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2589%258D%25E4%25B8%2589%25E5%25AD%25A3%25E5%25BA%25A6%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E9%2594%2580%25E5%2594%25AE%25E9%25A2%259D%25E7%25BF%25BB%25E5%2580%258D-ai%25E7%25BB%2588%25E7%25AB%25AF%25E9%259C%2580%25E6%25B1%2582%25E9%2587%258A%25E6%2594%25BE%25E6%258E%25A8%25E5%258A%25A8%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E9%2587%258F%25E9%25AB%2598%25E5%25A2%259E%2far-AA2h6Uwc&c=11167191802234459170&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2d54bf7d746ccac264a1b276878a0&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2589%258D%25E4%25B8%2589%25E5%25AD%25A3%25E5%25BA%25A6%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E9%2594%2580%25E5%2594%25AE%25E9%25A2%259D%25E7%25BF%25BB%25E5%2580%258D-ai%25E7%25BB%2588%25E7%25AB%25AF%25E9%259C%2580%25E6%25B1%2582%25E9%2587%258A%25E6%2594%25BE%25E6%258E%25A8%25E5%258A%25A8%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E9%2587%258F%25E9%25AB%2598%25E5%25A2%259E%2far-AA2h6Uwc&c=11167191802234459170&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-10 02:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Google Gemini routes personal Drive files and emails to human annotators",
-    "url": "https://github.com/thisisme6598/gemini_files/",
-    "source": "Hacker News",
-    "time": "11-10 02:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "雷鸟 iO AI 眼镜迎来重磅升级：高德导航正式上镜，全天智记再进化",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6aa25b44345a6d4c6ed31501c23&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-10%2fdoc-iniyfqta2758936.shtml&c=3660735511153964187&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-10 00:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "API降价20%只是表象：从Claude新模型看大模型“推理经济性”之战",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6a9a8e64ae497cc518f81ecf9fb&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fapi%25E9%2599%258D%25E4%25BB%25B720-%25E5%258F%25AA%25E6%2598%25AF%25E8%25A1%25A8%25E8%25B1%25A1-%25E4%25BB%258Eclaude%25E6%2596%25B0%25E6%25A8%25A1%25E5%259E%258B%25E7%259C%258B%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-%25E6%258E%25A8%25E7%2590%2586%25E7%25BB%258F%25E6%25B5%258E%25E6%2580%25A7-%25E4%25B9%258B%25E6%2588%2598%2far-AA2h6zVj&c=18298591245241385189&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-10 00:30",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -254,6 +243,28 @@
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
+    "title": "点外卖、打网约车真实手机号将隐藏，首批十家企业获批 700 专用码号服务业务试点",
+    "url": "https://www.ithome.com/1/024/870.htm",
+    "source": "IT之家",
+    "time": "11-10 16:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "只清洁摄像头前方玻璃，特斯拉激光雨刷技术有望应用于 Cybercab 无人驾驶出租车",
+    "url": "https://www.ithome.com/1/024/857.htm",
+    "source": "IT之家",
+    "time": "11-10 15:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
     "title": "岚图 25/26 款梦想家乾崑版、泰山、追光 L 升级华为乾崑智驾：新增漫游巡航 RCA、自动防追尾辅助 ARCP 等",
     "url": "https://www.ithome.com/1/024/814.htm",
     "source": "IT之家",
@@ -269,17 +280,6 @@
     "url": "http://www.gamelook.com.cn/2026/11/606000/",
     "source": "GameLook",
     "time": "11-10 12:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "华境 S 大六座 SUV 累计交付突破 4 万台，标配华为乾崑智驾 ADS 5 Pro",
-    "url": "https://www.ithome.com/1/024/739.htm",
-    "source": "IT之家",
-    "time": "11-10 11:50",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -325,10 +325,10 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "25000Pa 大吸力 + 双重鲨齿防缠毛：石头“智净”超能版洗地机 564 元国补探新低",
-    "url": "https://www.ithome.com/1/024/808.htm",
+    "title": "上市价 2598 元 → 1681 元：大疆 Osmo Action 5 Pro 国补直降",
+    "url": "https://www.ithome.com/1/024/875.htm",
     "source": "IT之家",
-    "time": "11-10 14:17",
+    "time": "11-10 16:16",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -336,10 +336,10 @@
    },
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "KTC“H27T22S-3Pro”27 英寸显示器国补直降：2K 220Hz 超频、双 2W 扬声器，617 元",
-    "url": "https://www.ithome.com/1/024/785.htm",
+    "title": "七彩虹 E14 轻薄本发售：酷睿 i5-13420H + 16G + 1T 售 4299 元（国补后 3654.15 元）",
+    "url": "https://www.ithome.com/1/024/867.htm",
     "source": "IT之家",
-    "time": "11-10 13:47",
+    "time": "11-10 16:11",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -353,7 +353,7 @@
    "IT之家(60)",
    "GameLook(15)",
    "HackerNews(8)",
-   "Bing新闻(9)"
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
