@@ -1,0 +1,362 @@
+{
+ "id": "2026-11-10-wubao",
+ "title": "线口监测午报 · 2026年11月10日(周二)",
+ "shift": "午报",
+ "date": "2026-11-10 15:24",
+ "docx": "../briefings/线口监测午报-2026-11-10.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "澳大利亚拟强制 AI 公司上报安全违规事件，并考虑修订刑事法律",
+    "url": "https://www.ithome.com/1/024/843.htm",
+    "source": "IT之家",
+    "time": "11-10 15:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米联合北京大学发布《物联网设备模型技术白皮书》，11.6 亿台 AIoT 设备技术经验开放给全行业",
+    "url": "https://www.ithome.com/1/024/842.htm",
+    "source": "IT之家",
+    "time": "11-10 15:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克描绘 AI 时代的“童话”：未来想要一座城堡，AI 就能帮你实现",
+    "url": "https://www.ithome.com/1/024/841.htm",
+    "source": "IT之家",
+    "time": "11-10 15:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 iPhone Air 2 机模曝光：厚度 5.2 毫米、新增 4800 万像素超广角镜头",
+    "url": "https://www.ithome.com/1/024/840.htm",
+    "source": "IT之家",
+    "time": "11-10 15:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "金鸡百花电影节首次设立 AI 单元",
+    "url": "https://www.ithome.com/1/024/835.htm",
+    "source": "IT之家",
+    "time": "11-10 15:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "派拉蒙天舞 CEO：AI 可能成为电影史上最大创意突破，助力原创叙事诞生",
+    "url": "https://www.ithome.com/1/024/831.htm",
+    "source": "IT之家",
+    "time": "11-10 14:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件",
+    "url": "https://www.ithome.com/1/024/826.htm",
+    "source": "IT之家",
+    "time": "11-10 14:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌 Gemini 上线记忆摘要，可查看 / 编辑 / 删除 AI 记住的个人信息",
+    "url": "https://www.ithome.com/1/024/823.htm",
+    "source": "IT之家",
+    "time": "11-10 14:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球最强 AI 模型：Claude Fable 5.2 登场，编程超 GPT-6 Astra、登顶多项基准",
+    "url": "https://www.ithome.com/1/024/796.htm",
+    "source": "IT之家",
+    "time": "11-10 13:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OPPO Pad Air6 平板两款配色公布：奇遇蓝、星光银，11 月 16 日发布",
+    "url": "https://www.ithome.com/1/024/795.htm",
+    "source": "IT之家",
+    "time": "11-10 13:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果 Siri AI 调度规则曝光：约 2% 英文请求走本地 AI 模型，覆盖定时等高频操作",
+    "url": "https://www.ithome.com/1/024/754.htm",
+    "source": "IT之家",
+    "time": "11-10 13:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "陈建斌谈 AI 替代：不好的演员在任何时代都会失业，好演员永远不会失业",
+    "url": "https://www.ithome.com/1/024/750.htm",
+    "source": "IT之家",
+    "time": "11-10 12:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业",
+    "url": "https://www.ithome.com/1/024/748.htm",
+    "source": "IT之家",
+    "time": "11-10 12:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "source": "Hacker News",
+    "time": "11-10 11:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "光子开源“原生AI游戏引擎”，要跟AI大模型巨佬们火拼！",
+    "url": "http://www.gamelook.com.cn/2026/11/605953/",
+    "source": "GameLook",
+    "time": "11-10 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜概念午后异动拉升 两股直线涨停多股涨超10%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6aa25b44345a6d4c6ed31501c23&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2fai%25E7%259C%25BC%25E9%2595%259C%25E6%25A6%2582%25E5%25BF%25B5%25E5%258D%2588%25E5%2590%258E%25E5%25BC%2582%25E5%258A%25A8%25E6%258B%2589%25E5%258D%2587-%25E4%25B8%25A4%25E8%2582%25A1%25E7%259B%25B4%25E7%25BA%25BF%25E6%25B6%25A8%25E5%2581%259C%25E5%25A4%259A%25E8%2582%25A1%25E6%25B6%25A8%25E8%25B6%258510%2far-AA2h6udn&c=17543835353437620205&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-10 05:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "让大模型发布后继续成长：张牧涵团队用超网络把新知识写进参数，破解持续学习难题",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6a9a8e64ae497cc518f81ecf9fb&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%25AE%25A9%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%25E5%2590%258E%25E7%25BB%25A7%25E7%25BB%25AD%25E6%2588%2590%25E9%2595%25BF-%25E5%25BC%25A0%25E7%2589%25A7%25E6%25B6%25B5%25E5%259B%25A2%25E9%2598%259F%25E7%2594%25A8%25E8%25B6%2585%25E7%25BD%2591%25E7%25BB%259C%25E6%258A%258A%25E6%2596%25B0%25E7%259F%25A5%25E8%25AF%2586%25E5%2586%2599%25E8%25BF%259B%25E5%258F%2582%25E6%2595%25B0-%25E7%25A0%25B4%25E8%25A7%25A3%25E6%258C%2581%25E7%25BB%25AD%25E5%25AD%25A6%25E4%25B9%25A0%25E9%259A%25BE%25E9%25A2%2598%2far-AA2h7HQB&c=5257202029613735228&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-10 04:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "前三季度智能眼镜销售额翻倍，AI终端需求释放推动消费电子产量高增",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6aa25b44345a6d4c6ed31501c23&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2589%258D%25E4%25B8%2589%25E5%25AD%25A3%25E5%25BA%25A6%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E9%2594%2580%25E5%2594%25AE%25E9%25A2%259D%25E7%25BF%25BB%25E5%2580%258D-ai%25E7%25BB%2588%25E7%25AB%25AF%25E9%259C%2580%25E6%25B1%2582%25E9%2587%258A%25E6%2594%25BE%25E6%258E%25A8%25E5%258A%25A8%25E6%25B6%2588%25E8%25B4%25B9%25E7%2594%25B5%25E5%25AD%2590%25E4%25BA%25A7%25E9%2587%258F%25E9%25AB%2598%25E5%25A2%259E%2far-AA2h6Uwc&c=11167191802234459170&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-10 02:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "source": "Hacker News",
+    "time": "11-10 02:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟 iO AI 眼镜迎来重磅升级：高德导航正式上镜，全天智记再进化",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6aa25b44345a6d4c6ed31501c23&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-10%2fdoc-iniyfqta2758936.shtml&c=3660735511153964187&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-10 00:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "API降价20%只是表象：从Claude新模型看大模型“推理经济性”之战",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c6a9a8e64ae497cc518f81ecf9fb&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fapi%25E9%2599%258D%25E4%25BB%25B720-%25E5%258F%25AA%25E6%2598%25AF%25E8%25A1%25A8%25E8%25B1%25A1-%25E4%25BB%258Eclaude%25E6%2596%25B0%25E6%25A8%25A1%25E5%259E%258B%25E7%259C%258B%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-%25E6%258E%25A8%25E7%2590%2586%25E7%25BB%258F%25E6%25B5%258E%25E6%2580%25A7-%25E4%25B9%258B%25E6%2588%2598%2far-AA2h6zVj&c=18298591245241385189&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-10 00:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "50℃ 热水喷淋定点拖地：小米米家扫拖机器人 7 Max 国补后 4999 → 3602 元",
+    "url": "https://www.ithome.com/1/024/828.htm",
+    "source": "IT之家",
+    "time": "11-10 14:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "岚图 25/26 款梦想家乾崑版、泰山、追光 L 升级华为乾崑智驾：新增漫游巡航 RCA、自动防追尾辅助 ARCP 等",
+    "url": "https://www.ithome.com/1/024/814.htm",
+    "source": "IT之家",
+    "time": "11-10 14:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "中国无人机称霸全球！最强“无人机游戏”却出自比利时13人团队？",
+    "url": "http://www.gamelook.com.cn/2026/11/606000/",
+    "source": "GameLook",
+    "time": "11-10 12:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华境 S 大六座 SUV 累计交付突破 4 万台，标配华为乾崑智驾 ADS 5 Pro",
+    "url": "https://www.ithome.com/1/024/739.htm",
+    "source": "IT之家",
+    "time": "11-10 11:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏人“吹哨级吐槽”：“3A游戏究竟得了什么重病”？看完直接沉默",
+    "url": "http://www.gamelook.com.cn/2026/11/605930/",
+    "source": "GameLook",
+    "time": "11-10 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "恐怖游戏在Steam “杀疯了”：今年10个月入账86亿元，同比大涨17%",
+    "url": "http://www.gamelook.com.cn/2026/11/605986/",
+    "source": "GameLook",
+    "time": "11-10 09:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏公司被收购后有多惨？超1/3活不过10年！",
+    "url": "http://www.gamelook.com.cn/2026/11/605915/",
+    "source": "GameLook",
+    "time": "11-10 09:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "25000Pa 大吸力 + 双重鲨齿防缠毛：石头“智净”超能版洗地机 564 元国补探新低",
+    "url": "https://www.ithome.com/1/024/808.htm",
+    "source": "IT之家",
+    "time": "11-10 14:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "KTC“H27T22S-3Pro”27 英寸显示器国补直降：2K 220Hz 超频、双 2W 扬声器，617 元",
+    "url": "https://www.ithome.com/1/024/785.htm",
+    "source": "IT之家",
+    "time": "11-10 13:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(8)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
