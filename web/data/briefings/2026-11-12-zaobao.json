@@ -1,0 +1,362 @@
+{
+ "id": "2026-11-12-zaobao",
+ "title": "线口监测早报 · 2026年11月12日(周四)",
+ "shift": "早报",
+ "date": "2026-11-12 00:04",
+ "docx": "../briefings/线口监测早报-2026-11-12.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
+    "url": "https://www.ithome.com/1/025/815.htm",
+    "source": "IT之家",
+    "time": "11-11 22:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepL 推出旗下最逼真语音 AI 翻译模型 Aure，实时复现说话者语气起伏、情绪流转等",
+    "url": "https://www.ithome.com/1/025/810.htm",
+    "source": "IT之家",
+    "time": "11-11 22:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
+    "url": "https://www.ithome.com/1/025/809.htm",
+    "source": "IT之家",
+    "time": "11-11 21:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 提升飓风预报精度，人类气象专家仍不可替代",
+    "url": "https://www.ithome.com/1/025/806.htm",
+    "source": "IT之家",
+    "time": "11-11 21:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大水冲了龙王庙？AI 编程工具 Grok Build 漏洞导致 SpaceXSI 敏感资料暴露",
+    "url": "https://www.ithome.com/1/025/790.htm",
+    "source": "IT之家",
+    "time": "11-11 21:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "url": "https://pietromiotti.com/latest/maya-site/?maya",
+    "source": "Hacker News",
+    "time": "11-11 20:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "统信桌面操作系统 V25（2500u2）发布：新增防卡死保护，AI 助手变身“小 U 同学”",
+    "url": "https://www.ithome.com/1/025/762.htm",
+    "source": "IT之家",
+    "time": "11-11 19:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic Claude 仅用 3 天完成 AI 模型适配 AMD GPU，英伟达 CUDA 护城河遇挑战",
+    "url": "https://www.ithome.com/1/025/736.htm",
+    "source": "IT之家",
+    "time": "11-11 19:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不能再随便用：高盛、思科等企业开始对员工 AI 使用设限",
+    "url": "https://www.ithome.com/1/025/734.htm",
+    "source": "IT之家",
+    "time": "11-11 19:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "四川大决策投顾：AI眼镜：政策与供给共振，需求侧有望迎来实质性放量",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af49204294249fa9b5a350c90e5dadf&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100141076_723518&c=16660256601163738618&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 15:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "千问Qwen4大模型发布在即：预览版先行开放，多款官方应用同步接入",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af49203dd744b6a9049630f8c651267&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E8%25BD%25AF%25E4%25BB%25B6%2f%25E5%258D%2583%25E9%2597%25AEqwen4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%25E5%259C%25A8%25E5%258D%25B3-%25E9%25A2%2584%25E8%25A7%2588%25E7%2589%2588%25E5%2585%2588%25E8%25A1%258C%25E5%25BC%2580%25E6%2594%25BE-%25E5%25A4%259A%25E6%25AC%25BE%25E5%25AE%2598%25E6%2596%25B9%25E5%25BA%2594%25E7%2594%25A8%25E5%2590%258C%25E6%25AD%25A5%25E6%258E%25A5%25E5%2585%25A5%2far-AA2hcTJb&c=13368755822506844103&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 11:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国高考将派专人查AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af49204294249fa9b5a350c90e5dadf&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xxe9z9se5P&c=6055053534254861686&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 10:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "泰国梁其伟？MIT核物理博士做游戏，8个人8天用AI做出“曼谷版GTA”！",
+    "url": "http://www.gamelook.com.cn/2026/11/606062/",
+    "source": "GameLook",
+    "time": "11-11 09:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“太多人用AI做游戏”，办了12年的游戏开发赛停办，同行：真因AI还是穷？",
+    "url": "http://www.gamelook.com.cn/2026/11/606021/",
+    "source": "GameLook",
+    "time": "11-11 09:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜市场持续升温，终端产品与应用服务正加快更新",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af49204294249fa9b5a350c90e5dadf&url=https%3a%2f%2f36kr.com%2fnewsflashes%2f4064589730485126&c=1583193569064012988&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 09:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "沐曦和优必选联姻造具身芯片，消息称合资公司曦选创智融资 5 亿元",
+    "url": "https://www.ithome.com/1/025/807.htm",
+    "source": "IT之家",
+    "time": "11-11 21:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "“玄龙”隐身性能达世界前列！我国攻击-11 察打一体无人机更多硬核实力揭秘，或改变未来战场形态",
+    "url": "https://www.ithome.com/1/025/769.htm",
+    "source": "IT之家",
+    "time": "11-11 20:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "11.11 倒数 20 分钟：会员年卡狂促汇总，bilibili 爱奇艺 QQ 音乐腾讯视频 WPS 剪映皆年内好价",
+    "url": "https://www.ithome.com/1/025/805.htm",
+    "source": "IT之家",
+    "time": "11-11 21:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易暴雪一起笑！《魔兽世界:无限》没崩，国服和全球服创造历史新高",
+    "url": "http://www.gamelook.com.cn/2026/11/606110/",
+    "source": "GameLook",
+    "time": "11-11 12:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英国广告局开罚单：4家休闲SLG手游大厂中招，游戏广告“忽悠玩家”成顽疾",
+    "url": "http://www.gamelook.com.cn/2026/11/606100/",
+    "source": "GameLook",
+    "time": "11-11 11:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "以旧换新 3999 → 2291 元：小米米家智能净烟机 3 Pro 国补直降，7 级大风力",
+    "url": "https://www.ithome.com/1/025/818.htm",
+    "source": "IT之家",
+    "time": "11-11 22:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "骁龙 8 至尊 + 165Hz 高刷：一加 Ace 6 手机 12+256G 国补后 2363 元",
+    "url": "https://www.ithome.com/1/025/808.htm",
+    "source": "IT之家",
+    "time": "11-11 21:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "4599 → 3519 元：小米 REDMI K100 Pro Max 手机 16GB+256GB 国补直降",
+    "url": "https://www.ithome.com/1/025/803.htm",
+    "source": "IT之家",
+    "time": "11-11 21:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "4699 → 3794 元：小米 REDMI K100 Pro 手机 16GB+512GB 国补直降",
+    "url": "https://www.ithome.com/1/025/800.htm",
+    "source": "IT之家",
+    "time": "11-11 21:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 2299 → 1609 元：华硕 ROG“XG27UCSR”27 英寸显示器直降，4K 162Hz / FHD 485Hz 双模",
+    "url": "https://www.ithome.com/1/025/798.htm",
+    "source": "IT之家",
+    "time": "11-11 21:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "12+256G 版 2099 → 1695 元：一加 Turbo 6 国补直降，骁龙 8s / 7s Gen4 芯片、9000mAh 电池",
+    "url": "https://www.ithome.com/1/025/796.htm",
+    "source": "IT之家",
+    "time": "11-11 21:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小屏旗舰：一加 15T 手机 16GB+512GB 版国补后 5199 → 3520 元",
+    "url": "https://www.ithome.com/1/025/792.htm",
+    "source": "IT之家",
+    "time": "11-11 21:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "5999 → 5499 元：HUAWEI Pura X View 阔直板手机 12+256G 国补直降",
+    "url": "https://www.ithome.com/1/025/778.htm",
+    "source": "IT之家",
+    "time": "11-11 20:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "配 3D 曲面穹顶灯：小米米家智能晾衣机 2 Pro 国补后 1699 → 729 元探新低",
+    "url": "https://www.ithome.com/1/025/772.htm",
+    "source": "IT之家",
+    "time": "11-11 20:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家智能晾衣机 3 国补后 1299 → 930 元：4 分区 94 个晾晒位、42 英寸大灯板",
+    "url": "https://www.ithome.com/1/025/770.htm",
+    "source": "IT之家",
+    "time": "11-11 20:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(4)",
+   "Bing新闻(14)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
