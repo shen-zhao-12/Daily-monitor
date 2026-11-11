@@ -2,10 +2,65 @@
  "id": "2026-11-11-wubao",
  "title": "线口监测午报 · 2026年11月11日(周三)",
  "shift": "午报",
- "date": "2026-11-11 14:32",
+ "date": "2026-11-11 15:45",
  "docx": "../briefings/线口监测午报-2026-11-11.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "智能体叫车、点外卖“水土不服”，优步、DoorDash 高管称没多少人用",
+    "url": "https://www.ithome.com/1/025/550.htm",
+    "source": "IT之家",
+    "time": "11-11 15:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "纽约推出 AI 监管新规，OpenAI、Anthropic 需 72 小时内上报安全事故",
+    "url": "https://www.ithome.com/1/025/548.htm",
+    "source": "IT之家",
+    "time": "11-11 15:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英监管机构：AI 已让老师几乎无法判断课程作业能否反映大学生真实水平",
+    "url": "https://www.ithome.com/1/025/506.htm",
+    "source": "IT之家",
+    "time": "11-11 15:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果计划限制 Apple Intelligence 云端 AI 使用额度：可订阅 iCloud+ 套餐扩容，Logic Pro 已单独售卖用量包",
+    "url": "https://www.ithome.com/1/025/502.htm",
+    "source": "IT之家",
+    "time": "11-11 15:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "台积电押注 AI：批准对 Anthropic、OpenAI 最高 10 亿美元的投资计划",
+    "url": "https://www.ithome.com/1/025/481.htm",
+    "source": "IT之家",
+    "time": "11-11 15:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "DEEPX 2nm 低功耗 AI 芯片 DX-M2 实物芯片预计 2027 年初面世",
@@ -63,72 +118,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端",
-    "url": "https://www.ithome.com/1/025/331.htm",
-    "source": "IT之家",
-    "time": "11-11 11:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "全国产化算力底座：龙芯智能机器车实现深度视觉与目标抓取，由龙芯 2K3000 统一调度",
-    "url": "https://www.ithome.com/1/025/330.htm",
-    "source": "IT之家",
-    "time": "11-11 11:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Reddit 将推出 AI 汇总商品评价系统，引发用户担忧",
-    "url": "https://www.ithome.com/1/025/318.htm",
-    "source": "IT之家",
-    "time": "11-11 11:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "马斯克 SpaceX 备战太空 AI 算力：锁定 100GW 设备产能，约为 4.4 座三峡电站总装机容量",
-    "url": "https://www.ithome.com/1/025/314.htm",
-    "source": "IT之家",
-    "time": "11-11 10:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AMD 推出企业级 AI 辅助编程平台 Instinct Coder 355，支持本地运行 GLM-5.3",
-    "url": "https://www.ithome.com/1/025/305.htm",
-    "source": "IT之家",
-    "time": "11-11 10:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线",
-    "url": "https://www.ithome.com/1/025/301.htm",
-    "source": "IT之家",
-    "time": "11-11 10:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "泰国梁其伟？MIT核物理博士做游戏，8个人8天用AI做出“曼谷版GTA”！",
     "url": "http://www.gamelook.com.cn/2026/11/606062/",
     "source": "GameLook",
@@ -148,86 +137,20 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜市场持续升温 终端产品与应用服务正加快更新",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c06e97d458695457b802f42c28b&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103435277.html&c=15334452559205319136&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-11 06:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Apple has new Mac app coming to make running local AI models easy",
-    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-    "source": "Hacker News",
-    "time": "11-11 05:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Qwen4预览版首发：阿里大模型迭代提速，推理算力与Token经济走向前台",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c040e924319b48e72b7283ec1f0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fqwen4%25E9%25A2%2584%25E8%25A7%2588%25E7%2589%2588%25E9%25A6%2596%25E5%258F%2591-%25E9%2598%25BF%25E9%2587%258C%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E8%25BF%25AD%25E4%25BB%25A3%25E6%258F%2590%25E9%2580%259F-%25E6%258E%25A8%25E7%2590%2586%25E7%25AE%2597%25E5%258A%259B%25E4%25B8%258Etoken%25E7%25BB%258F%25E6%25B5%258E%25E8%25B5%25B0%25E5%2590%2591%25E5%2589%258D%25E5%258F%25B0%2far-AA2hbuK6&c=8949213373154201122&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-11 03:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "2026全国优秀科普图书作品推荐发布暨三晋文化大模型发布活动启幕",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c040e924319b48e72b7283ec1f0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f2026%25E5%2585%25A8%25E5%259B%25BD%25E4%25BC%2598%25E7%25A7%2580%25E7%25A7%2591%25E6%2599%25AE%25E5%259B%25BE%25E4%25B9%25A6%25E4%25BD%259C%25E5%2593%2581%25E6%258E%25A8%25E8%258D%2590%25E5%258F%2591%25E5%25B8%2583%25E6%259A%25A8%25E4%25B8%2589%25E6%2599%258B%25E6%2596%2587%25E5%258C%2596%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%25E6%25B4%25BB%25E5%258A%25A8%25E5%2590%25AF%25E5%25B9%2595%2far-AA2hb5GN&c=2519206839179287327&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-11 02:20",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Synaptics patent claims stop work on DisplayLink drivers",
-    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-    "source": "Hacker News",
-    "time": "11-11 02:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜又“火出圈” 涨停潮刷屏",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c06e97d458695457b802f42c28b&url=https%3a%2f%2fhzdaily.hangzhou.com.cn%2fmrsb%2f2026%2f11%2f11%2farticle_detail_3_20261111A101.html&c=11545568808739390694&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-11 00:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "百元AI眼镜背后：京东把选品做到产业链上游",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c06e97d458695457b802f42c28b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261110A0EOHE00&c=6886301525812532747&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-10 22:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "亚马逊 Ring 推出两款安防机器人：一款飞着看家，一款巡逻商铺",
+    "url": "https://www.ithome.com/1/025/465.htm",
+    "source": "IT之家",
+    "time": "11-11 14:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "北京：建立具身智能机器人企业上市“一对一”服务机制，培育优势龙头企业",
@@ -290,6 +213,61 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "全球首个“语音控制卫星”纪录诞生，喊话成功启动《毁灭战士》游戏",
+    "url": "https://www.ithome.com/1/025/546.htm",
+    "source": "IT之家",
+    "time": "11-11 15:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Iceflake 接手后首个扩展包：《都市：天际线 2》游戏 12 月推出“公园探险”DLC",
+    "url": "https://www.ithome.com/1/025/476.htm",
+    "source": "IT之家",
+    "time": "11-11 14:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "罗技宣布首次全公司范围“游戏日”：员工获得 1 天游戏假期",
+    "url": "https://www.ithome.com/1/025/475.htm",
+    "source": "IT之家",
+    "time": "11-11 14:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "黑鲨游戏手机微信公众号账号迁移，主体变更为深圳铭源电玩科技股份有限公司",
+    "url": "https://www.ithome.com/1/025/473.htm",
+    "source": "IT之家",
+    "time": "11-11 14:50",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯全新搜索产品“元宝搜索”正式上线：能搜微信公众号、视频号，广告与答案明确区分",
+    "url": "https://www.ithome.com/1/025/471.htm",
+    "source": "IT之家",
+    "time": "11-11 14:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "恐影响部分游戏性能：微软 11 月 Win11 累积更新扩大自动启用“内存完整性”",
     "url": "https://www.ithome.com/1/025/408.htm",
     "source": "IT之家",
@@ -325,6 +303,28 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 8599 → 3088 元：美的“小西梅”嵌入式洗碗机新低，105℃ 热风烘干、20 套大容量",
+    "url": "https://www.ithome.com/1/025/482.htm",
+    "source": "IT之家",
+    "time": "11-11 15:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 999 元 → 502 元：小米米家无雾加湿器 3（1200）官方 11.11 直降",
+    "url": "https://www.ithome.com/1/025/450.htm",
+    "source": "IT之家",
+    "time": "11-11 14:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
     "title": "国补后 2999 → 1588 元：KTC 显示器 M27P6S 新低，4K 160Hz/1080P 320Hz 双模 Mini LED",
     "url": "https://www.ithome.com/1/025/439.htm",
     "source": "IT之家",
@@ -352,7 +352,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(5)",
+   "HackerNews(6)",
    "Bing新闻(10)"
   ],
   "fail": [
