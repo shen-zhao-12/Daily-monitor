@@ -1,0 +1,362 @@
+{
+ "id": "2026-11-11-wubao",
+ "title": "线口监测午报 · 2026年11月11日(周三)",
+ "shift": "午报",
+ "date": "2026-11-11 14:32",
+ "docx": "../briefings/线口监测午报-2026-11-11.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "DEEPX 2nm 低功耗 AI 芯片 DX-M2 实物芯片预计 2027 年初面世",
+    "url": "https://www.ithome.com/1/025/442.htm",
+    "source": "IT之家",
+    "time": "11-11 14:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nordic 推出支持边缘 AI 推理的 Wi-Fi SoC「nRF71」系列，待机功耗最高降低 1/20",
+    "url": "https://www.ithome.com/1/025/414.htm",
+    "source": "IT之家",
+    "time": "11-11 13:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Adobe Photoshop 迎来 AI 进化：照片能重新打光，删物体还能清理倒影",
+    "url": "https://www.ithome.com/1/025/403.htm",
+    "source": "IT之家",
+    "time": "11-11 13:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AirPods 耳机充电盒秒变苹果 Mac 无线鼠标：体感移动 + 轻敲点击，还能“打鸭子”",
+    "url": "https://www.ithome.com/1/025/398.htm",
+    "source": "IT之家",
+    "time": "11-11 12:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "iOS 27.3 将补齐苹果 Siri AI 生态拼图：看懂你的健康信息，覆盖 92 种数据",
+    "url": "https://www.ithome.com/1/025/392.htm",
+    "source": "IT之家",
+    "time": "11-11 12:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端",
+    "url": "https://www.ithome.com/1/025/331.htm",
+    "source": "IT之家",
+    "time": "11-11 11:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全国产化算力底座：龙芯智能机器车实现深度视觉与目标抓取，由龙芯 2K3000 统一调度",
+    "url": "https://www.ithome.com/1/025/330.htm",
+    "source": "IT之家",
+    "time": "11-11 11:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Reddit 将推出 AI 汇总商品评价系统，引发用户担忧",
+    "url": "https://www.ithome.com/1/025/318.htm",
+    "source": "IT之家",
+    "time": "11-11 11:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克 SpaceX 备战太空 AI 算力：锁定 100GW 设备产能，约为 4.4 座三峡电站总装机容量",
+    "url": "https://www.ithome.com/1/025/314.htm",
+    "source": "IT之家",
+    "time": "11-11 10:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AMD 推出企业级 AI 辅助编程平台 Instinct Coder 355，支持本地运行 GLM-5.3",
+    "url": "https://www.ithome.com/1/025/305.htm",
+    "source": "IT之家",
+    "time": "11-11 10:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线",
+    "url": "https://www.ithome.com/1/025/301.htm",
+    "source": "IT之家",
+    "time": "11-11 10:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "泰国梁其伟？MIT核物理博士做游戏，8个人8天用AI做出“曼谷版GTA”！",
+    "url": "http://www.gamelook.com.cn/2026/11/606062/",
+    "source": "GameLook",
+    "time": "11-11 09:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“太多人用AI做游戏”，办了12年的游戏开发赛停办，同行：真因AI还是穷？",
+    "url": "http://www.gamelook.com.cn/2026/11/606021/",
+    "source": "GameLook",
+    "time": "11-11 09:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜市场持续升温 终端产品与应用服务正加快更新",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c06e97d458695457b802f42c28b&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103435277.html&c=15334452559205319136&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 06:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "source": "Hacker News",
+    "time": "11-11 05:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Qwen4预览版首发：阿里大模型迭代提速，推理算力与Token经济走向前台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c040e924319b48e72b7283ec1f0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fqwen4%25E9%25A2%2584%25E8%25A7%2588%25E7%2589%2588%25E9%25A6%2596%25E5%258F%2591-%25E9%2598%25BF%25E9%2587%258C%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E8%25BF%25AD%25E4%25BB%25A3%25E6%258F%2590%25E9%2580%259F-%25E6%258E%25A8%25E7%2590%2586%25E7%25AE%2597%25E5%258A%259B%25E4%25B8%258Etoken%25E7%25BB%258F%25E6%25B5%258E%25E8%25B5%25B0%25E5%2590%2591%25E5%2589%258D%25E5%258F%25B0%2far-AA2hbuK6&c=8949213373154201122&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 03:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026全国优秀科普图书作品推荐发布暨三晋文化大模型发布活动启幕",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c040e924319b48e72b7283ec1f0&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f2026%25E5%2585%25A8%25E5%259B%25BD%25E4%25BC%2598%25E7%25A7%2580%25E7%25A7%2591%25E6%2599%25AE%25E5%259B%25BE%25E4%25B9%25A6%25E4%25BD%259C%25E5%2593%2581%25E6%258E%25A8%25E8%258D%2590%25E5%258F%2591%25E5%25B8%2583%25E6%259A%25A8%25E4%25B8%2589%25E6%2599%258B%25E6%2596%2587%25E5%258C%2596%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%25E6%25B4%25BB%25E5%258A%25A8%25E5%2590%25AF%25E5%25B9%2595%2far-AA2hb5GN&c=2519206839179287327&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 02:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "source": "Hacker News",
+    "time": "11-11 02:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜又“火出圈” 涨停潮刷屏",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c06e97d458695457b802f42c28b&url=https%3a%2f%2fhzdaily.hangzhou.com.cn%2fmrsb%2f2026%2f11%2f11%2farticle_detail_3_20261111A101.html&c=11545568808739390694&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "百元AI眼镜背后：京东把选品做到产业链上游",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c06e97d458695457b802f42c28b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261110A0EOHE00&c=6886301525812532747&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-10 22:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "北京：建立具身智能机器人企业上市“一对一”服务机制，培育优势龙头企业",
+    "url": "https://www.ithome.com/1/025/432.htm",
+    "source": "IT之家",
+    "time": "11-11 14:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "特斯拉推出 Cybertruck 遥控模型车、2.5 代人形机器人摆件，199 元起",
+    "url": "https://www.ithome.com/1/025/401.htm",
+    "source": "IT之家",
+    "time": "11-11 13:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "2026 世界计算大会 11 月 19 日长沙举行：首设太空计算论坛，具身智能机器人、脑机接口将亮相",
+    "url": "https://www.ithome.com/1/025/399.htm",
+    "source": "IT之家",
+    "time": "11-11 12:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "我国首款商用级中小型纯太阳能无人机“轻骑兵”首飞成功：翼展 8 米，设计续航 30 小时",
+    "url": "https://www.ithome.com/1/025/446.htm",
+    "source": "IT之家",
+    "time": "11-11 14:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "使用 FSD 破解版进行智驾测试、被特斯拉发函后，第一电动网 CEO 庞义成回应称“不可能撤稿”",
+    "url": "https://www.ithome.com/1/025/394.htm",
+    "source": "IT之家",
+    "time": "11-11 12:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "恐影响部分游戏性能：微软 11 月 Win11 累积更新扩大自动启用“内存完整性”",
+    "url": "https://www.ithome.com/1/025/408.htm",
+    "source": "IT之家",
+    "time": "11-11 13:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易暴雪一起笑！《魔兽世界:无限》没崩，国服和全球服创造历史新高",
+    "url": "http://www.gamelook.com.cn/2026/11/606110/",
+    "source": "GameLook",
+    "time": "11-11 12:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英国广告局开罚单：4家休闲SLG手游大厂中招，游戏广告“忽悠玩家”成顽疾",
+    "url": "http://www.gamelook.com.cn/2026/11/606100/",
+    "source": "GameLook",
+    "time": "11-11 11:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "国补后 2999 → 1588 元：KTC 显示器 M27P6S 新低，4K 160Hz/1080P 320Hz 双模 Mini LED",
+    "url": "https://www.ithome.com/1/025/439.htm",
+    "source": "IT之家",
+    "time": "11-11 14:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "999 → 679 元：小米 REDMI 17 入门级 5G 手机京东国补新低，高刷大屏长续航",
+    "url": "https://www.ithome.com/1/025/405.htm",
+    "source": "IT之家",
+    "time": "11-11 13:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(5)",
+   "Bing新闻(10)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
