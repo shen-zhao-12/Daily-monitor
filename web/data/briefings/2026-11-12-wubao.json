@@ -1,0 +1,260 @@
+{
+ "id": "2026-11-12-wubao",
+ "title": "线口监测午报 · 2026年11月12日(周四)",
+ "shift": "午报",
+ "date": "2026-11-12 15:17",
+ "docx": "../briefings/线口监测午报-2026-11-12.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "“独游用了AI、就不许参加评奖”！《Big Walk》被IGF除名，AI修Bug也不行？",
+    "url": "http://www.gamelook.com.cn/2026/11/606198/",
+    "source": "GameLook",
+    "time": "11-12 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "索尼刀下再添3A亡魂：研发3年射击网游《Fairgame》被砍，玩家：别造垃圾",
+    "url": "http://www.gamelook.com.cn/2026/11/606160/",
+    "source": "GameLook",
+    "time": "11-12 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "source": "Hacker News",
+    "time": "11-12 06:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "source": "Hacker News",
+    "time": "11-12 05:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里官宣全新一代千问大模型Qwen4即将发布! 恒生科技ETF天弘(520920)标的指数跌逾1%，昨日净流入超1500万元",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56818cb704345be8b207590bff165&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E9%2598%25BF%25E9%2587%258C%25E5%25AE%2598%25E5%25AE%25A3%25E5%2585%25A8%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3%25E5%258D%2583%25E9%2597%25AE%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Bqwen4%25E5%258D%25B3%25E5%25B0%2586%25E5%258F%2591%25E5%25B8%2583-%25E6%2581%2592%25E7%2594%259F%25E7%25A7%2591%25E6%258A%2580etf%25E5%25A4%25A9%25E5%25BC%2598-520920-%25E6%25A0%2587%25E7%259A%2584%25E6%258C%2587%25E6%2595%25B0%25E8%25B7%258C%25E9%2580%25BE1-%25E6%2598%25A8%25E6%2597%25A5%25E5%2587%2580%25E6%25B5%2581%25E5%2585%25A5%25E8%25B6%25851500%25E4%25B8%2587%25E5%2585%2583%2far-AA2hglIK&c=2019803861998829077&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 01:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌DeepMind发布新一代基因组 AI 模型 AlphaGenome 2：从组织预测深入单细胞分析",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56818cb704345be8b207590bff165&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E8%25B0%25B7%25E6%25AD%258Cdeepmind%25E5%258F%2591%25E5%25B8%2583%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3%25E5%259F%25BA%25E5%259B%25A0%25E7%25BB%2584-ai-%25E6%25A8%25A1%25E5%259E%258B-alphagenome-2-%25E4%25BB%258E%25E7%25BB%2584%25E7%25BB%2587%25E9%25A2%2584%25E6%25B5%258B%25E6%25B7%25B1%25E5%2585%25A5%25E5%258D%2595%25E7%25BB%2586%25E8%2583%259E%25E5%2588%2586%25E6%259E%2590%2far-AA2hfkbc&c=1233888013614194098&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 23:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "【微特稿】严查AI眼镜作弊 韩国高考监考人员接受特训",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56819854e449893d7ce98869035f6&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261112A05OQT00&c=13970121026183672884&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 20:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "李彦宏：模型越多选择越困难，百度推出“词元所”大模型交易平台",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56818cb704345be8b207590bff165&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100475619_122014422&c=6191507364691009652&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 20:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "My AI agents found an unmapped Maya site?",
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "source": "Hacker News",
+    "time": "11-11 20:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜概念板块表现活跃 机构称行业由导入期迈向成长期",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56819854e449893d7ce98869035f6&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611113928530193.html&c=17989707045951514797&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 17:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "四川大决策投顾：AI眼镜：政策与供给共振，需求侧有望迎来实质性放量",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56819854e449893d7ce98869035f6&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100141076_723518&c=16660256601163738618&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 15:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国高考将派专人查AI眼镜",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56819854e449893d7ce98869035f6&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8xxe9z9se5P&c=6055053534254861686&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 10:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "泰国梁其伟？MIT核物理博士做游戏，8个人8天用AI做出“曼谷版GTA”！",
+    "url": "http://www.gamelook.com.cn/2026/11/606062/",
+    "source": "GameLook",
+    "time": "11-11 09:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“太多人用AI做游戏”，办了12年的游戏开发赛停办，同行：真因AI还是穷？",
+    "url": "http://www.gamelook.com.cn/2026/11/606021/",
+    "source": "GameLook",
+    "time": "11-11 09:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI大模型持续突破加速商业化，恒生科技ETF华泰柏瑞（513130）助力布局港股科技回调窗口期",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56818cb704345be8b207590bff165&url=https%3a%2f%2ffinance.sina.com.cn%2fmoney%2ffund%2fjjh%2f2026-11-11%2fdoc-iniyitry5320802.shtml&c=4660042798773939855&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜又“火出圈” 涨停潮刷屏",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56819854e449893d7ce98869035f6&url=https%3a%2f%2fhzdaily.hangzhou.com.cn%2fmrsb%2f2026%2f11%2f11%2farticle_detail_3_20261111A101.html&c=11545568808739390694&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "百元AI眼镜背后：京东把选品做到产业链上游",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56819854e449893d7ce98869035f6&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261110A0EOHE00&c=6886301525812532747&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-10 22:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "刀枪剑影激辩，“为何3A游戏默认玩家是傻子 ”？",
+    "url": "http://www.gamelook.com.cn/2026/11/606181/",
+    "source": "GameLook",
+    "time": "11-12 10:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "SLG后浪推前浪！微信小游戏畅销榜前五占4席：《造化仙府》首入Top5",
+    "url": "http://www.gamelook.com.cn/2026/11/606134/",
+    "source": "GameLook",
+    "time": "11-12 10:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易暴雪一起笑！《魔兽世界:无限》没崩，国服和全球服创造历史新高",
+    "url": "http://www.gamelook.com.cn/2026/11/606110/",
+    "source": "GameLook",
+    "time": "11-11 12:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英国广告局开罚单：4家休闲SLG手游大厂中招，游戏广告“忽悠玩家”成顽疾",
+    "url": "http://www.gamelook.com.cn/2026/11/606100/",
+    "source": "GameLook",
+    "time": "11-11 11:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "GameLook(14)",
+   "HackerNews(4)",
+   "Bing新闻(12)"
+  ],
+  "fail": [
+   "36氪(no entries)",
+   "IT之家(HTTP 404)"
+  ]
+ }
+}
