@@ -1,0 +1,361 @@
+{
+ "id": "2026-11-13-zaobao",
+ "title": "线口监测早报 · 2026年11月13日(周五)",
+ "shift": "早报",
+ "date": "2026-11-13 00:45",
+ "docx": "../briefings/线口监测早报-2026-11-13.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨",
+    "url": "https://www.ithome.com/1/026/437.htm",
+    "source": "IT之家",
+    "time": "11-12 23:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "科大讯飞星火语音基座大模型 SparkAudio 1.0 上线 API 服务，支持 99 种语言、202 种方言",
+    "url": "https://www.ithome.com/1/026/386.htm",
+    "source": "IT之家",
+    "time": "11-12 21:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "广汽埃安 Ray 7 车型上市：华为 192 线激光雷达、搭文远知行 L4 级 Robotaxi 同源大模型，限时价 11.47 万元起",
+    "url": "https://www.ithome.com/1/026/385.htm",
+    "source": "IT之家",
+    "time": "11-12 21:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AWS 首席 AI 和技术官马特 · 伍德：优秀的工程师要爱上问题，而非现成解法",
+    "url": "https://www.ithome.com/1/026/359.htm",
+    "source": "IT之家",
+    "time": "11-12 19:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI CEO 奥尔特曼现身超跑聚会，身旁停着数百万美元柯尼塞格",
+    "url": "https://www.ithome.com/1/026/355.htm",
+    "source": "IT之家",
+    "time": "11-12 19:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "月之暗面徐天天：AI 迭代速度将继续加快",
+    "url": "https://www.ithome.com/1/026/353.htm",
+    "source": "IT之家",
+    "time": "11-12 19:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Dbrand 推出首款经谷歌认证的 Fitbit Air 第三方表带 Pulse Band，采用“医疗级”硅胶材质",
+    "url": "https://www.ithome.com/1/026/327.htm",
+    "source": "IT之家",
+    "time": "11-12 18:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "百度发布大模型交易平台“词元所”：宣称中立可信，打造大模型界的“证券交易所”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed1796fd411582d822ade0a5ed51&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100631901_362225&c=3387395895111140348&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IDC：中国计算机视觉私有化市场上半年同比增长 16.8%，大模型与专用模型协同发展",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed1796fd411582d822ade0a5ed51&url=https%3a%2f%2fwww.ithome.com%2f1%2f025%2f908.htm&c=10810051640825568655&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "【微特稿】严查AI眼镜作弊 韩国高考监考人员接受特训",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed195e7e45299b96d4887af1af0d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261112A05OQT00&c=13970121026183672884&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 10:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“独游用了AI、就不许参加评奖”！《Big Walk》被IGF除名，AI修Bug也不行？",
+    "url": "http://www.gamelook.com.cn/2026/11/606198/",
+    "source": "GameLook",
+    "time": "11-12 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "索尼刀下再添3A亡魂：研发3年射击网游《Fairgame》被砍，玩家：别造垃圾",
+    "url": "http://www.gamelook.com.cn/2026/11/606160/",
+    "source": "GameLook",
+    "time": "11-12 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "百度世界2026发布多项AI成果 李彦宏：AI下一幕是“智能组织”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed1796fd411582d822ade0a5ed51&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-11-12%2fdoc-iniynyar1046720.shtml&c=15166032706996770087&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 07:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "source": "Hacker News",
+    "time": "11-12 06:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "京东3C数码11.11：AI眼镜、AI录音等AI趋势品成交额同比增长超100%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed195e7e45299b96d4887af1af0d&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-12%2fdoc-iniynpnv1211191.shtml&c=11562505601599526423&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 05:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从模型发布到场景复购：2026中国具身大模型头部公司格局重绘",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed1796fd411582d822ade0a5ed51&url=https%3a%2f%2fwww.ithome.com%2f1%2f026%2f307.htm&c=11682248655186952373&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 04:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里官宣全新一代千问大模型Qwen4即将发布! 恒生科技ETF天弘(520920)标的指数跌逾1%，昨日净流入超1500万元",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed1796fd411582d822ade0a5ed51&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E9%2598%25BF%25E9%2587%258C%25E5%25AE%2598%25E5%25AE%25A3%25E5%2585%25A8%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3%25E5%258D%2583%25E9%2597%25AE%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Bqwen4%25E5%258D%25B3%25E5%25B0%2586%25E5%258F%2591%25E5%25B8%2583-%25E6%2581%2592%25E7%2594%259F%25E7%25A7%2591%25E6%258A%2580etf%25E5%25A4%25A9%25E5%25BC%2598-520920-%25E6%25A0%2587%25E7%259A%2584%25E6%258C%2587%25E6%2595%25B0%25E8%25B7%258C%25E9%2580%25BE1-%25E6%2598%25A8%25E6%2597%25A5%25E5%2587%2580%25E6%25B5%2581%25E5%2585%25A5%25E8%25B6%25851500%25E4%25B8%2587%25E5%2585%2583%2far-AA2hglIK&c=2019803861998829077&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 01:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜概念板块表现活跃 机构称行业由导入期迈向成长期",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed195e7e45299b96d4887af1af0d&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611113928530193.html&c=17989707045951514797&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 17:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026 XR与AI眼镜产业年会暨第八届“金V奖”颁奖盛典落地福州，聚力AI+XR产业新跃迁",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5ed195e7e45299b96d4887af1af0d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100169626_121124366&c=2446625750882644207&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 15:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "上下水版 2999 → 678 元：科沃斯全能基站扫拖机器人“地宝 mini2”破冰新低",
+    "url": "https://www.ithome.com/1/026/367.htm",
+    "source": "IT之家",
+    "time": "11-12 19:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "摩根大通：到 2030 年，美国人形机器人产量将达 30 万至 40 万台",
+    "url": "https://www.ithome.com/1/026/334.htm",
+    "source": "IT之家",
+    "time": "11-12 18:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
+    "url": "https://www.ithome.com/1/026/440.htm",
+    "source": "IT之家",
+    "time": "11-13 00:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "物理驱动合作生存恐怖游戏《危险等级》今日结束抢先体验：国区售价 40 元，支持简体中文",
+    "url": "https://www.ithome.com/1/026/427.htm",
+    "source": "IT之家",
+    "time": "11-12 22:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "R 星回应未来《侠盗猎车手》游戏舞台是否只有美国：凡事没有绝对",
+    "url": "https://www.ithome.com/1/026/388.htm",
+    "source": "IT之家",
+    "time": "11-12 21:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "合作生存恐怖游戏《RADZIMA》Steam 抢先体验上线：首发特惠 ¥20.46，支持简体中文",
+    "url": "https://www.ithome.com/1/026/376.htm",
+    "source": "IT之家",
+    "time": "11-12 20:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "2022 年 TGA 最佳独立游戏《迷失》实体版登陆任天堂 Switch 2，29.99 美元",
+    "url": "https://www.ithome.com/1/026/361.htm",
+    "source": "IT之家",
+    "time": "11-12 19:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Anthropic 被曝为 Claude 加入限制：禁止生成宝可梦相关游戏素材",
+    "url": "https://www.ithome.com/1/026/348.htm",
+    "source": "IT之家",
+    "time": "11-12 18:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "刀枪剑影激辩，“为何3A游戏默认玩家是傻子 ”？",
+    "url": "http://www.gamelook.com.cn/2026/11/606181/",
+    "source": "GameLook",
+    "time": "11-12 10:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "SLG后浪推前浪！微信小游戏畅销榜前五占4席：《造化仙府》首入Top5",
+    "url": "http://www.gamelook.com.cn/2026/11/606134/",
+    "source": "GameLook",
+    "time": "11-12 10:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "京东完成对德国消费电子零售商 Ceconomy 收购要约，13.35 亿欧元获 59.8% 股本及投票权",
+    "url": "https://www.ithome.com/1/026/393.htm",
+    "source": "IT之家",
+    "time": "11-12 21:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(1)",
+   "Bing新闻(13)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
