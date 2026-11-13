@@ -1,0 +1,362 @@
+{
+ "id": "2026-11-13-wubao",
+ "title": "线口监测午报 · 2026年11月13日(周五)",
+ "shift": "午报",
+ "date": "2026-11-13 14:51",
+ "docx": "../briefings/线口监测午报-2026-11-13.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "迎接《GTA 6》发售：《幻兽帕鲁》开发商 Pocketpair 为全体员工安排 5 天“特别假期”",
+    "url": "https://www.ithome.com/1/026/734.htm",
+    "source": "IT之家",
+    "time": "11-13 14:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国星宇航“星算”计划 03 组卫星下线、近期择机发射，目标 2800 颗算力卫星组网",
+    "url": "https://www.ithome.com/1/026/676.htm",
+    "source": "IT之家",
+    "time": "11-13 13:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "主导苹果 M1 芯片的传奇架构师谈 AI 电力危机：用造 iPhone 芯片的“抠门”哲学建超算",
+    "url": "https://www.ithome.com/1/026/591.htm",
+    "source": "IT之家",
+    "time": "11-13 11:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里巴巴虾米 App 关停五年后以 AI 形态回归：“Happy 系列”快乐虾米正式上线，会员每月 30 元起",
+    "url": "https://www.ithome.com/1/026/551.htm",
+    "source": "IT之家",
+    "time": "11-13 10:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产",
+    "url": "https://www.ithome.com/1/026/544.htm",
+    "source": "IT之家",
+    "time": "11-13 10:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不靠补贴、不增加他人成本：微软承诺其 AI 扩张电费将自己买单",
+    "url": "https://www.ithome.com/1/026/533.htm",
+    "source": "IT之家",
+    "time": "11-13 10:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中芯国际赵海军：AI 算力供不应求，2027 年半导体代工产能将非常紧缺",
+    "url": "https://www.ithome.com/1/026/524.htm",
+    "source": "IT之家",
+    "time": "11-13 10:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "source": "Hacker News",
+    "time": "11-13 07:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "source": "Hacker News",
+    "time": "11-13 05:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Google AI眼镜发布：从395美元起，主打隐私保护",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2fgoogle-ai%25E7%259C%25BC%25E9%2595%259C%25E5%258F%2591%25E5%25B8%2583-%25E4%25BB%258E395%25E7%25BE%258E%25E5%2585%2583%25E8%25B5%25B7-%25E4%25B8%25BB%25E6%2589%2593%25E9%259A%2590%25E7%25A7%2581%25E4%25BF%259D%25E6%258A%25A4%2far-AA2hloGX&c=12798513369833859651&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 05:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "source": "Hacker News",
+    "time": "11-13 05:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌六周连发三款大模型，压力给到OpenAI",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36a8b834eceafd33ab8ee7147c1&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-13%2fdoc-iniyqfwf1319085.shtml&c=93149927578498456&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 22:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "热烈祝贺经安畅检测认证的多款大模型产品入选省级\"模型券\"拟奖补名单！",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36a8b834eceafd33ab8ee7147c1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100987241_100232921&c=12799885269379950245&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 21:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "巨头持续涌入！谷歌新一代AI眼镜来了 端侧AI打开想象空间(附股)",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611133930527650.html&c=12953326086296921676&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 19:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "京东3C数码11.11：AI眼镜、AI录音等AI趋势品成交额同比增长超100%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-12%2fdoc-iniynpnv1211191.shtml&c=11562505601599526423&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 19:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从模型发布到场景复购：2026中国具身大模型头部公司格局重绘",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36a8b834eceafd33ab8ee7147c1&url=https%3a%2f%2fwww.ithome.com%2f1%2f026%2f307.htm&c=11682248655186952373&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 18:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌推出Android XR智能眼镜 AI芯片公司Cerebras盘后大涨 | 环球市场",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A037Y800&c=11463190061122556260&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 17:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "百度发布大模型交易平台“词元所”：宣称中立可信，打造大模型界的“证券交易所”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36a8b834eceafd33ab8ee7147c1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100631901_362225&c=3387395895111140348&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟降重量、华为铺生态、XREAL连发：国产AI眼镜正在发力",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E9%259B%25B7%25E9%25B8%259F%25E9%2599%258D%25E9%2587%258D%25E9%2587%258F-%25E5%258D%258E%25E4%25B8%25BA%25E9%2593%25BA%25E7%2594%259F%25E6%2580%2581-xreal%25E8%25BF%259E%25E5%258F%2591-%25E5%259B%25BD%25E4%25BA%25A7ai%25E7%259C%25BC%25E9%2595%259C%25E6%25AD%25A3%25E5%259C%25A8%25E5%258F%2591%25E5%258A%259B%2far-AA2hi0T6&c=3902843613930837033&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 13:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "【微特稿】严查AI眼镜作弊 韩国高考监考人员接受特训",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261112A05OQT00&c=13970121026183672884&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 10:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "百度智能云正式发布大模型交易平台词元所，日均调用 token 已超7000亿",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36a8b834eceafd33ab8ee7147c1&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-11-12%2fdoc-iniyniex1137052.shtml&c=3470584174601029632&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 06:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果AI眼镜供应链首次浮出水面，快克智能确认参与相关项目",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%258B%25B9%25E6%259E%259Cai%25E7%259C%25BC%25E9%2595%259C%25E4%25BE%259B%25E5%25BA%2594%25E9%2593%25BE%25E9%25A6%2596%25E6%25AC%25A1%25E6%25B5%25AE%25E5%2587%25BA%25E6%25B0%25B4%25E9%259D%25A2-%25E5%25BF%25AB%25E5%2585%258B%25E6%2599%25BA%25E8%2583%25BD%25E7%25A1%25AE%25E8%25AE%25A4%25E5%258F%2582%25E4%25B8%258E%25E7%259B%25B8%25E5%2585%25B3%25E9%25A1%25B9%25E7%259B%25AE%2far-AA2hfq0c&c=14262133460813196289&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 01:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里官宣全新一代千问大模型Qwen4即将发布! 恒生科技ETF天弘(520920)标的指数跌逾1%，昨日净流入超1500万元",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36a8b834eceafd33ab8ee7147c1&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E9%2598%25BF%25E9%2587%258C%25E5%25AE%2598%25E5%25AE%25A3%25E5%2585%25A8%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3%25E5%258D%2583%25E9%2597%25AE%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Bqwen4%25E5%258D%25B3%25E5%25B0%2586%25E5%258F%2591%25E5%25B8%2583-%25E6%2581%2592%25E7%2594%259F%25E7%25A7%2591%25E6%258A%2580etf%25E5%25A4%25A9%25E5%25BC%2598-520920-%25E6%25A0%2587%25E7%259A%2584%25E6%258C%2587%25E6%2595%25B0%25E8%25B7%258C%25E9%2580%25BE1-%25E6%2598%25A8%25E6%2597%25A5%25E5%2587%2580%25E6%25B5%2581%25E5%2585%25A5%25E8%25B6%25851500%25E4%25B8%2587%25E5%2585%2583%2far-AA2hglIK&c=2019803861998829077&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 01:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2026 XR与AI眼镜产业年会暨第八届“金V奖”颁奖盛典落地福州，聚力AI+XR产业新跃迁",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100169626_121124366&c=2446625750882644207&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-11 15:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
+    "url": "https://www.ithome.com/1/026/667.htm",
+    "source": "IT之家",
+    "time": "11-13 12:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "启境 GT7 迎上市以来最大规模 OTA：华为乾崑智驾 ADS 5.0.2 上线，新增手势泊出、园区领航等",
+    "url": "https://www.ithome.com/1/026/660.htm",
+    "source": "IT之家",
+    "time": "11-13 11:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "启境 GT7 Ultra 舒享版新车上市：华为乾崑智驾 + 鸿蒙座舱，增程 22.19 万元、纯电 23.19 万元",
+    "url": "https://www.ithome.com/1/026/609.htm",
+    "source": "IT之家",
+    "time": "11-13 11:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "2027 款岚图知音上市：新一代华为 896 线双光路激光雷达 + 乾崑智驾 ADS 5，售 19.79 万元",
+    "url": "https://www.ithome.com/1/026/536.htm",
+    "source": "IT之家",
+    "time": "11-13 10:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "携手BLG引爆电竞热度 雷鸟智能眼镜连续五年蝉联品类销量第一",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36c45ec4dd091ef2f0081696475&url=https%3a%2f%2fnews.mydrivers.com%2f1%2f1165%2f1165547.htm&c=9635678237177534001&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 06:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "大疆官宣 11 月 18 日起调整部分产品的建议零售价",
+    "url": "https://www.ithome.com/1/026/670.htm",
+    "source": "IT之家",
+    "time": "11-13 12:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "HackerNews(5)",
+   "Bing新闻(15)"
+  ],
+  "fail": [
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
+  ]
+ }
+}
