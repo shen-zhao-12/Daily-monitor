@@ -1,0 +1,361 @@
+{
+ "id": "2026-11-14-zaobao",
+ "title": "线口监测早报 · 2026年11月14日(周六)",
+ "shift": "早报",
+ "date": "2026-11-14 00:10",
+ "docx": "../briefings/线口监测早报-2026-11-14.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
+    "url": "https://www.ithome.com/1/026/994.htm",
+    "source": "IT之家",
+    "time": "11-13 23:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "索尼：PS5 超分技术 QSSR 即将登陆《漫威蜘蛛侠 2》《ARC Raiders》等作品",
+    "url": "https://www.ithome.com/1/026/967.htm",
+    "source": "IT之家",
+    "time": "11-13 22:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "再次延期：华为 HarmonyOS 7 小艺 AI 快捷栏 11 月中旬开推，首批含 Pura X View 等",
+    "url": "https://www.ithome.com/1/026/962.htm",
+    "source": "IT之家",
+    "time": "11-13 22:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "SpaceXAI 资源向 AI 编程工具与 Grok Bot 倾斜，消息称裁减约 60 名 Grok Imagine 员工",
+    "url": "https://www.ithome.com/1/026/961.htm",
+    "source": "IT之家",
+    "time": "11-13 22:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 发布全家桶应用 API：开发者将能 1:1 复刻完整 DeepSeek App",
+    "url": "https://www.ithome.com/1/026/960.htm",
+    "source": "IT之家",
+    "time": "11-13 22:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 助力复活尘封 15 年废案，iOS 4 时代苹果卡片后台界面曝光",
+    "url": "https://www.ithome.com/1/026/959.htm",
+    "source": "IT之家",
+    "time": "11-13 22:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国拟采购无线电探测设备，防范国家资格考试“AI 作弊”",
+    "url": "https://www.ithome.com/1/026/958.htm",
+    "source": "IT之家",
+    "time": "11-13 22:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI Is Destroying the Trust Between Writers and Readers",
+    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "source": "Hacker News",
+    "time": "11-13 19:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "BBC 曝光英国“房源照骗”现象：有中介、卖家开始用 AI 伪造或美化房屋",
+    "url": "https://www.ithome.com/1/026/904.htm",
+    "source": "IT之家",
+    "time": "11-13 18:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "source": "Hacker News",
+    "time": "11-13 18:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果AI眼镜，被“猪队友”实锤了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af736664b784123b4d292f06c48c0dd&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E8%258B%25B9%25E6%259E%259Cai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB-%25E7%258C%25AA%25E9%2598%259F%25E5%258F%258B-%25E5%25AE%259E%25E9%2594%25A4%25E4%25BA%2586%2far-AA2hk7xh&c=10414840406485936464&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 15:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌六周连发三款大模型，压力给到OpenAI",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af73665d8824a788d4e798d722b12dd&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-13%2fdoc-iniyqfwf1319085.shtml&c=93149927578498456&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 12:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌推出Android XR智能眼镜 AI芯片公司Cerebras盘后大涨 | 环球市场",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af736664b784123b4d292f06c48c0dd&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A037Y800&c=11463190061122556260&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 07:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "source": "Hacker News",
+    "time": "11-13 07:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "source": "Hacker News",
+    "time": "11-13 06:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "巨头持续涌入！谷歌新一代AI眼镜来了 端侧AI打开想象空间(附股)",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af736664b784123b4d292f06c48c0dd&url=https%3a%2f%2ffinance.eastmoney.com%2fnews%2f11822%2c202611133930527650.html&c=12259671167725333082&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 00:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "京东3C数码11.11：AI眼镜、AI录音等AI趋势品成交额同比增长超100%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af736664b784123b4d292f06c48c0dd&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-12%2fdoc-iniynpnv1211191.shtml&c=11562505601599526423&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 19:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从模型发布到场景复购：2026中国具身大模型头部公司格局重绘",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af73665d8824a788d4e798d722b12dd&url=https%3a%2f%2fwww.ithome.com%2f1%2f026%2f307.htm&c=11682248655186952373&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 18:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雷鸟降重量、华为铺生态、XREAL连发：国产AI眼镜正在发力",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af736664b784123b4d292f06c48c0dd&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E9%259B%25B7%25E9%25B8%259F%25E9%2599%258D%25E9%2587%258D%25E9%2587%258F-%25E5%258D%258E%25E4%25B8%25BA%25E9%2593%25BA%25E7%2594%259F%25E6%2580%2581-xreal%25E8%25BF%259E%25E5%258F%2591-%25E5%259B%25BD%25E4%25BA%25A7ai%25E7%259C%25BC%25E9%2595%259C%25E6%25AD%25A3%25E5%259C%25A8%25E5%258F%2591%25E5%258A%259B%2far-AA2hi0T6&c=3902843613930837033&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-12 13:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "超 19 万名车主报名参赛，第二届华为乾崑智驾公开赛今日收官",
+    "url": "https://www.ithome.com/1/026/957.htm",
+    "source": "IT之家",
+    "time": "11-13 22:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
+    "url": "https://www.ithome.com/1/026/938.htm",
+    "source": "IT之家",
+    "time": "11-13 20:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能",
+    "url": "https://www.ithome.com/1/026/995.htm",
+    "source": "IT之家",
+    "time": "11-13 23:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
+    "url": "https://www.ithome.com/1/026/934.htm",
+    "source": "IT之家",
+    "time": "11-13 19:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "爱好者将诺基亚 N-Gage 平台 2004 年游戏《上古卷轴旅行：暗影之钥》移植到 PC 平台，支持 4K 分辨率运行",
+    "url": "https://www.ithome.com/1/026/933.htm",
+    "source": "IT之家",
+    "time": "11-13 19:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游法务部称全链条打击盗版周边：采取刑事、行政、民事全方位维权，累计涉案金额超 4000 万元",
+    "url": "https://www.ithome.com/1/026/890.htm",
+    "source": "IT之家",
+    "time": "11-13 18:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏圈钱去哪了？卖量的广告平台收入狂增55%，游戏公司深陷买量内耗",
+    "url": "http://www.gamelook.com.cn/2026/11/606233/",
+    "source": "GameLook",
+    "time": "11-13 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“双11”一飞冲天，米哈游怎么就杀疯了？",
+    "url": "http://www.gamelook.com.cn/2026/11/606252/",
+    "source": "GameLook",
+    "time": "11-13 10:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "欧洲游戏圈拉警报！DFA法案亮剑：游戏币、开箱、未保、签到全中招",
+    "url": "http://www.gamelook.com.cn/2026/11/606211/",
+    "source": "GameLook",
+    "time": "11-13 10:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "落选金摇杆年度游戏，《影之刃零》官方回应：获得第二已大超预期！",
+    "url": "http://www.gamelook.com.cn/2026/11/606303/",
+    "source": "GameLook",
+    "time": "11-13 10:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "每款喜获100万美元！索尼中国之星这批新游戏，有啥看点？",
+    "url": "http://www.gamelook.com.cn/2026/11/606213/",
+    "source": "GameLook",
+    "time": "11-13 09:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(14)",
+   "HackerNews(7)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
