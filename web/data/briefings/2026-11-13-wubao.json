@@ -2,16 +2,16 @@
  "id": "2026-11-13-wubao",
  "title": "线口监测午报 · 2026年11月13日(周五)",
  "shift": "午报",
- "date": "2026-11-13 16:01",
+ "date": "2026-11-13 23:18",
  "docx": "../briefings/线口监测午报-2026-11-13.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "演示时连续 2 次撞墙：亚马逊 Ring 安防无人机取消手动控制，让 AI 全权接管",
-    "url": "https://www.ithome.com/1/026/791.htm",
+    "title": "再次延期：华为 HarmonyOS 7 小艺 AI 快捷栏 11 月中旬开推，首批含 Pura X View 等",
+    "url": "https://www.ithome.com/1/026/962.htm",
     "source": "IT之家",
-    "time": "11-13 15:37",
+    "time": "11-13 22:41",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -19,10 +19,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "上海警方通报“和平饭店 51 万元天价账单”系 AI 生成：实为酒类销售公司营销自家产品，15 名涉案人员被抓",
-    "url": "https://www.ithome.com/1/026/764.htm",
+    "title": "SpaceXAI 资源向 AI 编程工具与 Grok Bot 倾斜，消息称裁减约 60 名 Grok Imagine 员工",
+    "url": "https://www.ithome.com/1/026/961.htm",
     "source": "IT之家",
-    "time": "11-13 15:18",
+    "time": "11-13 22:30",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -30,10 +30,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "不用显卡：玩家靠停产傲腾内存跑通 2.8 万亿参数 Kimi K3 AI 模型，每秒输出 1.5 词元",
-    "url": "https://www.ithome.com/1/026/759.htm",
+    "title": "DeepSeek 发布全家桶应用 API：开发者将能 1:1 复刻完整 DeepSeek App",
+    "url": "https://www.ithome.com/1/026/960.htm",
     "source": "IT之家",
-    "time": "11-13 15:14",
+    "time": "11-13 22:29",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -41,10 +41,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 接管手机迈出关键一步：谷歌 Gemini 自动化应用名单曝光，当前共计 134 款",
-    "url": "https://www.ithome.com/1/026/752.htm",
+    "title": "AI 助力复活尘封 15 年废案，iOS 4 时代苹果卡片后台界面曝光",
+    "url": "https://www.ithome.com/1/026/959.htm",
     "source": "IT之家",
-    "time": "11-13 14:55",
+    "time": "11-13 22:23",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -52,10 +52,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "迎接《GTA 6》发售：《幻兽帕鲁》开发商 Pocketpair 为全体员工安排 5 天“特别假期”",
-    "url": "https://www.ithome.com/1/026/734.htm",
+    "title": "韩国拟采购无线电探测设备，防范国家资格考试“AI 作弊”",
+    "url": "https://www.ithome.com/1/026/958.htm",
     "source": "IT之家",
-    "time": "11-13 14:20",
+    "time": "11-13 22:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -63,10 +63,87 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "国星宇航“星算”计划 03 组卫星下线、近期择机发射，目标 2800 颗算力卫星组网",
-    "url": "https://www.ithome.com/1/026/676.htm",
+    "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+    "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+    "source": "Hacker News",
+    "time": "11-13 21:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI Is Destroying the Trust Between Writers and Readers",
+    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "source": "Hacker News",
+    "time": "11-13 19:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "BBC 曝光英国“房源照骗”现象：有中介、卖家开始用 AI 伪造或美化房屋",
+    "url": "https://www.ithome.com/1/026/904.htm",
     "source": "IT之家",
-    "time": "11-13 13:07",
+    "time": "11-13 18:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "source": "Hacker News",
+    "time": "11-13 18:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "我国科学家提出肺结节 AI 辅助诊断新方法：模拟医生看片子流程，判断更准确",
+    "url": "https://www.ithome.com/1/026/860.htm",
+    "source": "IT之家",
+    "time": "11-13 17:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌六周连发三款大模型，压力给到OpenAI",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72a3b621f41f19863fae799c9f247&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-13%2fdoc-iniyqfwf1319085.shtml&c=93149927578498456&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 12:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "巨头持续涌入！谷歌新一代AI眼镜来了 端侧AI打开想象空间(附股)",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72a3dcdc5461a8f923ba2ae1c2b38&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611133930527650.html&c=12953326086296921676&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 09:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌推出Android XR智能眼镜 AI芯片公司Cerebras盘后大涨 | 环球市场",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72a3dcdc5461a8f923ba2ae1c2b38&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A037Y800&c=11463190061122556260&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 07:41",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -85,21 +162,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Google AI眼镜发布：从395美元起，主打隐私保护",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cd966244979a18d6e0c86c07b1&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2fgoogle-ai%25E7%259C%25BC%25E9%2595%259C%25E5%258F%2591%25E5%25B8%2583-%25E4%25BB%258E395%25E7%25BE%258E%25E5%2585%2583%25E8%25B5%25B7-%25E4%25B8%25BB%25E6%2589%2593%25E9%259A%2590%25E7%25A7%2581%25E4%25BF%259D%25E6%258A%25A4%2far-AA2hloGX&c=13345475205864850081&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-13 05:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
     "source": "Hacker News",
-    "time": "11-13 05:09",
+    "time": "11-13 06:03",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -107,10 +173,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "巨头持续涌入！谷歌新一代AI眼镜来了 端侧AI打开想象空间(附股)",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cd966244979a18d6e0c86c07b1&url=https%3a%2f%2ffinance.eastmoney.com%2fnews%2f11822%2c202611133930527650.html&c=12259671167725333082&mkt=en-us",
+    "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72a3dcdc5461a8f923ba2ae1c2b38&url=https%3a%2f%2fwww.sohu.com%2fa%2f1101134745_121850782&c=8296961390424896031&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-13 00:00",
+    "time": "11-13 01:59",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -118,32 +184,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "谷歌六周连发三款大模型，压力给到OpenAI",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cc3ae846ada261d09a31f29683&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-13%2fdoc-iniyqfwf1319085.shtml&c=93149927578498456&mkt=en-us",
+    "title": "苹果AI眼镜，被“猪队友”实锤了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72a3dcdc5461a8f923ba2ae1c2b38&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E8%258B%25B9%25E6%259E%259Cai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB-%25E7%258C%25AA%25E9%2598%259F%25E5%258F%258B-%25E5%25AE%259E%25E9%2594%25A4%25E4%25BA%2586%2far-AA2hk7xh&c=10414840406485936464&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-12 22:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "热烈祝贺经安畅检测认证的多款大模型产品入选省级\"模型券\"拟奖补名单！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cc3ae846ada261d09a31f29683&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100987241_100232921&c=12799885269379950245&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-12 21:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "京东3C数码11.11：AI眼镜、AI录音等AI趋势品成交额同比增长超100%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cd966244979a18d6e0c86c07b1&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-12%2fdoc-iniynpnv1211191.shtml&c=11562505601599526423&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-12 19:01",
+    "time": "11-13 01:48",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -152,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "从模型发布到场景复购：2026中国具身大模型头部公司格局重绘",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cc3ae846ada261d09a31f29683&url=https%3a%2f%2fwww.ithome.com%2f1%2f026%2f307.htm&c=11682248655186952373&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72a3b621f41f19863fae799c9f247&url=https%3a%2f%2fwww.ithome.com%2f1%2f026%2f307.htm&c=11682248655186952373&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-12 18:13",
     "summary": "",
@@ -162,94 +206,50 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "雷鸟降重量、华为铺生态、XREAL连发：国产AI眼镜正在发力",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cd966244979a18d6e0c86c07b1&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E9%259B%25B7%25E9%25B8%259F%25E9%2599%258D%25E9%2587%258D%25E9%2587%258F-%25E5%258D%258E%25E4%25B8%25BA%25E9%2593%25BA%25E7%2594%259F%25E6%2580%2581-xreal%25E8%25BF%259E%25E5%258F%2591-%25E5%259B%25BD%25E4%25BA%25A7ai%25E7%259C%25BC%25E9%2595%259C%25E6%25AD%25A3%25E5%259C%25A8%25E5%258F%2591%25E5%258A%259B%2far-AA2hi0T6&c=3902843613930837033&mkt=en-us",
+    "title": "百度发布大模型交易平台“词元所”：宣称中立可信，打造大模型界的“证券交易所”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af72a3b621f41f19863fae799c9f247&url=https%3a%2f%2fwww.sohu.com%2fa%2f1100631901_362225&c=3387395895111140348&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-12 13:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "IDC：中国计算机视觉私有化市场上半年同比增长 16.8%，大模型与专用模型协同发展",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cc3ae846ada261d09a31f29683&url=https%3a%2f%2fwww.ithome.com%2f1%2f025%2f908.htm&c=10810051640825568655&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-12 11:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "【微特稿】严查AI眼镜作弊 韩国高考监考人员接受特训",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cd966244979a18d6e0c86c07b1&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261112A05OQT00&c=13970121026183672884&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-12 10:56",
+    "time": "11-12 15:05",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [
-   {
-    "beat": "机器人/AI硬件",
-    "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
-    "url": "https://www.ithome.com/1/026/667.htm",
-    "source": "IT之家",
-    "time": "11-13 12:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "大晓机器人发布ACE-CaP-0：真机成功率达92.1%，精细任务最快1分钟完成",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6c3cc3ae846ada261d09a31f29683&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25A4%25A7%25E6%2599%2593%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E5%258F%2591%25E5%25B8%2583ace-cap-0-%25E7%259C%259F%25E6%259C%25BA%25E6%2588%2590%25E5%258A%259F%25E7%258E%2587%25E8%25BE%25BE921-%25E7%25B2%25BE%25E7%25BB%2586%25E4%25BB%25BB%25E5%258A%25A1%25E6%259C%2580%25E5%25BF%25AB1%25E5%2588%2586%25E9%2592%259F%25E5%25AE%258C%25E6%2588%2590%2far-AA2hlu4T&c=716992542765517209&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-13 06:34",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "广汽传祺越 7 两驱智驾版 11 月 18 日上市，有望搭载 192 线激光雷达",
-    "url": "https://www.ithome.com/1/026/747.htm",
+    "title": "超 19 万名车主报名参赛，第二届华为乾崑智驾公开赛今日收官",
+    "url": "https://www.ithome.com/1/026/957.htm",
     "source": "IT之家",
-    "time": "11-13 14:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "启境 GT7 迎上市以来最大规模 OTA：华为乾崑智驾 ADS 5.0.2 上线，新增手势泊出、园区领航等",
-    "url": "https://www.ithome.com/1/026/660.htm",
-    "source": "IT之家",
-    "time": "11-13 11:58",
+    "time": "11-13 22:08",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "电商/直播/即时零售": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
+    "url": "https://www.ithome.com/1/026/938.htm",
+    "source": "IT之家",
+    "time": "11-13 20:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "游戏《巴士模拟器 27》上新免费 DLC，内含比亚迪 K9UD、K11U 两款电动车型",
-    "url": "https://www.ithome.com/1/026/795.htm",
+    "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
+    "url": "https://www.ithome.com/1/026/934.htm",
     "source": "IT之家",
-    "time": "11-13 15:49",
+    "time": "11-13 19:40",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -257,10 +257,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "玩家开箱《GTA6》盒装实体版游戏：盒内仅含下载码与封面海报，并未提供实体地图",
-    "url": "https://www.ithome.com/1/026/792.htm",
+    "title": "爱好者将诺基亚 N-Gage 平台 2004 年游戏《上古卷轴旅行：暗影之钥》移植到 PC 平台，支持 4K 分辨率运行",
+    "url": "https://www.ithome.com/1/026/933.htm",
     "source": "IT之家",
-    "time": "11-13 15:37",
+    "time": "11-13 19:24",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -268,10 +268,21 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "SE 游戏《浪漫沙加 3 错综宿命》反向跳票，提前至 2027 年 2 月 4 日上市",
-    "url": "https://www.ithome.com/1/026/758.htm",
+    "title": "米哈游法务部称全链条打击盗版周边：采取刑事、行政、民事全方位维权，累计涉案金额超 4000 万元",
+    "url": "https://www.ithome.com/1/026/890.htm",
     "source": "IT之家",
-    "time": "11-13 15:12",
+    "time": "11-13 18:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯混元发布实时语音模型 Hy Realtime：能说会唱、还能调用工具，已在元宝语音通话、腾讯客服等上线",
+    "url": "https://www.ithome.com/1/026/825.htm",
+    "source": "IT之家",
+    "time": "11-13 16:41",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -333,27 +344,15 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": [
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "大疆官宣 11 月 18 日起调整部分产品的建议零售价",
-    "url": "https://www.ithome.com/1/026/670.htm",
-    "source": "IT之家",
-    "time": "11-13 12:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ]
+  "消费/以旧换新/新餐饮": []
  },
  "flash": [],
  "stats": {
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(5)",
-   "Bing新闻(12)"
+   "HackerNews(9)",
+   "Bing新闻(10)"
   ],
   "fail": [
    "36氪(no entries)"
