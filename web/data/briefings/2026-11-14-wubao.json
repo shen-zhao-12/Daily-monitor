@@ -2,10 +2,43 @@
  "id": "2026-11-14-wubao",
  "title": "线口监测午报 · 2026年11月14日(周六)",
  "shift": "午报",
- "date": "2026-11-14 14:31",
+ "date": "2026-11-14 15:37",
  "docx": "../briefings/线口监测午报-2026-11-14.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "新西兰最大零售商 The Warehouse 爆发员工抗议：如厕时间都用 AI 管",
+    "url": "https://www.ithome.com/1/027/150.htm",
+    "source": "IT之家",
+    "time": "11-14 15:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "《巫师 3》新 DLC 杰洛特波兰语配音演员中风后声音沙哑，CDPR 利用 AI 技术还原其早期声线",
+    "url": "https://www.ithome.com/1/027/147.htm",
+    "source": "IT之家",
+    "time": "11-14 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌利用多个专业 AI 智能体打造 Teamwork 系统，成功验证多项复杂数学证明",
+    "url": "https://www.ithome.com/1/027/140.htm",
+    "source": "IT之家",
+    "time": "11-14 14:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "谷歌高管借 Gemini AI 成功让苹果 iPhone Duo 运行微软 Win11",
@@ -96,17 +129,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "本地推理引擎 llama.cpp 1.0.0 史诗级更新：支持超 150 种模型架构，断网也能满血跑大模型",
-    "url": "https://www.ithome.com/1/027/019.htm",
-    "source": "IT之家",
-    "time": "11-14 08:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
     "url": "https://orcasairband.com/",
     "source": "Hacker News",
@@ -141,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "全彩AI眼镜竞速：技术补课之后，商业验证开始",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8003e93204a4f92ec37fd4b7f7ee8&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A0AVMR00&c=6536902876846369194&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A0AVMR00&c=6536902876846369194&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-13 17:08",
     "summary": "",
@@ -152,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果AI眼镜，被“猪队友”实锤了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8003e93204a4f92ec37fd4b7f7ee8&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E8%258B%25B9%25E6%259E%259Cai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB-%25E7%258C%25AA%25E9%2598%259F%25E5%258F%258B-%25E5%25AE%259E%25E9%2594%25A4%25E4%25BA%2586%2far-AA2hk7xh&c=10414840406485936464&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E8%258B%25B9%25E6%259E%259Cai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB-%25E7%258C%25AA%25E9%2598%259F%25E5%258F%258B-%25E5%25AE%259E%25E9%2594%25A4%25E4%25BA%2586%2far-AA2hk7xh&c=10414840406485936464&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-13 15:22",
     "summary": "",
@@ -163,9 +185,20 @@
    {
     "beat": "AI/大模型",
     "title": "谷歌六周连发三款大模型，压力给到OpenAI",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8003dc146481eaaeb3f82bea4519a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-13%2fdoc-iniyqfwf1319085.shtml&c=93149927578498456&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd54d3e42d7a0a131ad64444174&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-13%2fdoc-iniyqfwf1319085.shtml&c=93149927578498456&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-13 12:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "巨头持续涌入！谷歌新一代AI眼镜来了 端侧AI打开想象空间(附股)",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611133930527650.html&c=12953326086296921676&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-13 09:27",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -184,19 +217,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "巨头持续涌入！谷歌新一代AI眼镜来了 端侧AI打开想象空间(附股)",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8003e93204a4f92ec37fd4b7f7ee8&url=https%3a%2f%2ffinance.eastmoney.com%2fnews%2f11822%2c202611133930527650.html&c=12259671167725333082&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-13 00:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "京东3C数码11.11：AI眼镜、AI录音等AI趋势品成交额同比增长超100%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8003e93204a4f92ec37fd4b7f7ee8&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-12%2fdoc-iniynpnv1211191.shtml&c=11562505601599526423&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-12%2fdoc-iniynpnv1211191.shtml&c=11562505601599526423&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-12 19:01",
     "summary": "",
@@ -207,7 +229,7 @@
    {
     "beat": "AI/大模型",
     "title": "从模型发布到场景复购：2026中国具身大模型头部公司格局重绘",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8003dc146481eaaeb3f82bea4519a&url=https%3a%2f%2fwww.ithome.com%2f1%2f026%2f307.htm&c=11682248655186952373&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd54d3e42d7a0a131ad64444174&url=https%3a%2f%2fwww.ithome.com%2f1%2f026%2f307.htm&c=11682248655186952373&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-12 18:13",
     "summary": "",
@@ -218,7 +240,7 @@
    {
     "beat": "AI/大模型",
     "title": "进博快讯 | SGS为乐奇Rokid AI眼镜颁发佩戴舒适Performance Tested Mark，引领AI眼镜舒适体验新标杆",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8003e93204a4f92ec37fd4b7f7ee8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1099171603_122902378&c=17899538595033655618&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2fwww.sohu.com%2fa%2f1099171603_122902378&c=17899538595033655618&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-12 16:30",
     "summary": "",
@@ -227,7 +249,19 @@
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
+    "url": "https://www.ithome.com/1/027/144.htm",
+    "source": "IT之家",
+    "time": "11-14 15:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -239,21 +273,21 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "高速上开智驾睡觉还载着一家人？青岛交警查处最新违法案例公布",
-    "url": "https://www.ithome.com/1/027/012.htm",
-    "source": "IT之家",
-    "time": "11-14 07:48",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "部分玩家反馈自己购买的《GTA6》游戏实体盒装版并未随附游戏兑换码，向经销商退款遭拒",
+    "url": "https://www.ithome.com/1/027/135.htm",
+    "source": "IT之家",
+    "time": "11-14 14:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "Take-Two CEO：实体游戏不会消失，但未来会像黑胶唱片一样小众",
@@ -275,20 +309,21 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
    {
-    "beat": "游戏/电竞/平台公司",
-    "title": "雷蛇辉月神专业版电竞椅发布：六马达多区域触觉反馈、THX 扬声器、RGB 灯效，7999 元",
-    "url": "https://www.ithome.com/1/027/022.htm",
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "谷歌 Gemini 个人智能功能接入 Google Wallet 钱包应用：可为用户消费习惯提供个性化分析建议",
+    "url": "https://www.ithome.com/1/027/141.htm",
     "source": "IT之家",
-    "time": "11-14 08:18",
+    "time": "11-14 14:57",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
-  ],
-  "消费/以旧换新/新餐饮": []
+  ]
  },
  "flash": [],
  "stats": {
