@@ -2,10 +2,120 @@
  "id": "2026-11-14-wubao",
  "title": "线口监测午报 · 2026年11月14日(周六)",
  "shift": "午报",
- "date": "2026-11-14 15:37",
+ "date": "2026-11-14 22:04",
  "docx": "../briefings/线口监测午报-2026-11-14.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
+    "url": "https://www.ithome.com/1/027/238.htm",
+    "source": "IT之家",
+    "time": "11-14 21:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+    "url": "https://www.ithome.com/1/027/229.htm",
+    "source": "IT之家",
+    "time": "11-14 21:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力",
+    "url": "https://www.ithome.com/1/027/221.htm",
+    "source": "IT之家",
+    "time": "11-14 19:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国首届 AI 音乐奖颁奖典礼举行，入围者坦言背后同样凝聚真人心血",
+    "url": "https://www.ithome.com/1/027/210.htm",
+    "source": "IT之家",
+    "time": "11-14 18:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，消耗资源低于 Chromium",
+    "url": "https://www.ithome.com/1/027/197.htm",
+    "source": "IT之家",
+    "time": "11-14 18:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”",
+    "url": "https://www.ithome.com/1/027/184.htm",
+    "source": "IT之家",
+    "time": "11-14 17:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为麒麟 9050 系列新马良 GPU、AI ISP 情报公开：实装二代硬件光追，首次实现 2 亿像素融合拍照",
+    "url": "https://www.ithome.com/1/027/181.htm",
+    "source": "IT之家",
+    "time": "11-14 17:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英特尔联合 23 家韩国企业成立“K-AI 全栈联盟”，构建 AI 基础设施生态",
+    "url": "https://www.ithome.com/1/027/180.htm",
+    "source": "IT之家",
+    "time": "11-14 17:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美联储理事巴尔：AI 快速普及，短期内收入不平等恐加剧",
+    "url": "https://www.ithome.com/1/027/177.htm",
+    "source": "IT之家",
+    "time": "11-14 16:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "游戏《红色沙漠》开发商将 AI 应用范围扩展至整个开发管线，强调核心创作仍由人工主导",
+    "url": "https://www.ithome.com/1/027/154.htm",
+    "source": "IT之家",
+    "time": "11-14 15:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "新西兰最大零售商 The Warehouse 爆发员工抗议：如厕时间都用 AI 管",
@@ -30,98 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "谷歌利用多个专业 AI 智能体打造 Teamwork 系统，成功验证多项复杂数学证明",
-    "url": "https://www.ithome.com/1/027/140.htm",
-    "source": "IT之家",
-    "time": "11-14 14:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌高管借 Gemini AI 成功让苹果 iPhone Duo 运行微软 Win11",
-    "url": "https://www.ithome.com/1/027/118.htm",
-    "source": "IT之家",
-    "time": "11-14 13:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "微软 14 年 AI 老将离职：称创新难落地，降本研究未获认真考虑",
-    "url": "https://www.ithome.com/1/027/078.htm",
-    "source": "IT之家",
-    "time": "11-14 13:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场",
-    "url": "https://www.ithome.com/1/027/072.htm",
-    "source": "IT之家",
-    "time": "11-14 11:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
     "source": "Hacker News",
     "time": "11-14 10:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
-    "url": "https://www.ithome.com/1/027/052.htm",
-    "source": "IT之家",
-    "time": "11-14 10:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工",
-    "url": "https://www.ithome.com/1/027/050.htm",
-    "source": "IT之家",
-    "time": "11-14 09:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
-    "url": "https://www.ithome.com/1/027/038.htm",
-    "source": "IT之家",
-    "time": "11-14 09:20",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "礼来 CEO 回应“AI 十年内攻克癌症”：愿景很美好，但不太可能",
-    "url": "https://www.ithome.com/1/027/037.htm",
-    "source": "IT之家",
-    "time": "11-14 09:10",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -163,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "全彩AI眼镜竞速：技术补课之后，商业验证开始",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A0AVMR00&c=6536902876846369194&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af86a6b30ca42428d670c1b8780972a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A0AVMR00&c=6536902876846369194&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-13 17:08",
     "summary": "",
@@ -174,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果AI眼镜，被“猪队友”实锤了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E8%258B%25B9%25E6%259E%259Cai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB-%25E7%258C%25AA%25E9%2598%259F%25E5%258F%258B-%25E5%25AE%259E%25E9%2594%25A4%25E4%25BA%2586%2far-AA2hk7xh&c=10414840406485936464&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af86a6b30ca42428d670c1b8780972a&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E8%258B%25B9%25E6%259E%259Cai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB-%25E7%258C%25AA%25E9%2598%259F%25E5%258F%258B-%25E5%25AE%259E%25E9%2594%25A4%25E4%25BA%2586%2far-AA2hk7xh&c=10414840406485936464&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-13 15:22",
     "summary": "",
@@ -185,20 +207,9 @@
    {
     "beat": "AI/大模型",
     "title": "谷歌六周连发三款大模型，压力给到OpenAI",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd54d3e42d7a0a131ad64444174&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-13%2fdoc-iniyqfwf1319085.shtml&c=93149927578498456&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af86a6a4be24e45b316fa01e779340b&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-13%2fdoc-iniyqfwf1319085.shtml&c=93149927578498456&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-13 12:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "巨头持续涌入！谷歌新一代AI眼镜来了 端侧AI打开想象空间(附股)",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611133930527650.html&c=12953326086296921676&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-13 09:27",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -214,75 +225,53 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "京东3C数码11.11：AI眼镜、AI录音等AI趋势品成交额同比增长超100%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-12%2fdoc-iniynpnv1211191.shtml&c=11562505601599526423&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-12 19:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "从模型发布到场景复购：2026中国具身大模型头部公司格局重绘",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd54d3e42d7a0a131ad64444174&url=https%3a%2f%2fwww.ithome.com%2f1%2f026%2f307.htm&c=11682248655186952373&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-12 18:13",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "进博快讯 | SGS为乐奇Rokid AI眼镜颁发佩戴舒适Performance Tested Mark，引领AI眼镜舒适体验新标杆",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80fd6c9444f8fb76481896512ec35&url=https%3a%2f%2fwww.sohu.com%2fa%2f1099171603_122902378&c=17899538595033655618&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-12 16:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "机器人/AI硬件": [
-   {
-    "beat": "机器人/AI硬件",
-    "title": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
-    "url": "https://www.ithome.com/1/027/144.htm",
-    "source": "IT之家",
-    "time": "11-14 15:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
-    "title": "特斯拉 Cybercab 面向个人用户开放销售：售 29990 美元，每月还需支付 299 美元自动驾驶订阅费用",
-    "url": "https://www.ithome.com/1/027/034.htm",
+    "title": "网约车平台 Uber 优步遭黑客攻击，致美国多州司机驾照信息外泄",
+    "url": "https://www.ithome.com/1/027/219.htm",
     "source": "IT之家",
-    "time": "11-14 08:59",
+    "time": "11-14 19:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右",
+    "url": "https://www.ithome.com/1/027/159.htm",
+    "source": "IT之家",
+    "time": "11-14 15:46",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "电商/直播/即时零售": [],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "预测市场平台 Kalshi 招募《GTA 6》研究员，需全程直播游玩过程并分析游戏内外经济",
+    "url": "https://www.ithome.com/1/027/216.htm",
+    "source": "IT之家",
+    "time": "11-14 19:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "部分玩家反馈自己购买的《GTA6》游戏实体盒装版并未随附游戏兑换码，向经销商退款遭拒",
-    "url": "https://www.ithome.com/1/027/135.htm",
-    "source": "IT之家",
-    "time": "11-14 14:39",
+    "title": "游戏圈钱去哪了？卖量的广告平台收入狂增55%，游戏公司深陷买量内耗",
+    "url": "http://www.gamelook.com.cn/2026/11/606233/",
+    "source": "GameLook",
+    "time": "11-13 10:46",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -290,10 +279,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "Take-Two CEO：实体游戏不会消失，但未来会像黑胶唱片一样小众",
-    "url": "https://www.ithome.com/1/027/070.htm",
-    "source": "IT之家",
-    "time": "11-14 11:19",
+    "title": "“双11”一飞冲天，米哈游怎么就杀疯了？",
+    "url": "http://www.gamelook.com.cn/2026/11/606252/",
+    "source": "GameLook",
+    "time": "11-13 10:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -301,10 +290,32 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "索尼宣布《战神：斯巴达之子》推出 PS4 版，新增两种游戏模式",
-    "url": "https://www.ithome.com/1/027/058.htm",
-    "source": "IT之家",
-    "time": "11-14 10:33",
+    "title": "欧洲游戏圈拉警报！DFA法案亮剑：游戏币、开箱、未保、签到全中招",
+    "url": "http://www.gamelook.com.cn/2026/11/606211/",
+    "source": "GameLook",
+    "time": "11-13 10:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "落选金摇杆年度游戏，《影之刃零》官方回应：获得第二已大超预期！",
+    "url": "http://www.gamelook.com.cn/2026/11/606303/",
+    "source": "GameLook",
+    "time": "11-13 10:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "每款喜获100万美元！索尼中国之星这批新游戏，有啥看点？",
+    "url": "http://www.gamelook.com.cn/2026/11/606213/",
+    "source": "GameLook",
+    "time": "11-13 09:39",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -314,10 +325,21 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "谷歌 Gemini 个人智能功能接入 Google Wallet 钱包应用：可为用户消费习惯提供个性化分析建议",
-    "url": "https://www.ithome.com/1/027/141.htm",
+    "title": "极狐贝塔 T1 换电版上市：电池月租 399 元起，终端零售价 5.2 万元起",
+    "url": "https://www.ithome.com/1/027/161.htm",
     "source": "IT之家",
-    "time": "11-14 14:57",
+    "time": "11-14 15:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "微软确认消费者产品服务已恢复，企业服务仍在监控",
+    "url": "https://www.ithome.com/1/027/156.htm",
+    "source": "IT之家",
+    "time": "11-14 15:38",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -329,12 +351,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
+   "GameLook(7)",
    "HackerNews(6)",
-   "Bing新闻(7)"
+   "Bing新闻(4)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "GameLook(HTTP 502)"
+   "36氪(no entries)"
   ]
  }
 }
