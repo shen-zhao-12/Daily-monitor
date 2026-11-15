@@ -2,10 +2,54 @@
  "id": "2026-11-15-wubao",
  "title": "线口监测午报 · 2026年11月15日(周日)",
  "shift": "午报",
- "date": "2026-11-15 14:40",
+ "date": "2026-11-15 15:53",
  "docx": "../briefings/线口监测午报-2026-11-15.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "黄仁勋辞任英伟达 CEO，AI 初创企业融资面临变局",
+    "url": "https://www.ithome.com/1/027/339.htm",
+    "source": "IT之家",
+    "time": "11-15 15:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Stellantis 获新型电动拖车专利，利用 AI 助力让普通小车也能拖挂房车",
+    "url": "https://www.ithome.com/1/027/332.htm",
+    "source": "IT之家",
+    "time": "11-15 14:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "经典动作游戏《超级肉肉男孩》高清重制版《Super Meat Boy Again+》公布，将加入全新关卡和隐藏内容",
+    "url": "https://www.ithome.com/1/027/326.htm",
+    "source": "IT之家",
+    "time": "11-15 14:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "失落 20 年的任天堂 DS 宝可梦游戏《PokéPark: Tsuri Taikai》重现，全球唯一可运行卡带现身",
+    "url": "https://www.ithome.com/1/027/324.htm",
+    "source": "IT之家",
+    "time": "11-15 14:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "GDC 调查：40% 游戏产业从业者在使用 AI，55% 对其持批评态度",
@@ -96,39 +140,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
-    "url": "https://www.ithome.com/1/027/262.htm",
-    "source": "IT之家",
-    "time": "11-15 08:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
-    "url": "https://www.ithome.com/1/027/255.htm",
-    "source": "IT之家",
-    "time": "11-15 07:38",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
-    "url": "https://www.ithome.com/1/027/253.htm",
-    "source": "IT之家",
-    "time": "11-15 07:26",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Lovable apps expose passport details and more than 200K private messages",
     "url": "https://www.crissyfield.de/research/lovable-en/",
     "source": "Hacker News",
@@ -141,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜变轻变聪明：拍照、识曲、实时翻译，韩国下月开售",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af953f77596421c8e063eeb8043024a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1101638434_447547&c=17413093635730124943&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af964e85d9e415abfdfe9b80a6d7cbb&url=https%3a%2f%2fwww.sohu.com%2fa%2f1101638434_447547&c=17413093635730124943&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-15 00:35",
     "summary": "",
@@ -152,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "全球每两副AI眼镜一副“广东造”，广货智能穿戴加速出海",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af953f77596421c8e063eeb8043024a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261114A0CDNE00&c=12444532656484287030&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af964e85d9e415abfdfe9b80a6d7cbb&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261114A0CDNE00&c=12444532656484287030&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-14 17:58",
     "summary": "",
@@ -163,30 +174,53 @@
    {
     "beat": "AI/大模型",
     "title": "全彩AI眼镜竞速：技术补课之后，商业验证开始",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af953f77596421c8e063eeb8043024a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A0AVMR00&c=6536902876846369194&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af964e85d9e415abfdfe9b80a6d7cbb&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A0AVMR00&c=6536902876846369194&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-13 17:08",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "机器人/AI硬件": [
    {
-    "beat": "AI/大模型",
-    "title": "苹果AI眼镜，被“猪队友”实锤了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af953f77596421c8e063eeb8043024a&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E8%258B%25B9%25E6%259E%259Cai%25E7%259C%25BC%25E9%2595%259C-%25E8%25A2%25AB-%25E7%258C%25AA%25E9%2598%259F%25E5%258F%258B-%25E5%25AE%259E%25E9%2594%25A4%25E4%25BA%2586%2far-AA2hk7xh&c=10414840406485936464&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-13 15:22",
+    "beat": "机器人/AI硬件",
+    "title": "爱好者将索尼 PS5 独占的 TGA 2024 年度游戏《宇宙机器人》移植到 PC 平台",
+    "url": "https://www.ithome.com/1/027/343.htm",
+    "source": "IT之家",
+    "time": "11-15 15:16",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》即将发售，游戏虚构快餐品牌 Burger Shot 登陆佛罗里达现实门店",
+    "url": "https://www.ithome.com/1/027/344.htm",
+    "source": "IT之家",
+    "time": "11-15 15:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软 XBOX 旗下游戏工作室 InXile 办公楼遭枪击，警方已逮捕一名嫌疑人",
+    "url": "https://www.ithome.com/1/027/337.htm",
+    "source": "IT之家",
+    "time": "11-15 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "实况平台 Twitch 联动《GTA 6》推出限定活动，将赠送超 1 万组游戏激活码",
@@ -241,28 +275,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "系列游戏首次：R 星称《GTA6》鼓励玩家共情",
-    "url": "https://www.ithome.com/1/027/273.htm",
-    "source": "IT之家",
-    "time": "11-15 09:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "微软 XBOX 商店出现标价 1999 美元的《GTA6》游戏，疑为盒装兑换码占位商品",
-    "url": "https://www.ithome.com/1/027/254.htm",
-    "source": "IT之家",
-    "time": "11-15 07:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -285,7 +297,7 @@
    "IT之家(60)",
    "GameLook(0)",
    "HackerNews(1)",
-   "Bing新闻(4)"
+   "Bing新闻(3)"
   ],
   "fail": [
    "36氪(no entries)"
