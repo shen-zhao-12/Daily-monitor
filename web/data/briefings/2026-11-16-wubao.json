@@ -1,0 +1,295 @@
+{
+ "id": "2026-11-16-wubao",
+ "title": "线口监测午报 · 2026年11月16日(周一)",
+ "shift": "午报",
+ "date": "2026-11-16 14:37",
+ "docx": "../briefings/线口监测午报-2026-11-16.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "算力承压：曝 DeepSeek 应用及网页端实施限额，长对话与日额度双双受限",
+    "url": "https://www.ithome.com/1/027/597.htm",
+    "source": "IT之家",
+    "time": "11-16 11:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码",
+    "url": "https://www.ithome.com/1/027/574.htm",
+    "source": "IT之家",
+    "time": "11-16 11:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI谈虎色变，马化腾布阵腾讯伏虎！",
+    "url": "http://www.gamelook.com.cn/2026/11/606370/",
+    "source": "GameLook",
+    "time": "11-16 10:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "奥睿科推出 FlashMem FM9800 固态硬盘，配备 pSLC AI Cache 区域",
+    "url": "https://www.ithome.com/1/027/552.htm",
+    "source": "IT之家",
+    "time": "11-16 10:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型",
+    "url": "https://www.ithome.com/1/027/512.htm",
+    "source": "IT之家",
+    "time": "11-16 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯总办号召 AI 时代再创业，官方公布原文",
+    "url": "https://www.ithome.com/1/027/509.htm",
+    "source": "IT之家",
+    "time": "11-16 10:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级",
+    "url": "https://www.ithome.com/1/027/506.htm",
+    "source": "IT之家",
+    "time": "11-16 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "GDC 2026数据报告：40%开发者在用AI，34%过去两年被裁员",
+    "url": "http://www.gamelook.com.cn/2026/11/606355/",
+    "source": "GameLook",
+    "time": "11-16 09:41",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "source": "Hacker News",
+    "time": "11-16 08:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果N50轻量AI眼镜2027年6月发布 年底前出货",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa4a68e7a4e668ae9b7c3fde8b851&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%258B%25B9%25E6%259E%259Cn50%25E8%25BD%25BB%25E9%2587%258Fai%25E7%259C%25BC%25E9%2595%259C2027%25E5%25B9%25B46%25E6%259C%2588%25E5%258F%2591%25E5%25B8%2583-%25E5%25B9%25B4%25E5%25BA%2595%25E5%2589%258D%25E5%2587%25BA%25E8%25B4%25A7%2far-AA2hvWfu&c=4942365485291182331&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-16 05:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "url": "https://baron.by.dai.studio/",
+    "source": "Hacker News",
+    "time": "11-16 04:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "A short explainer on how El Niño works [video]",
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "source": "Hacker News",
+    "time": "11-16 02:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果正式进军AI眼镜市场! 首款产品明年亮相：能翻译、导航、叫外卖",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa4a68e7a4e668ae9b7c3fde8b851&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E8%258B%25B9%25E6%259E%259C%25E6%25AD%25A3%25E5%25BC%258F%25E8%25BF%259B%25E5%2586%259Bai%25E7%259C%25BC%25E9%2595%259C%25E5%25B8%2582%25E5%259C%25BA-%25E9%25A6%2596%25E6%25AC%25BE%25E4%25BA%25A7%25E5%2593%2581%25E6%2598%258E%25E5%25B9%25B4%25E4%25BA%25AE%25E7%259B%25B8-%25E8%2583%25BD%25E7%25BF%25BB%25E8%25AF%2591-%25E5%25AF%25BC%25E8%2588%25AA-%25E5%258F%25AB%25E5%25A4%2596%25E5%258D%2596%2far-AA2huNna&c=14170320548763164375&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-15 22:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "融资90亿的AI眼镜风口，被35元的华强北山寨货截胡",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa4a68e7a4e668ae9b7c3fde8b851&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102045876_116132&c=5965728471701517263&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-15 19:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球每两副AI眼镜就有一副“广东造”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa4a68e7a4e668ae9b7c3fde8b851&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E5%2585%25A8%25E7%2590%2583%25E6%25AF%258F%25E4%25B8%25A4%25E5%2589%25AFai%25E7%259C%25BC%25E9%2595%259C%25E5%25B0%25B1%25E6%259C%2589%25E4%25B8%2580%25E5%2589%25AF-%25E5%25B9%25BF%25E4%25B8%259C%25E9%2580%25A0%2far-AA2hrI1s&c=12743762099231189312&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-15 01:04",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜变轻变聪明：拍照、识曲、实时翻译，韩国下月开售",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa4a68e7a4e668ae9b7c3fde8b851&url=https%3a%2f%2fwww.sohu.com%2fa%2f1101638434_447547&c=17413093635730124943&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-15 00:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球每两副AI眼镜一副“广东造”，广货智能穿戴加速出海",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa4a68e7a4e668ae9b7c3fde8b851&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261114A0CDNE00%3fadChannelId%3dtech&c=14888585396132552909&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-14 17:58",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "丰田联手小马智行，第七代铂智 4X Robotaxi 在广州开启示范运营",
+    "url": "https://www.ithome.com/1/027/643.htm",
+    "source": "IT之家",
+    "time": "11-16 13:24",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”",
+    "url": "https://www.ithome.com/1/027/541.htm",
+    "source": "IT之家",
+    "time": "11-16 10:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "国家统计局：10 月份我国工业机器人产量同比增长 26%，新能源汽车产量增长 17.1%",
+    "url": "https://www.ithome.com/1/027/536.htm",
+    "source": "IT之家",
+    "time": "11-16 10:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯混元 Hy4 flash 模型发布：224B 总参、12B 激活，单任务成本约 Hy4 的 5%",
+    "url": "https://www.ithome.com/1/027/630.htm",
+    "source": "IT之家",
+    "time": "11-16 13:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《欧洲卡车模拟 2》游戏 Steam 同时在线玩家数首破 10 万，刷新历史纪录",
+    "url": "https://www.ithome.com/1/027/577.htm",
+    "source": "IT之家",
+    "time": "11-16 11:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Nexon要和腾讯打造超本地化PC游戏，《OVERKILL》能当大任么？",
+    "url": "http://www.gamelook.com.cn/2026/11/606395/",
+    "source": "GameLook",
+    "time": "11-16 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家洗衣机健康洗 Pro 洗烘 2kg 预售：双筒独立洗烘，国补到手价 2199 元",
+    "url": "https://www.ithome.com/1/027/540.htm",
+    "source": "IT之家",
+    "time": "11-16 10:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(8)",
+   "HackerNews(4)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
