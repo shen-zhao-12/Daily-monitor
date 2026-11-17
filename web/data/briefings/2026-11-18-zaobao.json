@@ -2,27 +2,16 @@
  "id": "2026-11-18-zaobao",
  "title": "线口监测早报 · 2026年11月18日(周三)",
  "shift": "早报",
- "date": "2026-11-18 00:50",
+ "date": "2026-11-18 01:33",
  "docx": "../briefings/线口监测早报-2026-11-18.docx",
  "sections": {
   "AI/大模型": [
    {
     "beat": "AI/大模型",
-    "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
-    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-    "source": "Hacker News",
-    "time": "11-17 22:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-    "source": "Hacker News",
-    "time": "11-17 22:19",
+    "title": "华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同",
+    "url": "https://www.ithome.com/1/028/571.htm",
+    "source": "IT之家",
+    "time": "11-18 01:22",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -96,10 +85,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "欧洲云服务企业 OVH 涉足 AI 模型，开源发布 Olala mini 7A1B",
-    "url": "https://www.ithome.com/1/028/453.htm",
-    "source": "IT之家",
-    "time": "11-17 18:06",
+    "title": "一年118款AI眼镜，人人都想拿到「大结果」",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8ff0e78a49b68ed39c9fda47ec4d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102777266_549351&c=10094613952511378597&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-17 17:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -119,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜概念异动拉升 瀛通通讯、芯瑞达双双涨停",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85c1eeac415eae85591853284e94&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8y7YZEiyKIt&c=17664382982242183806&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8ff0e78a49b68ed39c9fda47ec4d&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8y7YZEiyKIt&c=17664382982242183806&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-17 09:46",
     "summary": "",
@@ -130,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI 眼镜热度持续升温：路线分化明显 行业竞争日趋激烈",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85c1eeac415eae85591853284e94&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102532013_211729&c=2369216033954503838&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8ff0e78a49b68ed39c9fda47ec4d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102532013_211729&c=2369216033954503838&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-17 09:32",
     "summary": "",
@@ -140,10 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "一年118款AI眼镜，人人都想拿到「大结果」",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85c1eeac415eae85591853284e94&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102777266_549351&c=10094613952511378597&mkt=en-us",
+    "title": "全国只有8家!智推时代斩获第七届中国人工智能大赛大模型安全攻防赛A类评级",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8fee23ed4133ac2d43dec63106a9&url=https%3a%2f%2fwww.ithome.com%2f1%2f028%2f132.htm&c=4727661506894243581&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-17 03:13",
+    "time": "11-17 00:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -152,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "巨头持续加码！AI眼镜概念爆发",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85c1eeac415eae85591853284e94&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611173932881919.html&c=12350615911321508531&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8ff0e78a49b68ed39c9fda47ec4d&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611173932881919.html&c=12350615911321508531&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-17 00:00",
     "summary": "",
@@ -163,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "河北省发布首款农业优势特色产业垂直大模型",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85bf20b94752bf89b57e7f6f4fa4&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E6%25B2%25B3%25E5%258C%2597%25E7%259C%2581%25E5%258F%2591%25E5%25B8%2583%25E9%25A6%2596%25E6%25AC%25BE%25E5%2586%259C%25E4%25B8%259A%25E4%25BC%2598%25E5%258A%25BF%25E7%2589%25B9%25E8%2589%25B2%25E4%25BA%25A7%25E4%25B8%259A%25E5%259E%2582%25E7%259B%25B4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2hzZTi&c=18328214567742296092&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8fee23ed4133ac2d43dec63106a9&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E6%25B2%25B3%25E5%258C%2597%25E7%259C%2581%25E5%258F%2591%25E5%25B8%2583%25E9%25A6%2596%25E6%25AC%25BE%25E5%2586%259C%25E4%25B8%259A%25E4%25BC%2598%25E5%258A%25BF%25E7%2589%25B9%25E8%2589%25B2%25E4%25BA%25A7%25E4%25B8%259A%25E5%259E%2582%25E7%259B%25B4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2hzZTi&c=18328214567742296092&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 23:50",
     "summary": "",
@@ -173,19 +162,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "阿里巴巴发布新一代基座大模型Qwen4-Max；华为云发布并开源昇腾原生具身世界模型｜数智早参",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85bf20b94752bf89b57e7f6f4fa4&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E9%2598%25BF%25E9%2587%258C%25E5%25B7%25B4%25E5%25B7%25B4%25E5%258F%2591%25E5%25B8%2583%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A3%25E5%259F%25BA%25E5%25BA%25A7%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Bqwen4-max-%25E5%258D%258E%25E4%25B8%25BA%25E4%25BA%2591%25E5%258F%2591%25E5%25B8%2583%25E5%25B9%25B6%25E5%25BC%2580%25E6%25BA%2590%25E6%2598%2587%25E8%2585%25BE%25E5%258E%259F%25E7%2594%259F%25E5%2585%25B7%25E8%25BA%25AB%25E4%25B8%2596%25E7%2595%258C%25E6%25A8%25A1%25E5%259E%258B-%25E6%2595%25B0%25E6%2599%25BA%25E6%2597%25A9%25E5%258F%2582%2far-AA2hzve1&c=3928483169381332427&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-16 23:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "全国首个公证AI大模型发布产品矩阵",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85bf20b94752bf89b57e7f6f4fa4&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2585%25A8%25E5%259B%25BD%25E9%25A6%2596%25E4%25B8%25AA%25E5%2585%25AC%25E8%25AF%2581ai%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%25E4%25BA%25A7%25E5%2593%2581%25E7%259F%25A9%25E9%2598%25B5%2far-AA2hyLog&c=16117835441423376004&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8fee23ed4133ac2d43dec63106a9&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2585%25A8%25E5%259B%25BD%25E9%25A6%2596%25E4%25B8%25AA%25E5%2585%25AC%25E8%25AF%2581ai%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%25E4%25BA%25A7%25E5%2593%2581%25E7%259F%25A9%25E9%2598%25B5%2far-AA2hyLog&c=16117835441423376004&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 21:56",
     "summary": "",
@@ -207,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "机构：全球AI眼镜出货量同比暴涨263% Meta出货量占比超90%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85c1eeac415eae85591853284e94&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261116A0AIGF00&c=9845888548863299231&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8ff0e78a49b68ed39c9fda47ec4d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261116A0AIGF00&c=9845888548863299231&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 16:18",
     "summary": "",
@@ -217,19 +195,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "重磅，OpenAI 发布了全世界迄今为止最安全的 AI 大模型 GPT-None",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85bf20b94752bf89b57e7f6f4fa4&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E9%2587%258D%25E7%25A3%2585-openai-%25E5%258F%2591%25E5%25B8%2583%25E4%25BA%2586%25E5%2585%25A8%25E4%25B8%2596%25E7%2595%258C%25E8%25BF%2584%25E4%25BB%258A%25E4%25B8%25BA%25E6%25AD%25A2%25E6%259C%2580%25E5%25AE%2589%25E5%2585%25A8%25E7%259A%2584-ai-%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B-gpt-none%2far-AA2hzKKq&c=14753768264143424199&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-16 16:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "曝苹果首款AI眼镜明年亮相，是个“戴在脸上的Airpods”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85c1eeac415eae85591853284e94&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E6%259B%259D%25E8%258B%25B9%25E6%259E%259C%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C%25E6%2598%258E%25E5%25B9%25B4%25E4%25BA%25AE%25E7%259B%25B8-%25E6%2598%25AF%25E4%25B8%25AA-%25E6%2588%25B4%25E5%259C%25A8%25E8%2584%25B8%25E4%25B8%258A%25E7%259A%2584airpods%2far-AA2hAnxT&c=2241429309833624523&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8ff0e78a49b68ed39c9fda47ec4d&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E6%259B%259D%25E8%258B%25B9%25E6%259E%259C%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C%25E6%2598%258E%25E5%25B9%25B4%25E4%25BA%25AE%25E7%259B%25B8-%25E6%2598%25AF%25E4%25B8%25AA-%25E6%2588%25B4%25E5%259C%25A8%25E8%2584%25B8%25E4%25B8%258A%25E7%259A%2584airpods%2far-AA2hAnxT&c=2241429309833624523&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 11:48",
     "summary": "",
@@ -251,9 +218,20 @@
    {
     "beat": "AI/大模型",
     "title": "41克无屏眼镜入局，AI穿戴赛道走到聚光灯下丨投资秘籍",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc85c1eeac415eae85591853284e94&url=https%3a%2f%2fcj.sina.com.cn%2farticles%2fview%2f1702925432%2f6580947801901cwka&c=6223677022731190075&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc8ff0e78a49b68ed39c9fda47ec4d&url=https%3a%2f%2fcj.sina.com.cn%2farticles%2fview%2f1702925432%2f6580947801901cwka&c=6223677022731190075&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 10:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "GDC 2026数据报告：40%开发者在用AI，34%过去两年被裁员",
+    "url": "http://www.gamelook.com.cn/2026/11/606355/",
+    "source": "GameLook",
+    "time": "11-16 09:41",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -322,10 +300,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "G 胖超级游艇配有专属游戏室，可与好友海上开玩《GTA 6》",
-    "url": "https://www.ithome.com/1/028/439.htm",
-    "source": "IT之家",
-    "time": "11-17 17:59",
+    "title": "米哈游重拳打击盗版周边：涉案商品价值超4000万元！",
+    "url": "http://www.gamelook.com.cn/2026/11/606570/",
+    "source": "GameLook",
+    "time": "11-17 13:20",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -333,10 +311,21 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "米哈游重拳打击盗版周边：涉案商品价值超4000万元！",
-    "url": "http://www.gamelook.com.cn/2026/11/606570/",
+    "title": "Nexon要和腾讯打造超本地化PC游戏，《OVERKILL》能当大任么？",
+    "url": "http://www.gamelook.com.cn/2026/11/606395/",
     "source": "GameLook",
-    "time": "11-17 13:20",
+    "time": "11-16 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国民电竞十年，微光终成炬！王者荣耀巅峰之夜暨KPL十周年特别庆典圆满落幕",
+    "url": "http://www.gamelook.com.cn/2026/11/606470/",
+    "source": "GameLook",
+    "time": "11-16 01:56",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -350,8 +339,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(5)",
-   "Bing新闻(11)"
+   "HackerNews(4)",
+   "Bing新闻(10)"
   ],
   "fail": [
    "36氪(no entries)"
