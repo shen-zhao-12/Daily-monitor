@@ -2,10 +2,43 @@
  "id": "2026-11-17-wubao",
  "title": "线口监测午报 · 2026年11月17日(周二)",
  "shift": "午报",
- "date": "2026-11-17 15:59",
+ "date": "2026-11-17 17:14",
  "docx": "../briefings/线口监测午报-2026-11-17.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "欧洲六国游戏工会联合呼吁玩家抵制生成式 AI 游戏，支持纯人工开发作品",
+    "url": "https://www.ithome.com/1/028/341.htm",
+    "source": "IT之家",
+    "time": "11-17 16:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米雷军：AI 是一个全新的时代，一定会带来非常多的商业机会",
+    "url": "https://www.ithome.com/1/028/322.htm",
+    "source": "IT之家",
+    "time": "11-17 16:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Take-Two CEO 批评 Anthropic、OpenAI：别放任用户用 AI 克隆游戏",
+    "url": "https://www.ithome.com/1/028/287.htm",
+    "source": "IT之家",
+    "time": "11-17 15:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "每秒输出最高 43 词元：Garlic LLM 可让越狱 PS4 运行 9B 参数本地 AI 模型",
@@ -52,32 +85,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "AI 找漏洞太快：Anthropic 收紧披露规则，高危漏洞缓冲期从 90 天变 30 天",
-    "url": "https://www.ithome.com/1/028/236.htm",
-    "source": "IT之家",
-    "time": "11-17 14:12",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "百度李彦宏警告 AI 泡沫风险：当前 AI 行业上层应用落地成效不及预期",
-    "url": "https://www.ithome.com/1/028/225.htm",
-    "source": "IT之家",
-    "time": "11-17 13:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "对话《ARC Raiders》制作人：研发无设计文档，爆红后玩家分化屡陷危机",
     "url": "http://www.gamelook.com.cn/2026/11/606514/",
     "source": "GameLook",
     "time": "11-17 10:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一张显卡，训练出全球高分辨率气象模型，我国科研团队发布“万拓”气象大模型",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af5298444029d0ce29960221813&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fweather%2f%25E6%25B0%2594%25E8%25B1%25A1%25E5%25AD%25A6%2f%25E4%25B8%2580%25E5%25BC%25A0%25E6%2598%25BE%25E5%258D%25A1-%25E8%25AE%25AD%25E7%25BB%2583%25E5%2587%25BA%25E5%2585%25A8%25E7%2590%2583%25E9%25AB%2598%25E5%2588%2586%25E8%25BE%25A8%25E7%258E%2587%25E6%25B0%2594%25E8%25B1%25A1%25E6%25A8%25A1%25E5%259E%258B-%25E6%2588%2591%25E5%259B%25BD%25E7%25A7%2591%25E7%25A0%2594%25E5%259B%25A2%25E9%2598%259F%25E5%258F%2591%25E5%25B8%2583-%25E4%25B8%2587%25E6%258B%2593-%25E6%25B0%2594%25E8%25B1%25A1%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2hBPGP&c=12966412645071515853&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-17 08:14",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -96,8 +118,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "具身大模型“验证分水岭”：2026中国头部公司格局再盘点",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af5298444029d0ce29960221813&url=https%3a%2f%2fwww.ithome.com%2f1%2f028%2f407.htm&c=464449967133016517&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-17 02:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "A股异动丨全球AI眼镜出货量暴涨，相关概念股逆势上涨，茂莱光学涨超7%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0968e9964b4bb4f6341524403d36&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fa%25E8%2582%25A1%25E5%25BC%2582%25E5%258A%25A8%25E4%25B8%25A8%25E5%2585%25A8%25E7%2590%2583ai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E6%25B6%25A8-%25E7%259B%25B8%25E5%2585%25B3%25E6%25A6%2582%25E5%25BF%25B5%25E8%2582%25A1%25E9%2580%2586%25E5%258A%25BF%25E4%25B8%258A%25E6%25B6%25A8-%25E8%258C%2582%25E8%258E%25B1%25E5%2585%2589%25E5%25AD%25A6%25E6%25B6%25A8%25E8%25B6%25857%2far-AA2hA1at&c=4305524034305864619&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af75d044e19b3a37623ea1e3f4c&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fa%25E8%2582%25A1%25E5%25BC%2582%25E5%258A%25A8%25E4%25B8%25A8%25E5%2585%25A8%25E7%2590%2583ai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E6%25B6%25A8-%25E7%259B%25B8%25E5%2585%25B3%25E6%25A6%2582%25E5%25BF%25B5%25E8%2582%25A1%25E9%2580%2586%25E5%258A%25BF%25E4%25B8%258A%25E6%25B6%25A8-%25E8%258C%2582%25E8%258E%25B1%25E5%2585%2589%25E5%25AD%25A6%25E6%25B6%25A8%25E8%25B6%25857%2far-AA2hA1at&c=4305524034305864619&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-17 02:43",
     "summary": "",
@@ -107,21 +140,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "全球首个猕猴桃专用大模型发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0966d6b346d3a1f36f4d3268dc67&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%2585%25A8%25E7%2590%2583%25E9%25A6%2596%25E4%25B8%25AA%25E7%258C%2595%25E7%258C%25B4%25E6%25A1%2583%25E4%25B8%2593%25E7%2594%25A8%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%2far-AA2hAHsl&c=14046181343918133875&mkt=en-us",
+    "title": "巨头持续加码！AI眼镜概念爆发",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af75d044e19b3a37623ea1e3f4c&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611173932881919.html&c=12350615911321508531&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-17 02:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "百度世界2026回顾：李彦宏首提“组织进化三原则”，百度发布多项AI成果，赋能智能组织建设",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0966d6b346d3a1f36f4d3268dc67&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-17%2fdetail-iniyznqi7623171.d.html%3fvt%3d4&c=4843603868784030151&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-17 00:05",
+    "time": "11-17 00:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -130,20 +152,9 @@
    {
     "beat": "AI/大模型",
     "title": "河北省发布首款农业优势特色产业垂直大模型",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0966d6b346d3a1f36f4d3268dc67&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E6%25B2%25B3%25E5%258C%2597%25E7%259C%2581%25E5%258F%2591%25E5%25B8%2583%25E9%25A6%2596%25E6%25AC%25BE%25E5%2586%259C%25E4%25B8%259A%25E4%25BC%2598%25E5%258A%25BF%25E7%2589%25B9%25E8%2589%25B2%25E4%25BA%25A7%25E4%25B8%259A%25E5%259E%2582%25E7%259B%25B4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2hzZTi&c=18328214567742296092&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af5298444029d0ce29960221813&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E6%25B2%25B3%25E5%258C%2597%25E7%259C%2581%25E5%258F%2591%25E5%25B8%2583%25E9%25A6%2596%25E6%25AC%25BE%25E5%2586%259C%25E4%25B8%259A%25E4%25BC%2598%25E5%258A%25BF%25E7%2589%25B9%25E8%2589%25B2%25E4%25BA%25A7%25E4%25B8%259A%25E5%259E%2582%25E7%259B%25B4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%2far-AA2hzZTi&c=18328214567742296092&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 23:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "存储成本狂飙，大疆官宣涨价！PCB高端订单排至2028年，江丰电子涨超7%，消费电子ETF汇添富(159178)再吸金！AI眼镜出货量同比暴增263%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0968e9964b4bb4f6341524403d36&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261117A070N800&c=10291557997558611334&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-16 23:22",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -162,8 +173,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "曝苹果首款AI眼镜明年亮相，是个“戴在脸上的Airpods”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af75d044e19b3a37623ea1e3f4c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261117A04OVN00&c=8055666251929334073&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-16 20:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "AI 眼镜热度持续升温：路线分化明显 行业竞争日趋激烈",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0968e9964b4bb4f6341524403d36&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102532013_211729&c=2369216033954503838&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af75d044e19b3a37623ea1e3f4c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102532013_211729&c=2369216033954503838&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 19:32",
     "summary": "",
@@ -173,43 +195,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "千元就能入手，今年双十一AI眼镜卖爆了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0968e9964b4bb4f6341524403d36&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102318810_100661&c=1186802346019642358&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-16 17:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "机构：全球AI眼镜出货量同比暴涨263% Meta出货量占比超90%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0968e9964b4bb4f6341524403d36&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261116A0AIGF00&c=9845888548863299231&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af75d044e19b3a37623ea1e3f4c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261116A0AIGF00&c=9845888548863299231&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 16:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "【涨停直击】午后涨停！AI眼镜概念股，5天3板",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0968e9964b4bb4f6341524403d36&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611163931756957.html&c=13393400202987517144&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-16 15:03",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "曝苹果首款AI眼镜明年亮相，是个“戴在脸上的Airpods”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0968e9964b4bb4f6341524403d36&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2f%25E6%259B%259D%25E8%258B%25B9%25E6%259E%259C%25E9%25A6%2596%25E6%25AC%25BEai%25E7%259C%25BC%25E9%2595%259C%25E6%2598%258E%25E5%25B9%25B4%25E4%25BA%25AE%25E7%259B%25B8-%25E6%2598%25AF%25E4%25B8%25AA-%25E6%2588%25B4%25E5%259C%25A8%25E8%2584%25B8%25E4%25B8%258A%25E7%259A%2584airpods%2far-AA2hAnxT&c=2241429309833624523&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-16 11:48",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -229,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "41克无屏眼镜入局，AI穿戴赛道走到聚光灯下丨投资秘籍",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0968e9964b4bb4f6341524403d36&url=https%3a%2f%2fcj.sina.com.cn%2farticles%2fview%2f1702925432%2f6580947801901cwka&c=6223677022731190075&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af75d044e19b3a37623ea1e3f4c&url=https%3a%2f%2fcj.sina.com.cn%2farticles%2fview%2f1702925432%2f6580947801901cwka&c=6223677022731190075&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-16 10:49",
     "summary": "",
@@ -274,42 +263,74 @@
    },
    {
     "beat": "机器人/AI硬件",
-    "title": "宇树王兴兴称机器人模型泛化是当下最棘手问题：希望到千家万户能立马干活，而不用重新训练",
-    "url": "https://www.ithome.com/1/028/220.htm",
+    "title": "双榜第一！华为发布具身世界模型！宇树科技跌超9%，机器人ETF汇添富(159213)指数再承压，资金连续2日逆势净申购！具身智能技术路线 ...",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc1af5298444029d0ce29960221813&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102671009_223785&c=13099120308732955456&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-16 23:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "经典游戏多人版本《黄金矿工：派对狂欢》登陆 Steam，支持 2–6 人同时在线游玩",
+    "url": "https://www.ithome.com/1/028/318.htm",
     "source": "IT之家",
-    "time": "11-17 12:43",
+    "time": "11-17 16:14",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    },
    {
-    "beat": "机器人/AI硬件",
-    "title": "开瓶盖、装面包……八项精细动作1分钟完成!大晓加速通用模型具身能力产业落地",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0966d6b346d3a1f36f4d3268dc67&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E5%25BC%2580%25E7%2593%25B6%25E7%259B%2596-%25E8%25A3%2585%25E9%259D%25A2%25E5%258C%2585-%25E5%2585%25AB%25E9%25A1%25B9%25E7%25B2%25BE%25E7%25BB%2586%25E5%258A%25A8%25E4%25BD%259C1%25E5%2588%2586%25E9%2592%259F%25E5%25AE%258C%25E6%2588%2590-%25E5%25A4%25A7%25E6%2599%2593%25E5%258A%25A0%25E9%2580%259F%25E9%2580%259A%25E7%2594%25A8%25E6%25A8%25A1%25E5%259E%258B%25E5%2585%25B7%25E8%25BA%25AB%25E8%2583%25BD%25E5%258A%259B%25E4%25BA%25A7%25E4%25B8%259A%25E8%2590%25BD%25E5%259C%25B0%2far-AA2hzW0l&c=6439188941124310130&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-17 01:41",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
-  "无人驾驶/低空/智慧出行": [
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "百度李彦宏：无人驾驶出租车安全记录大约是人类司机的 10 倍",
-    "url": "https://www.ithome.com/1/028/231.htm",
+    "beat": "游戏/电竞/平台公司",
+    "title": "索尼新专利：颈部设备可模拟吹风效果，玩 VR 恐怖游戏时能感觉“背后有人”",
+    "url": "https://www.ithome.com/1/028/307.htm",
     "source": "IT之家",
-    "time": "11-17 13:43",
+    "time": "11-17 16:11",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   }
-  ],
-  "电商/直播/即时零售": [],
-  "游戏/电竞/平台公司": [
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "任天堂 Switch 射击游戏《斯普拉遁：涂击队》试玩版上线，开放螺旋石群岛三段关卡供免费游玩",
+    "url": "https://www.ithome.com/1/028/289.htm",
+    "source": "IT之家",
+    "time": "11-17 15:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "泄露《GTA 6》早期游戏画面的黑客认罪，承认入侵 Rockstar 等多家公司",
+    "url": "https://www.ithome.com/1/028/285.htm",
+    "source": "IT之家",
+    "time": "11-17 15:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Circana 分析师：任天堂《塞尔达传说：时之笛》重制版成美国 2026 年最畅销实体游戏",
+    "url": "https://www.ithome.com/1/028/284.htm",
+    "source": "IT之家",
+    "time": "11-17 15:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "米哈游重拳打击盗版周边：涉案商品价值超4000万元！",
@@ -320,32 +341,9 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Nexon要和腾讯打造超本地化PC游戏，《OVERKILL》能当大任么？",
-    "url": "http://www.gamelook.com.cn/2026/11/606395/",
-    "source": "GameLook",
-    "time": "11-16 09:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": [
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "5499 → 4499 元：苹果 iPad mini（A20 Pro）国补后立减 1000 元",
-    "url": "https://www.ithome.com/1/027/966.htm",
-    "source": "IT之家",
-    "time": "11-16 22:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ]
+  "消费/以旧换新/新餐饮": []
  },
  "flash": [],
  "stats": {
@@ -353,7 +351,7 @@
    "IT之家(60)",
    "GameLook(15)",
    "HackerNews(4)",
-   "Bing新闻(13)"
+   "Bing新闻(11)"
   ],
   "fail": [
    "36氪(no entries)"
