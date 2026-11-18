@@ -2,7 +2,7 @@
  "id": "2026-11-19-zaobao",
  "title": "线口监测早报 · 2026年11月19日(周四)",
  "shift": "早报",
- "date": "2026-11-19 00:22",
+ "date": "2026-11-19 01:10",
  "docx": "../briefings/线口监测早报-2026-11-19.docx",
  "sections": {
   "AI/大模型": [
@@ -108,7 +108,7 @@
    {
     "beat": "AI/大模型",
     "title": "大模型带动计算机视觉市场增长，创新奇智稳居中国市场份额第三",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0ddab4a4bfba7f0d5db64a09298&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-18%2fdetail-inizcmfi4961024.d.html%3fvt%3d4&c=13426267368034245846&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afddc1396394586a5634a802bb35925&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-18%2fdetail-inizcmfi4961024.d.html%3fvt%3d4&c=13426267368034245846&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 13:03",
     "summary": "",
@@ -118,19 +118,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Claude was trained on protein sequences at scale",
-    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
-    "source": "Hacker News",
-    "time": "11-18 11:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI眼镜出货量增长263%：从微型PCB到SMT贴片，解析智能眼镜背后的精密制造技术｜聚多邦",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0dea6eb4284bdf142e366201ac5&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103041390_122830294&c=17779118268034947932&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afddc1575904ed396ff1fba21d1eea8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103041390_122830294&c=17779118268034947932&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 10:07",
     "summary": "",
@@ -140,10 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Google's AI answers reducing search traffic by 40%",
-    "url": "https://revscope.co/blog/search-seo-geo-2026/",
-    "source": "Hacker News",
-    "time": "11-18 08:17",
+    "title": "无视反对！Epic“AI游戏大赛”获AI大佬集体力挺：1万人4天速成3000个游戏",
+    "url": "http://www.gamelook.com.cn/2026/11/606687/",
+    "source": "GameLook",
+    "time": "11-18 10:00",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -151,10 +140,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-    "source": "Hacker News",
-    "time": "11-18 05:16",
+    "title": "欧洲游戏业工会发布“联合宣言”：全面抵制AI做游戏，社区炸了",
+    "url": "http://www.gamelook.com.cn/2026/11/606619/",
+    "source": "GameLook",
+    "time": "11-18 09:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "全球AI眼镜上半年出货量同比增长263% 智能眼镜渗透率有望迎向上拐点",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afddc1575904ed396ff1fba21d1eea8&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611183933536884.html&c=353509542801017977&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-18 08:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -163,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "【会员动态】豪鹏科技钢壳叠片电池量产，面向AI眼镜等高能量密度终端需求!",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0dea6eb4284bdf142e366201ac5&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-11-18%2fdoc-inizehkx4744237.shtml&c=5440902196031717913&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afddc1575904ed396ff1fba21d1eea8&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-11-18%2fdoc-inizehkx4744237.shtml&c=5440902196031717913&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 04:16",
     "summary": "",
@@ -173,19 +173,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "MAI Code 2 and Code 2 Flash",
-    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "source": "Hacker News",
-    "time": "11-18 02:25",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "风口之下，大朋VR跨界AI眼镜：顺势增收，却偏离XR长期终局",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0dea6eb4284bdf142e366201ac5&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102922391_447547&c=5566130589786087009&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afddc1575904ed396ff1fba21d1eea8&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102922391_447547&c=5566130589786087009&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 01:56",
     "summary": "",
@@ -196,9 +185,20 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜陷入产品悖论：用户要不显眼 法规要一眼认出",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0dea6eb4284bdf142e366201ac5&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2599%25B7%25E5%2585%25A5%25E4%25BA%25A7%25E5%2593%2581%25E6%2582%2596%25E8%25AE%25BA-%25E7%2594%25A8%25E6%2588%25B7%25E8%25A6%2581%25E4%25B8%258D%25E6%2598%25BE%25E7%259C%25BC-%25E6%25B3%2595%25E8%25A7%2584%25E8%25A6%2581%25E4%25B8%2580%25E7%259C%25BC%25E8%25AE%25A4%25E5%2587%25BA%2far-AA2hGhAB&c=7133557452832408586&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afddc1575904ed396ff1fba21d1eea8&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2599%25B7%25E5%2585%25A5%25E4%25BA%25A7%25E5%2593%2581%25E6%2582%2596%25E8%25AE%25BA-%25E7%2594%25A8%25E6%2588%25B7%25E8%25A6%2581%25E4%25B8%258D%25E6%2598%25BE%25E7%259C%25BC-%25E6%25B3%2595%25E8%25A7%2584%25E8%25A6%2581%25E4%25B8%2580%25E7%259C%25BC%25E8%25AE%25A4%25E5%2587%25BA%2far-AA2hGhAB&c=7133557452832408586&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-17 23:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "对话《ARC Raiders》制作人：研发无设计文档，爆红后玩家分化屡陷危机",
+    "url": "http://www.gamelook.com.cn/2026/11/606514/",
+    "source": "GameLook",
+    "time": "11-17 10:19",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -227,6 +227,17 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "双榜第一！华为发布具身世界模型！宇树科技跌超9%，机器人ETF汇添富(159213)指数再承压，资金连续2日逆势净申购！具身智能技术路线 ...",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afddc1396394586a5634a802bb35925&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102671009_223785&c=13099120308732955456&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-17 13:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "无人驾驶/低空/智慧出行": [
@@ -244,6 +255,17 @@
   ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯：更多企业转向国产芯片，将助推国内供应链建设提速",
+    "url": "https://www.ithome.com/1/029/124.htm",
+    "source": "IT之家",
+    "time": "11-19 00:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上",
@@ -287,6 +309,28 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "10月中国游戏市场收入300亿元同比减少4.27%：手游下滑2.2%，PC下滑15%",
+    "url": "http://www.gamelook.com.cn/2026/11/606588/",
+    "source": "GameLook",
+    "time": "11-18 09:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "米哈游重拳打击盗版周边：涉案商品价值超4000万元！",
+    "url": "http://www.gamelook.com.cn/2026/11/606570/",
+    "source": "GameLook",
+    "time": "11-17 13:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
   "消费/以旧换新/新餐饮": [
@@ -307,12 +351,12 @@
  "stats": {
   "ok": [
    "IT之家(60)",
-   "HackerNews(4)",
-   "Bing新闻(6)"
+   "GameLook(14)",
+   "HackerNews(0)",
+   "Bing新闻(8)"
   ],
   "fail": [
-   "36氪(no entries)",
-   "GameLook(HTTP 502)"
+   "36氪(no entries)"
   ]
  }
 }
