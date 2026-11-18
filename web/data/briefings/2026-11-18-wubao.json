@@ -2,10 +2,54 @@
  "id": "2026-11-18-wubao",
  "title": "线口监测午报 · 2026年11月18日(周三)",
  "shift": "午报",
- "date": "2026-11-18 15:35",
+ "date": "2026-11-18 16:33",
  "docx": "../briefings/线口监测午报-2026-11-18.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "全球使用率最高的企业浏览器：微软 Edge for Business 进化，让 AI 替你干活",
+    "url": "https://www.ithome.com/1/028/845.htm",
+    "source": "IT之家",
+    "time": "11-18 15:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "员工每月烧掉数千美元 Token，Salesforce“吃不消了”拟设 AI 使用预算",
+    "url": "https://www.ithome.com/1/028/836.htm",
+    "source": "IT之家",
+    "time": "11-18 15:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "五人席位 + 每人每月 3200 AI 积分：剪映团队版会员 180 → 71 元单月发车",
+    "url": "https://www.ithome.com/1/028/835.htm",
+    "source": "IT之家",
+    "time": "11-18 15:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软推出 Copilot Today：打工人的“全自动 AI 助理”，替你排好一天工作",
+    "url": "https://www.ithome.com/1/028/831.htm",
+    "source": "IT之家",
+    "time": "11-18 15:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "AI 芯片拉动韩国出口向万亿美元迈进，但股市暴跌拖累内需",
@@ -23,6 +67,17 @@
     "url": "https://www.ithome.com/1/028/823.htm",
     "source": "IT之家",
     "time": "11-18 14:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI is killing All About Berlin",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "source": "Hacker News",
+    "time": "11-18 14:47",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -85,50 +140,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "小米雷军：“AI+ 手机”“AI+ 具身智能机器人”等有很大想象空间，未来三四年会诞生颠覆性时刻",
-    "url": "https://www.ithome.com/1/028/669.htm",
-    "source": "IT之家",
-    "time": "11-18 10:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "戴森 Airsmooth 气流丰盈梳发布：吹干蓬松一步到位、断发减少 39%，1899 元",
-    "url": "https://www.ithome.com/1/028/661.htm",
-    "source": "IT之家",
-    "time": "11-18 10:19",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "消息称英伟达安抚机器人生态伙伴，“物理 AI”投资不会急刹车",
-    "url": "https://www.ithome.com/1/028/660.htm",
-    "source": "IT之家",
-    "time": "11-18 10:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Claude 关联计费测试上线，第三方应用 AI 消费能“按需结算”",
-    "url": "https://www.ithome.com/1/028/637.htm",
-    "source": "IT之家",
-    "time": "11-18 10:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "无视反对！Epic“AI游戏大赛”获AI大佬集体力挺：1万人4天速成3000个游戏",
     "url": "http://www.gamelook.com.cn/2026/11/606687/",
     "source": "GameLook",
@@ -184,19 +195,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "极米记得AI记忆眼镜G1及手环L1搭载物奇微WQ7036智能音频主控芯片",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd5548f63c4a7c9febae633e4bba66&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E7%25A1%25AC%25E4%25BB%25B6%25E5%2592%258C%25E8%25AE%25BE%25E5%25A4%2587%2f%25E6%259E%2581%25E7%25B1%25B3%25E8%25AE%25B0%25E5%25BE%2597ai%25E8%25AE%25B0%25E5%25BF%2586%25E7%259C%25BC%25E9%2595%259Cg1%25E5%258F%258A%25E6%2589%258B%25E7%258E%25AFl1%25E6%2590%25AD%25E8%25BD%25BD%25E7%2589%25A9%25E5%25A5%2587%25E5%25BE%25AEwq7036%25E6%2599%25BA%25E8%2583%25BD%25E9%259F%25B3%25E9%25A2%2591%25E4%25B8%25BB%25E6%258E%25A7%25E8%258A%25AF%25E7%2589%2587%2far-AA2hEiLN&c=14592735776568315884&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-18 02:20",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "风口之下，大朋VR跨界AI眼镜：顺势增收，却偏离XR长期终局",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd5548f63c4a7c9febae633e4bba66&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102922391_447547&c=5566130589786087009&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd62fb3fe044cbbc5a2cf3c8c8492b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102922391_447547&c=5566130589786087009&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 01:56",
     "summary": "",
@@ -207,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "云知声发布大模型升级版U2-Flash-1118 Token消耗降低约37%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd554785e1411ab8c735b5fe9567f4&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E4%25BA%2591%25E7%259F%25A5%25E5%25A3%25B0%25E5%258F%2591%25E5%25B8%2583%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258D%2587%25E7%25BA%25A7%25E7%2589%2588u2-flash-1118-token%25E6%25B6%2588%25E8%2580%2597%25E9%2599%258D%25E4%25BD%258E%25E7%25BA%25A637%2far-AA2hF77u&c=1741342954011372100&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd62f922d548e8929b1ded8fcfe506&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E4%25BA%2591%25E7%259F%25A5%25E5%25A3%25B0%25E5%258F%2591%25E5%25B8%2583%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258D%2587%25E7%25BA%25A7%25E7%2589%2588u2-flash-1118-token%25E6%25B6%2588%25E8%2580%2597%25E9%2599%258D%25E4%25BD%258E%25E7%25BA%25A637%2far-AA2hF77u&c=2206818548536244116&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 01:17",
     "summary": "",
@@ -218,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "大模型带动计算机视觉市场增长，创新奇智稳居中国市场份额第三",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd554785e1411ab8c735b5fe9567f4&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-18%2fdetail-inizcmfi4961024.d.html%3fvt%3d4&c=13426267368034245846&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd62f922d548e8929b1ded8fcfe506&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-18%2fdetail-inizcmfi4961024.d.html%3fvt%3d4&c=13426267368034245846&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-17 23:03",
     "summary": "",
@@ -229,9 +229,20 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜出货量增长263%：从微型PCB到SMT贴片，解析智能眼镜背后的精密制造技术｜聚多邦",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd5548f63c4a7c9febae633e4bba66&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103041390_122830294&c=17779118268034947932&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd62fb3fe044cbbc5a2cf3c8c8492b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103041390_122830294&c=17779118268034947932&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-17 20:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "对话《ARC Raiders》制作人：研发无设计文档，爆红后玩家分化屡陷危机",
+    "url": "http://www.gamelook.com.cn/2026/11/606514/",
+    "source": "GameLook",
+    "time": "11-17 10:19",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -239,6 +250,17 @@
    }
   ],
   "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "Uber 联合 Momenta 在德国慕尼黑启动 Robotaxi 试运营，向乘客免费开放",
+    "url": "https://www.ithome.com/1/028/847.htm",
+    "source": "IT之家",
+    "time": "11-18 15:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "机器人/AI硬件",
     "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
@@ -267,6 +289,17 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "《诡秘之主》游戏官方辟谣 2027 年 3 月 3 日停服：版权很稳放心玩，另一个魔法世界落幕令人惋惜",
+    "url": "https://www.ithome.com/1/028/848.htm",
+    "source": "IT之家",
+    "time": "11-18 15:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "不对外发售：迈阿密热火球员晒《GTA6》限定版索尼 PS5 Pro 游戏机",
     "url": "https://www.ithome.com/1/028/821.htm",
     "source": "IT之家",
@@ -282,39 +315,6 @@
     "url": "https://www.ithome.com/1/028/701.htm",
     "source": "IT之家",
     "time": "11-18 12:36",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "换电脑不用重来：腾讯 WorkBuddy 现已支持跨设备数据迁移",
-    "url": "https://www.ithome.com/1/028/684.htm",
-    "source": "IT之家",
-    "time": "11-18 11:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Unity 推出 Fellowship 计划，向 10 支独立游戏团队各提供 5 万美元资金等支持",
-    "url": "https://www.ithome.com/1/028/671.htm",
-    "source": "IT之家",
-    "time": "11-18 10:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "消息称《席德 · 梅尔的文明》系列游戏开发方 Firaxis 裁员 60 人，约占员工总数 1/3",
-    "url": "https://www.ithome.com/1/028/630.htm",
-    "source": "IT之家",
-    "time": "11-18 09:53",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -350,8 +350,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(14)",
-   "HackerNews(6)",
-   "Bing新闻(8)"
+   "HackerNews(7)",
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
