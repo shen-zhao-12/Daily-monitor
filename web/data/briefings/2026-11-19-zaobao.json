@@ -1,0 +1,318 @@
+{
+ "id": "2026-11-19-zaobao",
+ "title": "线口监测早报 · 2026年11月19日(周四)",
+ "shift": "早报",
+ "date": "2026-11-19 00:22",
+ "docx": "../briefings/线口监测早报-2026-11-19.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克“怒怼”奥尔特曼：SpaceX 预计不会从 OpenAI 处获得任何收入",
+    "url": "https://www.ithome.com/1/029/116.htm",
+    "source": "IT之家",
+    "time": "11-18 23:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "SpaceXAI 在美国密西西比州的 AI 数据中心泄漏约 20m³ 丙二醇",
+    "url": "https://www.ithome.com/1/029/115.htm",
+    "source": "IT之家",
+    "time": "11-18 23:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微星 RTX Spark 迷你主机 EdgeMesa N AI+ 上市：64GB + 1TB 售 33999 元",
+    "url": "https://www.ithome.com/1/029/111.htm",
+    "source": "IT之家",
+    "time": "11-18 22:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情",
+    "url": "https://www.ithome.com/1/029/086.htm",
+    "source": "IT之家",
+    "time": "11-18 21:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯高管：预计 2028 年 AI 投入产出效率改善，得益于基础设施复用、硬件降价与算力效率提升",
+    "url": "https://www.ithome.com/1/029/080.htm",
+    "source": "IT之家",
+    "time": "11-18 21:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "始终将水瓶、文件夹误认为枪支，美国一高中停用 AI 武器探测系统",
+    "url": "https://www.ithome.com/1/029/078.htm",
+    "source": "IT之家",
+    "time": "11-18 21:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "防止考生利用 AI 作弊，韩国临时屏蔽高考考场及周边 100 米内公共 WiFi",
+    "url": "https://www.ithome.com/1/029/075.htm",
+    "source": "IT之家",
+    "time": "11-18 21:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "安谋科技发布基于 Arm Cortex-M42 CPU 的“星辰 100e”AIoT 原型平台",
+    "url": "https://www.ithome.com/1/029/071.htm",
+    "source": "IT之家",
+    "time": "11-18 21:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费",
+    "url": "https://www.ithome.com/1/029/058.htm",
+    "source": "IT之家",
+    "time": "11-18 20:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大模型带动计算机视觉市场增长，创新奇智稳居中国市场份额第三",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0ddab4a4bfba7f0d5db64a09298&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-18%2fdetail-inizcmfi4961024.d.html%3fvt%3d4&c=13426267368034245846&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-18 13:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Claude was trained on protein sequences at scale",
+    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "source": "Hacker News",
+    "time": "11-18 11:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜出货量增长263%：从微型PCB到SMT贴片，解析智能眼镜背后的精密制造技术｜聚多邦",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0dea6eb4284bdf142e366201ac5&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103041390_122830294&c=17779118268034947932&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-18 10:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "source": "Hacker News",
+    "time": "11-18 08:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "source": "Hacker News",
+    "time": "11-18 05:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "【会员动态】豪鹏科技钢壳叠片电池量产，面向AI眼镜等高能量密度终端需求!",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0dea6eb4284bdf142e366201ac5&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-11-18%2fdoc-inizehkx4744237.shtml&c=5440902196031717913&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-18 04:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "source": "Hacker News",
+    "time": "11-18 02:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "风口之下，大朋VR跨界AI眼镜：顺势增收，却偏离XR长期终局",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0dea6eb4284bdf142e366201ac5&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102922391_447547&c=5566130589786087009&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-18 01:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜陷入产品悖论：用户要不显眼 法规要一眼认出",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdd0dea6eb4284bdf142e366201ac5&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fai%25E7%259C%25BC%25E9%2595%259C%25E9%2599%25B7%25E5%2585%25A5%25E4%25BA%25A7%25E5%2593%2581%25E6%2582%2596%25E8%25AE%25BA-%25E7%2594%25A8%25E6%2588%25B7%25E8%25A6%2581%25E4%25B8%258D%25E6%2598%25BE%25E7%259C%25BC-%25E6%25B3%2595%25E8%25A7%2584%25E8%25A6%2581%25E4%25B8%2580%25E7%259C%25BC%25E8%25AE%25A4%25E5%2587%25BA%2far-AA2hGhAB&c=7133557452832408586&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-17 23:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "哈啰调整 Robotaxi 组织架构：整合成立“模型开发与数据闭环部”，由 CEO 杨磊直接负责",
+    "url": "https://www.ithome.com/1/029/117.htm",
+    "source": "IT之家",
+    "time": "11-18 23:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "消息称三星电子计划在 CES 2027 发布 2 款人形机器人",
+    "url": "https://www.ithome.com/1/029/087.htm",
+    "source": "IT之家",
+    "time": "11-18 21:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华境 S 五座版 SUV 新车官宣将至：现款累计交付破 4 万台，标配华为乾崑智驾",
+    "url": "https://www.ithome.com/1/029/045.htm",
+    "source": "IT之家",
+    "time": "11-18 19:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上",
+    "url": "https://www.ithome.com/1/029/110.htm",
+    "source": "IT之家",
+    "time": "11-18 22:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "超 250 万人同时围观，《GTA 6》发售仅半小时创下 Twitch 单机游戏收视纪录",
+    "url": "https://www.ithome.com/1/029/104.htm",
+    "source": "IT之家",
+    "time": "11-18 22:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯：受芯片限制影响，训练下一代模型将需要更长时间",
+    "url": "https://www.ithome.com/1/029/066.htm",
+    "source": "IT之家",
+    "time": "11-18 20:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯刘炽平：微信“小微”全面上线后季度成本将低于今年早些时候的元宝",
+    "url": "https://www.ithome.com/1/029/063.htm",
+    "source": "IT之家",
+    "time": "11-18 20:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "格力董明珠回应利润下降仍不用铝代铜：铝可以代铜但不能代表品质，要对消费者负责",
+    "url": "https://www.ithome.com/1/029/082.htm",
+    "source": "IT之家",
+    "time": "11-18 21:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "HackerNews(4)",
+   "Bing新闻(6)"
+  ],
+  "fail": [
+   "36氪(no entries)",
+   "GameLook(HTTP 502)"
+  ]
+ }
+}
