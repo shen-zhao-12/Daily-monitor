@@ -2,10 +2,65 @@
  "id": "2026-11-19-wubao",
  "title": "线口监测午报 · 2026年11月19日(周四)",
  "shift": "午报",
- "date": "2026-11-19 15:31",
+ "date": "2026-11-19 16:50",
  "docx": "../briefings/线口监测午报-2026-11-19.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "联想杨元庆：终端市场有巨大增长机会，80% 算力将产生于“端边”",
+    "url": "https://www.ithome.com/1/029/518.htm",
+    "source": "IT之家",
+    "time": "11-19 16:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "曝华为 Mate 90 Air 新机支持三摄全焦段红枫影像，“6 开头”厚度刷纪录",
+    "url": "https://www.ithome.com/1/029/517.htm",
+    "source": "IT之家",
+    "time": "11-19 16:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "12 月 10 日上市，三星 AI 眼镜 Intelligent Eyewear 预售数小时便售罄",
+    "url": "https://www.ithome.com/1/029/515.htm",
+    "source": "IT之家",
+    "time": "11-19 16:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "微软纳德拉：AI 代劳网购将重塑互联网生意，拒绝接入的平台恐失去机会",
+    "url": "https://www.ithome.com/1/029/497.htm",
+    "source": "IT之家",
+    "time": "11-19 15:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "韩国成为全球第四个出口额破万亿美元国家，AI 芯片旺盛需求助力",
+    "url": "https://www.ithome.com/1/029/495.htm",
+    "source": "IT之家",
+    "time": "11-19 15:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "因智能体入侵银行系统，美国亚利桑那州对 OpenAI 等人工智能企业展开刑事调查",
@@ -85,39 +140,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "英伟达回应“黄仁勋离任会打乱 AI 芯片供货”疑虑：需求仍强劲，产品按计划推进",
-    "url": "https://www.ithome.com/1/029/234.htm",
-    "source": "IT之家",
-    "time": "11-19 11:42",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "最高 853.33% 提升：《GTA 6》PS5 Pro 画面经 AI 加持，帧率飙到 286 FPS",
-    "url": "https://www.ithome.com/1/029/200.htm",
-    "source": "IT之家",
-    "time": "11-19 11:11",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "华为史上最薄智能手表 WATCH Air 三款配色公布，6.9mm 超薄设计",
-    "url": "https://www.ithome.com/1/029/199.htm",
-    "source": "IT之家",
-    "time": "11-19 11:10",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "腾讯Q3游戏收入665亿元，高管：游戏业创新放缓、AI加快创新，要推动组织变革",
     "url": "http://www.gamelook.com.cn/2026/11/606770/",
     "source": "GameLook",
@@ -162,28 +184,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "从模型接入到场景闭环，国内企业级AI应用厂商的八条技术路线",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c578ef45f0a66af44911504fdd&url=https%3a%2f%2fwww.ithome.com%2f1%2f029%2f451.htm&c=10453595743951210143&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-19 01:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "科技厂商加码AI眼镜 产品研发路线持续分化",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c7938c49129ad4e793a036e674&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611193934376355.html&c=5057246598860625165&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-19 00:01",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
     "source": "Hacker News",
@@ -195,8 +195,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "科技厂商加码AI眼镜 产品研发路线持续分化",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afeb84c93e44b77a6e5dccaf5b34b11&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E7%25A7%2591%25E6%258A%2580%25E5%258E%2582%25E5%2595%2586%25E5%258A%25A0%25E7%25A0%2581ai%25E7%259C%25BC%25E9%2595%259C-%25E4%25BA%25A7%25E5%2593%2581%25E7%25A0%2594%25E5%258F%2591%25E8%25B7%25AF%25E7%25BA%25BF%25E6%258C%2581%25E7%25BB%25AD%25E5%2588%2586%25E5%258C%2596%2far-AA2hIx4C&c=10549244048397823409&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-18 18:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "【会员动态】豪鹏科技钢壳叠片电池量产，面向AI眼镜等高能量密度终端需求!",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c7938c49129ad4e793a036e674&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-11-18%2fdoc-inizehkx4744237.shtml&c=5440902196031717913&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afeb84c93e44b77a6e5dccaf5b34b11&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-11-18%2fdoc-inizehkx4744237.shtml&c=5440902196031717913&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 18:16",
     "summary": "",
@@ -207,7 +218,7 @@
    {
     "beat": "AI/大模型",
     "title": "大模型带动计算机视觉市场增长，创新奇智稳居中国市场份额第三",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c578ef45f0a66af44911504fdd&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-18%2fdetail-inizcmfi4961024.d.html%3fvt%3d4&c=13426267368034245846&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afeb84b416d46b6aa4fbca0d908e7be&url=https%3a%2f%2fnews.sina.cn%2fsx%2f2026-11-18%2fdetail-inizcmfi4961024.d.html%3fvt%3d4&c=13426267368034245846&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 13:03",
     "summary": "",
@@ -218,7 +229,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜出货量增长263%：从微型PCB到SMT贴片，解析智能眼镜背后的精密制造技术｜聚多邦",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c7938c49129ad4e793a036e674&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103041390_122830294&c=17779118268034947932&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afeb84c93e44b77a6e5dccaf5b34b11&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103041390_122830294&c=17779118268034947932&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-18 10:07",
     "summary": "",
@@ -232,17 +243,6 @@
     "url": "http://www.gamelook.com.cn/2026/11/606687/",
     "source": "GameLook",
     "time": "11-18 10:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "欧洲游戏业工会发布“联合宣言”：全面抵制AI做游戏，社区炸了",
-    "url": "http://www.gamelook.com.cn/2026/11/606619/",
-    "source": "GameLook",
-    "time": "11-18 09:28",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -267,6 +267,17 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》游戏发行首日：玩家热衷于刷墙、刷手机等“生活玩法”",
+    "url": "https://www.ithome.com/1/029/484.htm",
+    "source": "IT之家",
+    "time": "11-19 15:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "网易 UU 远程官宣推出 VIP 和 SVIP 服务，基础远控将持续免费无广告",
     "url": "https://www.ithome.com/1/029/264.htm",
     "source": "IT之家",
@@ -282,17 +293,6 @@
     "url": "https://www.ithome.com/1/029/260.htm",
     "source": "IT之家",
     "time": "11-19 12:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "八位堂公布 GC 蓝牙游戏手柄：外观致敬 GameCube 控制器，配备 TMR 摇杆",
-    "url": "https://www.ithome.com/1/029/196.htm",
-    "source": "IT之家",
-    "time": "11-19 11:05",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,7 +352,7 @@
    "IT之家(60)",
    "GameLook(15)",
    "HackerNews(7)",
-   "Bing新闻(8)"
+   "Bing新闻(9)"
   ],
   "fail": [
    "36氪(no entries)"
