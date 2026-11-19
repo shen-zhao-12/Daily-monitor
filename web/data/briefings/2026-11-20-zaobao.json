@@ -2,10 +2,21 @@
  "id": "2026-11-20-zaobao",
  "title": "线口监测早报 · 2026年11月20日(周五)",
  "shift": "早报",
- "date": "2026-11-20 00:30",
+ "date": "2026-11-20 01:17",
  "docx": "../briefings/线口监测早报-2026-11-20.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+    "url": "https://thedataexchange.media/pete-warden-moonshine/",
+    "source": "Hacker News",
+    "time": "11-19 23:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "Nothing 首款 AI 设备外观流出：无屏设计，形似录音笔",
@@ -140,19 +151,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "德国将网络威胁评估上调为“严峻至危急”：AI 智能体降低攻击门槛",
-    "url": "https://www.ithome.com/1/029/609.htm",
-    "source": "IT之家",
-    "time": "11-19 18:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "12 月 10 日上市，三星 AI 眼镜 Intelligent Eyewear 预售数小时便售罄",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff241c25854cb59e603fa15d39c72a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-11-19%2fdoc-inizhfae7775112.shtml&c=8181741793016271919&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2f403b064d188ca36412f4d374b2&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-11-19%2fdoc-inizhfae7775112.shtml&c=8181741793016271919&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-19 16:07",
     "summary": "",
@@ -185,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "神秘大模型Gestalt杀穿AI排行榜：断层式性能领先 最强Fabe 5.2都不够看",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff241be5b147ae875af1b371049be2&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-19%2fdoc-inizhrry7714032.shtml&c=15609301376322800597&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2f3f0481420d90e695d2dcf83e9c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-19%2fdoc-inizhrry7714032.shtml&c=15609301376322800597&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-19 07:31",
     "summary": "",
@@ -196,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜热卖、机器人进店：智能消费跑出加速度",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff241c25854cb59e603fa15d39c72a&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6afec1c98f9d2b19dda224e3.html&c=14076302233542313597&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2f403b064d188ca36412f4d374b2&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6afec1c98f9d2b19dda224e3.html&c=14076302233542313597&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-19 03:31",
     "summary": "",
@@ -207,7 +207,7 @@
    {
     "beat": "AI/大模型",
     "title": "苏州发力AI眼镜产业 千问AI硬件双店开业",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff241c25854cb59e603fa15d39c72a&url=https%3a%2f%2fnews.inewsweek.cn%2fobserve%2f2026-11-19%2f33224.shtml&c=12377922269768343669&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff2f403b064d188ca36412f4d374b2&url=https%3a%2f%2fnews.inewsweek.cn%2fobserve%2f2026-11-19%2f33224.shtml&c=12377922269768343669&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-19 03:28",
     "summary": "",
@@ -352,7 +352,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(15)",
-   "HackerNews(4)",
+   "HackerNews(3)",
    "Bing新闻(8)"
   ],
   "fail": [
