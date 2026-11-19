@@ -1,0 +1,362 @@
+{
+ "id": "2026-11-20-zaobao",
+ "title": "线口监测早报 · 2026年11月20日(周五)",
+ "shift": "早报",
+ "date": "2026-11-20 00:30",
+ "docx": "../briefings/线口监测早报-2026-11-20.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Nothing 首款 AI 设备外观流出：无屏设计，形似录音笔",
+    "url": "https://www.ithome.com/1/029/705.htm",
+    "source": "IT之家",
+    "time": "11-19 23:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌与蓝色起源合作，计划 2029 年发射 AI 服务器卫星",
+    "url": "https://www.ithome.com/1/029/695.htm",
+    "source": "IT之家",
+    "time": "11-19 22:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 模型大幅降低古籍数字化成本：识别 1000 页内容费用已不到 0.1 美元",
+    "url": "https://www.ithome.com/1/029/688.htm",
+    "source": "IT之家",
+    "time": "11-19 21:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "欧盟委员会证实遭到 AI 驱动的网络攻击，事态规模暂难判断",
+    "url": "https://www.ithome.com/1/029/687.htm",
+    "source": "IT之家",
+    "time": "11-19 21:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里巴巴 CEO 吴泳铭：2027、2028 年将是中国算力最紧缺的两年",
+    "url": "https://www.ithome.com/1/029/682.htm",
+    "source": "IT之家",
+    "time": "11-19 21:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "在线设计与出版工具 Canva 推出“AI 开关”，可关闭绝大部分 AI 工具",
+    "url": "https://www.ithome.com/1/029/677.htm",
+    "source": "IT之家",
+    "time": "11-19 21:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为 Pura X View 阔直板手机获 HarmonyOS 7.0.0.115 升级，桌面 AI 快捷栏如约而至",
+    "url": "https://www.ithome.com/1/029/672.htm",
+    "source": "IT之家",
+    "time": "11-19 20:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Meta 员工爆料：Muse 智能体可能擅自读取加密消息与银行账户余额",
+    "url": "https://www.ithome.com/1/029/671.htm",
+    "source": "IT之家",
+    "time": "11-19 20:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克：目前 SpaceX 每个月约新增 0.5GW 算力，明年底将提速至每月 1GW",
+    "url": "https://www.ithome.com/1/029/649.htm",
+    "source": "IT之家",
+    "time": "11-19 19:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国际货币基金组织总裁警告：AI 投资热情过高影响，金融市场或现进一步调整",
+    "url": "https://www.ithome.com/1/029/648.htm",
+    "source": "IT之家",
+    "time": "11-19 19:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 智能体擅自转账、购物谁来负责？多家银行警告用户损失可能要自己承担",
+    "url": "https://www.ithome.com/1/029/646.htm",
+    "source": "IT之家",
+    "time": "11-19 18:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "博帝推出 AI Matrix 系列 DDR5 内存、M.2 SSD，专为端侧 AI 设计",
+    "url": "https://www.ithome.com/1/029/645.htm",
+    "source": "IT之家",
+    "time": "11-19 18:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "德国将网络威胁评估上调为“严峻至危急”：AI 智能体降低攻击门槛",
+    "url": "https://www.ithome.com/1/029/609.htm",
+    "source": "IT之家",
+    "time": "11-19 18:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "12 月 10 日上市，三星 AI 眼镜 Intelligent Eyewear 预售数小时便售罄",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff241c25854cb59e603fa15d39c72a&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-11-19%2fdoc-inizhfae7775112.shtml&c=8181741793016271919&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-19 16:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+    "url": "https://verialabs.com/ruby2shell/",
+    "source": "Hacker News",
+    "time": "11-19 13:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯Q3游戏收入665亿元，高管：游戏业创新放缓、AI加快创新，要推动组织变革",
+    "url": "http://www.gamelook.com.cn/2026/11/606770/",
+    "source": "GameLook",
+    "time": "11-19 10:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "神秘大模型Gestalt杀穿AI排行榜：断层式性能领先 最强Fabe 5.2都不够看",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff241be5b147ae875af1b371049be2&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-19%2fdoc-inizhrry7714032.shtml&c=15609301376322800597&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-19 07:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜热卖、机器人进店：智能消费跑出加速度",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff241c25854cb59e603fa15d39c72a&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6afec1c98f9d2b19dda224e3.html&c=14076302233542313597&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-19 03:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苏州发力AI眼镜产业 千问AI硬件双店开业",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff241c25854cb59e603fa15d39c72a&url=https%3a%2f%2fnews.inewsweek.cn%2fobserve%2f2026-11-19%2f33224.shtml&c=12377922269768343669&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-19 03:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景",
+    "url": "https://www.ithome.com/1/029/686.htm",
+    "source": "IT之家",
+    "time": "11-19 21:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "马斯克：预计未来 12-18 个月 Optimus 人形机器人能做家务劳动",
+    "url": "https://www.ithome.com/1/029/616.htm",
+    "source": "IT之家",
+    "time": "11-19 18:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "特斯拉 Cybercab 自动驾驶订阅费高昂，用车四年后总成本将超 Model 3",
+    "url": "https://www.ithome.com/1/029/647.htm",
+    "source": "IT之家",
+    "time": "11-19 19:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "《GTA 6》发售掀起直播狂潮，主播计划通宵直播抢抓流量窗口期",
+    "url": "https://www.ithome.com/1/029/683.htm",
+    "source": "IT之家",
+    "time": "11-19 21:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "今年 10 月，微软 XBOX Series X|S 游戏主机美国销量大幅增长 42%",
+    "url": "https://www.ithome.com/1/029/703.htm",
+    "source": "IT之家",
+    "time": "11-19 23:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "美国电玩零售商 GameStop CEO 批评游戏纯数字化：损害玩家和零售商利益",
+    "url": "https://www.ithome.com/1/029/693.htm",
+    "source": "IT之家",
+    "time": "11-19 22:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易 UU 远程鸿蒙版 App 官宣明天开启测试，手机 / 平板原生适配",
+    "url": "https://www.ithome.com/1/029/670.htm",
+    "source": "IT之家",
+    "time": "11-19 20:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》Xbox Series S 版是首款采用 AMD FSR 4.1 超分技术的游戏",
+    "url": "https://www.ithome.com/1/029/669.htm",
+    "source": "IT之家",
+    "time": "11-19 20:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "R 星回应《GTA 6》为何没有飞镖、保龄球小游戏：宁缺毋滥，做不到高标准就不做",
+    "url": "https://www.ithome.com/1/029/666.htm",
+    "source": "IT之家",
+    "time": "11-19 20:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "TGA公布提名:《GTA 6》领跑《影之刃零》获五项提名，手游中国游戏包场",
+    "url": "http://www.gamelook.com.cn/2026/11/606733/",
+    "source": "GameLook",
+    "time": "11-19 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "鹰角《终末地》加冕Google Play年度游戏！《异环》米哈游三七点点获奖",
+    "url": "http://www.gamelook.com.cn/2026/11/606725/",
+    "source": "GameLook",
+    "time": "11-19 09:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(4)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
