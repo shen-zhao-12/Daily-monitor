@@ -1,0 +1,361 @@
+{
+ "id": "2026-11-21-zaobao",
+ "title": "线口监测早报 · 2026年11月21日(周六)",
+ "shift": "早报",
+ "date": "2026-11-21 00:03",
+ "docx": "../briefings/线口监测早报-2026-11-21.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
+    "url": "https://www.ithome.com/1/030/278.htm",
+    "source": "IT之家",
+    "time": "11-20 23:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元",
+    "url": "https://www.ithome.com/1/030/277.htm",
+    "source": "IT之家",
+    "time": "11-20 23:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+    "url": "https://alpo.ge/remark.pdf",
+    "source": "Hacker News",
+    "time": "11-20 22:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三星电子高管：Neocloud 风险有限，AI 投资基于实际需求",
+    "url": "https://www.ithome.com/1/030/247.htm",
+    "source": "IT之家",
+    "time": "11-20 22:09",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜",
+    "url": "https://www.ithome.com/1/030/246.htm",
+    "source": "IT之家",
+    "time": "11-20 22:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "source": "Hacker News",
+    "time": "11-20 21:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Take-Two 前 CEO 费德：《GTA 6》将是 AI 时代前夜最后的“传统”3A 大作",
+    "url": "https://www.ithome.com/1/030/238.htm",
+    "source": "IT之家",
+    "time": "11-20 21:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "玩家在《极限竞速：地平线 6》中偶遇已故好友 Drivatar AI 车手，得以再次“并肩驾车”重温昨日时光",
+    "url": "https://www.ithome.com/1/030/231.htm",
+    "source": "IT之家",
+    "time": "11-20 20:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开发者将櫻井政博游戏制作教程整合为 Skill 技能，可供各类 AI 智能体调用",
+    "url": "https://www.ithome.com/1/030/228.htm",
+    "source": "IT之家",
+    "time": "11-20 19:55",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权",
+    "url": "https://www.ithome.com/1/030/199.htm",
+    "source": "IT之家",
+    "time": "11-20 18:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "自家人都看不下去了？数百谷歌员工要求公司允许中小学使用不含 AI 的谷歌搜索",
+    "url": "https://www.ithome.com/1/030/197.htm",
+    "source": "IT之家",
+    "time": "11-20 18:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "欧洲央行行长拉加德：AI 加剧网络攻击威胁，使我夜不能寐",
+    "url": "https://www.ithome.com/1/030/191.htm",
+    "source": "IT之家",
+    "time": "11-20 18:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "url": "https://architectlabs.com/blog/frostbite",
+    "source": "Hacker News",
+    "time": "11-20 18:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称林俊旸从阿里离职后创办的 AI 公司语用科技完成新一轮融资，估值达 50 亿美元",
+    "url": "https://www.ithome.com/1/030/176.htm",
+    "source": "IT之家",
+    "time": "11-20 17:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "What people are building, discovered through new domains",
+    "url": "https://startups.novumsignals.com/",
+    "source": "Hacker News",
+    "time": "11-20 17:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+    "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+    "source": "Hacker News",
+    "time": "11-20 17:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AMD XDNA2 NPU 率先获得 Unsloth Desktop 适配，支持超百款智能体",
+    "url": "https://www.ithome.com/1/030/131.htm",
+    "source": "IT之家",
+    "time": "11-20 17:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic 上市当天，离职研究员考克森在其总部外呼吁禁止 AI 递归自我改进",
+    "url": "https://www.ithome.com/1/030/127.htm",
+    "source": "IT之家",
+    "time": "11-20 17:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果还没造出来的AI眼镜，中国厂商已经卖到了海外Top3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b006f54df8f4e65965cb046beda4855&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104138588_549351&c=16209159250206618557&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 15:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开启智能眼镜新体验：构建边缘侧对话AI",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b006f54df8f4e65965cb046beda4855&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-20%2fdoc-inizkizm0365989.shtml&c=3352768619103665756&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 14:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米大模型业务被传分拆独立，雷军和罗福莉有分歧？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b006f52b9ab4bc8a7558a2af0ced805&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104084201_115479&c=12791228572643014021&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 13:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "加州禁令引发连锁反应，Waymo 暂停全美 Robotaxi 高速公路服务",
+    "url": "https://www.ithome.com/1/030/241.htm",
+    "source": "IT之家",
+    "time": "11-20 21:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "滑雪逃离北极熊追杀：极地末日生存游戏《POLYARIS》宣布明年 1 月 20 日登陆 Steam",
+    "url": "https://www.ithome.com/1/030/233.htm",
+    "source": "IT之家",
+    "time": "11-20 20:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "美国亚特兰大警方发文，呼吁玩家勿将《GTA6》游戏犯罪内容搬到现实",
+    "url": "https://www.ithome.com/1/030/230.htm",
+    "source": "IT之家",
+    "time": "11-20 20:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》作弊码公布：通关游戏主线后才能用，包含无限弹药、载具召唤等",
+    "url": "https://www.ithome.com/1/030/226.htm",
+    "source": "IT之家",
+    "time": "11-20 19:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯 WorkBuddy 上线电脑操控能力：能识别当前页面，进行点击、输入、滚动等操作",
+    "url": "https://www.ithome.com/1/030/222.htm",
+    "source": "IT之家",
+    "time": "11-20 19:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "影石 Mic Pro、Wave 两款麦克风获升级，可原生接入腾讯 WorkBuddy",
+    "url": "https://www.ithome.com/1/030/221.htm",
+    "source": "IT之家",
+    "time": "11-20 19:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "为水豚客户组装键盘：游戏《KeyCapy》发布预告",
+    "url": "https://www.ithome.com/1/030/123.htm",
+    "source": "IT之家",
+    "time": "11-20 16:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "Counterpoint：消费者耐用性需求崛起，康宁大猩猩玻璃引领智能手机材料创新",
+    "url": "https://www.ithome.com/1/030/200.htm",
+    "source": "IT之家",
+    "time": "11-20 19:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "支持华为 OSTA 星芒 O1 Pro 手机满速充电：华为 66W 冰糖全能充电器 89 元国补发车",
+    "url": "https://www.ithome.com/1/030/126.htm",
+    "source": "IT之家",
+    "time": "11-20 16:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(8)",
+   "Bing新闻(10)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
