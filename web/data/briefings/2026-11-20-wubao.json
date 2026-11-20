@@ -2,10 +2,43 @@
  "id": "2026-11-20-wubao",
  "title": "线口监测午报 · 2026年11月20日(周五)",
  "shift": "午报",
- "date": "2026-11-20 15:23",
+ "date": "2026-11-20 16:35",
  "docx": "../briefings/线口监测午报-2026-11-20.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "微软公布 USB4 多 Win11 电脑协同 AI 方案，搭积木式叠加内存 / 显卡算力跑本地模型",
+    "url": "https://www.ithome.com/1/030/081.htm",
+    "source": "IT之家",
+    "time": "11-20 16:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为全新子品牌星芒 OSTA 正式登场，余承东称目标成为 AI 时代消费者喜爱的先锋科技品牌",
+    "url": "https://www.ithome.com/1/030/068.htm",
+    "source": "IT之家",
+    "time": "11-20 16:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "目前算力性能最强中国自研 AI 芯片，阿里真武 V900 明年一季度将量产售卖",
+    "url": "https://www.ithome.com/1/030/006.htm",
+    "source": "IT之家",
+    "time": "11-20 15:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "约 14MB 内存运行 2.7 亿参数模型：谷歌工程师把 AI 装进打印机，每词元耗时约 60 秒",
@@ -74,65 +107,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-    "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-    "source": "Hacker News",
-    "time": "11-20 13:21",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "吉利董事长李书福：一般性的传统大学已不适应 AI 时代人才培养需求，必将诞生一批新型大学",
-    "url": "https://www.ithome.com/1/029/864.htm",
-    "source": "IT之家",
-    "time": "11-20 12:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "三星 One UI 9.5 版天气 App 酝酿 AI 升级：出发前提醒查看目的地天气",
-    "url": "https://www.ithome.com/1/029/842.htm",
-    "source": "IT之家",
-    "time": "11-20 11:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码",
-    "url": "https://www.ithome.com/1/029/833.htm",
-    "source": "IT之家",
-    "time": "11-20 11:27",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "网易Q3游戏收入223亿元，管理层：短剧爆发对游戏业有影响，AI助力游戏玩法多元化",
     "url": "http://www.gamelook.com.cn/2026/11/606884/",
     "source": "GameLook",
     "time": "11-20 11:18",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能",
-    "url": "https://www.ithome.com/1/029/826.htm",
-    "source": "IT之家",
-    "time": "11-20 11:11",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -174,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "海南首个备案文旅大模型发布 鱼多多智能体11月18日落户荣山寮",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff56ecb44488983756fa516b99f23&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%25B5%25B7%25E5%258D%2597%25E9%25A6%2596%25E4%25B8%25AA%25E5%25A4%2587%25E6%25A1%2588%25E6%2596%2587%25E6%2597%2585%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583-%25E9%25B1%25BC%25E5%25A4%259A%25E5%25A4%259A%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%259311%25E6%259C%258818%25E6%2597%25A5%25E8%2590%25BD%25E6%2588%25B7%25E8%258D%25A3%25E5%25B1%25B1%25E5%25AF%25AE%2far-AA2hOPHE&c=11299854536464996964&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0006671f394082886daa336da04838&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%25B5%25B7%25E5%258D%2597%25E9%25A6%2596%25E4%25B8%25AA%25E5%25A4%2587%25E6%25A1%2588%25E6%2596%2587%25E6%2597%2585%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583-%25E9%25B1%25BC%25E5%25A4%259A%25E5%25A4%259A%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%259311%25E6%259C%258818%25E6%2597%25A5%25E8%2590%25BD%25E6%2588%25B7%25E8%258D%25A3%25E5%25B1%25B1%25E5%25AF%25AE%2far-AA2hOPHE&c=11299854536464996964&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-20 02:34",
     "summary": "",
@@ -184,8 +162,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "苹果还没造出来的AI眼镜，中国厂商已经卖到了海外Top3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0006680fda448d9b5a9cabef878885&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104138588_549351&c=16209159250206618557&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 01:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "“天华开物”酶设计大模型在津发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff56ecb44488983756fa516b99f23&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25A4%25A9%25E5%258D%258E%25E5%25BC%2580%25E7%2589%25A9-%25E9%2585%25B6%25E8%25AE%25BE%25E8%25AE%25A1%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%259C%25A8%25E6%25B4%25A5%25E5%258F%2591%25E5%25B8%2583%2far-AA2hOFc2&c=2541374711269011362&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0006671f394082886daa336da04838&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25A4%25A9%25E5%258D%258E%25E5%25BC%2580%25E7%2589%25A9-%25E9%2585%25B6%25E8%25AE%25BE%25E8%25AE%25A1%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%259C%25A8%25E6%25B4%25A5%25E5%258F%2591%25E5%25B8%2583%2far-AA2hOFc2&c=2541374711269011362&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-20 01:23",
     "summary": "",
@@ -195,54 +184,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "神秘大模型Gestalt杀穿AI排行榜：断层式性能领先 最强Fabe 5.2都不够看",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff56ecb44488983756fa516b99f23&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-19%2fdoc-inizhrry7714032.shtml&c=15609301376322800597&mkt=en-us",
+    "title": "小米大模型业务被传分拆独立，雷军和罗福莉有分歧？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0006671f394082886daa336da04838&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104084201_115479&c=12791228572643014021&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-19 21:31",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "美国越卡，阿里越硬：下一代千问大模型，全面换装国产芯片！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff56ecb44488983756fa516b99f23&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103906876_122654121&c=7913559344921213524&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-19 18:02",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "AI眼镜热卖、机器人进店：智能消费跑出加速度",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff570f3424f52aa1b488b3ad4298c&url=https%3a%2f%2fwww.stnn.cc%2fdetail%2f6afec1c98f9d2b19dda224e3.html&c=14076302233542313597&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-19 17:32",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "苏州发力AI眼镜产业 千问AI硬件双店开业",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff570f3424f52aa1b488b3ad4298c&url=https%3a%2f%2fnews.inewsweek.cn%2fobserve%2f2026-11-19%2f33224.shtml&c=12377922269768343669&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-19 17:28",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "12 月 10 日上市，三星 AI 眼镜 Intelligent Eyewear 预售数小时便售罄",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff570f3424f52aa1b488b3ad4298c&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2fdigi%2f2026-11-19%2fdoc-inizhfae7775112.shtml&c=8181741793016271919&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-19 16:07",
+    "time": "11-19 23:52",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -250,9 +195,76 @@
    }
   ],
   "机器人/AI硬件": [],
-  "无人驾驶/低空/智慧出行": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为余承东：L3 自动驾驶来了以后开车是可以睡觉的，别睡死过去就行",
+    "url": "https://www.ithome.com/1/030/048.htm",
+    "source": "IT之家",
+    "time": "11-20 15:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
   "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam / 蒸汽平台开启“2027 农历新年特卖”游戏厂商报名，1 月 17 日结束",
+    "url": "https://www.ithome.com/1/030/029.htm",
+    "source": "IT之家",
+    "time": "11-20 15:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "复古游戏机 Analogue 3D 迎来固件更新：可通过 Wi-Fi 升级操作系统",
+    "url": "https://www.ithome.com/1/030/000.htm",
+    "source": "IT之家",
+    "time": "11-20 15:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "玩家为 PC 串流游玩《GTA6》开发实验方案：利用电脑显卡帧生成技术将 30 帧游戏补帧至 60 帧",
+    "url": "https://www.ithome.com/1/029/978.htm",
+    "source": "IT之家",
+    "time": "11-20 15:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易丁磊谈游戏业务罕见下滑：短剧今年呈现爆炸式发展，短期内确实会对游戏产生影响",
+    "url": "https://www.ithome.com/1/029/977.htm",
+    "source": "IT之家",
+    "time": "11-20 15:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏《维修物语》与 Commodore 达成合作，多款经典复古机型明年第一季度加入作品",
+    "url": "https://www.ithome.com/1/029/954.htm",
+    "source": "IT之家",
+    "time": "11-20 15:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "游戏/电竞/平台公司",
     "title": "索尼在 Steam 平台开启 PlayStation Studios 第一方 PC 游戏促销：《死亡搁浅 2》199.66 元等",
@@ -281,17 +293,6 @@
     "url": "https://www.ithome.com/1/029/902.htm",
     "source": "IT之家",
     "time": "11-20 14:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯 Hy4 正式开源，混元 LLM 系列实现全量开放",
-    "url": "https://www.ithome.com/1/029/841.htm",
-    "source": "IT之家",
-    "time": "11-20 11:47",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -350,7 +351,7 @@
    "IT之家(60)",
    "GameLook(15)",
    "HackerNews(6)",
-   "Bing新闻(9)"
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
