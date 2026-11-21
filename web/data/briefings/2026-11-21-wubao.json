@@ -1,0 +1,363 @@
+{
+ "id": "2026-11-21-wubao",
+ "title": "线口监测午报 · 2026年11月21日(周六)",
+ "shift": "午报",
+ "date": "2026-11-21 15:15",
+ "docx": "../briefings/线口监测午报-2026-11-21.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "4299 元华擎 X870E TaiChi 太极 OCF 主板发售：22+2+1 相供电，支持 10400MHz 内存超频",
+    "url": "https://www.ithome.com/1/030/355.htm",
+    "source": "IT之家",
+    "time": "11-21 14:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "达里奥 2010 年曾拒绝马斯克招揽，2016 年加入 OpenAI 后又出走创立 Anthropic",
+    "url": "https://www.ithome.com/1/030/350.htm",
+    "source": "IT之家",
+    "time": "11-21 13:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "12 张二手英伟达 V100：律师自建 AI 集群跑 DeepSeek，最高每秒 184 个词元",
+    "url": "https://www.ithome.com/1/030/346.htm",
+    "source": "IT之家",
+    "time": "11-21 13:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件",
+    "url": "https://www.ithome.com/1/030/333.htm",
+    "source": "IT之家",
+    "time": "11-21 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
+    "url": "https://www.ithome.com/1/030/322.htm",
+    "source": "IT之家",
+    "time": "11-21 10:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%",
+    "url": "https://www.ithome.com/1/030/319.htm",
+    "source": "IT之家",
+    "time": "11-21 09:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
+    "url": "https://www.ithome.com/1/030/308.htm",
+    "source": "IT之家",
+    "time": "11-21 08:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "NINLIVE: The Nine Inch Nails live archive",
+    "url": "https://ninlive.com/",
+    "source": "Hacker News",
+    "time": "11-21 06:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国产大模型引领全球开源生态（大数据观察·智能经济新形态）",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b014517eb3b4902a20341cb57858e11&url=https%3a%2f%2fnews.sina.cn%2f2026-11-21%2fdetail-iniznakk6837526.d.html%3fvt%3d4&c=17561691273006730567&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 23:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+    "url": "https://alpo.ge/remark.pdf",
+    "source": "Hacker News",
+    "time": "11-20 22:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "视频丨科技新国货成“深圳特产” AI眼镜、翻译耳机、无人机圈粉世界",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01451873a1481392fbda9a700baad3&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yDJkner666&c=2481303320541289899&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 21:31",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "source": "Hacker News",
+    "time": "11-20 21:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "苹果还没造出来的AI眼镜，中国厂商已经卖到了海外Top3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01451873a1481392fbda9a700baad3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104138588_549351&c=16209159250206618557&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 15:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "网易Q3游戏收入223亿元，管理层：短剧爆发对游戏业有影响，AI助力游戏玩法多元化",
+    "url": "http://www.gamelook.com.cn/2026/11/606884/",
+    "source": "GameLook",
+    "time": "11-20 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "当腾讯全面驶入AI时代，游戏业务是陆军还是海军？",
+    "url": "http://www.gamelook.com.cn/2026/11/606854/",
+    "source": "GameLook",
+    "time": "11-20 08:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“天华开物”酶设计大模型在津发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b014517eb3b4902a20341cb57858e11&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E5%25A4%25A9%25E5%258D%258E%25E5%25BC%2580%25E7%2589%25A9-%25E9%2585%25B6%25E8%25AE%25BE%25E8%25AE%25A1%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%259C%25A8%25E6%25B4%25A5%25E5%258F%2591%25E5%25B8%2583%2far-AA2hOFc2&c=3189027151990643063&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 01:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作",
+    "url": "https://www.ithome.com/1/030/364.htm",
+    "source": "IT之家",
+    "time": "11-21 14:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10",
+    "url": "https://www.ithome.com/1/030/305.htm",
+    "source": "IT之家",
+    "time": "11-21 08:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [
+   {
+    "beat": "电商/直播/即时零售",
+    "title": "商务部：重点监测平台 1-10 月即时零售交易额增速超过两位数",
+    "url": "https://www.ithome.com/1/030/341.htm",
+    "source": "IT之家",
+    "time": "11-21 11:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "消息称《GTA6》实体版游戏销量惨淡，玩家倾向于直接购买数字版",
+    "url": "https://www.ithome.com/1/030/371.htm",
+    "source": "IT之家",
+    "time": "11-21 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》卖爆了：预售超 2400 万份，实体游戏店却只卖出 5 份",
+    "url": "https://www.ithome.com/1/030/368.htm",
+    "source": "IT之家",
+    "time": "11-21 14:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Steam 黑五多款游戏新史低：《战地 6》65.34 元、《对马岛之魂：导剪版》199 元、《最终幻想 7：重制版》35.64 元",
+    "url": "https://www.ithome.com/1/030/344.htm",
+    "source": "IT之家",
+    "time": "11-21 12:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
+    "url": "https://www.ithome.com/1/030/338.htm",
+    "source": "IT之家",
+    "time": "11-21 11:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《饥饿游戏：收获日出》电影 4K 铁盒版开启预售，有亚马逊 / 沃尔玛 2 款封面设计",
+    "url": "https://www.ithome.com/1/030/326.htm",
+    "source": "IT之家",
+    "time": "11-21 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA6》首日横扫全球！一个注定无法复制的游戏业奇迹",
+    "url": "http://www.gamelook.com.cn/2026/11/606855/",
+    "source": "GameLook",
+    "time": "11-20 10:21",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "魔兽世界新梗：老婆求助网友“让老公早点睡”，引全服深夜PK，网易官方下场",
+    "url": "http://www.gamelook.com.cn/2026/11/606836/",
+    "source": "GameLook",
+    "time": "11-20 10:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "韩国游戏展G-Star韩国大厂集体缺席！米哈游网易Krafton成了”顶梁柱”",
+    "url": "http://www.gamelook.com.cn/2026/11/606834/",
+    "source": "GameLook",
+    "time": "11-20 09:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "历史性突破！韩政府官宣：“韩国游戏获最惠国待遇”，大批韩游排队入华",
+    "url": "http://www.gamelook.com.cn/2026/11/606824/",
+    "source": "GameLook",
+    "time": "11-20 09:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "亿纬锂能刘金成：锂电池消费税落地后，会有相当一部分企业退出市场",
+    "url": "https://www.ithome.com/1/030/366.htm",
+    "source": "IT之家",
+    "time": "11-21 14:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米米家扫振电动牙刷 2 开售：4 区漏刷识别 + 180 天续航，国补后 149 元",
+    "url": "https://www.ithome.com/1/030/327.htm",
+    "source": "IT之家",
+    "time": "11-21 10:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(7)",
+   "HackerNews(7)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
