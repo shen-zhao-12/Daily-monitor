@@ -2,10 +2,87 @@
  "id": "2026-11-21-wubao",
  "title": "线口监测午报 · 2026年11月21日(周六)",
  "shift": "午报",
- "date": "2026-11-21 16:18",
+ "date": "2026-11-21 23:16",
  "docx": "../briefings/线口监测午报-2026-11-21.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "韩国总统李在明：速度在 AI 竞赛中至关重要",
+    "url": "https://www.ithome.com/1/030/506.htm",
+    "source": "IT之家",
+    "time": "11-21 22:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
+    "url": "https://www.ithome.com/1/030/464.htm",
+    "source": "IT之家",
+    "time": "11-21 19:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "前英伟达 AI 应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖",
+    "url": "https://www.ithome.com/1/030/459.htm",
+    "source": "IT之家",
+    "time": "11-21 19:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm",
+    "url": "https://www.ithome.com/1/030/439.htm",
+    "source": "IT之家",
+    "time": "11-21 18:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等",
+    "url": "https://www.ithome.com/1/030/423.htm",
+    "source": "IT之家",
+    "time": "11-21 17:57",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”",
+    "url": "https://www.ithome.com/1/030/421.htm",
+    "source": "IT之家",
+    "time": "11-21 17:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知",
+    "url": "https://www.ithome.com/1/030/419.htm",
+    "source": "IT之家",
+    "time": "11-21 16:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "韩国首次利用紧急灾难通知“0 级短信”打击 AI 辅助作弊行为，成功在高考中抓获 54 名违规考生",
@@ -41,10 +118,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "4299 元华擎 X870E TaiChi 太极 OCF 主板发售：22+2+1 相供电，支持 10400MHz 内存超频",
-    "url": "https://www.ithome.com/1/030/355.htm",
-    "source": "IT之家",
-    "time": "11-21 14:02",
+    "title": "Surprisingly Adorable Insect Portraits",
+    "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+    "source": "Hacker News",
+    "time": "11-21 14:44",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -52,54 +129,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "达里奥 2010 年曾拒绝马斯克招揽，2016 年加入 OpenAI 后又出走创立 Anthropic",
-    "url": "https://www.ithome.com/1/030/350.htm",
-    "source": "IT之家",
-    "time": "11-21 13:33",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "12 张二手英伟达 V100：律师自建 AI 集群跑 DeepSeek，最高每秒 184 个词元",
-    "url": "https://www.ithome.com/1/030/346.htm",
-    "source": "IT之家",
-    "time": "11-21 13:00",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件",
-    "url": "https://www.ithome.com/1/030/333.htm",
-    "source": "IT之家",
-    "time": "11-21 10:59",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-    "url": "https://www.ithome.com/1/030/322.htm",
-    "source": "IT之家",
-    "time": "11-21 10:03",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%",
-    "url": "https://www.ithome.com/1/030/319.htm",
-    "source": "IT之家",
-    "time": "11-21 09:45",
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "url": "http://ricapar.net/ClawDOS/",
+    "source": "Hacker News",
+    "time": "11-21 13:38",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -118,10 +151,21 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "国产大模型引领全球开源生态（大数据观察·智能经济新形态）",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0153bfad11432eb242b80009380e50&url=https%3a%2f%2fnews.sina.cn%2f2026-11-21%2fdetail-iniznakk6837526.d.html%3fvt%3d4&c=17561691273006730567&mkt=en-us",
+    "title": "趋势丨三星成赛道鲶鱼，端侧AI以智能眼镜为首呈现新开端",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01b5cc301b49fa8c18e48f68b59189&url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa540997.html&c=10581947285528720430&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-20 23:54",
+    "time": "11-21 06:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国产大模型引领全球开源生态（大数据观察·智能经济新形态）",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01b5cbc70d47ee9756a6d3eb532b6b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%259B%25BD%25E4%25BA%25A7%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%25BC%2595%25E9%25A2%2586%25E5%2585%25A8%25E7%2590%2583%25E5%25BC%2580%25E6%25BA%2590%25E7%2594%259F%25E6%2580%2581-%25E5%25A4%25A7%25E6%2595%25B0%25E6%258D%25AE%25E8%25A7%2582%25E5%25AF%259F-%25E6%2599%25BA%25E8%2583%25BD%25E7%25BB%258F%25E6%25B5%258E%25E6%2596%25B0%25E5%25BD%25A2%25E6%2580%2581%2far-AA2hU4bj&c=18243450953197790421&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-21 03:08",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -141,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "视频丨科技新国货成“深圳特产” AI眼镜、翻译耳机、无人机圈粉世界",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0153c1108744e9a0185422dcb6fa7f&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yDJkner666&c=2481303320541289899&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01b5cc301b49fa8c18e48f68b59189&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yDJkner666&c=2481303320541289899&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-20 21:31",
     "summary": "",
@@ -163,9 +207,20 @@
    {
     "beat": "AI/大模型",
     "title": "苹果还没造出来的AI眼镜，中国厂商已经卖到了海外Top3",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0153c1108744e9a0185422dcb6fa7f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104138588_549351&c=16209159250206618557&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01b5cc301b49fa8c18e48f68b59189&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104138588_549351&c=16209159250206618557&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-20 15:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米大模型业务被传分拆独立，雷军和罗福莉有分歧？",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01b5cbc70d47ee9756a6d3eb532b6b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104084201_115479&c=12791228572643014021&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-20 13:52",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -181,53 +236,30 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "当腾讯全面驶入AI时代，游戏业务是陆军还是海军？",
-    "url": "http://www.gamelook.com.cn/2026/11/606854/",
-    "source": "GameLook",
-    "time": "11-20 08:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
-  "机器人/AI硬件": [
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
    {
-    "beat": "机器人/AI硬件",
-    "title": "手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作",
-    "url": "https://www.ithome.com/1/030/364.htm",
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "国内首款，中国通号所属低空公司 4.9GHz 无蜂窝基站获证商用",
+    "url": "https://www.ithome.com/1/030/414.htm",
     "source": "IT之家",
-    "time": "11-21 14:39",
+    "time": "11-21 16:41",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [],
-  "电商/直播/即时零售": [
-   {
-    "beat": "电商/直播/即时零售",
-    "title": "商务部：重点监测平台 1-10 月即时零售交易额增速超过两位数",
-    "url": "https://www.ithome.com/1/030/341.htm",
-    "source": "IT之家",
-    "time": "11-21 11:46",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "电商/直播/即时零售": [],
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "《GTA 6》卖爆了：预售超 2400 万份，一家实体游戏店却只卖出 5 份",
-    "url": "https://www.ithome.com/1/030/368.htm",
+    "title": "育碧《雷曼：传奇再叙》通过 Steam Deck 掌机兼容性认证，游戏 12 月 3 日发售",
+    "url": "https://www.ithome.com/1/030/461.htm",
     "source": "IT之家",
-    "time": "11-21 14:51",
+    "time": "11-21 19:22",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -235,10 +267,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "Steam 黑五多款游戏新史低：《战地 6》65.34 元、《对马岛之魂：导剪版》199 元、《最终幻想 7：重制版》35.64 元",
-    "url": "https://www.ithome.com/1/030/344.htm",
+    "title": "系列最长影片：电影《饥饿游戏：收获日出》累计票房突破 2000 万元",
+    "url": "https://www.ithome.com/1/030/460.htm",
     "source": "IT之家",
-    "time": "11-21 12:35",
+    "time": "11-21 19:12",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -246,32 +278,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
-    "url": "https://www.ithome.com/1/030/338.htm",
+    "title": "Debian Linux 维护者组建新团队，拟改善平台游戏适配并推出专用发行版",
+    "url": "https://www.ithome.com/1/030/390.htm",
     "source": "IT之家",
-    "time": "11-21 11:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《饥饿游戏：收获日出》电影 4K 铁盒版开启预售，有亚马逊 / 沃尔玛 2 款封面设计",
-    "url": "https://www.ithome.com/1/030/326.htm",
-    "source": "IT之家",
-    "time": "11-21 10:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯混元姚顺雨团队，两小时回应模型参数、刷榜重要性等看法",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0153bfad11432eb242b80009380e50&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%2585%25BE%25E8%25AE%25AF%25E6%25B7%25B7%25E5%2585%2583%25E5%25A7%259A%25E9%25A1%25BA%25E9%259B%25A8%25E5%259B%25A2%25E9%2598%259F-%25E4%25B8%25A4%25E5%25B0%258F%25E6%2597%25B6%25E5%259B%259E%25E5%25BA%2594%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2582%25E6%2595%25B0-%25E5%2588%25B7%25E6%25A6%259C%25E9%2587%258D%25E8%25A6%2581%25E6%2580%25A7%25E7%25AD%2589%25E7%259C%258B%25E6%25B3%2595%2far-AA2hU82v&c=9206871157243510399&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-21 04:18",
+    "time": "11-21 16:19",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -325,21 +335,10 @@
   "消费/以旧换新/新餐饮": [
    {
     "beat": "消费/以旧换新/新餐饮",
-    "title": "亿纬锂能刘金成：锂电池消费税落地后，会有相当一部分企业退出市场",
-    "url": "https://www.ithome.com/1/030/366.htm",
+    "title": "亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元",
+    "url": "https://www.ithome.com/1/030/505.htm",
     "source": "IT之家",
-    "time": "11-21 14:47",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "消费/以旧换新/新餐饮",
-    "title": "小米米家扫振电动牙刷 2 开售：4 区漏刷识别 + 180 天续航，国补后 149 元",
-    "url": "https://www.ithome.com/1/030/327.htm",
-    "source": "IT之家",
-    "time": "11-21 10:26",
+    "time": "11-21 22:18",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -352,8 +351,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(6)",
-   "Bing新闻(10)"
+   "HackerNews(7)",
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
