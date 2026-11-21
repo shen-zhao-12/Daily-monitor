@@ -2,10 +2,43 @@
  "id": "2026-11-21-wubao",
  "title": "线口监测午报 · 2026年11月21日(周六)",
  "shift": "午报",
- "date": "2026-11-21 15:15",
+ "date": "2026-11-21 16:18",
  "docx": "../briefings/线口监测午报-2026-11-21.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "韩国首次利用紧急灾难通知“0 级短信”打击 AI 辅助作弊行为，成功在高考中抓获 54 名违规考生",
+    "url": "https://www.ithome.com/1/030/387.htm",
+    "source": "IT之家",
+    "time": "11-21 16:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Nothing 首款 AI 原生硬件设备定档 12 月 8 日亮相：无屏幕设计、预计主打会议记录用途",
+    "url": "https://www.ithome.com/1/030/379.htm",
+    "source": "IT之家",
+    "time": "11-21 15:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“大空头”迈克尔 · 伯里谈 AI 股暴跌：我早就提醒过你们了",
+    "url": "https://www.ithome.com/1/030/378.htm",
+    "source": "IT之家",
+    "time": "11-21 15:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "4299 元华擎 X870E TaiChi 太极 OCF 主板发售：22+2+1 相供电，支持 10400MHz 内存超频",
@@ -74,17 +107,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
-    "url": "https://www.ithome.com/1/030/308.htm",
-    "source": "IT之家",
-    "time": "11-21 08:53",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "NINLIVE: The Nine Inch Nails live archive",
     "url": "https://ninlive.com/",
     "source": "Hacker News",
@@ -97,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "国产大模型引领全球开源生态（大数据观察·智能经济新形态）",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b014517eb3b4902a20341cb57858e11&url=https%3a%2f%2fnews.sina.cn%2f2026-11-21%2fdetail-iniznakk6837526.d.html%3fvt%3d4&c=17561691273006730567&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0153bfad11432eb242b80009380e50&url=https%3a%2f%2fnews.sina.cn%2f2026-11-21%2fdetail-iniznakk6837526.d.html%3fvt%3d4&c=17561691273006730567&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-20 23:54",
     "summary": "",
@@ -119,7 +141,7 @@
    {
     "beat": "AI/大模型",
     "title": "视频丨科技新国货成“深圳特产” AI眼镜、翻译耳机、无人机圈粉世界",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01451873a1481392fbda9a700baad3&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yDJkner666&c=2481303320541289899&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0153c1108744e9a0185422dcb6fa7f&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yDJkner666&c=2481303320541289899&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-20 21:31",
     "summary": "",
@@ -141,7 +163,7 @@
    {
     "beat": "AI/大模型",
     "title": "苹果还没造出来的AI眼镜，中国厂商已经卖到了海外Top3",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01451873a1481392fbda9a700baad3&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104138588_549351&c=16209159250206618557&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0153c1108744e9a0185422dcb6fa7f&url=https%3a%2f%2fwww.sohu.com%2fa%2f1104138588_549351&c=16209159250206618557&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-20 15:31",
     "summary": "",
@@ -170,17 +192,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "“天华开物”酶设计大模型在津发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b014517eb3b4902a20341cb57858e11&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E5%25A4%25A9%25E5%258D%258E%25E5%25BC%2580%25E7%2589%25A9-%25E9%2585%25B6%25E8%25AE%25BE%25E8%25AE%25A1%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%259C%25A8%25E6%25B4%25A5%25E5%258F%2591%25E5%25B8%2583%2far-AA2hOFc2&c=3189027151990643063&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-20 01:23",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "机器人/AI硬件": [
@@ -196,19 +207,7 @@
     "angle": ""
    }
   ],
-  "无人驾驶/低空/智慧出行": [
-   {
-    "beat": "无人驾驶/低空/智慧出行",
-    "title": "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10",
-    "url": "https://www.ithome.com/1/030/305.htm",
-    "source": "IT之家",
-    "time": "11-21 08:32",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   }
-  ],
+  "无人驾驶/低空/智慧出行": [],
   "电商/直播/即时零售": [
    {
     "beat": "电商/直播/即时零售",
@@ -225,18 +224,7 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "消息称《GTA6》实体版游戏销量惨淡，玩家倾向于直接购买数字版",
-    "url": "https://www.ithome.com/1/030/371.htm",
-    "source": "IT之家",
-    "time": "11-21 15:05",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "《GTA 6》卖爆了：预售超 2400 万份，实体游戏店却只卖出 5 份",
+    "title": "《GTA 6》卖爆了：预售超 2400 万份，一家实体游戏店却只卖出 5 份",
     "url": "https://www.ithome.com/1/030/368.htm",
     "source": "IT之家",
     "time": "11-21 14:51",
@@ -273,6 +261,17 @@
     "url": "https://www.ithome.com/1/030/326.htm",
     "source": "IT之家",
     "time": "11-21 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯混元姚顺雨团队，两小时回应模型参数、刷榜重要性等看法",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0153bfad11432eb242b80009380e50&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%2585%25BE%25E8%25AE%25AF%25E6%25B7%25B7%25E5%2585%2583%25E5%25A7%259A%25E9%25A1%25BA%25E9%259B%25A8%25E5%259B%25A2%25E9%2598%259F-%25E4%25B8%25A4%25E5%25B0%258F%25E6%2597%25B6%25E5%259B%259E%25E5%25BA%2594%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2582%25E6%2595%25B0-%25E5%2588%25B7%25E6%25A6%259C%25E9%2587%258D%25E8%25A6%2581%25E6%2580%25A7%25E7%25AD%2589%25E7%259C%258B%25E6%25B3%2595%2far-AA2hU82v&c=9206871157243510399&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-21 04:18",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -353,8 +352,8 @@
   "ok": [
    "IT之家(60)",
    "GameLook(7)",
-   "HackerNews(7)",
-   "Bing新闻(9)"
+   "HackerNews(6)",
+   "Bing新闻(10)"
   ],
   "fail": [
    "36氪(no entries)"
