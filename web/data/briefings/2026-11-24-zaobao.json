@@ -2,7 +2,7 @@
  "id": "2026-11-24-zaobao",
  "title": "线口监测早报 · 2026年11月24日(周二)",
  "shift": "早报",
- "date": "2026-11-24 03:10",
+ "date": "2026-11-24 04:05",
  "docx": "../briefings/线口监测早报-2026-11-24.docx",
  "sections": {
   "AI/大模型": [
@@ -64,7 +64,7 @@
    {
     "beat": "AI/大模型",
     "title": "国产大模型引领全球开源生态（大数据观察·智能经济新形态）",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b048f9b0d70488cadca5a67a42de46e&url=https%3a%2f%2fnews.sina.com.cn%2fzx%2fgj%2f2026-11-23%2fdoc-iniztmua8292088.shtml&c=6583281549984235958&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049c7221ce4acbaf65c172d0ac7f18&url=https%3a%2f%2fnews.sina.com.cn%2fzx%2fgj%2f2026-11-23%2fdoc-iniztmua8292088.shtml&c=6583281549984235958&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-23 18:34",
     "summary": "",
@@ -107,19 +107,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "新一代\"文鳐\"海洋原生多模态大模型在厦发布，实船误报率由 79% 降至 15%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b048f9b0d70488cadca5a67a42de46e&url=https%3a%2f%2fnews.iresearch.cn%2fcontent%2f202611%2f574443.shtml&c=4888935357401710782&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-23 16:55",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "中国大模型周调用量连续30周第一！智谱GLM-5.4上线 3万亿参数GLM-5.5预计12月发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b048f9b0d70488cadca5a67a42de46e&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202611233937248148.html&c=8429639593573755367&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049c7221ce4acbaf65c172d0ac7f18&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202611233937248148.html&c=8429639593573755367&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-23 15:26",
     "summary": "",
@@ -130,7 +119,7 @@
    {
     "beat": "AI/大模型",
     "title": "智能眼镜行业深度研究：AI驱动终端形态变革，AR眼镜产业化进程持续推进（附下载）",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b048f9dc2cc43adbbef37a9e62d0d70&url=https%3a%2f%2fwww.sohu.com%2fa%2f1105201366_121123901&c=9152151004294055171&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049c73d97a4857a67918d377371e12&url=https%3a%2f%2fwww.sohu.com%2fa%2f1105201366_121123901&c=9152151004294055171&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-23 13:24",
     "summary": "",
@@ -140,8 +129,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "BleeqUp 上榜 2027 CES 创新奖，垂直运动 AI 眼镜再获国际认可",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049c73d97a4857a67918d377371e12&url=https%3a%2f%2fcnews.chinadaily.com.cn%2fa%2f202611%2f23%2fWS6b03aaefe4b0e14252fccb52.html&c=1941931623428061914&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-23 10:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "AI眼镜赛道迎来放量拐点，佳禾智能以全链条能力卡位端侧AI新风口",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b048f9dc2cc43adbbef37a9e62d0d70&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A05HH100&c=10647282426540058035&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049c73d97a4857a67918d377371e12&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A05HH100&c=10647282426540058035&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-23 10:18",
     "summary": "",
@@ -185,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "科技有温度，青春有方向：AI眼镜定向挑战赛助力视障青少年探索世界",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b048f9dc2cc43adbbef37a9e62d0d70&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A0FHJ500&c=2466547783690008691&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049c73d97a4857a67918d377371e12&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A0FHJ500&c=2466547783690008691&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-23 08:01",
     "summary": "",
@@ -196,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "智谱GLM-5.4大模型发布：仍是开源最强、比Opus 5.5差距5%内",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b048f9b0d70488cadca5a67a42de46e&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E6%2599%25BA%25E8%25B0%25B1glm-5-4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583-%25E4%25BB%258D%25E6%2598%25AF%25E5%25BC%2580%25E6%25BA%2590%25E6%259C%2580%25E5%25BC%25BA-%25E6%25AF%2594opus-5-5%25E5%25B7%25AE%25E8%25B7%259D5-%25E5%2586%2585%2far-AA2i1sax&c=10284168860075324322&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049c7221ce4acbaf65c172d0ac7f18&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E6%2599%25BA%25E8%25B0%25B1glm-5-4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583-%25E4%25BB%258D%25E6%2598%25AF%25E5%25BC%2580%25E6%25BA%2590%25E6%259C%2580%25E5%25BC%25BA-%25E6%25AF%2594opus-5-5%25E5%25B7%25AE%25E8%25B7%259D5-%25E5%2586%2585%2far-AA2i1sax&c=10284168860075324322&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-23 07:31",
     "summary": "",
@@ -351,7 +351,7 @@
   "ok": [
    "IT之家(60)",
    "GameLook(9)",
-   "HackerNews(2)",
+   "HackerNews(3)",
    "Bing新闻(9)"
   ],
   "fail": [
