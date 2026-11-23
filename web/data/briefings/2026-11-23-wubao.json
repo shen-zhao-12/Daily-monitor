@@ -1,0 +1,360 @@
+{
+ "id": "2026-11-23-wubao",
+ "title": "线口监测午报 · 2026年11月23日(周一)",
+ "shift": "午报",
+ "date": "2026-11-23 15:45",
+ "docx": "../briefings/线口监测午报-2026-11-23.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "荣耀 700 / Pro 手机配备 1.59 英寸 AI 灵动背屏：行业首发 AI 定制随心贴、背屏任意贴",
+    "url": "https://www.ithome.com/1/030/918.htm",
+    "source": "IT之家",
+    "time": "11-23 15:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "黑客利用 AI 工具发现医疗软件零日漏洞，成功控制目标服务器",
+    "url": "https://www.ithome.com/1/030/917.htm",
+    "source": "IT之家",
+    "time": "11-23 15:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新款深蓝 L07 车型将于 11 月 27 日广州车展亮相：采用 800V 高压平台、搭载豆包大模型",
+    "url": "https://www.ithome.com/1/030/911.htm",
+    "source": "IT之家",
+    "time": "11-23 15:04",
+    "summary": "",
+    "grade": "C",
+    "local": true,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "法国人工智能企业 Mistral AI 在新加坡设立亚太总部，为政府开发定制 AI 模型",
+    "url": "https://www.ithome.com/1/030/904.htm",
+    "source": "IT之家",
+    "time": "11-23 14:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智谱 GLM-5.4 模型发布，已上线 Coding Plan",
+    "url": "https://www.ithome.com/1/030/809.htm",
+    "source": "IT之家",
+    "time": "11-23 12:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蚂蚁 CEO 韩歆毅：阿福已有 1.5 亿用户成全球最大 AI 健康应用，呼吁医保、商保从“治病”延伸到“健康”",
+    "url": "https://www.ithome.com/1/030/799.htm",
+    "source": "IT之家",
+    "time": "11-23 11:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "虚幻引擎 5.9 预览版 2 更新：支持纯蓝图项目 Web 打包，AI 工具集默认开启",
+    "url": "https://www.ithome.com/1/030/798.htm",
+    "source": "IT之家",
+    "time": "11-23 11:40",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蚂蚁阿福发布全新 AI 健康手环“福环”和 AI 健康戒指“福戒”",
+    "url": "https://www.ithome.com/1/030/788.htm",
+    "source": "IT之家",
+    "time": "11-23 11:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蚂蚁百灵医疗健康大模型宣布开源，最轻量版一台笔记本就能部署",
+    "url": "https://www.ithome.com/1/030/784.htm",
+    "source": "IT之家",
+    "time": "11-23 10:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "谷歌 AI 搜索变现受阻，苹果服务业务收入增长也随之放缓",
+    "url": "https://www.ithome.com/1/030/783.htm",
+    "source": "IT之家",
+    "time": "11-23 10:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小团掀桌子！3人用时4天，用AI真干出款“无限暖暖”？",
+    "url": "http://www.gamelook.com.cn/2026/11/606919/",
+    "source": "GameLook",
+    "time": "11-23 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“AI垃圾” 堵死Steam：过审时间几天变几周，有独游被卡到错过发售日",
+    "url": "http://www.gamelook.com.cn/2026/11/606933/",
+    "source": "GameLook",
+    "time": "11-23 09:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "《原神》IP新项目曝光，UE5新概念PVP；AI时代下技术人员应该如何成长？",
+    "url": "http://www.gamelook.com.cn/2026/11/606908/",
+    "source": "GameLook",
+    "time": "11-23 09:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "source": "Hacker News",
+    "time": "11-23 05:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "百灵医疗健康大模型LingSante家族发布! 蚂蚁阿福能AI望闻问切了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef3200f44d0cad6124d268cbf9cc&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fhealth%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E7%2599%25BE%25E7%2581%25B5%25E5%258C%25BB%25E7%2596%2597%25E5%2581%25A5%25E5%25BA%25B7%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Blingsante%25E5%25AE%25B6%25E6%2597%258F%25E5%258F%2591%25E5%25B8%2583-%25E8%259A%2582%25E8%259A%2581%25E9%2598%25BF%25E7%25A6%258F%25E8%2583%25BDai%25E6%259C%259B%25E9%2597%25BB%25E9%2597%25AE%25E5%2588%2587%25E4%25BA%2586%2far-AA2i0jku&c=152387912238481338&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-23 04:20",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智能眼镜行业深度研究：AI驱动终端形态变革，AR眼镜产业化进程持续推进（附下载）",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef348603476b817b7fc2f79dad91&url=https%3a%2f%2fwww.sohu.com%2fa%2f1105201366_121123901&c=9152151004294055171&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-22 23:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "智谱今日将发布GLM-5.4 preview，700B原生多模态先行",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef3200f44d0cad6124d268cbf9cc&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A076XS00&c=12254883702561407984&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-22 22:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华创证券研报：上半年全球AI眼镜出货量同比增长263%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef348603476b817b7fc2f79dad91&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A06CC800&c=10353227581809176640&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-22 21:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "BleeqUp 上榜 2027 CES 创新奖，垂直运动 AI 眼镜再获国际认可",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef348603476b817b7fc2f79dad91&url=https%3a%2f%2fcnews.chinadaily.com.cn%2fa%2f202611%2f23%2fWS6b03aaefe4b0e14252fccb52.html&c=1941931623428061914&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-22 20:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "宇树科技午后触及 20% 涨停，股价升至 708 元",
+    "url": "https://www.ithome.com/1/030/914.htm",
+    "source": "IT之家",
+    "time": "11-23 15:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "机器人/AI硬件",
+    "title": "自变量发布具身基础模型 WALL-OSS-1.0，零样本真机成功率达 55.1%",
+    "url": "https://www.ithome.com/1/030/890.htm",
+    "source": "IT之家",
+    "time": "11-23 14:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "达尔优 AE5 抓握电竞鼠标即将登场，55g 轻量化机身",
+    "url": "https://www.ithome.com/1/030/909.htm",
+    "source": "IT之家",
+    "time": "11-23 15:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA6》开发人员在游戏地图内设纪念碑，纪念一直支持自己追逐梦想的已故母亲",
+    "url": "https://www.ithome.com/1/030/900.htm",
+    "source": "IT之家",
+    "time": "11-23 14:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微星推出其首款电竞桌 MAG TA10：双电机智能升降，2699 元起",
+    "url": "https://www.ithome.com/1/030/893.htm",
+    "source": "IT之家",
+    "time": "11-23 14:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开",
+    "url": "https://www.ithome.com/1/030/810.htm",
+    "source": "IT之家",
+    "time": "11-23 13:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "黑客 Voices38 声称已破解《影之刃零》游戏 D 加密，商业表现或受影响",
+    "url": "https://www.ithome.com/1/030/803.htm",
+    "source": "IT之家",
+    "time": "11-23 11:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "二游大佬傲娇：“8款游戏成了7款，成功率高达88%”，老板拍板：再做7个游戏！",
+    "url": "http://www.gamelook.com.cn/2026/11/607014/",
+    "source": "GameLook",
+    "time": "11-23 11:51",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯魔方新作《异人之下》定档 12 月 17 日，登陆 PC、iOS、安卓、鸿蒙",
+    "url": "https://www.ithome.com/1/030/786.htm",
+    "source": "IT之家",
+    "time": "11-23 11:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯才跌完、网易大跌17.6%，短剧真成了游戏大敌？",
+    "url": "http://www.gamelook.com.cn/2026/11/606929/",
+    "source": "GameLook",
+    "time": "11-23 09:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "一款未上线的游戏全额退款，网易这个团队准备做点不一样的",
+    "url": "http://www.gamelook.com.cn/2026/11/606992/",
+    "source": "GameLook",
+    "time": "11-23 08:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(9)",
+   "HackerNews(2)",
+   "Bing新闻(6)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
