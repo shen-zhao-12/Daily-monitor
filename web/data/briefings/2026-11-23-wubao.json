@@ -2,10 +2,76 @@
  "id": "2026-11-23-wubao",
  "title": "线口监测午报 · 2026年11月23日(周一)",
  "shift": "午报",
- "date": "2026-11-23 15:45",
+ "date": "2026-11-23 17:08",
  "docx": "../briefings/线口监测午报-2026-11-23.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
+    "url": "https://www.ithome.com/1/030/954.htm",
+    "source": "IT之家",
+    "time": "11-23 16:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "LG U+ 围绕 AI 调整企业业务架构，新设基础设施 / 平台部门",
+    "url": "https://www.ithome.com/1/030/938.htm",
+    "source": "IT之家",
+    "time": "11-23 16:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18",
+    "url": "https://www.ithome.com/1/030/935.htm",
+    "source": "IT之家",
+    "time": "11-23 16:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "3399 元起荣耀 700 / 700S / Pro 系列手机发布：AI 灵动背屏、支持长焦增距镜",
+    "url": "https://www.ithome.com/1/030/931.htm",
+    "source": "IT之家",
+    "time": "11-23 15:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "阿里云：AgentLoop 记忆库、经验库及优化任务功能 12 月 7 日起收费，按 AI Credits 实际消耗量计费",
+    "url": "https://www.ithome.com/1/030/926.htm",
+    "source": "IT之家",
+    "time": "11-23 15:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美国加州总检察长起诉 OpenAI，指控其忽视安全风险",
+    "url": "https://www.ithome.com/1/030/921.htm",
+    "source": "IT之家",
+    "time": "11-23 15:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "荣耀 700 / Pro 手机配备 1.59 英寸 AI 灵动背屏：行业首发 AI 定制随心贴、背屏任意贴",
@@ -52,72 +118,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "智谱 GLM-5.4 模型发布，已上线 Coding Plan",
-    "url": "https://www.ithome.com/1/030/809.htm",
-    "source": "IT之家",
-    "time": "11-23 12:49",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "蚂蚁 CEO 韩歆毅：阿福已有 1.5 亿用户成全球最大 AI 健康应用，呼吁医保、商保从“治病”延伸到“健康”",
-    "url": "https://www.ithome.com/1/030/799.htm",
-    "source": "IT之家",
-    "time": "11-23 11:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "虚幻引擎 5.9 预览版 2 更新：支持纯蓝图项目 Web 打包，AI 工具集默认开启",
-    "url": "https://www.ithome.com/1/030/798.htm",
-    "source": "IT之家",
-    "time": "11-23 11:40",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "蚂蚁阿福发布全新 AI 健康手环“福环”和 AI 健康戒指“福戒”",
-    "url": "https://www.ithome.com/1/030/788.htm",
-    "source": "IT之家",
-    "time": "11-23 11:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "蚂蚁百灵医疗健康大模型宣布开源，最轻量版一台笔记本就能部署",
-    "url": "https://www.ithome.com/1/030/784.htm",
-    "source": "IT之家",
-    "time": "11-23 10:56",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "谷歌 AI 搜索变现受阻，苹果服务业务收入增长也随之放缓",
-    "url": "https://www.ithome.com/1/030/783.htm",
-    "source": "IT之家",
-    "time": "11-23 10:44",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "小团掀桌子！3人用时4天，用AI真干出款“无限暖暖”？",
     "url": "http://www.gamelook.com.cn/2026/11/606919/",
     "source": "GameLook",
@@ -151,6 +151,17 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "智谱GLM-5.4大模型发布：仍是开源最强、比Opus 5.5差距5%内",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b040293c11b4be4931c16df93ae49c6&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E6%2599%25BA%25E8%25B0%25B1glm-5-4%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583-%25E4%25BB%258D%25E6%2598%25AF%25E5%25BC%2580%25E6%25BA%2590%25E6%259C%2580%25E5%25BC%25BA-%25E6%25AF%2594opus-5-5%25E5%25B7%25AE%25E8%25B7%259D5-%25E5%2586%2585%2far-AA2i1sax&c=10284168860075324322&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-23 07:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
     "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
     "source": "Hacker News",
@@ -163,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "百灵医疗健康大模型LingSante家族发布! 蚂蚁阿福能AI望闻问切了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef3200f44d0cad6124d268cbf9cc&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fhealth%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E7%2599%25BE%25E7%2581%25B5%25E5%258C%25BB%25E7%2596%2597%25E5%2581%25A5%25E5%25BA%25B7%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Blingsante%25E5%25AE%25B6%25E6%2597%258F%25E5%258F%2591%25E5%25B8%2583-%25E8%259A%2582%25E8%259A%2581%25E9%2598%25BF%25E7%25A6%258F%25E8%2583%25BDai%25E6%259C%259B%25E9%2597%25BB%25E9%2597%25AE%25E5%2588%2587%25E4%25BA%2586%2far-AA2i0jku&c=152387912238481338&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b040293c11b4be4931c16df93ae49c6&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fhealth%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E7%2599%25BE%25E7%2581%25B5%25E5%258C%25BB%25E7%2596%2597%25E5%2581%25A5%25E5%25BA%25B7%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Blingsante%25E5%25AE%25B6%25E6%2597%258F%25E5%258F%2591%25E5%25B8%2583-%25E8%259A%2582%25E8%259A%2581%25E9%2598%25BF%25E7%25A6%258F%25E8%2583%25BDai%25E6%259C%259B%25E9%2597%25BB%25E9%2597%25AE%25E5%2588%2587%25E4%25BA%2586%2far-AA2i0jku&c=152387912238481338&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-23 04:20",
     "summary": "",
@@ -173,43 +184,10 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "智能眼镜行业深度研究：AI驱动终端形态变革，AR眼镜产业化进程持续推进（附下载）",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef348603476b817b7fc2f79dad91&url=https%3a%2f%2fwww.sohu.com%2fa%2f1105201366_121123901&c=9152151004294055171&mkt=en-us",
+    "title": "AI眼镜概念板块强劲反弹：七只股票涨停，投资机会显现",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04029507ef41ac81308b1cf44e5447&url=https%3a%2f%2fwww.sohu.com%2fa%2f1105251801_122004016&c=13267395696725450784&mkt=en-us",
     "source": "Bing新闻",
-    "time": "11-22 23:24",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "智谱今日将发布GLM-5.4 preview，700B原生多模态先行",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef3200f44d0cad6124d268cbf9cc&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A076XS00&c=12254883702561407984&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-22 22:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "华创证券研报：上半年全球AI眼镜出货量同比增长263%",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef348603476b817b7fc2f79dad91&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A06CC800&c=10353227581809176640&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-22 21:14",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "BleeqUp 上榜 2027 CES 创新奖，垂直运动 AI 眼镜再获国际认可",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef348603476b817b7fc2f79dad91&url=https%3a%2f%2fcnews.chinadaily.com.cn%2fa%2f202611%2f23%2fWS6b03aaefe4b0e14252fccb52.html&c=1941931623428061914&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-22 20:45",
+    "time": "11-23 01:16",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -245,6 +223,50 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
+    "title": "在游戏里玩游戏：《GTA6》内置“僵尸射击”“灯塔解谜”等三款精良 3D 作品",
+    "url": "https://www.ithome.com/1/030/982.htm",
+    "source": "IT之家",
+    "time": "11-23 16:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "第三方开发者推出 RageForge 开源工具：用于逆向分析泄露的 XBOX 版《GTA6》游戏地图",
+    "url": "https://www.ithome.com/1/030/945.htm",
+    "source": "IT之家",
+    "time": "11-23 16:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA6》页面占位符现身 Steam 平台，消息称系第三方山寨游戏",
+    "url": "https://www.ithome.com/1/030/943.htm",
+    "source": "IT之家",
+    "time": "11-23 16:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "运营约 5 年半：PS5 游戏《毁灭全明星》宣布 11 月 25 日关服",
+    "url": "https://www.ithome.com/1/030/925.htm",
+    "source": "IT之家",
+    "time": "11-23 15:36",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
     "title": "达尔优 AE5 抓握电竞鼠标即将登场，55g 轻量化机身",
     "url": "https://www.ithome.com/1/030/909.htm",
     "source": "IT之家",
@@ -278,43 +300,10 @@
    },
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开",
-    "url": "https://www.ithome.com/1/030/810.htm",
-    "source": "IT之家",
-    "time": "11-23 13:08",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "黑客 Voices38 声称已破解《影之刃零》游戏 D 加密，商业表现或受影响",
-    "url": "https://www.ithome.com/1/030/803.htm",
-    "source": "IT之家",
-    "time": "11-23 11:56",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
     "title": "二游大佬傲娇：“8款游戏成了7款，成功率高达88%”，老板拍板：再做7个游戏！",
     "url": "http://www.gamelook.com.cn/2026/11/607014/",
     "source": "GameLook",
     "time": "11-23 11:51",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "腾讯魔方新作《异人之下》定档 12 月 17 日，登陆 PC、iOS、安卓、鸿蒙",
-    "url": "https://www.ithome.com/1/030/786.htm",
-    "source": "IT之家",
-    "time": "11-23 11:04",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -343,7 +332,19 @@
     "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "荣耀推出 HONOR LIFE FlyPods X10 Pro 半入耳降噪耳机，国补价 179.1 元",
+    "url": "https://www.ithome.com/1/030/937.htm",
+    "source": "IT之家",
+    "time": "11-23 16:04",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
  "flash": [],
  "stats": {
@@ -351,7 +352,7 @@
    "IT之家(60)",
    "GameLook(9)",
    "HackerNews(2)",
-   "Bing新闻(6)"
+   "Bing新闻(7)"
   ],
   "fail": [
    "36氪(no entries)"
