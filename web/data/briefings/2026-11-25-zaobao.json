@@ -1,0 +1,361 @@
+{
+ "id": "2026-11-25-zaobao",
+ "title": "线口监测早报 · 2026年11月25日(周三)",
+ "shift": "早报",
+ "date": "2026-11-25 02:49",
+ "docx": "../briefings/线口监测早报-2026-11-25.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+    "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+    "source": "Hacker News",
+    "time": "11-25 01:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "source": "Hacker News",
+    "time": "11-25 00:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Tidal bans AI-generated music",
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "source": "Hacker News",
+    "time": "11-25 00:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "A training engine for your local model, using your idle compute",
+    "url": "https://github.com/sous-labs/songe",
+    "source": "Hacker News",
+    "time": "11-24 23:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为折叠机外屏伴随式 AI 新交互将至，Mate X8 升级 HarmonyOS 7.0.0.135 可用",
+    "url": "https://www.ithome.com/1/031/886.htm",
+    "source": "IT之家",
+    "time": "11-24 22:38",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "东擎发布基于英特尔酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台",
+    "url": "https://www.ithome.com/1/031/880.htm",
+    "source": "IT之家",
+    "time": "11-24 22:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI“窃听”案更多细节浮出水面，当事沙特工程师借助 Codex 偷录重要会议",
+    "url": "https://www.ithome.com/1/031/867.htm",
+    "source": "IT之家",
+    "time": "11-24 21:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "我国牵头推动全球首个生成式 AI 治理国际标准提案",
+    "url": "https://www.ithome.com/1/031/838.htm",
+    "source": "IT之家",
+    "time": "11-24 20:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "黄仁勋重掌英伟达，亚洲供应链、AI 创企信心大振",
+    "url": "https://www.ithome.com/1/031/820.htm",
+    "source": "IT之家",
+    "time": "11-24 19:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI 指纹识别 + 9 种开锁方式：小米智能门锁 E30 星辰黑 999 → 501 元国补直降",
+    "url": "https://www.ithome.com/1/031/815.htm",
+    "source": "IT之家",
+    "time": "11-24 19:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "小米浏览器手机、Pad 官宣支持扩展程序：广告拦截、网页翻译、AI 助手、脚本管理",
+    "url": "https://www.ithome.com/1/031/813.htm",
+    "source": "IT之家",
+    "time": "11-24 19:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称 OpenAI 与 Anthropic 员工警告：内部 AI 模型能力过于强大，无法安全发布",
+    "url": "https://www.ithome.com/1/031/811.htm",
+    "source": "IT之家",
+    "time": "11-24 19:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "第一个被AI眼镜“逼”到辞职的部长，出现了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05dc4c576f4ee4879c348014adab7b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A0CJT300&c=11056522813080664694&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 18:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "三星AI眼镜预售告罄，A股概念股应声走高！光洋股份强势涨停",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05dc4c576f4ee4879c348014adab7b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A07CXD00&c=576347091164529420&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 13:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开发者心寒：游戏大厂随心所欲用AI，独游用AI就得被喷垃圾？",
+    "url": "http://www.gamelook.com.cn/2026/11/607090/",
+    "source": "GameLook",
+    "time": "11-24 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "1人用AI开发独游，一周赚了近千万！靠中国玩家顶住小游戏抄袭",
+    "url": "http://www.gamelook.com.cn/2026/11/607028/",
+    "source": "GameLook",
+    "time": "11-24 09:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "1人用AI做出“星球级大世界”，与地球同尺寸！10年游戏老兵震惊全场",
+    "url": "http://www.gamelook.com.cn/2026/11/607027/",
+    "source": "GameLook",
+    "time": "11-24 09:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "荷兰数据监管机构警告AI智能眼镜存在安全隐患",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05dc4c576f4ee4879c348014adab7b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1105886784_114765&c=14002660387560907978&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 08:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "一张概念图卷出整条生产线！AI 生成游戏资产“做完就丢”的局被破了？",
+    "url": "http://www.gamelook.com.cn/2026/11/607103/",
+    "source": "GameLook",
+    "time": "11-24 08:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "预售秒罄引爆盘面，AI眼镜站在量产与博弈的十字路口",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05dc4c576f4ee4879c348014adab7b&url=https%3a%2f%2fwww.36kr.com%2fp%2f4083576546826118&c=17505959414802042401&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 07:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "国产大模型引领全球开源生态（大数据观察·智能经济新形态）",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05dc4abd2547c6aa8fbea98cb3cf60&url=https%3a%2f%2fnews.sina.com.cn%2fzx%2fgj%2f2026-11-23%2fdoc-iniztmua8292088.shtml&c=6583281549984235958&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-23 18:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "新一代\"文鳐\"海洋原生多模态大模型在厦发布，实船误报率由 79% 降至 15%",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05dc4abd2547c6aa8fbea98cb3cf60&url=https%3a%2f%2fnews.iresearch.cn%2fcontent%2f202611%2f574443.shtml&c=4888935357401710782&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-23 17:03",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "中国大模型周调用量连续30周第一！智谱GLM-5.4上线 3万亿参数GLM-5.5预计12月发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05dc4abd2547c6aa8fbea98cb3cf60&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202611233937248148.html&c=8429639593573755367&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-23 15:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [
+   {
+    "beat": "机器人/AI硬件",
+    "title": "小鹏放出 IRON 人形机器人预热视频：可自主拿起书本、倒酒、充电",
+    "url": "https://www.ithome.com/1/031/818.htm",
+    "source": "IT之家",
+    "time": "11-24 19:46",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "无人驾驶/低空/智慧出行": [],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "英伟达发布 GeForce 621.40 驱动：优化《战锤 40K：战争黎明 4》等多款游戏",
+    "url": "https://www.ithome.com/1/031/881.htm",
+    "source": "IT之家",
+    "time": "11-24 22:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《GTA 6》发售冲击在线服务型游戏，消息称《使命召唤》玩家日活下滑超四成",
+    "url": "https://www.ithome.com/1/031/821.htm",
+    "source": "IT之家",
+    "time": "11-24 19:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "国产开放世界生存游戏《异化之境》开启抢先体验，提供试玩 DEMO",
+    "url": "https://www.ithome.com/1/031/810.htm",
+    "source": "IT之家",
+    "time": "11-24 19:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“猫咪游戏专业户”来中国踢馆：上线抖音微信小游戏，月收入破5000万！",
+    "url": "http://www.gamelook.com.cn/2026/11/607062/",
+    "source": "GameLook",
+    "time": "11-24 10:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "GTA6首日收入37.9亿美元：过半主机玩家首日入手游戏，下载带宽占全美24%",
+    "url": "http://www.gamelook.com.cn/2026/11/607063/",
+    "source": "GameLook",
+    "time": "11-24 09:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "拓竹发布全新 3D 打印机 P3C：标配多头打印，国补到手价 6374.2 元起",
+    "url": "https://www.ithome.com/1/031/887.htm",
+    "source": "IT之家",
+    "time": "11-24 22:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(15)",
+   "HackerNews(6)",
+   "Bing新闻(9)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
