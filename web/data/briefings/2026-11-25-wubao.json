@@ -2,10 +2,21 @@
  "id": "2026-11-25-wubao",
  "title": "线口监测午报 · 2026年11月25日(周三)",
  "shift": "午报",
- "date": "2026-11-25 16:42",
+ "date": "2026-11-25 17:52",
  "docx": "../briefings/线口监测午报-2026-11-25.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "亚马逊 Prime Air 送货无人机在美国密歇根州发生坠机事故，意外勾住光纤线路致坠落",
+    "url": "https://www.ithome.com/1/032/355.htm",
+    "source": "IT之家",
+    "time": "11-25 17:19",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "蔚来李斌：汽车产业，将会是体量最大的 AI 应用产业",
@@ -74,39 +85,6 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "让大模型跑在个人设备上，腾讯混元开源 Hy4 flash GGUF 量化权重及配套推理代码",
-    "url": "https://www.ithome.com/1/032/131.htm",
-    "source": "IT之家",
-    "time": "11-25 14:58",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Sand.ai 发布视频生成模型 MAGI-2，1080P 每秒 0.5 元",
-    "url": "https://www.ithome.com/1/032/124.htm",
-    "source": "IT之家",
-    "time": "11-25 14:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "Anthropic、OpenAI 各自宣称证明代数复杂度猜想 VP≠VNP",
-    "url": "https://www.ithome.com/1/032/122.htm",
-    "source": "IT之家",
-    "time": "11-25 14:50",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
     "url": "https://gpu-demo-gallery.pages.dev/",
     "source": "Hacker News",
@@ -152,20 +130,9 @@
    {
     "beat": "AI/大模型",
     "title": "从“交卷”到“交差”，大模型撞上“发布膨胀”",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f78725b439cb7b884edee69e70b&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34547276&c=16736735929390351245&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06affaf612435da1b5c119f022fe48&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34547276&c=16736735929390351245&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-25 07:45",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
-    "title": "突发！模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f78725b439cb7b884edee69e70b&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-11-25%2fdoc-inizxaum9559986.shtml&c=16895818836091151036&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-25 07:23",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -195,8 +162,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "我国合成生物领域首个自研大模型发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06affaf612435da1b5c119f022fe48&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%2588%2591%25E5%259B%25BD%25E5%2590%2588%25E6%2588%2590%25E7%2594%259F%25E7%2589%25A9%25E9%25A2%2586%25E5%259F%259F%25E9%25A6%2596%25E4%25B8%25AA%25E8%2587%25AA%25E7%25A0%2594%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%258F%2591%25E5%25B8%2583%2far-AA2i9dSw&c=2574161723678818246&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 23:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "荷兰数据监管机构警告AI智能眼镜存在安全隐患",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f791b584237bbc335f1e68a65dd&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%258D%25B7%25E5%2585%25B0%25E6%2595%25B0%25E6%258D%25AE%25E7%259B%2591%25E7%25AE%25A1%25E6%259C%25BA%25E6%259E%2584%25E8%25AD%25A6%25E5%2591%258Aai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%25AD%2598%25E5%259C%25A8%25E5%25AE%2589%25E5%2585%25A8%25E9%259A%2590%25E6%2582%25A3%2far-AA2i5TUY&c=11991836069890780413&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06affb64f448f78e4e37c9befe554e&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%258D%25B7%25E5%2585%25B0%25E6%2595%25B0%25E6%258D%25AE%25E7%259B%2591%25E7%25AE%25A1%25E6%259C%25BA%25E6%259E%2584%25E8%25AD%25A6%25E5%2591%258Aai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%25AD%2598%25E5%259C%25A8%25E5%25AE%2589%25E5%2585%25A8%25E9%259A%2590%25E6%2582%25A3%2far-AA2i5TUY&c=11991836069890780413&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-24 22:25",
     "summary": "",
@@ -206,8 +184,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "大模型入局AI4S前沿，MiniMax公布密码分析重要研究成果",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06affaf612435da1b5c119f022fe48&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34555333&c=10803342652186013735&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 21:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "AI时代新词出炉 “变态眼镜”当选2026年度词汇",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f791b584237bbc335f1e68a65dd&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f11%2f25%2fn14894792.htm&c=16870291660655452836&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06affb64f448f78e4e37c9befe554e&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f11%2f25%2fn14894792.htm&c=16870291660655452836&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-24 20:31",
     "summary": "",
@@ -218,9 +207,31 @@
    {
     "beat": "AI/大模型",
     "title": "第一个被AI眼镜“逼”到辞职的部长，出现了",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f791b584237bbc335f1e68a65dd&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A0CJT300&c=11056522813080664694&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06affb64f448f78e4e37c9befe554e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A0CJT300&c=11056522813080664694&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-24 18:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "预售秒罄引爆盘面，AI眼镜站在量产与博弈的十字路口",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06affb64f448f78e4e37c9befe554e&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-24%2fdoc-inizvuzi4749661.shtml&c=5138175063413196484&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 17:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开发者心寒：游戏大厂随心所欲用AI，独游用AI就得被喷垃圾？",
+    "url": "http://www.gamelook.com.cn/2026/11/607090/",
+    "source": "GameLook",
+    "time": "11-24 09:50",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -271,28 +282,6 @@
     "grade": "C",
     "local": false,
     "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "已知首个只住深海的樽海鞘：水下机器人发现新物种，身体近乎透明",
-    "url": "https://www.ithome.com/1/032/128.htm",
-    "source": "IT之家",
-    "time": "11-25 14:54",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "机器人/AI硬件",
-    "title": "小鹏首款 Robotaxi 面向终端市场定制车型 YOYO-01 将于 2027 年发布",
-    "url": "https://www.ithome.com/1/032/125.htm",
-    "source": "IT之家",
-    "time": "11-25 14:52",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
    }
   ],
   "无人驾驶/低空/智慧出行": [],
@@ -300,21 +289,10 @@
   "游戏/电竞/平台公司": [
    {
     "beat": "游戏/电竞/平台公司",
-    "title": "非官方 PC 版《GTA6》首次进入游戏画面，目前仅约 2 FPS",
-    "url": "https://www.ithome.com/1/032/136.htm",
+    "title": "2027 科隆游戏展开幕之夜移师朗盛竞技场，观众容纳量翻倍",
+    "url": "https://www.ithome.com/1/032/348.htm",
     "source": "IT之家",
-    "time": "11-25 15:09",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "顽皮狗总监盛赞《GTA6》：游戏开发界的金字塔，几百年后人们会追问怎么做出来的",
-    "url": "https://www.ithome.com/1/032/126.htm",
-    "source": "IT之家",
-    "time": "11-25 14:54",
+    "time": "11-25 17:02",
     "summary": "",
     "grade": "C",
     "local": false,
@@ -341,9 +319,32 @@
     "grade": "C",
     "local": false,
     "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“猫咪游戏专业户”来中国踢馆：上线抖音微信小游戏，月收入破5000万！",
+    "url": "http://www.gamelook.com.cn/2026/11/607062/",
+    "source": "GameLook",
+    "time": "11-24 10:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
    }
   ],
-  "消费/以旧换新/新餐饮": []
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "到 2030 年，蔚来换电站将超 1 万座、年度充换电消费量将超 100 亿 kWh",
+    "url": "https://www.ithome.com/1/032/347.htm",
+    "source": "IT之家",
+    "time": "11-25 17:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
  },
  "flash": [],
  "stats": {
@@ -351,7 +352,7 @@
    "IT之家(60)",
    "GameLook(13)",
    "HackerNews(7)",
-   "Bing新闻(7)"
+   "Bing新闻(8)"
   ],
   "fail": [
    "36氪(no entries)"
