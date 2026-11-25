@@ -1,0 +1,361 @@
+{
+ "id": "2026-11-26-zaobao",
+ "title": "线口监测早报 · 2026年11月26日(周四)",
+ "shift": "早报",
+ "date": "2026-11-26 01:55",
+ "docx": "../briefings/线口监测早报-2026-11-26.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "态度反转：消息称亚马逊与 Meta 洽谈合作，或将开放商城给 Muse AI 购物助手",
+    "url": "https://www.ithome.com/1/032/515.htm",
+    "source": "IT之家",
+    "time": "11-25 22:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为 5A 通信技术支持设备上新，新增 Mate 90 Air、Mate X8 系列手机",
+    "url": "https://www.ithome.com/1/032/478.htm",
+    "source": "IT之家",
+    "time": "11-25 20:02",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
+    "url": "https://www.ithome.com/1/032/444.htm",
+    "source": "IT之家",
+    "time": "11-25 18:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢",
+    "url": "https://www.ithome.com/1/032/435.htm",
+    "source": "IT之家",
+    "time": "11-25 18:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "DeepSeek V4.1 Pro被指12月发布：摆脱NVIDIA、拥抱国产AI芯片倒计时",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072106ef3646ad89a2052ba11b7b4b&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E6%258A%2580%25E6%259C%25AF%25E5%2585%25AC%25E5%258F%25B8%2fdeepseek-v4-1-pro%25E8%25A2%25AB%25E6%258C%258712%25E6%259C%2588%25E5%258F%2591%25E5%25B8%2583-%25E6%2591%2586%25E8%2584%25B1nvidia-%25E6%258B%25A5%25E6%258A%25B1%25E5%259B%25BD%25E4%25BA%25A7ai%25E8%258A%25AF%25E7%2589%2587%25E5%2580%2592%25E8%25AE%25A1%25E6%2597%25B6%2far-AA2icP1p&c=7546181323248552254&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-25 14:06",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "url": "https://gpu-demo-gallery.pages.dev/",
+    "source": "Hacker News",
+    "time": "11-25 12:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Taking over US Treasury subdomains for $3 each",
+    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "source": "Hacker News",
+    "time": "11-25 12:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "source": "Hacker News",
+    "time": "11-25 11:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic老板暴论：“AI 引发动荡，用游戏安抚人类”",
+    "url": "http://www.gamelook.com.cn/2026/11/607181/",
+    "source": "GameLook",
+    "time": "11-25 10:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "《甄嬛传》小游戏大乱斗，有人靠AI漫剧摸到微信畅销榜第16名！",
+    "url": "http://www.gamelook.com.cn/2026/11/607141/",
+    "source": "GameLook",
+    "time": "11-25 10:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI时代新词出炉 “变态眼镜”当选2026年度词汇",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072108076e4fb1b1ed47627fd38945&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f11%2f25%2fn14894792.htm&c=16870291660655452836&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-25 10:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从“交卷”到“交差”，大模型撞上“发布膨胀”",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072106ef3646ad89a2052ba11b7b4b&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34547276&c=16736735929390351245&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-25 07:45",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Ternary Bonsai 2.5 27B",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "source": "Hacker News",
+    "time": "11-25 04:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "美消费电子零售巨头销售增速创五年新高 计算机、AI眼镜需求助力",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072108076e4fb1b1ed47627fd38945&url=https%3a%2f%2ffund.eastmoney.com%2fa%2f202611243938785844.html&c=1458176915798084305&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 23:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "荷兰数据监管机构警告AI智能眼镜存在安全隐患",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072108076e4fb1b1ed47627fd38945&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%258D%25B7%25E5%2585%25B0%25E6%2595%25B0%25E6%258D%25AE%25E7%259B%2591%25E7%25AE%25A1%25E6%259C%25BA%25E6%259E%2584%25E8%25AD%25A6%25E5%2591%258Aai%25E6%2599%25BA%25E8%2583%25BD%25E7%259C%25BC%25E9%2595%259C%25E5%25AD%2598%25E5%259C%25A8%25E5%25AE%2589%25E5%2585%25A8%25E9%259A%2590%25E6%2582%25A3%2far-AA2i5TUY&c=11991836069890780413&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 22:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Getting old Java phones online again",
+    "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+    "source": "Hacker News",
+    "time": "11-24 21:14",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "第一个被AI眼镜“逼”到辞职的部长，出现了",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072108076e4fb1b1ed47627fd38945&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A0CJT300&c=11056522813080664694&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 18:27",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "预售秒罄引爆盘面，AI眼镜站在量产与博弈的十字路口",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072108076e4fb1b1ed47627fd38945&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-11-24%2fdoc-inizvuzi4749661.shtml&c=5138175063413196484&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 17:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "IDC：AI超级周期驱动智能眼镜生态跃迁 行业定位与结构加速明朗",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072108076e4fb1b1ed47627fd38945&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A07XSD00&c=1425234384967709638&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-24 13:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "开发者心寒：游戏大厂随心所欲用AI，独游用AI就得被喷垃圾？",
+    "url": "http://www.gamelook.com.cn/2026/11/607090/",
+    "source": "GameLook",
+    "time": "11-24 09:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "1人用AI开发独游，一周赚了近千万！靠中国玩家顶住小游戏抄袭",
+    "url": "http://www.gamelook.com.cn/2026/11/607028/",
+    "source": "GameLook",
+    "time": "11-24 09:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案",
+    "url": "https://www.ithome.com/1/032/533.htm",
+    "source": "IT之家",
+    "time": "11-25 23:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "华为种菜游戏：鸿蒙星空元服务官宣上线，完成每日任务可抽会员等",
+    "url": "https://www.ithome.com/1/032/472.htm",
+    "source": "IT之家",
+    "time": "11-25 19:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易云音乐宣布与索尼音乐娱乐达成多年期版权合作，今年已与三大唱片公司完成续签",
+    "url": "https://www.ithome.com/1/032/465.htm",
+    "source": "IT之家",
+    "time": "11-25 19:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "耗时数年《饥困荒野》国服今日发布！世纪华通向腾讯兑现承诺",
+    "url": "http://www.gamelook.com.cn/2026/11/607152/",
+    "source": "GameLook",
+    "time": "11-25 10:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "俄罗斯要搞游戏版号？考虑强制游戏许可，并允许安全局获取玩家数据",
+    "url": "http://www.gamelook.com.cn/2026/11/607139/",
+    "source": "GameLook",
+    "time": "11-25 09:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“猫咪游戏专业户”来中国踢馆：上线抖音微信小游戏，月收入破5000万！",
+    "url": "http://www.gamelook.com.cn/2026/11/607062/",
+    "source": "GameLook",
+    "time": "11-24 10:54",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "GTA6首日收入37.9亿美元：过半主机玩家首日入手游戏，下载带宽占全美24%",
+    "url": "http://www.gamelook.com.cn/2026/11/607063/",
+    "source": "GameLook",
+    "time": "11-24 09:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": [
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "古尔曼：苹果内部已测试 iPad 运行 macOS，但暂无面向消费者落地计划",
+    "url": "https://www.ithome.com/1/032/503.htm",
+    "source": "IT之家",
+    "time": "11-25 22:10",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "消费/以旧换新/新餐饮",
+    "title": "小米“米家洗衣机健康洗 Pro 双筒洗烘 2kg”开售：双筒独立洗烘，国补到手价 2199 元",
+    "url": "https://www.ithome.com/1/032/500.htm",
+    "source": "IT之家",
+    "time": "11-25 21:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ]
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(13)",
+   "HackerNews(8)",
+   "Bing新闻(8)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
