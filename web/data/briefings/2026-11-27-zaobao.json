@@ -1,0 +1,360 @@
+{
+ "id": "2026-11-27-zaobao",
+ "title": "线口监测早报 · 2026年11月27日(周五)",
+ "shift": "早报",
+ "date": "2026-11-27 01:40",
+ "docx": "../briefings/线口监测早报-2026-11-27.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵",
+    "url": "https://www.ithome.com/1/033/131.htm",
+    "source": "IT之家",
+    "time": "11-26 23:24",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "腾讯用 AI 挑战药物研发领域前沿难题：成果登 Nature，在减重降糖、肿瘤免疫方向完成验证",
+    "url": "https://www.ithome.com/1/033/125.htm",
+    "source": "IT之家",
+    "time": "11-26 22:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "消息称育碧正大力推动将生成式 AI 深度融入游戏开发流程，项目若未引入 AI 需申报原因",
+    "url": "https://www.ithome.com/1/033/078.htm",
+    "source": "IT之家",
+    "time": "11-26 20:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "iPhone 16 AI 功能宣传涉嫌画大饼，苹果在韩国遭正式调查",
+    "url": "https://www.ithome.com/1/033/059.htm",
+    "source": "IT之家",
+    "time": "11-26 19:29",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "OpenAI 再度抛出重要数学成果：宣称证明矩阵乘法指数为 9/4",
+    "url": "https://www.ithome.com/1/033/050.htm",
+    "source": "IT之家",
+    "time": "11-26 18:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "封杀AI眼镜！德国消费者协会正式起诉Meta",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b086f0d7b1c43d6b56f0a3f93cd90f9&url=https%3a%2f%2foptics.ofweek.com%2f2026-11%2fART-250003-12003-30713730.html&c=9728618289901767681&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-26 14:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "An algebraic quantization of gravity from the null cone",
+    "url": "https://arxiv.org/abs/2611.34924",
+    "source": "Hacker News",
+    "time": "11-26 13:37",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "蔚来智驾座舱同步更新！智驾算法芯片底盘联合调优，座舱大模型全面更新",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b086f0b65154700ad7665005aa0b04d&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E8%2594%259A%25E6%259D%25A5%25E6%2599%25BA%25E9%25A9%25BE%25E5%25BA%25A7%25E8%2588%25B1%25E5%2590%258C%25E6%25AD%25A5%25E6%259B%25B4%25E6%2596%25B0-%25E6%2599%25BA%25E9%25A9%25BE%25E7%25AE%2597%25E6%25B3%2595%25E8%258A%25AF%25E7%2589%2587%25E5%25BA%2595%25E7%259B%2598%25E8%2581%2594%25E5%2590%2588%25E8%25B0%2583%25E4%25BC%2598-%25E5%25BA%25A7%25E8%2588%25B1%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%2585%25A8%25E9%259D%25A2%25E6%259B%25B4%25E6%2596%25B0%2far-AA2idgpC&c=262649095402814042&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-26 10:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "如何让AI穿戴既聪明又省电？紫光展锐给出了新的答案",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b086f0d7b1c43d6b56f0a3f93cd90f9&url=https%3a%2f%2fwww.sohu.com%2fa%2f1106873982_211762&c=14367146620808975027&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-26 10:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Tell HN: Lots of Ask HNs again",
+    "url": "https://news.ycombinator.com/item?id=50649864",
+    "source": "Hacker News",
+    "time": "11-26 08:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "大模型进入物理世界后 影溯科技为何同时押注数据与3D模型",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b086f0b65154700ad7665005aa0b04d&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E8%25BF%259B%25E5%2585%25A5%25E7%2589%25A9%25E7%2590%2586%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258E-%25E5%25BD%25B1%25E6%25BA%25AF%25E7%25A7%2591%25E6%258A%2580%25E4%25B8%25BA%25E4%25BD%2595%25E5%2590%258C%25E6%2597%25B6%25E6%258A%25BC%25E6%25B3%25A8%25E6%2595%25B0%25E6%258D%25AE%25E4%25B8%258E3d%25E6%25A8%25A1%25E5%259E%258B%2far-AA2igTed&c=1877056138671976583&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-26 08:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "source": "Hacker News",
+    "time": "11-26 05:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Anthropic老板暴论：“AI 引发动荡，用游戏安抚人类”",
+    "url": "http://www.gamelook.com.cn/2026/11/607181/",
+    "source": "GameLook",
+    "time": "11-25 10:34",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为：乾崑智驾和星驰辅助驾驶二者在具体功能和体验方面会有所差异",
+    "url": "https://www.ithome.com/1/033/124.htm",
+    "source": "IT之家",
+    "time": "11-26 22:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "中国汽车工业协会：今年前 3 个季度，搭载华为乾崑智驾 ADS 新车销量超 50 万台",
+    "url": "https://www.ithome.com/1/033/115.htm",
+    "source": "IT之家",
+    "time": "11-26 22:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "香港网约车驾驶许可证 11 月 30 日起接受当地民众申请，全年开放不设上限",
+    "url": "https://www.ithome.com/1/033/082.htm",
+    "source": "IT之家",
+    "time": "11-26 20:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "未来汽车可以自己去换电池！华为乾崑智驾与宁德时代巧克力换电打通，智能补能解决方案发布",
+    "url": "https://www.ithome.com/1/033/074.htm",
+    "source": "IT之家",
+    "time": "11-26 20:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "华为星驰辅助驾驶发布：与乾崑智驾技术同源、资源共享，明年超 10 款车型量产上市",
+    "url": "https://www.ithome.com/1/033/066.htm",
+    "source": "IT之家",
+    "time": "11-26 19:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "首趟即可用：华为乾崑智驾车位到车位 3.0 功能官宣支持全国超 150 万园区",
+    "url": "https://www.ithome.com/1/033/063.htm",
+    "source": "IT之家",
+    "time": "11-26 19:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "横跨 L2、L3、L4：华为靳玉志重申乾崑智驾 HUAWEI ADS 5 为自动驾驶而来",
+    "url": "https://www.ithome.com/1/033/057.htm",
+    "source": "IT之家",
+    "time": "11-26 19:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "消息称华为引望将推出新的智驾品牌，在产品设计和价格带上与乾崑形成区隔",
+    "url": "https://www.ithome.com/1/033/051.htm",
+    "source": "IT之家",
+    "time": "11-26 18:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Epic 喜加一：《Bread and Fred》游戏免费领取",
+    "url": "https://www.ithome.com/1/033/132.htm",
+    "source": "IT之家",
+    "time": "11-27 00:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《仁王 3 完全版》将于明年 1 月 28 日发售：收录两款付费游戏 DLC，还将登陆微软 XBOX 平台",
+    "url": "https://www.ithome.com/1/033/127.htm",
+    "source": "IT之家",
+    "time": "11-26 23:01",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "美国一观鸟专家认可《GTA 6》观鸟体验，集齐游戏内 60 种鸟类",
+    "url": "https://www.ithome.com/1/033/114.htm",
+    "source": "IT之家",
+    "time": "11-26 22:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "网易《逆水寒》手游 4.2.2 版本更新：年终出货节，两大赛事开赛，联动霸王茶姬",
+    "url": "https://www.ithome.com/1/033/095.htm",
+    "source": "IT之家",
+    "time": "11-26 21:33",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "育碧《雷曼：传奇再叙》开启预购：Steam 国区 168 元起，游戏 12 月 3 日发售",
+    "url": "https://www.ithome.com/1/033/049.htm",
+    "source": "IT之家",
+    "time": "11-26 18:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "腾讯魔方新游戏《狩》首曝，没练过连招的朋友能一起玩吗？",
+    "url": "http://www.gamelook.com.cn/2026/11/607224/",
+    "source": "GameLook",
+    "time": "11-26 10:00",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "“二游大佬”散爆乔迁！首次在上海拥有独栋办公楼，全力冲刺新游戏",
+    "url": "http://www.gamelook.com.cn/2026/11/607248/",
+    "source": "GameLook",
+    "time": "11-26 09:53",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "《因缘精灵》三测开启：米哈游的老绝活与新花样",
+    "url": "http://www.gamelook.com.cn/2026/11/607226/",
+    "source": "GameLook",
+    "time": "11-26 09:48",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "制作人卢克：“游戏一定要自己也爱玩”，《DNF手游》迎来大重构",
+    "url": "http://www.gamelook.com.cn/2026/11/607286/",
+    "source": "GameLook",
+    "time": "11-26 08:12",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(13)",
+   "HackerNews(3)",
+   "Bing新闻(6)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
