@@ -1,5 +1,13 @@
 [
  {
+  "id": "2026-11-28-zaobao",
+  "title": "线口监测早报 · 2026年11月28日(周六)",
+  "date": "2026-11-28 01:24",
+  "dataPath": "data/briefings/2026-11-28-zaobao.json",
+  "docxPath": "briefings/线口监测早报-2026-11-28.docx",
+  "top": []
+ },
+ {
   "id": "2026-11-27-wubao",
   "title": "线口监测午报 · 2026年11月27日(周五)",
   "date": "2026-11-27 17:42",
@@ -469,14 +477,6 @@
   "date": "2026-10-20 21:31",
   "dataPath": "data/briefings/2026-10-20-wubao.json",
   "docxPath": "briefings/线口监测午报-2026-10-20.docx",
-  "top": []
- },
- {
-  "id": "2026-10-19-wubao",
-  "title": "线口监测午报 · 2026年10月19日(周一)",
-  "date": "2026-10-19 23:31",
-  "dataPath": "data/briefings/2026-10-19-wubao.json",
-  "docxPath": "briefings/线口监测午报-2026-10-19.docx",
   "top": []
  }
 ]
