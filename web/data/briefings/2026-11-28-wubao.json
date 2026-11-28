@@ -2,10 +2,32 @@
  "id": "2026-11-28-wubao",
  "title": "线口监测午报 · 2026年11月28日(周六)",
  "shift": "午报",
- "date": "2026-11-28 15:55",
+ "date": "2026-11-28 16:55",
  "docx": "../briefings/线口监测午报-2026-11-28.docx",
  "sections": {
   "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家",
+    "url": "https://www.ithome.com/1/033/920.htm",
+    "source": "IT之家",
+    "time": "11-28 16:15",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站",
+    "url": "https://www.ithome.com/1/033/914.htm",
+    "source": "IT之家",
+    "time": "11-28 15:52",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
    {
     "beat": "AI/大模型",
     "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
@@ -118,19 +140,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
-    "url": "https://www.ithome.com/1/033/810.htm",
-    "source": "IT之家",
-    "time": "11-28 10:16",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "语音优先AI眼镜：轻便、实惠与直观交互的新时代",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fwww.sohu.com%2fa%2f1107386138_122004016&c=5360477785110115618&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a97106aa14f9ea044b121ff076d75&url=https%3a%2f%2fwww.sohu.com%2fa%2f1107386138_122004016&c=5360477785110115618&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-28 00:56",
     "summary": "",
@@ -141,7 +152,7 @@
    {
     "beat": "AI/大模型",
     "title": "AI眼镜概念股合计A股市值达1.84万亿元，机构资金加仓16股",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261128A09F0O00&c=5042929532206247201&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a97106aa14f9ea044b121ff076d75&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261128A09F0O00&c=5042929532206247201&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-28 00:08",
     "summary": "",
@@ -151,19 +162,8 @@
    },
    {
     "beat": "AI/大模型",
-    "title": "多家企业发布AI眼镜新品 机构资金加仓16只概念股",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fwww.sohu.com%2fa%2f1107577131_115433&c=17955594069939965537&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-27 22:30",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "AI/大模型",
     "title": "AI新消费赛道密集上新！机构资金加仓16股",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611283942352767.html&c=17647569755364038072&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a97106aa14f9ea044b121ff076d75&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611283942352767.html&c=17647569755364038072&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-27 22:11",
     "summary": "",
@@ -174,7 +174,7 @@
    {
     "beat": "AI/大模型",
     "title": "我国发布 地球大模型引擎SUICEV0.1版",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f64f104ebcaa5415c0d7453f7e&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%2588%2591%25E5%259B%25BD%25E5%258F%2591%25E5%25B8%2583-%25E5%259C%25B0%25E7%2590%2583%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%25BC%2595%25E6%2593%258Esuicev01%25E7%2589%2588%2far-AA2ionJl&c=9966222783762620680&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a970fe2784968bc62e3e3166fb110&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%2588%2591%25E5%259B%25BD%25E5%258F%2591%25E5%25B8%2583-%25E5%259C%25B0%25E7%2590%2583%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%25BC%2595%25E6%2593%258Esuicev01%25E7%2589%2588%2far-AA2ionJl&c=9966222783762620680&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-27 20:47",
     "summary": "",
@@ -185,7 +185,7 @@
    {
     "beat": "AI/大模型",
     "title": "证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f64f104ebcaa5415c0d7453f7e&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34556477&c=8404410455021319950&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a970fe2784968bc62e3e3166fb110&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34556477&c=8404410455021319950&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-27 19:11",
     "summary": "",
@@ -196,7 +196,7 @@
    {
     "beat": "AI/大模型",
     "title": "“百镜大战”打了一年，AI眼镜厂商开始做减法",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261127A0DBXS00&c=821095774176473018&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a97106aa14f9ea044b121ff076d75&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261127A0DBXS00&c=821095774176473018&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-27 17:44",
     "summary": "",
@@ -206,8 +206,19 @@
    },
    {
     "beat": "AI/大模型",
+    "title": "AI眼镜退货率最高70%：让用户摘下来的，可能不只是重量",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a97106aa14f9ea044b121ff076d75&url=https%3a%2f%2fwww.sohu.com%2fa%2f1107257486_122572770&c=1176049096316422347&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 17:28",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
     "title": "AI眼镜圈粉外国客商，东莞小镇“科技特产”忙上新！",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34574314&c=17168987710035557616&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a97106aa14f9ea044b121ff076d75&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34574314&c=17168987710035557616&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-27 14:32",
     "summary": "",
@@ -229,7 +240,7 @@
    {
     "beat": "AI/大模型",
     "title": "视频丨首个农耕文明领域大模型“天稷”发布",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f64f104ebcaa5415c0d7453f7e&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yO9zWL1mob&c=4464129887005186438&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a970fe2784968bc62e3e3166fb110&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yO9zWL1mob&c=4464129887005186438&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-27 09:43",
     "summary": "",
@@ -251,27 +262,28 @@
    {
     "beat": "AI/大模型",
     "title": "从尝鲜到实用：AI眼镜的2026，补贴推了一把，功能决定下半场",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fnews.cheaa.com%2f2026%2f1127%2f662095.shtml&c=7337795585393525113&mkt=en-us",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a97106aa14f9ea044b121ff076d75&url=https%3a%2f%2fnews.cheaa.com%2f2026%2f1127%2f662095.shtml&c=7337795585393525113&mkt=en-us",
     "source": "Bing新闻",
     "time": "11-27 08:17",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
-   },
+   }
+  ],
+  "机器人/AI硬件": [
    {
-    "beat": "AI/大模型",
-    "title": "创业板算力ETF鹏华(158057)标的指数上涨11.5%，腾讯混元发布最新一代3D大模型Hy3D 3.6",
-    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f64f104ebcaa5415c0d7453f7e&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2588%259B%25E4%25B8%259A%25E6%259D%25BF%25E7%25AE%2597%25E5%258A%259Betf%25E9%25B9%258F%25E5%258D%258E-158057-%25E6%25A0%2587%25E7%259A%2584%25E6%258C%2587%25E6%2595%25B0%25E4%25B8%258A%25E6%25B6%25A811-5-%25E8%2585%25BE%25E8%25AE%25AF%25E6%25B7%25B7%25E5%2585%2583%25E5%258F%2591%25E5%25B8%2583%25E6%259C%2580%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A33d%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Bhy3d-3-6%2far-AA2iko2C&c=9830706814439540250&mkt=en-us",
-    "source": "Bing新闻",
-    "time": "11-27 05:30",
+    "beat": "机器人/AI硬件",
+    "title": "何小鹏：机器人交付后，预计首年实现良好盈利",
+    "url": "https://www.ithome.com/1/033/912.htm",
+    "source": "IT之家",
+    "time": "11-28 15:43",
     "summary": "",
     "grade": "C",
     "local": false,
     "angle": ""
    }
   ],
-  "机器人/AI硬件": [],
   "无人驾驶/低空/智慧出行": [
    {
     "beat": "无人驾驶/低空/智慧出行",
@@ -304,17 +316,6 @@
     "url": "https://www.ithome.com/1/033/864.htm",
     "source": "IT之家",
     "time": "11-28 15:07",
-    "summary": "",
-    "grade": "C",
-    "local": false,
-    "angle": ""
-   },
-   {
-    "beat": "游戏/电竞/平台公司",
-    "title": "Wine 11.23 新增 ARM64 macOS 支持：VKD3D 升级至 2.2，修复《明日方舟：终末地》等游戏兼容性问题",
-    "url": "https://www.ithome.com/1/033/804.htm",
-    "source": "IT之家",
-    "time": "11-28 09:42",
     "summary": "",
     "grade": "C",
     "local": false,
