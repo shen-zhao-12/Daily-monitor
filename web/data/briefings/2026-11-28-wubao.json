@@ -1,0 +1,360 @@
+{
+ "id": "2026-11-28-wubao",
+ "title": "线口监测午报 · 2026年11月28日(周六)",
+ "shift": "午报",
+ "date": "2026-11-28 15:55",
+ "docx": "../briefings/线口监测午报-2026-11-28.docx",
+ "sections": {
+  "AI/大模型": [
+   {
+    "beat": "AI/大模型",
+    "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
+    "url": "https://www.ithome.com/1/033/898.htm",
+    "source": "IT之家",
+    "time": "11-28 15:31",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "华为 HarmonyOS 7 系统 AI 快捷栏逐步放量，8GB 内存手机、折叠屏、平板均在支持范围内",
+    "url": "https://www.ithome.com/1/033/890.htm",
+    "source": "IT之家",
+    "time": "11-28 15:26",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "俄罗斯 AI 模型续写果戈理《死魂灵》第二卷，读者反应不一",
+    "url": "https://www.ithome.com/1/033/875.htm",
+    "source": "IT之家",
+    "time": "11-28 15:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "2027 款长城坦克 400 家族上市：24.98 万元起，新增 VLA 辅助驾驶大模型",
+    "url": "https://www.ithome.com/1/033/843.htm",
+    "source": "IT之家",
+    "time": "11-28 14:25",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "英特尔 Gaudi2 加速卡逆袭：软件优化后部分 AI 性能超英伟达 H100",
+    "url": "https://www.ithome.com/1/033/841.htm",
+    "source": "IT之家",
+    "time": "11-28 13:49",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "广电总局通报网络视听治理典型案例：侵权盗版、低俗微短剧、AI 魔改三类问题被点名",
+    "url": "https://www.ithome.com/1/033/840.htm",
+    "source": "IT之家",
+    "time": "11-28 13:39",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "不眠不休的芯片设计师：台积电推出 ADK 套件，用 AI 设计下一代芯片",
+    "url": "https://www.ithome.com/1/033/838.htm",
+    "source": "IT之家",
+    "time": "11-28 13:35",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "要求遏制 AI 发展脚步：抗议者在 Anthropic 总部绝食已至第 4 天，抗议“AI 自我进化”",
+    "url": "https://www.ithome.com/1/033/833.htm",
+    "source": "IT之家",
+    "time": "11-28 13:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+    "url": "https://www.ithome.com/1/033/824.htm",
+    "source": "IT之家",
+    "time": "11-28 11:22",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+    "url": "https://www.ithome.com/1/033/822.htm",
+    "source": "IT之家",
+    "time": "11-28 11:18",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+    "url": "https://www.ithome.com/1/033/810.htm",
+    "source": "IT之家",
+    "time": "11-28 10:16",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "语音优先AI眼镜：轻便、实惠与直观交互的新时代",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fwww.sohu.com%2fa%2f1107386138_122004016&c=5360477785110115618&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-28 00:56",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜概念股合计A股市值达1.84万亿元，机构资金加仓16股",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261128A09F0O00&c=5042929532206247201&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-28 00:08",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "多家企业发布AI眼镜新品 机构资金加仓16只概念股",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fwww.sohu.com%2fa%2f1107577131_115433&c=17955594069939965537&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 22:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI新消费赛道密集上新！机构资金加仓16股",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611283942352767.html&c=17647569755364038072&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 22:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "我国发布 地球大模型引擎SUICEV0.1版",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f64f104ebcaa5415c0d7453f7e&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%2588%2591%25E5%259B%25BD%25E5%258F%2591%25E5%25B8%2583-%25E5%259C%25B0%25E7%2590%2583%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E5%25BC%2595%25E6%2593%258Esuicev01%25E7%2589%2588%2far-AA2ionJl&c=9966222783762620680&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 20:47",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f64f104ebcaa5415c0d7453f7e&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34556477&c=8404410455021319950&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 19:11",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "“百镜大战”打了一年，AI眼镜厂商开始做减法",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261127A0DBXS00&c=821095774176473018&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 17:44",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "AI眼镜圈粉外国客商，东莞小镇“科技特产”忙上新！",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34574314&c=17168987710035557616&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 14:32",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "Minimax旗下AI语聊产品“Talkie”因成人内容问题遭苹果全球下架",
+    "url": "http://www.gamelook.com.cn/2026/11/607387/",
+    "source": "GameLook",
+    "time": "11-27 10:50",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "视频丨首个农耕文明领域大模型“天稷”发布",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f64f104ebcaa5415c0d7453f7e&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yO9zWL1mob&c=4464129887005186438&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 09:43",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "育碧要求新立项游戏用AI、不用AI必须给解释！引发员工吐槽",
+    "url": "http://www.gamelook.com.cn/2026/11/607396/",
+    "source": "GameLook",
+    "time": "11-27 09:13",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "从尝鲜到实用：AI眼镜的2026，补贴推了一把，功能决定下半场",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f71b6e4378b9d24a445e1d9577&url=https%3a%2f%2fnews.cheaa.com%2f2026%2f1127%2f662095.shtml&c=7337795585393525113&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 08:17",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "AI/大模型",
+    "title": "创业板算力ETF鹏华(158057)标的指数上涨11.5%，腾讯混元发布最新一代3D大模型Hy3D 3.6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f64f104ebcaa5415c0d7453f7e&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2588%259B%25E4%25B8%259A%25E6%259D%25BF%25E7%25AE%2597%25E5%258A%259Betf%25E9%25B9%258F%25E5%258D%258E-158057-%25E6%25A0%2587%25E7%259A%2584%25E6%258C%2587%25E6%2595%25B0%25E4%25B8%258A%25E6%25B6%25A811-5-%25E8%2585%25BE%25E8%25AE%25AF%25E6%25B7%25B7%25E5%2585%2583%25E5%258F%2591%25E5%25B8%2583%25E6%259C%2580%25E6%2596%25B0%25E4%25B8%2580%25E4%25BB%25A33d%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258Bhy3d-3-6%2far-AA2iko2C&c=9830706814439540250&mkt=en-us",
+    "source": "Bing新闻",
+    "time": "11-27 05:30",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "机器人/AI硬件": [],
+  "无人驾驶/低空/智慧出行": [
+   {
+    "beat": "无人驾驶/低空/智慧出行",
+    "title": "奕境曾清林：智驾最实在的价值，就是把人从方向盘上解放出来",
+    "url": "https://www.ithome.com/1/033/861.htm",
+    "source": "IT之家",
+    "time": "11-28 15:05",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "电商/直播/即时零售": [],
+  "游戏/电竞/平台公司": [
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "微软 XBOX GDK 工具包泄露，有望加速民间移植 PC 版《GTA 6》游戏",
+    "url": "https://www.ithome.com/1/033/884.htm",
+    "source": "IT之家",
+    "time": "11-28 15:23",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "EA《钢铁侠》游戏蓄势待发，有望 2026 年游戏大奖活动上首秀",
+    "url": "https://www.ithome.com/1/033/864.htm",
+    "source": "IT之家",
+    "time": "11-28 15:07",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "Wine 11.23 新增 ARM64 macOS 支持：VKD3D 升级至 2.2，修复《明日方舟：终末地》等游戏兼容性问题",
+    "url": "https://www.ithome.com/1/033/804.htm",
+    "source": "IT之家",
+    "time": "11-28 09:42",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "游戏人热议：《GTA6》有哪些不可思议之处？",
+    "url": "http://www.gamelook.com.cn/2026/11/607358/",
+    "source": "GameLook",
+    "time": "11-27 10:59",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   },
+   {
+    "beat": "游戏/电竞/平台公司",
+    "title": "股价低到忍不了！上市游戏公司集体发公告回购，华通三七巨人恺英游族在列",
+    "url": "http://www.gamelook.com.cn/2026/11/607376/",
+    "source": "GameLook",
+    "time": "11-27 10:58",
+    "summary": "",
+    "grade": "C",
+    "local": false,
+    "angle": ""
+   }
+  ],
+  "消费/以旧换新/新餐饮": []
+ },
+ "flash": [],
+ "stats": {
+  "ok": [
+   "IT之家(60)",
+   "GameLook(6)",
+   "HackerNews(2)",
+   "Bing新闻(12)"
+  ],
+  "fail": [
+   "36氪(no entries)"
+  ]
+ }
+}
